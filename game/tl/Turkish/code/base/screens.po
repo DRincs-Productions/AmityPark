@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"frame: vbox: xpos 0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/code/base/screens.po\n"
+"X-Crowdin-File-ID: 8925\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2023-09-19 21:02\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
+msgid "frame: vbox: xpos 0"
+msgstr "çerçeve: vbox: xpos 0"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin a830a7ee:
+msgid "ypos 25"
+msgstr "ypos 25"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 025b4ae1:
+msgid "spacing 0"
+msgstr "aralık 0"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 727f6ef2:
+msgid "add \"gui/game_title.png\""
+msgstr "\"gui/game_title.png\" ekle"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin b58bcc89:
+msgid "null height 25"
+msgstr "null yükseklik 25"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin ee65f368:
+msgid "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
+msgstr "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 0b71498f:
+msgid "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
+msgstr "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"Yükle\")"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin d287a808:
+msgid "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
+msgstr "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"Tercihler\")"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 303f1a39:
+msgid "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
+msgstr "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"Hakkında\")"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 8327e5bc:
+msgid "if renpy.variant(\"pc\"):"
+msgstr "if renpy.variant(\"pc\"):"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 3904d94b:
+msgid "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
+msgstr "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
+
+msgid "Back"
+msgstr "Geri"
+
+# game/code/base/screens.rpy:299
+msgid "History"
+msgstr "Geçmiş"
+
+# game/code/base/screens.rpy:300
+msgid "Skip"
+msgstr "Geç"
+
+# game/code/base/screens.rpy:301
+msgid "Auto"
+msgstr "Otomatik"
+
+# game/code/base/screens.rpy:302
+msgid "Save"
+msgstr "Kaydet"
+
+# game/code/base/screens.rpy:303
+msgid "Q.Save"
+msgstr "H.Kaydet"
+
+# game/code/base/screens.rpy:304
+msgid "Q.Load"
+msgstr "H.Yükle"
+
+# game/code/base/screens.rpy:305
+msgid "Prefs"
+msgstr "Tercihler"
+
+# game/code/base/screens.rpy:306
+msgid "Hide D."
+msgstr "D'yi sakla."
+
+# game/code/base/screens.rpy:347
+msgid "Start"
+msgstr "Başla"
+
+# game/code/base/screens.rpy:355
+msgid "Load"
+msgstr "Yükle"
+
+# game/code/base/screens.rpy:357
+msgid "Options"
+msgstr "Ayarlar"
+
+# game/code/base/screens.rpy:365
+msgid "End Replay"
+msgstr "Tekrarı Sonlandır"
+
+# game/code/base/screens.rpy:369
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+# game/code/base/screens.rpy:371
+msgid "Credits"
+msgstr "Katkıda Bulunanlar"
+
+# game/code/base/screens.rpy:373
+msgid "About"
+msgstr "Hakkında"
+
+# game/code/base/screens.rpy:378
+msgid "Help"
+msgstr "Yardım"
+
+# game/code/base/screens.rpy:381
+msgid "Quit"
+msgstr "Çık"
+
+# game/code/base/screens.rpy:690
+msgid "Version [config.version!t]\n"
+msgstr "Sürüm [config.version!t]\n"
+
+# game/code/base/screens.rpy:696
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "{a=https://www.renpy.org/}Ren'Py{/a} ile yapılmıştır [renpy.version_only].\n\n"
+"[renpy.license!t]"
+
+# game/code/base/screens.rpy:733
+msgid "{b}Credits{/b} "
+msgstr "{b}Katkıda Bulunanlar/b} "
+
+# game/code/base/screens.rpy:734
+msgid "Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
+msgstr "Oluşturan:  {b}{ a=https: //www.patreon.com/GZone_Art}GZone{/a}{/b}, Proje Yöneticisi\n"
+
+# game/code/base/screens.rpy:735
+msgid "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
+msgstr "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Arka Plan Sanatçısı, Senaryo Düzenleyici\n"
+
+# game/code/base/screens.rpy:736
+msgid "                     {b}FraMe{/b}, Animator\n"
+msgstr "                     {b}FraMe{/b}, Animatör\n"
+
+# game/code/base/screens.rpy:737
+msgid "                     {b}Psymind{/b}, Artist\n"
+msgstr "                     {b}Psymind{/b}, Sanatçı\n"
+
+# game/code/base/screens.rpy:738
+msgid "                     {b}Epadder{/b}, Programmer\n"
+msgstr "                     {b}Epadder{/b}, Programcı\n"
+
+# game/code/base/screens.rpy:739
+msgid "                     {b}Lostraven{/b}, Writer\n"
+msgstr "                     {b}Lostraven{/b}, Yazar\n"
+
+# game/code/base/screens.rpy:742
+msgid "{b}Special Thanks:{/b}"
+msgstr "{b}Özel Teşekkürler:{/b}"
+
+# game/code/base/screens.rpy:743
+msgid "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
+msgstr "Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani ve {a=https://www.deviantart.com/dltoon}DLT{/a}'ye oyunu çeşitli şekillerde geliştirmemize yardımcı oldukları için en derin takdir ve şükranlarımızı sunarız."
+
+# game/code/base/screens.rpy:746
+msgid "And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n"
+"  "
+msgstr "Ve Patreon ve Discord'daki tüm sadık destekçilerimize çok teşekkür ederiz! Sizler olmasaydınız bu proje mümkün olmazdı.\n"
+"  "
+
+# game/code/base/screens.rpy:819
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/code/base/screens.rpy:819
+msgid "empty slot"
+msgstr "boş yuva"
+
+# game/code/base/screens.rpy:839
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/code/base/screens.rpy:842
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/code/base/screens.rpy:905
+msgid "Display"
+msgstr "Ekran"
+
+# game/code/base/screens.rpy:906
+msgid "Window"
+msgstr "Pencere"
+
+# game/code/base/screens.rpy:907
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+# game/code/base/screens.rpy:911
+msgid "Rollback Side"
+msgstr "Geridönüş Tarafı"
+
+# game/code/base/screens.rpy:912
+msgid "Disable"
+msgstr "Devre dışı bırak"
+
+# game/code/base/screens.rpy:913
+msgid "Left"
+msgstr "Sol"
+
+# game/code/base/screens.rpy:914
+msgid "Right"
+msgstr "Sağ"
+
+# game/code/base/screens.rpy:919
+msgid "Unseen Text"
+msgstr "Görünmeyen Metin"
+
+# game/code/base/screens.rpy:920
+msgid "After Choices"
+msgstr "Seçimlerden Sonra"
+
+# game/code/base/screens.rpy:921
+msgid "Transitions"
+msgstr "Geçişler"
+
+# game/code/base/screens.rpy:925
+msgid "Quest Updates"
+msgstr "Görev Güncellemeleri"
+
+# game/code/base/screens.rpy:926
+msgid "On"
+msgstr "Açık"
+
+# game/code/base/screens.rpy:940
+msgid "Text Speed"
+msgstr "Metin Hızı"
+
+# game/code/base/screens.rpy:944
+msgid "Auto-Forward Time"
+msgstr "Oto-ilerleme Süresi"
+
+# game/code/base/screens.rpy:951
+msgid "Music Volume"
+msgstr "Müzik Sesi"
+
+# game/code/base/screens.rpy:958
+msgid "Sound Volume"
+msgstr "Ses"
+
+# game/code/base/screens.rpy:964
+msgid "Test"
+msgstr "Deneme"
+
+# game/code/base/screens.rpy:968
+msgid "Voice Volume"
+msgstr "Konuşma Sesi"
+
+# game/code/base/screens.rpy:979
+msgid "Mute All"
+msgstr "Tümünü Sustur"
+
+# game/code/base/screens.rpy:1096
+msgid "The dialogue history is empty."
+msgstr "Diyalog geçmişinde bir şey yok."
+
+# game/code/base/screens.rpy:1166
+msgid "Keyboard"
+msgstr "Klavye"
+
+# game/code/base/screens.rpy:1167
+msgid "Mouse"
+msgstr "Fare"
+
+# game/code/base/screens.rpy:1170
+msgid "Gamepad"
+msgstr "Oyun Kolu"
+
+# game/code/base/screens.rpy:1183
+msgid "Enter"
+msgstr "Giriş"
+
+# game/code/base/screens.rpy:1184
+msgid "Advances dialogue and activates the interface."
+msgstr "Diyaloğu ilerletir ve arayüzü etkinleştirir."
+
+# game/code/base/screens.rpy:1187
+msgid "Space"
+msgstr "Boşluk"
+
+# game/code/base/screens.rpy:1188
+msgid "Advances dialogue without selecting choices."
+msgstr "Seçenekleri seçmeden diyaloğu ilerletir."
+
+# game/code/base/screens.rpy:1191
+msgid "Arrow Keys"
+msgstr "Yön Tuşları"
+
+# game/code/base/screens.rpy:1192
+msgid "Navigate the interface."
+msgstr "Arayüzde dolaşma."
+
+# game/code/base/screens.rpy:1195
+msgid "Escape"
+msgstr "Esc"
+
+# game/code/base/screens.rpy:1196
+msgid "Accesses the game menu."
+msgstr "Oyun menüsünü açar."
+
+# game/code/base/screens.rpy:1199
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/code/base/screens.rpy:1200
+msgid "Skips dialogue while held down."
+msgstr "Basılı tutulduğunda diyaloğu atlar."
+
+# game/code/base/screens.rpy:1203
+msgid "Tab"
+msgstr "Tab"
+
+# game/code/base/screens.rpy:1204
+msgid "Toggles dialogue skipping."
+msgstr "Diyalog atlamayı etkinleştirir."
+
+# game/code/base/screens.rpy:1207
+msgid "Page Up"
+msgstr "Page Up"
+
+# game/code/base/screens.rpy:1208
+msgid "Rolls back to earlier dialogue."
+msgstr "Önceki diyaloğa döner."
+
+# game/code/base/screens.rpy:1211
+msgid "Page Down"
+msgstr "Page Down"
+
+# game/code/base/screens.rpy:1212
+msgid "Rolls forward to later dialogue."
+msgstr "Daha sonraki diyaloğa geçer."
+
+# game/code/base/screens.rpy:1216
+msgid "Hides the user interface."
+msgstr "Kullanıcı arayüzünü gizler."
+
+# game/code/base/screens.rpy:1220
+msgid "Takes a screenshot."
+msgstr "Ekran görüntüsü alır."
+
+# game/code/base/screens.rpy:1224
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Yardımcı {a=https://www.renpy.org/l/voicing} kendi kendine seslendirmeyi{/a} değiştirir."
+
+# game/code/base/screens.rpy:1230
+msgid "Left Click"
+msgstr "Sol Tıklama"
+
+# game/code/base/screens.rpy:1234
+msgid "Middle Click"
+msgstr "Tekerlek"
+
+# game/code/base/screens.rpy:1238
+msgid "Right Click"
+msgstr "Sağ Tıklama"
+
+# game/code/base/screens.rpy:1242
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "Yukarı Fare Tekerleği"
+
+# game/code/base/screens.rpy:1246
+msgid "Mouse Wheel Down"
+msgstr "Aşağı FareTekerleği"
+
+# game/code/base/screens.rpy:1253
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "Sağ Tetik\n"
+"A/Alt Düğme"
+
+# game/code/base/screens.rpy:1257
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "Sol Tetik\n"
+"Sol Omuz"
+
+# game/code/base/screens.rpy:1261
+msgid "Right Shoulder"
+msgstr "Sağ Omuz"
+
+# game/code/base/screens.rpy:1266
+msgid "D-Pad, Sticks"
+msgstr "D-Pad, Çubuklar"
+
+# game/code/base/screens.rpy:1270
+msgid "Start, Guide"
+msgstr "Başlat, Kılavuz"
+
+# game/code/base/screens.rpy:1274
+msgid "Y/Top Button"
+msgstr "Y/Üst Düğme"
+
+# game/code/base/screens.rpy:1277
+msgid "Calibrate"
+msgstr "Kalibre et"
+
+# game/code/base/screens.rpy:1395
+msgid "Skipping"
+msgstr "Atlanıyor"
+
+# game/code/base/screens.rpy:1745
+msgid "Menu"
+msgstr "Menü"
+
