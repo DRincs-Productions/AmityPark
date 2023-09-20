@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-09-20 15:14\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -5266,23 +5266,23 @@ msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_2_] Vale, ¡no hay pr
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4490 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_e40be0d8:
 msgid "[_paulina_s_towards_s_angry_s_talk_happy_] Hi there, two for Sayonara Pussycat!"
-msgstr "[_paulina_s_towards_s_angry_s_talk_happy_] ¡Hola, ¡dos para Pussycat!"
+msgstr "[_paulina_s_towards_s_angry_s_talk_happy_] ¡Hola, ¡dos para Sayonara Pussycat!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4492 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_0433efdc:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_frown_] And could I get a large bucket of popcorn?"
-msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_frown_] ¿Y podría conseguir un gran cubo de maíz?"
+msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_frown_] y ¿me podría dar un gran combo de palomitas de maíz?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4494 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_7a04a05d:
 msgid "[_paulina_s_towards_s_idle_2_s_talk_bite_] Oooh!! And a box of Red Strips! And some Peanut L&L's!"
-msgstr "¡[_paulina_s_towards_s_idle_2_s_talk_bite_] Ooo!! ¡Y una caja de Rayas Rojas! ¡Y de Peanut L&L!"
+msgstr "¡[_paulina_s_towards_s_idle_2_s_talk_bite_] Ooo!! ¡Y una caja de Regalices Rojas! ¡Y de pipas L&L!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4496 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_5dfbf7ca:
 msgid "[_movieguy_] Uhm, okay then, for the movie tickets, the buttered corn, and the candy, that'll come out to be..."
-msgstr "[_movieguy_] Uhm, bueno, entonces, para los boletos de cine, el maíz macizo, y el caramelo, que saldrán a ser..."
+msgstr "[_movieguy_] Uhm, bueno, entonces, para los boletos de cine, las palomitas con mantequilla, y las golosinas, que saldrán a ser..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4499 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_93597c5e:
 msgid "[_movieguy_] $45 flat!"
-msgstr "¡[_movieguy_] $45 plano!"
+msgstr "¡[_movieguy_] ¡45 dolares!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4527 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_a0638232:
 msgid "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] Uhm, gee, I don't have enough for that."
@@ -5290,11 +5290,11 @@ msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] Uhm, gee, no tengo s
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4529 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_6b285577:
 msgid "[_paulina_s_closed_s_idle__s_talk_happy_] Oh, well, don't worry I will pay for it..."
-msgstr "[_paulina_s_closed_s_idle__s_talk_happy_] Oh, bueno, no te preocupes que lo pagaré..."
+msgstr "[_paulina_s_closed_s_idle__s_talk_happy_] Oh, bueno, no te preocupes que yo lo pagaré..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4531 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_6ef45eb6:
 msgid "[_movieguy_] Uh, thank you. Enjoy your movie."
-msgstr "[_movieguy_] Uh, gracias. Disfrute de su película."
+msgstr "[_movieguy_] Uh, gracias. Disfrutad de la película."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4533 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_9a6208f0:
 msgid "[_paulina_s_talk_happy_s_idle_2_] Thanks..."
@@ -5302,27 +5302,27 @@ msgstr "[_paulina_s_talk_happy_s_idle_2_] Gracias..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4535 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_c53853ae:
 msgid "[_danny_s_phantom_s_towards_s_sad_2_s_talk_frown_2_] Look, I'm sorry Paulina. I'll pay for it next time."
-msgstr "[_danny_s_phantom_s_towards_s_sad_2_s_talk_frown_2_] Mira, lo siento de Paulina. La próxima vez lo pagaré."
+msgstr "[_danny_s_phantom_s_towards_s_sad_2_s_talk_frown_2_] Mira, lo siento Paulina. La próxima vez lo pagaré."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4537 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_69526895:
 msgid "[_paulina_s_away_s_idle__s_talk_happy_] Don't worry... C'mon Inviso-Bill! Let's go this way!"
-msgstr "[_paulina_s_away_s_idle__s_talk_happy_] No te preocupes... ¡C'mon Inviso-Bill! ¡Sigamos así!"
+msgstr "[_paulina_s_away_s_idle__s_talk_happy_] No te preocupes... ¡Vamos Inviso-Bill! ¡Vamos por aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4542 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_26a0b497:
 msgid "[_danny_s_phantom_s_towards_s_angry_s_talk_happy_] Here you go, good sir! I have enough of your human currency right here!"
-msgstr "[_danny_s_phantom_s_towards_s_angry_s_talk_happy_] ¡Aquí vas, buen señor! ¡Ya tengo suficiente de tu moneda humana aquí!"
+msgstr "[_danny_s_phantom_s_towards_s_angry_s_talk_happy_] ¡Aquí voy, buen señor! ¡Ya he tenido suficiente de tu creación humana!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4545 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_b4effac4:
 msgid "[_movieguy_] Uh, thank you. Cool costume by the way. Not even Halloween yet though."
-msgstr "[_movieguy_] Uh, gracias. Disfraz por cierto. Ni siquiera Halloween."
+msgstr "[_movieguy_] Uh, gracias. Chulo disfraz por cierto. No estamos en Halloween."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4546 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_26524cf5:
 msgid "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_] Uhm, wh-why thank you! Much appreciated!"
-msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_] Uhm, ¡por qué gracias! ¡Mucho apreciado!"
+msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_] Uhm, ¡por qué me das las gracias gracias! ¡apreciado!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4549 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_b55400d2:
 msgid "[_movieguy_] Enjoy your movie."
-msgstr "[_movieguy_] Disfruta de tu pelicula."
+msgstr "[_movieguy_] Disfruta de tu película."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4550 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_67df94cc:
 msgid "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_2_] Thanks..."
@@ -5330,7 +5330,7 @@ msgstr "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_2_] Gracias..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4552 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_d24945a6:
 msgid "[_paulina_s_away_s_idle__s_talk_happy_] C'mon Inviso-Bill! Let's go this way!"
-msgstr "[_paulina_s_away_s_idle__s_talk_happy_] ¡C'mon Inviso-Bill! ¡Sigamos así!"
+msgstr "[_paulina_s_away_s_idle__s_talk_happy_] ¡Vamos Inviso-Bill! ¡Vamos por aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4560 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_a5c91239:
 msgid "[_danny_s_phantom_s_towards_wide_s_sad_2_s_talk_happy_] Okay, wait up!"
@@ -5342,11 +5342,11 @@ msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_] Me gustan estos her
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4575 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_47351f31:
 msgid "[_paulina_s_towards_s_angry_s_talk_happy_] Aren't they nice? They even lean back and everything."
-msgstr "[_paulina_s_towards_s_angry_s_talk_happy_] ¿No son agradables? Incluso se inclinan hacia atrás y todo."
+msgstr "[_paulina_s_towards_s_angry_s_talk_happy_] ¿No son guays? Incluso se inclinan hacia atrás."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4577 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_ab755330:
 msgid "[_danny_s_phantom_s_closed_sad_s_wondering_s_talk_frown_] Yeah, not like they used to at the old Googleplex."
-msgstr "[_danny_s_phantom_s_closed_sad_s_wondering_s_talk_frown_] Sí, no como solían en el viejo Googleplex."
+msgstr "[_danny_s_phantom_s_closed_sad_s_wondering_s_talk_frown_] Sí, no como eran antes en el viejo Googleplex."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4579 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8c_mall_cbe97ffd:
 msgid "[_paulina_s_towards_s_rise_one_2_s_talk_frown_] Huh? What do you mean? Aren't you from like that... \"Ghost Zone\" thing?"
