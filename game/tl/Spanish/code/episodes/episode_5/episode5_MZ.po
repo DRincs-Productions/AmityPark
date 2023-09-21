@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 16:15\n"
+"PO-Revision-Date: 2023-09-21 10:50\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -5650,15 +5650,15 @@ msgstr "[_danny_] {i}Mmmnnnn...{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4800 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_50340bd1:
 msgid "[_paulina_] {i}Mnnnnn...{/i} (Oh, he's such a gentle kisser...)"
-msgstr "[_paulina_] {i}Mnnnnnn...{/i} (Oh, és un beso tan suave...)"
+msgstr "[_paulina_] {i}Mnnnnnn...{/i} (Oh, que beso tan...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4801 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_31e82b50:
 msgid "[_paulina_] (But his hands are so... ooh, he knows just where to squeeze...)"
-msgstr "[_paulina_] (Pero sus manos son tan ... oh, él sabe sólo dónde apretar ...)"
+msgstr "[_paulina_] (Y sus manos son tan... oh, y sabe dónde ponerlas...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4802 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_ebfac120:
 msgid "[_danny_] (Is this real life??)"
-msgstr "[_danny_] (¿Es esta vida real?)"
+msgstr "[_danny_] (¿¿Es esto real??)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4803 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_0614673d:
 msgid "[_danny_] (Am I really doing this??)"
@@ -5666,23 +5666,23 @@ msgstr "[_danny_] (¿Realmente estoy haciendo esto?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4804 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_724152d9:
 msgid "[_danny_] (With Paulina Sanchez of all people??)"
-msgstr "[_danny_] (¿Con Paulina Sanchez de todos?)"
+msgstr "[_danny_] (¿Con Paulina Sanchez?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4805 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_cd07e67b:
 msgid "[_danny_] (I take it back, this is it. This is proof of a God.)"
-msgstr "[_danny_] (Lo tomo de vuelta, es eso. Esta es la prueba de un Dios.)"
+msgstr "[_danny_] (Es un regalo, és eso. Es un regalo de dios.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4808 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_d9ec0dce:
 msgid "[_paulina_] (Ooh, please... yes, let me rock... rock back and forth like that...)"
-msgstr "[_paulina_] (Ooh, por favor... sí, déjame rocar... rodar de esta manera...)"
+msgstr "[_paulina_] (Ooh, por favor... sí, déjame moverme... moverme de esta manera...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4809 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_cf29b43c:
 msgid "[_danny_] (Her butt is so big... I can barely hold it in my hands...)"
-msgstr "[_danny_] (Su perro es tan grande... apenas puedo tenerlo en mis manos...)"
+msgstr "[_danny_] (Su culo és enorme... apenas puedo cogerlo con mis manos...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4810 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_180e2a46:
 msgid "[_danny_] (I'm doing my best, but... oh man, and her tongue in my mouth...)"
-msgstr "[_danny_] (Estoy haciendo mi mejor, pero ... oh hombre, y su lengua en mi boca ...)"
+msgstr "[_danny_] (Estoy haciendo lo mejor que sé, pero... oh tío, su lengua en mi boca...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4811 #-#-# translate crowdin A_Stroke_After_Midnight_makout_paulina_d08220e0:
 msgid "[_danny_] (She's like slipping it in and out, side to side. Absolutely incredible.)"
