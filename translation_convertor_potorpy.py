@@ -1,27 +1,23 @@
+import os
+import re
+import shutil
 from fileinput import FileInput
 from glob import glob
-import os
-import shutil
-import re
 
 # ATTENTION: there must not be 2 equal key or value
 # regex: https://www.w3schools.com/python/python_regex.asp
 dict = {
     # search_text : replace_text
     # start
+    r'msgid ""\nmsgstr ""\n(.*)\n(.*)\n(.*)\n(.*)':         r'',
     r'\n"Plural-Forms(.*)':         r'',
-    r'\n"X-Crowdin-Pr(.*)':         r'',
-    r'\n"X-Crowdin-Pr(.*)':         r'',
-    r'\n"X-Crowdin-La(.*)':         r'',
-    r'\n"X-Crowdin-Fi(.*)':         r'',
-    r'\n"X-Crowdin-Fi(.*)':         r'',
+    r'\n"X-Crowdin(.*)':         r'',
     r'\n"Project-Id-V(.*)':         r'',
     r'\n"Content-Type(.*)':         r'',
     r'\n"Language-Tea(.*)':         r'',
-    r'\n"Language:(.*)':         r'',
+    r'\n"Language:(.*)':            r'',
     r'\n"PO-Revision-(.*)':         r'',
-    r'\n"Большой(.*)':         r'',
-    r'msgid ""\nmsgstr ""':         r'',
+    r'\n"Большой(.*)':              r'',
     r'\\n"\n"':                     r'\\n',
     r'\\'+'"':                      r'§§§§§§§§',
     # Effect
@@ -33,22 +29,24 @@ dict = {
     r' \[withflash\]"':             r'" with flash',
     r' \[withvpunch\]"':            r'" with vpunch',
     r' \[withDissolve20\]"':        r'" with Dissolve(2.0)',
-    r' \[multiple2\]"':        r'" (multiple=2)',
+    r' \[withDissolve1\]"':         r'" with Dissolve(1)',
+    r' \[withDissolvey3\]"':        r'" with Dissolve(.3)',
+    r' \[multiple2\]"':             r'" (multiple=2)',
     r'msgid "\[nvl_clear\]"':       r'    # nvl clear',
     r'msgstr "\[nvl_clear\]"':      r'    nvl clear',
     # first
-    r'msgid "(.*?) \[special_delimiter\] (.*?)"':       r'    # "\1" "\2"',
-    r'msgstr "(.*?) \[special_delimiter\] (.*?)"':      r'    "\1" "\2"',
-    r':\nmsgid "(.*?)"':                                r':\n    # "\1"',
+    r'msgid "(.*?) \[special_delimiter\] (.*?)"':         r'    # "\1" "\2"',
+    r'msgstr "(.*?) \[special_delimiter\] (.*?)"':        r'    "\1" "\2"',
+    r':\nmsgid "(.*?)"':                                  r':\n    # "\1"',
     r'    #(.*?)\nmsgstr "\[_(.*?)\_] (.*?)"':            r'    #\1\n    \2 "\3"',
-    r'    # (.*?)\nmsgstr "(.*?)"':                     r'    # \1\n    "\2"',
+    r'    #(.*?)\nmsgstr "\[_(.*?)\_](.*?)"':             r'    #\1\n    \2 "\3"',
+    r'    # (.*?)\nmsgstr "(.*?)"':                       r'    # \1\n    "\2"',
     # after
     r'    # "\[_(.*?)\_] (.*?)"':                         r'    # \1 "\2"',
     # Comment
     r':\n    # ':                                                   r':\n\n    # ',
     r'rpy:(.*?) #-#-# translate':                                   r'rpy:\1\ntranslate',
     r'strings: #\|#\|# # ':                                         r'strings:\n\n# ',
-    r'\n#§translate':                                               r'\ntranslate',
     r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # ':         r'updated at \1-\2-\3 \4:\5\n\n# ',
     # end
     r'msgid "(.*?)"':                       r'    old "\1"',
@@ -56,7 +54,8 @@ dict = {
     r'\n#(.*?)\n    old "':                 r'\n    #\1\n    old "',
     r'\n\n# TODO: Translation updated':     r'# TODO: Translation updated',
     r'§§§§§§§§':                            r'\\'+'"',
-    r'# TODO: Translation updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# #§translate ': r'# TODO: Translation updated at \1-\2-\3 \4:\5\n\ntranslate ',
+    r'# TODO: Translation updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # §translate ': r'# TODO: Translation updated at \1-\2-\3 \4:\5\n\ntranslate ',
+    r'\n# §translate':                      r'\ntranslate',
 }
 
 
@@ -89,6 +88,14 @@ def replacetext(search_text, replace_text, pathFile, languege):
                       r'"\n    \1 \2 "', filedata)
     filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
                       r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
     filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
                       r':\n\n    # \1 \2 "', filedata)
     filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
