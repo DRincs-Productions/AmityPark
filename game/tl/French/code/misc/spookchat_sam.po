@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_sam.rpy:32 #-#-# translate crowdin sam_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -196,6 +196,7 @@ msgstr "[_dannyspook_] Je te parle plus tard, Sam. Peace out, seigneur de la \"d
 msgid "[_samspook_] Yeah, I'll see around school. Take care, Ghost nerd. :) "
 msgstr "[_samspook_] Oui, on se voit à l'école. Prends soin de toi, Ghost nerd. :) "
 
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_sam.rpy:26
 msgid "Message Sam."
 msgstr "Message à Sam."
 
