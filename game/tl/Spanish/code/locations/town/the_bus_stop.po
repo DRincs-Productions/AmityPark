@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-09-22 20:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/the_bus_stop.rpy:14 #-#-# translate crowdin to_busstop_f072e980:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_smile_] (Am I sure I'm ready to do this?)"
@@ -20,6 +20,7 @@ msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_smile_] (¿Seguro que estoy 
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_displeased_] I don't have anywhere to take a bus to right now."
 msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_displeased_] No hay ningún sitio al que tenga que ir con el autobús ahora mismo."
 
+# §translate crowdin strings: #|#|# # game/code/locations/town/the_bus_stop.rpy:19
 msgid "(Am I sure I'm ready to do this?)"
 msgstr "(¿Seguro que estoy preparado para hacerlo?)"
 
