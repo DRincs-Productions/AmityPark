@@ -150,3 +150,7 @@ def fileRename(pathFile, extension):
 
 
 potorpy("crowdin")
+potorpy("french")
+potorpy("italian")
+potorpy("spanish")
+potorpy("german")
