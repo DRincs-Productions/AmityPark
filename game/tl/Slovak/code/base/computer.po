@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:01\n"
+"PO-Revision-Date: 2023-09-22 20:36\n"
 
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # §translate crowdin strings: #|#|# # game/code/base/computer.rpy:668
 msgid "Scene Replay"
 msgstr ""
 
