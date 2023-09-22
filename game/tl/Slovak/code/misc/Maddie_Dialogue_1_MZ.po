@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin maddie_convo_6e093421:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Sorry Danny, I'm a little busy right now. I'll talk to you later, 'kay?"
@@ -280,6 +280,7 @@ msgstr ""
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Right. Sure thing, thanks Mom."
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
 msgid "Who exactly is this Vlad guy, anyway?"
 msgstr ""
 
