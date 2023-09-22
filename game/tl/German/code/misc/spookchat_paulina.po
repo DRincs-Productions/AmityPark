@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_paulina.rpy:29 #-#-# translate crowdin paulina_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -152,6 +152,7 @@ msgstr "[_paulinaspook_] Oh, natürlich! Ich weiß, du musst damit beschäftigt 
 msgid "[_paulinaspook_] Ceeya later, Ghost Boy. ;D "
 msgstr "[_paulinaspook_] Ceeya später, Geister Junge. ;D "
 
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_paulina.rpy:22
 msgid "Message Paulina."
 msgstr "Nachricht Paulina."
 
