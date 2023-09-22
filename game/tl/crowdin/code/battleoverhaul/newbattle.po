@@ -294,7 +294,7 @@ msgstr "[_epa_] Now Ghost Ray can evolve down a new path. You can take either Fo
 msgid "[_epa_] Spread Ray does more damage than the original Ghost Ray, but it's main benefit is that it deals damage to all targets on screen. The original target of Spread Ray receives the full damage while every other enemy receives a smaller portion."
 msgstr "[_epa_] Spread Ray does more damage than the original Ghost Ray, but it's main benefit is that it deals damage to all targets on screen. The original target of Spread Ray receives the full damage while every other enemy receives a smaller portion."
 
-#§translate crowdin strings: #|#|# # game/code/battleoverhaul/newbattle.rpy:8
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/newbattle.rpy:8
 msgid "No, just throw me into it and let me try it out blind!"
 msgstr "No, just throw me into it and let me try it out blind!"
 

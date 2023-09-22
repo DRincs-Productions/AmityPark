@@ -38,7 +38,7 @@ msgstr "[_danny_s_talk_happy_s_rise_one_] I probably should get going! Catch you
 msgid "[_sam_s_talk_happy_s_sad_] Yeah, sure, pop by anytime! Thanks for stopping in."
 msgstr "[_sam_s_talk_happy_s_sad_] Yeah, sure, pop by anytime! Thanks for stopping in."
 
-#§translate crowdin strings: #|#|# # game/code/locations/sam_home.rpy:21
+# §translate crowdin strings: #|#|# # game/code/locations/sam_home.rpy:21
 msgid "Hmm... what should I talk about with Sam?"
 msgstr "Hmm... what should I talk about with Sam?"
 

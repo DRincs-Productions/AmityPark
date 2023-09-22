@@ -5574,7 +5574,7 @@ msgstr "[_danny_s_f_s_offscreen_s_closed_s_neutral_s_talk_pleased_] And I'm all 
 msgid "[_devTells_] Congrats, you've unlocked a second main menu background! \nYou can switch between backgrounds manually in the left-down corner in the main menu now."
 msgstr "[_devTells_] Congrats, you've unlocked a second main menu background! \nYou can switch between backgrounds manually in the left-down corner in the main menu now."
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:439
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:439
 msgid "Do I wanna give Maddie a hug?"
 msgstr "Do I wanna give Maddie a hug?"
 

@@ -334,7 +334,7 @@ msgstr "[_maddie_] Oh dear, he’s out cold. Maybe that {i}was{/i} too much for 
 msgid "[_danny_] (Okay, that's it, I'm outta here.)"
 msgstr "[_danny_] (Okay, that's it, I'm outta here.)"
 
-#§translate crowdin strings: #|#|# # game/code/misc/maddie_x_jack.rpy:1428
+# §translate crowdin strings: #|#|# # game/code/misc/maddie_x_jack.rpy:1428
 msgid "What the heck am I supposed to do now??"
 msgstr "What the heck am I supposed to do now??"
 

@@ -22,7 +22,7 @@ msgstr "[_lily_] Try coming back later in the day when we're open and classes ar
 msgid "[_danny_s_sad_s_talk_happy_2_] Oh no thank you, I'm good. See you around."
 msgstr "[_danny_s_sad_s_talk_happy_2_] Oh no thank you, I'm good. See you around."
 
-#§translate crowdin strings: #|#|# # game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+# §translate crowdin strings: #|#|# # game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
 msgid "What do I want at Nasty Burger?"
 msgstr "What do I want at Nasty Burger?"
 

@@ -50,7 +50,7 @@ msgstr "[_danny_] (Great I have a dress for Desiree now. I hope she'll like it!)
 msgid "[_danny_] (Now to attend this shindig and show off my hot date to everyone!)"
 msgstr "[_danny_] (Now to attend this shindig and show off my hot date to everyone!)"
 
-#§translate crowdin strings: #|#|# # game/code/locations/AbYss_MZ.rpy:16
+# §translate crowdin strings: #|#|# # game/code/locations/AbYss_MZ.rpy:16
 msgid "What do I need to do at AbYss?"
 msgstr "What do I need to do at AbYss?"
 

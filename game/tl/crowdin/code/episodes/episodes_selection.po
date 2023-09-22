@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-#§translate crowdin strings: #|#|# # game/code/episodes/episodes_selection.rpy:202
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # §translate crowdin strings: #|#|# # game/code/episodes/episodes_selection.rpy:202
 msgid "Paulina was in trouble! What did I do?!"
 msgstr "Paulina was in trouble! What did I do?!"
 

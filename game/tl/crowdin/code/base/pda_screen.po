@@ -58,7 +58,7 @@ msgstr "[_danny_] (I'll try to message him in the {b}afternoon{/b} next time.)"
 msgid "[_danny_] (Guess Tucker's not online right now.)"
 msgstr "[_danny_] (Guess Tucker's not online right now.)"
 
-#§translate crowdin strings: #|#|# # game/code/base/pda_screen.rpy:173
+# §translate crowdin strings: #|#|# # game/code/base/pda_screen.rpy:173
 msgid "Do you want to add a new contact to Spookchat?"
 msgstr "Do you want to add a new contact to Spookchat?"
 

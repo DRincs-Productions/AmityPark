@@ -62,7 +62,7 @@ msgstr "[_danny_s_down_s_unhappy_s_talk_displeased_] R-right."
 msgid "[_danny_s_at_player_s_sad_s_consternation_] (I should be more careful next time.)"
 msgstr "[_danny_s_at_player_s_sad_s_consternation_] (I should be more careful next time.)"
 
-#§translate crowdin strings: #|#|# # game/code/character_events/jazz/jazz_yoga.rpy:20
+# §translate crowdin strings: #|#|# # game/code/character_events/jazz/jazz_yoga.rpy:20
 msgid "(I gotta make sure she's got the right form!)"
 msgstr "(I gotta make sure she's got the right form!)"
 

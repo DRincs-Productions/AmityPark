@@ -14774,7 +14774,7 @@ msgstr "[_ember_s_towards_s_idle_s_talk_amused_] It's a new song I've just been 
 msgid "[_ember_s_at_player_s_rise_s_talk_amused_] I think you're gonna really like this one!"
 msgstr "[_ember_s_at_player_s_rise_s_talk_amused_] I think you're gonna really like this one!"
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:1384
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:1384
 msgid "So... why {i}do{/i} you like me?"
 msgstr "So... why {i}do{/i} you like me?"
 

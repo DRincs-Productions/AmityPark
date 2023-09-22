@@ -9066,7 +9066,7 @@ msgstr "[_vlad_s_sad_2_s_towards_s_talk_happy_] Oh, how I {b}love{/b} a good mon
 msgid "[_vlad_] {b}{i}Muwaha haha bwahahah ahahah!!{/i}{/b}"
 msgstr "[_vlad_] {b}{i}Muwaha haha bwahahah ahahah!!{/i}{/b}"
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:911
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:911
 msgid "Who should I take to the Casper Chill Formal?"
 msgstr "Who should I take to the Casper Chill Formal?"
 

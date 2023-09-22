@@ -262,7 +262,7 @@ msgstr "[_dannyspook_] Good talking to you, Tuck."
 msgid "[_tuckerspook_] Sure dude, whenever you wanna message! I'm gonna play some Doomed right now. Laterz."
 msgstr "[_tuckerspook_] Sure dude, whenever you wanna message! I'm gonna play some Doomed right now. Laterz."
 
-#§translate crowdin strings: #|#|# # game/code/misc/spookchat_tucker.rpy:29
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_tucker.rpy:29
 msgid "Message Tucker."
 msgstr "Message Tucker."
 

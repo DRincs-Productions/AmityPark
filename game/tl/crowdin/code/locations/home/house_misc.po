@@ -94,7 +94,7 @@ msgstr "[_danny_] I can't go to bed now! Paulina is waiting for me at the School
 msgid "[_danny_] I can't go to bed now!"
 msgstr "[_danny_] I can't go to bed now!"
 
-#§translate crowdin strings: #|#|# # game/code/locations/home/house_misc.rpy:289
+# §translate crowdin strings: #|#|# # game/code/locations/home/house_misc.rpy:289
 msgid "Sleep until morning."
 msgstr "Sleep until morning."
 

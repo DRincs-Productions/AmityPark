@@ -94,7 +94,7 @@ msgstr "[_box_ghost_s_sad_s_talk_] Please visit us another time when we are open
 msgid "[_box_ghost_s_talk_2_s_neutral_] Have a nice day!"
 msgstr "[_box_ghost_s_talk_2_s_neutral_] Have a nice day!"
 
-#§translate crowdin strings: #|#|# # game/code/locations/mystery_shop_MZ.rpy:20
+# §translate crowdin strings: #|#|# # game/code/locations/mystery_shop_MZ.rpy:20
 msgid "Would you like to buy this Mystery Box for $[stolen_box.cost]?"
 msgstr "Would you like to buy this Mystery Box for $[stolen_box.cost]?"
 

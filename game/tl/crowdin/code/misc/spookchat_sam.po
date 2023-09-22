@@ -182,7 +182,7 @@ msgstr "[_dannyspook_] I'll talk to you later, Sam. Peace out, lord of \"dorknes
 msgid "[_samspook_] Yeah, I'll see around school. Take care, Ghost nerd. :) "
 msgstr "[_samspook_] Yeah, I'll see around school. Take care, Ghost nerd. :) "
 
-#§translate crowdin strings: #|#|# # game/code/misc/spookchat_sam.rpy:26
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_sam.rpy:26
 msgid "Message Sam."
 msgstr "Message Sam."
 

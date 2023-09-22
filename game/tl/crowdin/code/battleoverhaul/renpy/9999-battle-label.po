@@ -42,7 +42,7 @@ msgstr "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] All that train
 msgid "[_simulatorAi_] Attention! The \"Fenton Battery\" level has reached a critical low! \nFurther Simulation can not be initiated. \nPlease, wait until the Fenton Battery has fully recharged."
 msgstr "[_simulatorAi_] Attention! The \"Fenton Battery\" level has reached a critical low! \nFurther Simulation can not be initiated. \nPlease, wait until the Fenton Battery has fully recharged."
 
-#§translate crowdin strings: #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
 msgid "Turn on Super Danny for battle and retry."
 msgstr "Turn on Super Danny for battle and retry."
 

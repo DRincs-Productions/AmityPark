@@ -266,7 +266,7 @@ msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Alright sweetie, take care. 
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Right. Sure thing, thanks Mom."
 msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Right. Sure thing, thanks Mom."
 
-#§translate crowdin strings: #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
+# §translate crowdin strings: #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
 msgid "Who exactly is this Vlad guy, anyway?"
 msgstr "Who exactly is this Vlad guy, anyway?"
 

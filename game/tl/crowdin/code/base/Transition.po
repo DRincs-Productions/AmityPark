@@ -38,7 +38,7 @@ msgstr "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/co
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
 msgstr "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
 
-#§translate crowdin strings: #|#|# # game/code/base/Transition.rpy:278
+# §translate crowdin strings: #|#|# # game/code/base/Transition.rpy:278
 msgid "Yes"
 msgstr "Yes"
 

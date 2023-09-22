@@ -106,7 +106,7 @@ msgstr "[_jack_s_stare_s_angry_s_talk_happy_] ...and when I do, I'm going to pry
 msgid "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Oh, wow, look at the time! Gotta go!"
 msgstr "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Oh, wow, look at the time! Gotta go!"
 
-#§translate crowdin strings: #|#|# # game/code/misc/Jack_Dialogue_1_MZ.rpy:34
+# §translate crowdin strings: #|#|# # game/code/misc/Jack_Dialogue_1_MZ.rpy:34
 msgid "So, how do you know Vlad Masters?"
 msgstr "So, how do you know Vlad Masters?"
 

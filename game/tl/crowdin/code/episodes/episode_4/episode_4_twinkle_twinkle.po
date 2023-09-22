@@ -2274,7 +2274,7 @@ msgstr "[_danny_] {i}*Siiigh*{/i}"
 msgid "[_danny_s_sad_s_at_player_s_talk_happy_] Man... Sam's the best..."
 msgstr "[_danny_s_sad_s_at_player_s_talk_happy_] Man... Sam's the best..."
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:610
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:610
 msgid "What should I do about this prank situation?"
 msgstr "What should I do about this prank situation?"
 

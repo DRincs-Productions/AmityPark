@@ -3538,7 +3538,7 @@ msgstr "[_danny_s_down_s_rise_one_s_talk_frown_2_] From flat out enemies, to par
 msgid "[_danny_s_at_player_s_sad_s_talk_happy_2_] Ehh, I'm sure it'll all work out with no {b}real{/b} consequences... right?"
 msgstr "[_danny_s_at_player_s_sad_s_talk_happy_2_] Ehh, I'm sure it'll all work out with no {b}real{/b} consequences... right?"
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:906
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:906
 msgid "What do I wanna do at Babazita's booth?"
 msgstr "What do I wanna do at Babazita's booth?"
 

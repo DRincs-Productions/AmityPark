@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-#§translate crowdin strings: #|#|# # game/code/base/computer.rpy:668
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # §translate crowdin strings: #|#|# # game/code/base/computer.rpy:668
 msgid "Scene Replay"
 msgstr "Scene Replay"
 

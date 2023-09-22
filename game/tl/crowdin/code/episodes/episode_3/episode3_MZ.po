@@ -2698,7 +2698,7 @@ msgstr "Please feel free to share your opinions about the game and please visit 
 msgid "Until next time. -GZone "
 msgstr "Until next time. -GZone "
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:406
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:406
 msgid "(Hmmm... I should say something to try and cheer Sam up.)"
 msgstr "(Hmmm... I should say something to try and cheer Sam up.)"
 

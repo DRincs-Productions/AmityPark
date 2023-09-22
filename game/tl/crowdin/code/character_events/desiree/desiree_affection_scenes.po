@@ -490,7 +490,7 @@ msgstr "[_desiree_] Goodnight, my young Master...~"
 msgid "[_desiree_] Rest well... and we'll see each other in the morning... my love...♥"
 msgstr "[_desiree_] Rest well... and we'll see each other in the morning... my love...♥"
 
-#§translate crowdin strings: #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:484
+# §translate crowdin strings: #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:484
 msgid "Ask for Anal (Cowgirl)"
 msgstr "Ask for Anal (Cowgirl)"
 

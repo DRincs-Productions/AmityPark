@@ -1530,7 +1530,7 @@ msgstr "[_morahzamora_] (I just find it funny making him wanna bone his mom inte
 msgid "[_clockwork_] ({i}*Sigh*{/i}... the poor bastard indeed...)"
 msgstr "[_clockwork_] ({i}*Sigh*{/i}... the poor bastard indeed...)"
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "Who do you think you like, kiddo?"
 msgstr "Who do you think you like, kiddo?"
 

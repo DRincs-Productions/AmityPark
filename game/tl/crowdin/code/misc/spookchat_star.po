@@ -318,7 +318,7 @@ msgstr "[_danny_s_phantom_s_towards_wide_s_sad_2_s_frown_grin_2_] (...the girl's
 msgid "[_danny_s_phantom_s_towards_s_frown_grin_3_s_wondering_] (Okay, my first real big interaction with somebody as \"Inviso-Bill\". Shouldn't be too difficult, right?)"
 msgstr "[_danny_s_phantom_s_towards_s_frown_grin_3_s_wondering_] (Okay, my first real big interaction with somebody as \"Inviso-Bill\". Shouldn't be too difficult, right?)"
 
-#§translate crowdin strings: #|#|# # game/code/misc/spookchat_star.rpy:27
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_star.rpy:27
 msgid "Message Star."
 msgstr "Message Star."
 

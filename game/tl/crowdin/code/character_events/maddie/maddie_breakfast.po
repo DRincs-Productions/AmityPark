@@ -170,7 +170,7 @@ msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Hey, no big complaints on my end!
 msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] Have a good day at school then, sweetie!"
 msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] Have a good day at school then, sweetie!"
 
-#§translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_breakfast.rpy:119
+# §translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_breakfast.rpy:119
 msgid "I'm starved! Let's dig in!"
 msgstr "I'm starved! Let's dig in!"
 

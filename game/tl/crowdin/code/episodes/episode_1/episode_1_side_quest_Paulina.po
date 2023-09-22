@@ -614,7 +614,7 @@ msgstr "[_danny_] W-wait, hold up! Y-your box is still... {i}really{/i} heavy!"
 msgid "[_danny_] ({i}Ooof{/i}... guess my ghost strength doesn't carry over to my human form...)"
 msgstr "[_danny_] ({i}Ooof{/i}... guess my ghost strength doesn't carry over to my human form...)"
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:609
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:609
 msgid "Save her immediately!"
 msgstr "Save her immediately!"
 

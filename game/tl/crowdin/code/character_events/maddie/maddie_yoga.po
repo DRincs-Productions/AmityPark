@@ -282,7 +282,7 @@ msgstr "[_maddie_s_special_s_yoga_s_down_s_sad_s_talk_happy_] Well.. I suppose I
 msgid "[_danny_s_at_player_s_angry_s_displeased_] (Dang... so close!)"
 msgstr "[_danny_s_at_player_s_angry_s_displeased_] (Dang... so close!)"
 
-#§translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_yoga.rpy:96
+# §translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_yoga.rpy:96
 msgid "Keep watching?"
 msgstr "Keep watching?"
 

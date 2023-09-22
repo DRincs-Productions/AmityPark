@@ -358,7 +358,7 @@ msgstr "[_danny_s_gym_s_towards_wide_s_idle_s_talk_displeased_] N-nothing! Shutt
 msgid "[_star_s_gym_s_towards_s_angry_s_distraught_] {i}...!{/i}"
 msgstr "[_star_s_gym_s_towards_s_angry_s_distraught_] {i}...!{/i}"
 
-#§translate crowdin strings: #|#|# # game/code/character_events/star/star_gym_running.rpy:322
+# §translate crowdin strings: #|#|# # game/code/character_events/star/star_gym_running.rpy:322
 msgid "I think Inviso-Bill's gonna like Paulina's more, personally."
 msgstr "I think Inviso-Bill's gonna like Paulina's more, personally."
 

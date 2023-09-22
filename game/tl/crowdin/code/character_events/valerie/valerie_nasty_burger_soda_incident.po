@@ -570,7 +570,7 @@ msgstr "[_valerie_] {i}Hrrmph{/i}..."
 msgid "[_danny_s_burger_s_at_player_s_rise_s_talk_happy_] Whatever. Least I didn't get yelled at."
 msgstr "[_danny_s_burger_s_at_player_s_rise_s_talk_happy_] Whatever. Least I didn't get yelled at."
 
-#§translate crowdin strings: #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
+# §translate crowdin strings: #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
 msgid "(Peek in the back room?)"
 msgstr "(Peek in the back room?)"
 

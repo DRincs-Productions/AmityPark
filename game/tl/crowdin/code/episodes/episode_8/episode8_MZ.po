@@ -9982,7 +9982,7 @@ msgstr "Please feel free to share your opinions about the game and please visit 
 msgid "Until next time. -GZone "
 msgstr "Until next time. -GZone "
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9406
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9406
 msgid "Buy the coffee beans for ($200) ?"
 msgstr "Buy the coffee beans for ($200) ?"
 

@@ -1510,7 +1510,7 @@ msgstr "[_danny_s_frown_3_s_wondering_] (Hmmm... still gotta think of a good nam
 msgid "[_danny_s_towards_s_neutral_s_frown_2_] (Ehh, it'll come to me later.)"
 msgstr "[_danny_s_towards_s_neutral_s_frown_2_] (Ehh, it'll come to me later.)"
 
-#§translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
 msgid "Would you like to order the \"Box-O-Parts\" through the Mystery Shop guy?"
 msgstr "Would you like to order the \"Box-O-Parts\" through the Mystery Shop guy?"
 

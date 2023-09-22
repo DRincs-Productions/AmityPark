@@ -14,7 +14,7 @@ msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I should 
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
 msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
 
-#§translate crowdin strings: #|#|# # game/code/base/controls.rpy:182
+# §translate crowdin strings: #|#|# # game/code/base/controls.rpy:182
 msgid "Desiree"
 msgstr "Desiree"
 

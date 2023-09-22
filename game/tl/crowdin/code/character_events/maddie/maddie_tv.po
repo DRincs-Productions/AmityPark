@@ -322,7 +322,7 @@ msgstr "[_extend_] Good night, mom."
 msgid "[_maddie_] Good night sweetie...~"
 msgstr "[_maddie_] Good night sweetie...~"
 
-#§translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_tv.rpy:38
+# §translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_tv.rpy:38
 msgid "(Do I try and get my rocks off while Mom sleeps?)"
 msgstr "(Do I try and get my rocks off while Mom sleeps?)"
 

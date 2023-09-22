@@ -54,7 +54,7 @@ msgstr "[_epa_] Kate did not have an extra battle."
 msgid "[_epa_] Lake Monster unavailable currently."
 msgstr "[_epa_] Lake Monster unavailable currently."
 
-#§translate crowdin strings: #|#|# # game/code/battleoverhaul/battlesetup.rpy:19
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Choose which route you will take"
 msgstr "Choose which route you will take"
 
