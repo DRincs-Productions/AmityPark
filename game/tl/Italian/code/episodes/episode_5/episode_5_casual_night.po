@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-09-22 20:41\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -1544,6 +1544,7 @@ msgstr "[_morahzamora_] (Trovo divertente che gli venga voglia di scoparsi sua m
 msgid "[_clockwork_] ({i}*Sigh*{/i}... the poor bastard indeed...)"
 msgstr "[_clockwork_] ({i}*Sigh*{/i}... il povero bastardo...)"
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "Who do you think you like, kiddo?"
 msgstr "Chi pensi che ti piaccia, ragazzo?"
 
