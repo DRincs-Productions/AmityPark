@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-09-22 20:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
 msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
@@ -792,6 +792,7 @@ msgstr ""
 msgid "[_danny_] Oops, I think it's high time for me to leave."
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:122
 msgid "Did you give Dash Jazz's panties?"
 msgstr ""
 
