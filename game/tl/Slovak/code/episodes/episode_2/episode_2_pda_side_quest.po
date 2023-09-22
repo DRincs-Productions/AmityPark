@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-09-22 20:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
@@ -548,6 +548,7 @@ msgstr ""
 msgid "[_danny_s_pi_50_] (Well, I'll be honest... that was actually pretty impressive... but not something I should have been watching out in the open. I better leave before Kwan catches me and bashes my head in.)"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
 msgid "Bargain with Dash."
 msgstr ""
 
