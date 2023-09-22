@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-09-22 20:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -1632,6 +1632,7 @@ msgstr ""
 msgid "Take care, and we hope to see you return for the next episode of Amity Park!"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:543
 msgid "Barge in right away!"
 msgstr ""
 
