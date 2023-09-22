@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-09-22 20:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -3552,6 +3552,7 @@ msgstr ""
 msgid "[_danny_s_at_player_s_sad_s_talk_happy_2_] Ehh, I'm sure it'll all work out with no {b}real{/b} consequences... right?"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:906
 msgid "What do I wanna do at Babazita's booth?"
 msgstr ""
 
