@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-09-22 20:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -308,6 +308,7 @@ msgstr "[_epa_] Ora il Raggio Fantasma può evolversi lungo un nuovo percorso. S
 msgid "[_epa_] Spread Ray does more damage than the original Ghost Ray, but it's main benefit is that it deals damage to all targets on screen. The original target of Spread Ray receives the full damage while every other enemy receives a smaller portion."
 msgstr "[_epa_] Il Raggio di diffusione infligge più danni del Raggio fantasma originale, ma il suo vantaggio principale è che infligge danni a tutti i bersagli sullo schermo. Il bersaglio originale del raggio di diffusione riceve l'intero danno, mentre ogni altro nemico ne riceve una parte minore."
 
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/newbattle.rpy:8
 msgid "No, just throw me into it and let me try it out blind!"
 msgstr "No, buttatemi dentro e fatemi provare alla cieca!"
 
