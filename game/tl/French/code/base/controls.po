@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:01\n"
+"PO-Revision-Date: 2023-09-22 20:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/controls.rpy:177 #-#-# translate crowdin no_return_06e302cb:
 msgid "So be it. There's no turning back now."
@@ -28,6 +28,7 @@ msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] Je devrai
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
 msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] Je ferais mieux de laisser Ember tranquille pour l'instant."
 
+# §translate crowdin strings: #|#|# # game/code/base/controls.rpy:182
 msgid "Desiree"
 msgstr "Désir"
 
