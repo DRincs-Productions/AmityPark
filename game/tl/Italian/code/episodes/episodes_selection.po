@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-09-22 20:41\n"
 
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # §translate crowdin strings: #|#|# # game/code/episodes/episodes_selection.rpy:202
 msgid "Paulina was in trouble! What did I do?!"
 msgstr "Paulina era nei guai! Che cosa ho fatto?"
 
