@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_sam.rpy:32 #-#-# translate crowdin sam_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -196,6 +196,7 @@ msgstr ""
 msgid "[_samspook_] Yeah, I'll see around school. Take care, Ghost nerd. :) "
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_sam.rpy:26
 msgid "Message Sam."
 msgstr ""
 
