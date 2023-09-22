@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2023-09-22 20:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
@@ -504,6 +504,7 @@ msgstr ""
 msgid "[_desiree_] Rest well... and we'll see each other in the morning... my love...♥"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:484
 msgid "Ask for Anal (Cowgirl)"
 msgstr ""
 
