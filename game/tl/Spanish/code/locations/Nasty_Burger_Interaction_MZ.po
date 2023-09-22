@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-09-22 20:41\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 #-#-# translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
 msgid "[_lily_] Hi there, welcome to Nasty Burger, may I take your order?"
@@ -36,6 +36,7 @@ msgstr "[_lily_] Intenta volver más tarde cuando hayas acabado las clases"
 msgid "[_danny_s_sad_s_talk_happy_2_] Oh no thank you, I'm good. See you around."
 msgstr "[_danny_s_sad_s_talk_happy_2_] Oh, no gracias. Nos vemos luego."
 
+# §translate crowdin strings: #|#|# # game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
 msgid "What do I want at Nasty Burger?"
 msgstr "¿Qué quiero en Nasty Burger?"
 
