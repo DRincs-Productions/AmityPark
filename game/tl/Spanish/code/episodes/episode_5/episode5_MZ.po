@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2023-09-23 12:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -6454,7 +6454,7 @@ msgstr "[_danny_s_phantom_suit_s_towards_s_neutral_s_talk_frown_] Pero, sabes, n
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5420 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_d5c7101d:
 msgid "[_paulina_s_dress_s_away_s_rise_one_s_talk_frown_2_] What, do you hang out with them when you're with Fenton or something?"
-msgstr "[_paulina_s_dress_s_away_s_rise_one_s_talk_frown_2_] ¿Qué, cuelgues con ellos cuando estás con Fenton o algo?"
+msgstr "[_paulina_s_dress_s_away_s_rise_one_s_talk_frown_2_] ¿Qué?, ¿les tienes que aguantar cuando quedas con Fenton o algo así?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5422 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_30b68228:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_neutral_s_talk_frown_] Uhh, sometimes, yeah."
@@ -6462,19 +6462,19 @@ msgstr "[_danny_s_phantom_suit_s_towards_wide_s_neutral_s_talk_frown_] Uhh, a ve
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5424 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_42f05ee5:
 msgid "[_paulina_s_dress_s_down_s_idle__s_talk_frown_2_] I guess you can't get one without the others. They're always with each other."
-msgstr "[_paulina_s_dress_s_down_s_idle__s_talk_frown_2_] Supongo que no puedes conseguir uno sin los demás. Siempre están juntos."
+msgstr "[_paulina_s_dress_s_down_s_idle__s_talk_frown_2_] Supongo que no puedes estar con uno sin los demás. Siempre están juntos."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5426 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_c7c34135:
 msgid "[_danny_s_phantom_suit_s_towards_s_sad_s_talk_frown_2_] You don't stick close with your friends?"
-msgstr "[_danny_s_phantom_suit_s_towards_s_sad_s_talk_frown_2_] ¿No te pegas cerca de tus amigos?"
+msgstr "[_danny_s_phantom_suit_s_towards_s_sad_s_talk_frown_2_] ¿Tú no estás siempre con tus amigas?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5428 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_f529461f:
 msgid "[_paulina_s_dress_s_away_s_neutral_s_talk_frown_] I mean like yeah, I do, but we're not really that close on a personal level, to be honest."
-msgstr "[_paulina_s_dress_s_away_s_neutral_s_talk_frown_] Quiero decir como sí, lo hago, pero no estamos tan cerca a nivel personal, para ser honestos."
+msgstr "[_paulina_s_dress_s_away_s_neutral_s_talk_frown_] Quiero decir como, sí, pero para ser honesto no tengo tanta confianza a nivel personal."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5430 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_d22576f1:
 msgid "[_paulina_s_dress_s_away_s_idle__s_talk_frown_2_s_noblush_] I think we all mainly hang out together just to maintain the social order."
-msgstr "[_paulina_s_dress_s_away_s_idle__s_talk_frown_2_s_noblush_] creo que todos nos estamos quedando juntos principalmente para mantener el orden social."
+msgstr "[_paulina_s_dress_s_away_s_idle__s_talk_frown_2_s_noblush_] creo que todos quedamos bien para mantener el orden social."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5432 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_16977892:
 msgid "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_frown_2_] Oh... so do you have any real friends at that point?"
