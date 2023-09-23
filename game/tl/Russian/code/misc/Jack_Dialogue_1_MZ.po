@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Jack_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin jack_convo_9dca2437:
 msgid "[_danny_s_talk_happy_s_rise_one_s_towards_] Hey Dad, I was-"
@@ -120,6 +120,7 @@ msgstr ""
 msgid "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Oh, wow, look at the time! Gotta go!"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/misc/Jack_Dialogue_1_MZ.rpy:34
 msgid "So, how do you know Vlad Masters?"
 msgstr ""
 

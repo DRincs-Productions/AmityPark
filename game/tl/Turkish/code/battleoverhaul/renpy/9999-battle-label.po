@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-09-22 20:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:69 #-#-# translate crowdin functionlabel_CalledBattle_d97cd968:
 msgid "You've earned [earnedEXP] experience points!"
@@ -68,6 +68,7 @@ msgstr "[_simulatorAi_] Dikkat! \"Fenton Bataryası\" seviyesi kritik bir düş�
 "Daha fazla Simülasyon başlatılamaz. \n"
 "Lütfen Fenton Bataryası tamamen şarj olana kadar bekleyin."
 
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
 msgid "Turn on Super Danny for battle and retry."
 msgstr "Savaş için Süper Danny'yi aç ve yeniden dene."
 

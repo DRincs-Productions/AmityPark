@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
 msgid "[_danny_] (-{u}titties!!{/u})"
@@ -348,6 +348,7 @@ msgstr ""
 msgid "[_danny_] (Okay, that's it, I'm outta here.)"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/misc/maddie_x_jack.rpy:1428
 msgid "What the heck am I supposed to do now??"
 msgstr ""
 

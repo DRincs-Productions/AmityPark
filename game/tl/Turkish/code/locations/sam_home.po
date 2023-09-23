@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-09-22 20:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/sam_home.rpy:12 #-#-# translate crowdin sam_conversation_d0e5db44:
 msgid "[_danny_s_talk_happy_s_rise_one_] Hey Sam! How's it hanging?"
@@ -52,6 +52,7 @@ msgstr ""
 msgid "[_sam_s_talk_happy_s_sad_] Yeah, sure, pop by anytime! Thanks for stopping in."
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/locations/sam_home.rpy:21
 msgid "Hmm... what should I talk about with Sam?"
 msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_star.rpy:34 #-#-# translate crowdin star_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -332,6 +332,7 @@ msgstr "[_danny_s_phantom_s_towards_wide_s_sad_2_s_frown_grin_2_] (...¡¿El ba�
 msgid "[_danny_s_phantom_s_towards_s_frown_grin_3_s_wondering_] (Okay, my first real big interaction with somebody as \"Inviso-Bill\". Shouldn't be too difficult, right?)"
 msgstr "[_danny_s_phantom_s_towards_s_frown_grin_3_s_wondering_] (Vale, mi primera gran interacción real con alguien como \"Inviso-Bill\". No debería ser demasiado difícil, ¿o sí?)"
 
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_star.rpy:27
 msgid "Message Star."
 msgstr "Mensaje Star."
 

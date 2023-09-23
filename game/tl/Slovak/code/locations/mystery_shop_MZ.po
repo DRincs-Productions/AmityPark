@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-09-22 20:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
 msgid "[_box_ghost_s_talk_] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
@@ -108,6 +108,7 @@ msgstr ""
 msgid "[_box_ghost_s_talk_2_s_neutral_] Have a nice day!"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/locations/mystery_shop_MZ.rpy:20
 msgid "Would you like to buy this Mystery Box for $[stolen_box.cost]?"
 msgstr ""
 

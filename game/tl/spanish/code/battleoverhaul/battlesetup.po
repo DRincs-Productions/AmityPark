@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-09-22 20:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
@@ -68,6 +68,7 @@ msgstr "[_epa_] Kate no tuvo una batalla extra."
 msgid "[_epa_] Lake Monster unavailable currently."
 msgstr "[_epa_] El Monstruo del Lago no está disponible actualmente."
 
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Choose which route you will take"
 msgstr "Elija la ruta que va a tomar"
 

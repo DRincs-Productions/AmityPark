@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-09-22 20:41\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -9999,6 +9999,7 @@ msgstr "Sentitevi liberi di condividere le vostre opinioni sul gioco e visitate 
 msgid "Until next time. -GZone "
 msgstr "Alla prossima volta. -GZone "
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9406
 msgid "Buy the coffee beans for ($200) ?"
 msgstr "Compra i chicchi di caffè per ($200) ?"
 

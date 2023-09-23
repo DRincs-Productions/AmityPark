@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-09-22 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -276,6 +276,7 @@ msgstr "[_dannyspook_] C'est bon de te parler, Tuck."
 msgid "[_tuckerspook_] Sure dude, whenever you wanna message! I'm gonna play some Doomed right now. Laterz."
 msgstr "[_tuckerspook_] Bien sûr, mec, quand tu veux ! Je vais jouer à Doomed maintenant. A plus tard."
 
+# §translate crowdin strings: #|#|# # game/code/misc/spookchat_tucker.rpy:29
 msgid "Message Tucker."
 msgstr "Message à Tucker."
 

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-09-22 20:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:69 #-#-# translate crowdin functionlabel_CalledBattle_d97cd968:
 msgid "You've earned [earnedEXP] experience points!"
@@ -68,6 +68,7 @@ msgstr "[_simulatorAi_] Achtung! Das Level \"Fenton Batterie\" hat einen kritisc
 "Weitere Simulation kann nicht gestartet werden. \n"
 "Bitte warten Sie, bis die Fenton Batterie vollständig geladen ist."
 
+# §translate crowdin strings: #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
 msgid "Turn on Super Danny for battle and retry."
 msgstr "Schalte Super Danny für die Schlacht ein und versuche es erneut."
 

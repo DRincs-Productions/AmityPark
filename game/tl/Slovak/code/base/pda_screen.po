@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-09-22 20:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/pda_screen.rpy:184 #-#-# translate crowdin add_new_contact_126980cc:
 msgid "[_danny_] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
@@ -72,6 +72,7 @@ msgstr ""
 msgid "[_danny_] (Guess Tucker's not online right now.)"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/code/base/pda_screen.rpy:173
 msgid "Do you want to add a new contact to Spookchat?"
 msgstr ""
 

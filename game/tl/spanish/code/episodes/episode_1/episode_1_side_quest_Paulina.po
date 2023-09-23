@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-09-22 20:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
@@ -628,6 +628,7 @@ msgstr "[_danny_] ¡Espera, espera! Tu caja sigue siendo... {i}¡muy{/i} pesada!
 msgid "[_danny_] ({i}Ooof{/i}... guess my ghost strength doesn't carry over to my human form...)"
 msgstr "[_danny_] ({i}Ooof{/i}... supongo que mi fuerza de fantasma no conserva en mi forma humana...)"
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:609
 msgid "Save her immediately!"
 msgstr "¡Sálvala inmediatamente!"
 

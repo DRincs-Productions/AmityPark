@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-09-22 20:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
 msgid "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
@@ -1524,6 +1524,7 @@ msgstr "[_danny_s_frown_3_s_wondering_] (Hmmm... immer noch an einen guten Namen
 msgid "[_danny_s_towards_s_neutral_s_frown_2_] (Ehh, it'll come to me later.)"
 msgstr "[_danny_s_towards_s_neutral_s_frown_2_] (Ehh, es wird später zu mir kommen.)"
 
+# §translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
 msgid "Would you like to order the \"Box-O-Parts\" through the Mystery Shop guy?"
 msgstr "Möchten Sie die \"Box-O-Teile\" über den Mystery Shop bestellen?"
 
