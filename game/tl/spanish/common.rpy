@@ -85,9 +85,9 @@ translate spanish strings:
     old "Enable"
     new "Activar"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Desactivar"
+    # # renpy/common/(.*)
+    # old "Disable"
+    # new "(.*)"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -781,9 +781,9 @@ translate spanish strings:
     old "Proceed"
     new "Continuar"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Pantalla completa"
+    # # renpy/common/(.*)
+    # old "Fullscreen"
+    # new "(.*)"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -837,17 +837,17 @@ translate spanish strings:
     old "Force GLES2 Renderer"
     new "Forzar renderizador GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Mando"
+    # # renpy/common/(.*)
+    # old "Gamepad"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Habilitar (sin Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrar"
+    # # renpy/common/(.*)
+    # old "Calibrate"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -877,9 +877,9 @@ translate spanish strings:
     old "Changes will take effect the next time this program is run."
     new "Los cambios se aplicarán la próxima vez que el programa se ejecute."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Salir"
+    # # renpy/common/(.*)
+    # old "Quit"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
