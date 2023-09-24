@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-23 13:16\n"
+"PO-Revision-Date: 2023-09-24 08:46\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -6862,7 +6862,7 @@ msgstr "[_danny_s_phantom_suit_s_towards_s_neutral_s_talk_happy_2_] Así que en 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5714 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_d0ff1f8c:
 msgid "[_paulina_s_dress_s_towards_s_wondering_s_talk_happy_s_noblush_] {i}*Chuckles*{/i} Well wonderful, I'm glad you like it..."
-msgstr "[_paulina_s_dress_s_towards_s_wondering_s_talk_happy_s_noblush_] {i}*Risas * {/i} Bien maravilloso, me alegro de que te guste..."
+msgstr "[_paulina_s_dress_s_towards_s_wondering_s_talk_happy_s_noblush_] {i}*Risas* {/i} Maravilloso, me alegro de que te guste..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5716 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_519d46f2:
 msgid "[_paulina_s_dress_s_towards_s_rise_one_s_talk_bite_s_blush_2_] Now then... here's something I think you'll like even more..."
@@ -6874,35 +6874,35 @@ msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_s_blush
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5725 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_7ce90524:
 msgid "[_paulina_s_nude_s_towards_s_rise_one_s_talk_happy_s_blush_1_] So then... how about it, Danny?"
-msgstr "[_paulina_s_nude_s_towards_s_rise_one_s_talk_happy_s_blush_1_] Entonces, entonces... ¿qué pasa con eso, Danny?"
+msgstr "[_paulina_s_nude_s_towards_s_rise_one_s_talk_happy_s_blush_1_] Entonces, entonces... ¿qué opinas de esto, Danny?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5727 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_d8804f1e:
 msgid "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_happy_] H-h-how 'bout what, e-exactly?"
-msgstr "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_happy_] H-h-how 'bout qué, e-exactamente?"
+msgstr "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_happy_] ¿O-o-opinar sobre que, e-exactamente?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5729 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_f1dae8e2:
 msgid "[_paulina_s_nude_s_towards_s_wondering_s_talk_happy_s_noblush_] How about you lay me down on that bed there..."
-msgstr "[_paulina_s_nude_s_towards_s_wondering_s_talk_happy_s_noblush_] Que tal si me metes en esa cama..."
+msgstr "[_paulina_s_nude_s_towards_s_wondering_s_talk_happy_s_noblush_] Que tal si me metes en la cama..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5731 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_f9f61740:
 msgid "[_paulina_s_nude_s_towards_s_rise_one_s_talk_bite_s_blush_2_] ...and make sweet love to me?"
-msgstr "[_paulina_s_nude_s_towards_s_rise_one_s_talk_bite_s_blush_2_] ...y hazme amor dulce?"
+msgstr "[_paulina_s_nude_s_towards_s_rise_one_s_talk_bite_s_blush_2_] ...y me haces el amor dulcemente?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5733 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_4c195663:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_] R-really?!"
-msgstr "¡[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_] ¿Realmente?!"
+msgstr "¡[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_]¡¿En serio?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5735 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_3886149e:
 msgid "[_paulina_s_nude_s_away_s_neutral_s_talk_frown_s_blush_1_] Oh sure... that is... only if you're up for i-"
-msgstr "[_paulina_s_nude_s_away_s_neutral_s_talk_frown_s_blush_1_] Oh seguro... eso es... solo si estás listo para i-"
+msgstr "[_paulina_s_nude_s_away_s_neutral_s_talk_frown_s_blush_1_] Oh seguro... sí... solo si estás listo para hac-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5737 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_3e45d010:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_angry_s_talk_happy_2_] {b}Y-YES, ABSOLUTELY, I'M READY!! TOTALLY!!{/b}"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_angry_s_talk_happy_2_] {b}Y-YES, ABSOLUTAMENTE, ESTOY LISTO!! ¡TOTALMENTE!! {/b}"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_angry_s_talk_happy_2_] {b}¡¡S-SI, ABSOLUTAMENTE, ESTOY LISTO!! ¡TOTALMENTE!! {/b}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5739 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_ccf20b18:
 msgid "[_paulina_s_nude_s_towards_wide_s_idle_2_s_talk_frown_2_s_noblush_] {i}Danny!! Shhhh!!{/i}"
-msgstr "[_paulina_s_nude_s_towards_wide_s_idle_2_s_talk_frown_2_s_noblush_] {i}Danny!! Shhhh!!{/i}"
+msgstr "[_paulina_s_nude_s_towards_wide_s_idle_2_s_talk_frown_2_s_noblush_] {i}¡¡Danny!! ¡¡Shhhh!!{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5741 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_7e046819:
 msgid "[_danny_s_phantom_suit_s_at_danny_s_wondering_s_talk_happy_] Uhm, I mean, y-yes, I would l-love to-"
@@ -6914,11 +6914,11 @@ msgstr "[_doorsound_] {i}*Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5748 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_069fac1b:
 msgid "[_pauldad_] Paulina? Is that you? Who was that a second ago? I strictly said not a single boy in this room tonight!!"
-msgstr "[_pauldad_] Paulina? ¿Es eso tú? ¿Quién era un segundo antes? ¡No dije estrictamente a un solo niño en esta sala esta noche!!"
+msgstr "[_pauldad_] ¿Paulina? ¿eres tú? ¿Quién era antes? ¡Te dije estrictamente que ni un solo chico en ti habitación esta noche!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5750 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_fd691468:
 msgid "[_paulina_s_nude_s_towards_wide_s_wondering_s_talk_frown_s_noblush_] No papi, it was nobody!"
-msgstr "[_paulina_s_nude_s_towards_wide_s_wondering_s_talk_frown_s_noblush_] No hay papi, ¡no era nada!"
+msgstr "[_paulina_s_nude_s_towards_wide_s_wondering_s_talk_frown_s_noblush_] No hay papi, ¡no fue nada!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5753 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_f60150e1:
 msgid "[_pauldad_] Open the door, I wanna make sure that nobody is going to lay a finger on-"
@@ -6926,7 +6926,7 @@ msgstr "[_pauldad_] Abre la puerta, quiero asegurarme de que nadie va a poner un
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5755 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_491727a9:
 msgid "[_paulina_s_nude_s_away_s_wondering_s_talk_frown_2_s_blush_1_] N-no, you can't, I'm n-naked right now! It was just a video on my phone that played real loud! I'm sorry, I'll turn it down!"
-msgstr "[_paulina_s_nude_s_away_s_wondering_s_talk_frown_2_s_blush_1_] N-no, no puedes, ¡estoy desnuda ahora mismo! Fue sólo un vídeo en mi teléfono que reprodujo en voz alta! Lo siento, ¡lo desactivaré!"
+msgstr "[_paulina_s_nude_s_away_s_wondering_s_talk_frown_2_s_blush_1_] N-no, no puedes, ¡estoy desnuda ahora mismo! ¡Fue sólo un vídeo en mi teléfono que reprodujo en voz alta! Lo siento, ¡lo desactivaré!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5757 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_a04a6d1f:
 msgid "[_pauldad_] ..."
