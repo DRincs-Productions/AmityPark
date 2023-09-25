@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-24 09:55\n"
+"PO-Revision-Date: 2023-09-25 14:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -7470,15 +7470,15 @@ msgstr "[_star_s_normal_s_towards_s_rise_one_s_talk_frown_s_noblush_] Genial, Gr
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6113 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_b02837dc:
 msgid "[_star_] Okay, c'mon Billy! Shuffle on inside there!"
-msgstr "[_star_] Vale, ¡c'mon Billy! ¡Mezclar dentro de allí!"
+msgstr "[_star_] Vale, ¡Vamos! ¡Métete aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6115 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_fa1507ca:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] Oh, okay then. Yeah, I wanna make sure I help you pick the best outfit to-"
-msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] Oh, está bien. Sí, quiero asegurarme de que te ayude a elegir el mejor traje para..."
+msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] Oh, está bien. Sí, quiero asegurarme de ayudarte a elegir el mejor traje para"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6117 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_38584fde:
 msgid "[_star_s_normal_s_towards_s_rise_one_s_talk_happy_2_s_noblush_] Hahah, oh Billy, don't be modest. We both know why you're looking forward to watching me change in and out of clothes."
-msgstr "[_star_s_normal_s_towards_s_rise_one_s_talk_happy_2_s_noblush_] Hahah, oh Billy, no te molestes. Ambos sabemos por qué estás deseando verme cambiar de ropa."
+msgstr "[_star_s_normal_s_towards_s_rise_one_s_talk_happy_2_s_noblush_] Hahah, oh Billy, no seas modesto. Ambos sabemos por qué estás deseando verme cambiándome de ropa."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6119 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_a4fc63f1:
 msgid "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_2_] Uhmmm..."
@@ -7486,19 +7486,19 @@ msgstr "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_2_] Uhmmm..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6121 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_68adac4c:
 msgid "[_star_s_normal_s_towards_s_neutral_2_s_talk_frown_s_noblush_] Come on, let's go, get your butt in gear!"
-msgstr "[_star_s_normal_s_towards_s_neutral_2_s_talk_frown_s_noblush_] ¡Vamos, vamos, consigue tu trasero en marcha!"
+msgstr "[_star_s_normal_s_towards_s_neutral_2_s_talk_frown_s_noblush_] ¡Vamos, vamos, pon tu trasero en marcha!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6123 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_a01ad8a2:
 msgid "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_] Alright, alright! I'm going!"
-msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_] Muy bien, ¡está bien! ¡Voy a hacerlo!"
+msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_] Muy bien, ¡está bien! ¡Ya voy!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6133 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_cb591808:
 msgid "[_danny_s_phantom_s_towards_wide_s_rise_one_s_talk_happy_] Well, it's uh, at least roomy."
-msgstr "[_danny_s_phantom_s_towards_wide_s_rise_one_s_talk_happy_] Bueno, es uh, al menos espacioso."
+msgstr "[_danny_s_phantom_s_towards_wide_s_rise_one_s_talk_happy_] Bueno, és uh, espacioso."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6135 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_ed3dbddc:
 msgid "[_star_s_normal_s_towards_s_neutral_2_s_talk_happy_s_blush_1_] Yeah, but it's still nice and cozy, wouldn't you say?~"
-msgstr "[_star_s_normal_s_towards_s_neutral_2_s_talk_happy_s_blush_1_] Sí, pero todavía es agradable y acogedor, ¿no dirías?~"
+msgstr "[_star_s_normal_s_towards_s_neutral_2_s_talk_happy_s_blush_1_] Sí, és agradable y acogedor, ¿no dirás que no?~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6137 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_7325b4da:
 msgid "[_danny_s_phantom_s_towards_wide_s_wondering_s_talk_frown_] Uhhh..."
@@ -7506,23 +7506,23 @@ msgstr "[_danny_s_phantom_s_towards_wide_s_wondering_s_talk_frown_] Uhhh..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6140 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_b61aeacf:
 msgid "[_sales_lady_] Okay ma'am, I'll leave these four over the edge here for you."
-msgstr "[_sales_lady_] Okay ma'am, dejaré estos cuatro encima del borde aquí para ti."
+msgstr "[_sales_lady_] Okay chica, dejaré estos cuatro encima de aquí para ti."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6142 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_dabf17c0:
 msgid "[_star_s_normal_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Perfect!! Thanks so much!"
-msgstr "[_star_s_normal_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Perfect!! ¡Muchas gracias!"
+msgstr "[_star_s_normal_s_towards_s_neutral_2_s_talk_happy_s_noblush_] ¡¡Perfecto!! ¡Muchas gracias!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6144 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_a16282d8:
 msgid "[_star_s_normal_s_towards_s_neutral_s_talk_happy_s_noblush_] Now Billy, would you mind turning around for me while I slip into each one?"
-msgstr "[_star_s_normal_s_towards_s_neutral_s_talk_happy_s_noblush_] Ahora bien, ¿te importaría girarme para mí mientras me deslizo en cada una?"
+msgstr "[_star_s_normal_s_towards_s_neutral_s_talk_happy_s_noblush_] Ahora bien, ¿te importaría girarme mientras me cambio con cada uno?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6146 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_db68e7e2:
 msgid "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_2_] Wouldn't it have been easier to just have me wait outside for that?"
-msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_2_] ¿No habría sido más fácil tenerme esperar afuera para eso?"
+msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_frown_2_] ¿No habría sido más fácil esperar fuera?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6149 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_df57d556:
 msgid "[_star_s_normal_s_towards_s_confused_s_talk_frown_s_noblush_] This is faster, plus, if it's hideous, I don't wanna be caught seen in it."
-msgstr "[_star_s_normal_s_towards_s_confused_s_talk_frown_s_noblush_] Esto es más rápido, más, si es escondido, no quiero ser visto en él."
+msgstr "[_star_s_normal_s_towards_s_confused_s_talk_frown_s_noblush_] Esto es más rápido, más, escondido, no quiero ser vista haciendo esto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6151 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_189543a0:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] Oh, okay, I guess that makes sense."
@@ -7542,7 +7542,7 @@ msgstr "[_star_] Vale, hazte con eso."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6169 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_cb637f4a:
 msgid "[_danny_s_phantom_s_towards_wide_s_neutral_s_talk_happy_] Woah, that looks pretty good already."
-msgstr "[_danny_s_phantom_s_towards_wide_s_neutral_s_talk_happy_] Woah, eso ya se ve bastante bien."
+msgstr "[_danny_s_phantom_s_towards_wide_s_neutral_s_talk_happy_] Woah, eso se ve bastante bien."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6171 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_9a7f5857:
 msgid "[_star_s_blackdress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Yeah, you think so?"
@@ -7550,27 +7550,27 @@ msgstr "[_star_s_blackdress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Sí, 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6173 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_1f8c117a:
 msgid "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_2_] I really do!"
-msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_2_] ¡Realmente lo hago!"
+msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_2_] ¡Realmente!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6175 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_6fe07957:
 msgid "[_star_s_blackdress_s_towards_s_confused_2_s_talk_frown_s_noblush_] I honestly don't mind the color, it's the hem that's bothering me though, ya know?"
-msgstr "[_star_s_blackdress_s_towards_s_confused_2_s_talk_frown_s_noblush_] Sinceramente no me importa el color, ¿es el sombrero que me molesta, ya lo sabe?"
+msgstr "[_star_s_blackdress_s_towards_s_confused_2_s_talk_frown_s_noblush_] Sinceramente no me importa el color, és el sombrero que me molesta."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6177 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_64252ba9:
 msgid "[_danny_s_phantom_s_blank_stare_s_wondering_s_talk_frown_] Uhh... yeah, totally."
-msgstr "[_danny_s_phantom_s_blank_stare_s_wondering_s_talk_frown_] Uhh... sí, en total."
+msgstr "[_danny_s_phantom_s_blank_stare_s_wondering_s_talk_frown_] Uhh... sí, total."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6179 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_d4a80d9c:
 msgid "[_star_s_blackdress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Oh Billy, you're so silly."
-msgstr "[_star_s_blackdress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Oh Billy, estás tan silly."
+msgstr "[_star_s_blackdress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Oh Billy, estás muy tonto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6181 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_f2952d21:
 msgid "[_star_s_blackdress_s_towards_s_neutral_s_talk_frown_s_noblush_] Moving on, let's try another. Turn around."
-msgstr "[_star_s_blackdress_s_towards_s_neutral_s_talk_frown_s_noblush_] En movimiento, vamos a probar otra. Gira."
+msgstr "[_star_s_blackdress_s_towards_s_neutral_s_talk_frown_s_noblush_] Al lío, voy a probar otra. Gírate."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6183 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_05c2b4f3:
 msgid "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_] Gotcha."
-msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_] Gotcha."
+msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_] Hecho."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6189 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_a0df2a96_1:
 msgid "[_star_] ..."
@@ -7590,11 +7590,11 @@ msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_2_] Eh, una vez más,
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6201 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_962e4ea1:
 msgid "[_star_s_bluedress_s_towards_s_neutral_s_talk_happy_2_s_noblush_] Another all around solid hitter, I agree."
-msgstr "[_star_s_bluedress_s_towards_s_neutral_s_talk_happy_2_s_noblush_] Otro golpeador sólido, estoy de acuerdo."
+msgstr "[_star_s_bluedress_s_towards_s_neutral_s_talk_happy_2_s_noblush_] Otro bueno, estoy de acuerdo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6203 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_473582d5:
 msgid "[_star_s_bluedress_s_towards_s_angry_s_talk_frown_s_noblush_] Although honestly, it feels like my ass is swallowing the fabric in the back already at this point."
-msgstr "[_star_s_bluedress_s_towards_s_angry_s_talk_frown_s_noblush_] Aunque sinceramente, parece que mi culo está tragando la tela en la parte trasera ya en este momento."
+msgstr "[_star_s_bluedress_s_towards_s_angry_s_talk_frown_s_noblush_] Aunque, parece que mi culo se está tragando la tela."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6205 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_d45ee2ad:
 msgid "[_danny_s_phantom_s_towards_s_rise_one_s_talk_happy_] Oh, y-you think so?"
@@ -7602,19 +7602,19 @@ msgstr "[_danny_s_phantom_s_towards_s_rise_one_s_talk_happy_] Oh, ¿lo crees?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6207 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_4f509076:
 msgid "[_star_s_bluedress_s_towards_s_rise_one_s_talk_happy_s_blush_1_] Yes, and before you ask to see it, no. {i}*Giggles*{/i}"
-msgstr "[_star_s_bluedress_s_towards_s_rise_one_s_talk_happy_s_blush_1_] Sí, y antes de pedir verlo, no. {i}*Giggles*{/i}"
+msgstr "[_star_s_bluedress_s_towards_s_rise_one_s_talk_happy_s_blush_1_] Sí, y antes de que tú lo vieras y lo dijeras. {i}*Risas*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6209 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_3130b5b0:
 msgid "[_danny_s_phantom_s_towards_wide_s_angry_s_talk_happy_] Hey, I wouldn't have-"
-msgstr "[_danny_s_phantom_s_towards_wide_s_angry_s_talk_happy_] Hey, no lo tendría-"
+msgstr "[_danny_s_phantom_s_towards_wide_s_angry_s_talk_happy_] Hey, no lo habría-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6211 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_25f451cb:
 msgid "[_star_s_bluedress_s_towards_wide_s_angry_s_talk_frown_s_noblush_] Trust me, I can tell you it's definitely not a pretty picture."
-msgstr "[_star_s_bluedress_s_towards_wide_s_angry_s_talk_frown_s_noblush_] Confíe en mí, puedo decirle que definitivamente no es una foto bonita."
+msgstr "[_star_s_bluedress_s_towards_wide_s_angry_s_talk_frown_s_noblush_] Confía en mí, puedo decirte que no és una foto bonita."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6213 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_be82c872:
 msgid "[_star_s_bluedress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Alright, turn around once more, please Mr. Ghost Man."
-msgstr "[_star_s_bluedress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] De acuerdo, gire una vez más, por favor señor Ghost Man."
+msgstr "[_star_s_bluedress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] De acuerdo. Por favor señor Ghost Man, gírate una vez más,."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6215 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_dd5faf8a:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_2_] Hahah, alright."
