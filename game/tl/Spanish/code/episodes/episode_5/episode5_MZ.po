@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 10:59\n"
+"PO-Revision-Date: 2023-09-26 12:27\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -8098,19 +8098,19 @@ msgstr "[_star_s_dress_s_down_s_neutral_s_talk_frown_s_noblush_] Suelo ser basta
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6547 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_8c2a25b6:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_neutral_s_talk_happy_2_] Well, did you want to meet up with any of your friends from school, maybe introduce me or-"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_neutral_s_talk_happy_2_] Bueno, ¿quieres reunirte con cualquiera de tus amigos de la escuela, tal vez presentarme o"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_neutral_s_talk_happy_2_] Bueno, ¿quieres ver a algún amigo de la escuela?, tal vez presentarme"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6549 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_9d2198e2:
 msgid "[_star_s_dress_s_towards_wide_s_confused_s_talk_frown_s_noblush_] Oh good God, no."
-msgstr "[_star_s_dress_s_towards_wide_s_confused_s_talk_frown_s_noblush_] Oh Dios bueno, no."
+msgstr "[_star_s_dress_s_towards_wide_s_confused_s_talk_frown_s_noblush_] Oh Dios, no."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6551 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_1c5047f1:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_sad_s_talk_frown_2_] Oh, really? My bad, I just thought you-"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_sad_s_talk_frown_2_] Oh, ¿de verdad? Mi maldad, acabo de pensar que tú-"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_sad_s_talk_frown_2_] Oh, ¿de verdad? Valla, pensaba que tú-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6553 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_b186081a:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] What the hell is she doing here?"
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] ¿Qué infierno está haciendo aquí?"
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] ¿Qué demonios está ella haciendo aquí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6555 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_005d3c83:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_] Who are you talking abou-"
@@ -8118,15 +8118,15 @@ msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_] de qui�
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6557 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_9f5105e7:
 msgid "[_kateunk_] Oh, {b}there{/b} you are sweetie! I've been looking for you all night!"
-msgstr "[_kateunk_] ¡Oh, {b}ahí{/b} eres semanal! ¡Te he estado buscando a todos por la noche!"
+msgstr "[_kateunk_] ¡Oh, estas {b}ahí{/b} cielo! ¡Te he estado buscando toda la noche!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6558 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_c74d734b:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] {i}Ugh{/i}... just play it cool, I gotta deal with this myself."
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] {i}Ugh{/i}... simplemente juegue genial, tengo que tratar esto yo mismo."
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] {i}Ugh{/i}... espera aquí, tengo que tratar esto yo misma."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6569 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_a089b6ad:
 msgid "[_kate_s_talk_happy_] Well there you are kiddo, I thought that was you!!"
-msgstr "[_kate_s_talk_happy_] Bueno, ahí eres un niño, ¡¡¡¡¡pensé que era tú!!"
+msgstr "[_kate_s_talk_happy_] Bueno, ahí estás mi niña, ¡pensé que eras tú!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6571 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2a831a2e:
 msgid "[_danny_s_phantom_suit_s_towards_s_rise_one_s_smile_] (Woah!! Nurse Kate!! She's chaperoning tonight?)"
