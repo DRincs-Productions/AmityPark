@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 12:27\n"
+"PO-Revision-Date: 2023-09-27 10:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -8130,19 +8130,19 @@ msgstr "[_kate_s_talk_happy_] Bueno, ahí estás mi niña, ¡pensé que eras tú
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6571 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2a831a2e:
 msgid "[_danny_s_phantom_suit_s_towards_s_rise_one_s_smile_] (Woah!! Nurse Kate!! She's chaperoning tonight?)"
-msgstr "[_danny_s_phantom_suit_s_towards_s_rise_one_s_smile_] (¡Woah!! Nurse Kate!! ¿She's chaperoning esta noche?)"
+msgstr "[_danny_s_phantom_suit_s_towards_s_rise_one_s_smile_] (¡Woah!! La enfermera kate!! ¿Ella és pareja de alguien esta noche?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6573 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_3e81b56e:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_sad_s_grin_happy_] (Holy toledo, look at what she's wearing...)"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_sad_s_grin_happy_] (Santo toledo, mira lo que lleva puesta ...)"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_sad_s_grin_happy_] (Santo Dios, mira lo que lleva puesto...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6575 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_7b91968f:
 msgid "[_danny_s_phantom_suit_s_at_player_wide_s_sad_s_frown_2_] (Wait, did she just recognize me?! Oh no, my secret ident-)"
-msgstr "[_danny_s_phantom_suit_s_at_player_wide_s_sad_s_frown_2_] (Espera, ¿acabó de reconocerme?! Oh no, mi idente secreto-)"
+msgstr "[_danny_s_phantom_suit_s_at_player_wide_s_sad_s_frown_2_] (Espera, ¿acaba de reconocerme?! Oh no, mi identidad secret-)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6576 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_0d423492:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Ugh, just why the hell are you even here tonight?"
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Ugh, ¿por qué el infierno estás aquí esta noche?"
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Ugh, ¿por qué el demonio está aquí esta noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6578 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_8011d728:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] Huh?"
@@ -8150,47 +8150,47 @@ msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] ¿Huh
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6581 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_b1ae6240:
 msgid "[_kate_s_nocoat_s_towards_s_sad_s_talk_frown_s_noblush_s_nocum_] Well, ya know, I took on one of the chaperon duties for tonight! They asked me, so I volunteered."
-msgstr "[_kate_s_nocoat_s_towards_s_sad_s_talk_frown_s_noblush_s_nocum_] Bueno, ya sabe, ¡esta noche asumí uno de los deberes del chaperon! Me preguntaron, así que me volví voluntariamente."
+msgstr "[_kate_s_nocoat_s_towards_s_sad_s_talk_frown_s_noblush_s_nocum_] Bueno, ya sabes, ¡esta noche asumí uno de los deberes de una cita! Me preguntaron y vine voluntariamente."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6584 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_5b9d5397:
 msgid "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] Now sweetie, isn't that dress a little revealing for you to be wearing?"
-msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] semanas ahora, ¿no es eso lo que revela un poco tu uso?"
+msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] encanto, ¿no es és muy atrevido tu vestido?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6586 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_6aedef90:
 msgid "[_danny_s_phantom_suit_s_towards_s_neutral_s_bite_] (Jeez, speak for yourself...)"
-msgstr "[_danny_s_phantom_suit_s_towards_s_neutral_s_bite_] (Jeez, habla por ti mismo...)"
+msgstr "[_danny_s_phantom_suit_s_towards_s_neutral_s_bite_] (Jeez, habla por ti misma...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6587 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_4a1cf137:
 msgid "[_danny_s_phantom_suit_s_at_player_wide_s_sad_2_s_frown_2_] (Wait... sweetie?!)"
-msgstr "[_danny_s_phantom_suit_s_at_player_wide_s_sad_2_s_frown_2_] (Wait... sweetie?!)"
+msgstr "[_danny_s_phantom_suit_s_at_player_wide_s_sad_2_s_frown_2_] (Espera... ¡¿encanto?!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6590 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_ea72f78e:
 msgid "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_happy_2_s_blush_s_nocum_] Now aren't you going to introduce me to your rather pale friend here?"
-msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_happy_2_s_blush_s_nocum_] Ahora no me vas a presentar a tu amigo bastante pálido aquí?"
+msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_happy_2_s_blush_s_nocum_] ¿No me vas a presentar tu pálido amigo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6593 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_ee385c5e:
 msgid "[_star_s_dress_s_down_s_angry_s_talk_frown_s_noblush_] {i}*Sigh*{/i} Fine... Billy, this is my stupid Mom, Kate."
-msgstr "[_star_s_dress_s_down_s_angry_s_talk_frown_s_noblush_] {i}*Alta*{/i} Muy bien... Bien, esta es mi estúpida mamá, Kate."
+msgstr "[_star_s_dress_s_down_s_angry_s_talk_frown_s_noblush_] {i}*Suspiro*{/i} Bien... Billy, esta es mi estúpida madre, Kate."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6596 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_0dd68ee5:
 msgid "[_kate_s_nocoat_s_shocked_s_angry_s_talk_frown_s_noblush_s_nocum_] Stupid?!"
-msgstr "¡[_kate_s_nocoat_s_shocked_s_angry_s_talk_frown_s_noblush_s_nocum_] estúpido?!"
+msgstr "¡[_kate_s_nocoat_s_shocked_s_angry_s_talk_frown_s_noblush_s_nocum_] ¡¿estúpida?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6600 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_40af9c35:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Stupid because you're interrupting my god damn date! You're embarrassing me!!"
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Estúpido porque estás interrumpiendo mi maldita cita del dios! Me estás avergonzando!!"
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Estúpida porque estás interrumpiendo mi maldita cita! ¡Me estás avergonzando!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6603 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_fcb49aaa:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] Mom?!?"
-msgstr "¿[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] mamá??"
+msgstr "¿[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] ¿¡¿madre?!?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6606 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2e03e196:
 msgid "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] Are you alright, young man?"
-msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] ¿Estás bien, joven?"
+msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] ¿Estás bien joven?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6609 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_3bd035e3:
 msgid "[_danny_s_phantom_suit_s_at_danny_s_sad_2_s_talk_frown_] I just uhh... sorry, that surprised me, I just couldn't see the resemblance at first."
-msgstr "[_danny_s_phantom_suit_s_at_danny_s_sad_2_s_talk_frown_] Solo me uhh... lo siento, eso me sorprendió: al principio no pude ver el resfriado."
+msgstr "[_danny_s_phantom_suit_s_at_danny_s_sad_2_s_talk_frown_] Solo uhh... lo siento, eso me sorprendió: al principio no pude ver el parecido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6612 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_63ee856e:
 msgid "[_kate_] ..."
@@ -8202,39 +8202,39 @@ msgstr "[_star_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6617 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_d964e2a3:
 msgid "[_danny_s_phantom_suit_s_towards_s_rise_one_s_talk_happy_] Okay, I guess it should have been obvious actually."
-msgstr "[_danny_s_phantom_suit_s_towards_s_rise_one_s_talk_happy_] Vale, supongo que debería haber sido obvio en realidad."
+msgstr "[_danny_s_phantom_suit_s_towards_s_rise_one_s_talk_happy_] Vale, supongo que debería haber sido obvio."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6621 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_19837ccc:
 msgid "[_kate_s_nocoat_s_towards_s_sad_2_s_talk_frown_s_noblush_s_nocum_] Billy, was it? Are you feeling okay? I'm actually worried about you. You really do look pale."
-msgstr "[_kate_s_nocoat_s_towards_s_sad_2_s_talk_frown_s_noblush_s_nocum_] Bien, ¿era? ¿Te sientes bien? Realmente estoy preocupado por ti. Realmente te ves pálido."
+msgstr "[_kate_s_nocoat_s_towards_s_sad_2_s_talk_frown_s_noblush_s_nocum_] Billy, ¿Te sientes bien? Estoy preocupada por ti. Te ves muy pálido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6623 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_60167b60:
 msgid "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] Is your... fashionable formal suit constricting blood or something?"
-msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] ¿Es tu... traje formal a la moda que está restringiendo la sangre o algo?"
+msgstr "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] ¿Es tu... traje formal que está cortando la circulación de la sangre o algo así?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6625 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_7c9d33ef:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] He's fine, Mom, we're fine, you don't need to helicopter parent me!"
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Está bien, mamá, estamos bien, ¡no necesitas helicópterme a los padres!"
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] El está bien, mamá, estamos bien, ¡no necesito que nos revises!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6628 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_bdff0ed8:
 msgid "[_danny_s_phantom_suit_s_towards_s_wondering_s_bite_] (Personally, I wouldn't mind it if Kate got any closer...)"
-msgstr "[_danny_s_phantom_suit_s_towards_s_wondering_s_bite_] (Personalmente, no me importaría si Kate estuviera más cerca...)"
+msgstr "[_danny_s_phantom_suit_s_towards_s_wondering_s_bite_] (Personalmente, no me importaría si Kate lo hiciera de cerca...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6630 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_7908fba6:
 msgid "[_kate_s_nocoat_s_towards_s_sad_s_talk_frown_s_noblush_s_nocum_] You sure? You kids don't need anything tonight?"
-msgstr "[_kate_s_nocoat_s_towards_s_sad_s_talk_frown_s_noblush_s_nocum_] ¿Seguro? You kids don't need anything tonight?"
+msgstr "[_kate_s_nocoat_s_towards_s_sad_s_talk_frown_s_noblush_s_nocum_] ¿Seguro? ¿no necesitáis nada esta noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6633 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_102e23d5:
 msgid "[_danny_s_phantom_suit_s_towards_s_neutral_s_talk_happy_2_] No, I'm sure we'll be fine, but thanks for asking ma'am. It's nice to have met you."
-msgstr "[_danny_s_phantom_suit_s_towards_s_neutral_s_talk_happy_2_] No, estoy seguro de que estaremos bien, pero gracias por preguntar a las ma'am. Es bueno haberte conocido."
+msgstr "[_danny_s_phantom_suit_s_towards_s_neutral_s_talk_happy_2_] No, estoy seguro de que estaremos bien, pero gracias por preguntar ma'am. Me alegra haberte conocido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6635 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2812e487:
 msgid "[_kate_s_nocoat_s_towards_s_neutral_s_talk_happy_2_s_blush_s_nocum_] Oh absolutely, the pleasure was all mine young man. Well, I guess I can't say you didn't pick a nice boy to-"
-msgstr "[_kate_s_nocoat_s_towards_s_neutral_s_talk_happy_2_s_blush_s_nocum_] Oh, absolutamente, el placer era todo mi joven. Bueno, supongo que no puedo decir que no hayas elegido a un chico bonito-"
+msgstr "[_kate_s_nocoat_s_towards_s_neutral_s_talk_happy_2_s_blush_s_nocum_] Oh, igualmente, el placer fue mío joven. Bueno, no puedo decir que no hayas elegido a un chico guapo-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6638 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_40a9ab51:
 msgid "[_star_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] Oh, my God, why are you still here?? Just leave already!!"
-msgstr "[_star_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] Oh, Dios mío, ¿por qué todavía estás aquí?? ¡¡¡Solo déjalo ya!!"
+msgstr "[_star_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] Oh, Dios mío, ¿¿por qué estás aquí todavía?? ¡¡Olvídanos!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6641 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_f3d12e27:
 msgid "[_kate_s_nocoat_s_towards_s_neutral_s_talk_happy_s_noblush_s_nocum_] Okay, okay, I'm going, relax! You kiddos have fun tonight alright, but also play it safe!"
