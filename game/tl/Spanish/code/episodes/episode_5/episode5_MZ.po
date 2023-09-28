@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-27 12:17\n"
+"PO-Revision-Date: 2023-09-28 10:12\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -8502,15 +8502,15 @@ msgstr "[_paulina_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Ugh. Tienes
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6875 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_ea120eef:
 msgid "[_star_s_dress_s_towards_s_rise_one_s_talk_happy_2_s_noblush_] Oh, trust me, I'll {b}make{/b} it a big deal."
-msgstr "[_star_s_dress_s_towards_s_rise_one_s_talk_happy_2_s_noblush_] Oh, confía en mí, voy a {b}hacer que {/b} sea un gran problema."
+msgstr "[_star_s_dress_s_towards_s_rise_one_s_talk_happy_2_s_noblush_] Oh, creeme, voy a {b}hacer {/b} que sea un gran logro."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6881 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_d11c4094:
 msgid "[_danny_s_phantom_suit_s_towards_s_rise_one_s_talk_happy_] Say what now?"
-msgstr "[_danny_s_phantom_suit_s_towards_s_rise_one_s_talk_happy_] Decir qué ahora?"
+msgstr "[_danny_s_phantom_suit_s_towards_s_rise_one_s_talk_happy_] ¿qué digo ahora?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6883 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_496f264b:
 msgid "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Billy, follow me."
-msgstr "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Atentamente, síguenme."
+msgstr "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Billy, sígueme."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6885 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_df68ff63:
 msgid "[_danny_s_phantom_suit_s_towards_s_sad_2_s_talk_frown_2_] Uhm, what for?"
@@ -8518,15 +8518,15 @@ msgstr "[_danny_s_phantom_suit_s_towards_s_sad_2_s_talk_frown_2_] Uhm, ¿para qu
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6887 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_58872360:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] I've got plans for us. Just shut up and do as I say."
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Tengo planes para nosotros. Simplemente cierre y haga lo que digo."
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Tengo planes para nosotros. Simplemente no digas nada y haz lo que yo te diga."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6890 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_a9a68ea2:
 msgid "[_paulina_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Where are you two going??"
-msgstr "[_paulina_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] ¿A dónde vas dos personas??"
+msgstr "[_paulina_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] ¿¿A dónde vais??"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6893 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_fda27804:
 msgid "[_star_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] C'mon Billy!!"
-msgstr "[_star_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] C'mon Billy!!"
+msgstr "[_star_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] ¡¡vamos Billy!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6895 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_9392b990:
 msgid "[_danny_s_phantom_suit_s_at_player_wide_s_sad_s_frown_2_] (Uh oh, this smells like trouble.)"
