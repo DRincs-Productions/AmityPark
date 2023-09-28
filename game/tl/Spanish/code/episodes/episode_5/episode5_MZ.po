@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-28 10:12\n"
+"PO-Revision-Date: 2023-09-28 11:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -8534,31 +8534,31 @@ msgstr "[_danny_s_phantom_suit_s_at_player_wide_s_sad_s_frown_2_] (Uh oh, esto h
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6900 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_77a11ffa:
 msgid "[_danny_] (And it was trouble. Of a sort.)"
-msgstr "[_danny_] (Y fue un problema. De una clase.)"
+msgstr "[_danny_] (Y fue un problema.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6902 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_3e718af8:
 msgid "[_danny_] (I had honestly expected my night out to end this quickly.)"
-msgstr "[_danny_] (honestamente esperaba que mi noche fuera para terminar rápidamente.)"
+msgstr "[_danny_] (Esperaba que mi noche terminara rápidamente.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6903 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_ff143bda:
 msgid "[_danny_] (Asides from the couple interactions I had with everyone, I didn't really do much at the dance.)"
-msgstr "[_danny_] (Asididos de las interacciones que tuve con todos, no hice mucho en el baile.)"
+msgstr "[_danny_] (Aparte de todas las interacciones que tuve con todo el mundo, no bailé mucho.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6904 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_c107f572:
 msgid "[_danny_] (Plus, out of the few interactions I did have, not too many of them ended up all that pleasant.)"
-msgstr "[_danny_] (Además, de las pocas interacciones que hice, no demasiadas terminaron por ser tan agradables.)"
+msgstr "[_danny_] (Además, pocas interacciones terminaron por ser tan agradables.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6905 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2da17264:
 msgid "[_danny_] (The thing that happened in the bathroom however... well... sorta made up for it.)"
-msgstr "[_danny_] (Lo que pasó en el cuarto de baño... bien... sorta lo compensó.)"
+msgstr "[_danny_] (Lo que pasó en el cuarto de baño... bien... me compensó.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6914 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_84e11464:
 msgid "[_star_] Ahhh, much better. That dance floor was getting too hot for me."
-msgstr "[_star_] Ahhhh, mucho mejor. Esa pista de baile se estaba haciendo demasiado caliente para mí."
+msgstr "[_star_] Ahhhh, mucho mejor. Esa pista de baile se estaba haciendo agobiante."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6916 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_09d24c1f:
 msgid "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_frown_] What's going on Star? Why are we in here?"
-msgstr "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_frown_] ¿Qué está pasando en Star? ¿Por qué estamos aquí?"
+msgstr "[_danny_s_phantom_suit_s_towards_s_wondering_s_talk_frown_] ¿Qué está pasando Star? ¿Por qué estamos aquí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6918 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_d5269eee:
 msgid "[_star_s_dress_s_down_s_confused_s_talk_frown_s_noblush_] Truth be told, I didn't know if I was gonna do this or not."
@@ -8570,39 +8570,39 @@ msgstr "[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_frown_] ¿Qué? 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6922 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_31942f3d:
 msgid "[_star_s_dress_s_towards_wide_s_rise_one_s_talk_happy_s_blush_1_] Billy, I'm hot right now. {i}Real{/i} hot."
-msgstr "[_star_s_dress_s_towards_wide_s_rise_one_s_talk_happy_s_blush_1_] Billy, estoy caliente ahora. {i}Real{/i} caliente."
+msgstr "[_star_s_dress_s_towards_wide_s_rise_one_s_talk_happy_s_blush_1_] Billy, estoy caliente. {i}Muy{/i} caliente."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6924 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_00dfe913:
 msgid "[_star_s_dress_s_towards_wide_s_angry_s_talk_happy_2_s_blush_1_] Showing off in front of Paulina like that, and that Manson chick earlier..."
-msgstr "[_star_s_dress_s_towards_wide_s_angry_s_talk_happy_2_s_blush_1_] Mostrando delante de Paulina como eso, y ese Manson chick antes..."
+msgstr "[_star_s_dress_s_towards_wide_s_angry_s_talk_happy_2_s_blush_1_] Mostrarte delante de Paulina, y esa garrula de Manson..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6926 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_a5f88a5e:
 msgid "[_star_s_dress_s_towards_s_angry_s_talk_happy_s_blush_2_] It got me going."
-msgstr "[_star_s_dress_s_towards_s_angry_s_talk_happy_s_blush_2_] Me puso en marcha."
+msgstr "[_star_s_dress_s_towards_s_angry_s_talk_happy_s_blush_2_] Me puso cachonda."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6928 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_fba4692e:
 msgid "[_danny_s_phantom_suit_s_at_danny_s_neutral_s_talk_happy_] Uh, oh, so you'd like to maybe... try something..."
-msgstr "[_danny_s_phantom_suit_s_at_danny_s_neutral_s_talk_happy_] Uh, oh, así que te gustaría probar... prueba algo..."
+msgstr "[_danny_s_phantom_suit_s_at_danny_s_neutral_s_talk_happy_] Uh, oh, así que te gustaría probar... probar algo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6930 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_4020075a:
 msgid "[_star_s_dress_s_towards_wide_s_rise_one_s_talk_happy_2_s_blush_1_] Fuck, Billy. I want you to fuck me."
-msgstr "[_star_s_dress_s_towards_wide_s_rise_one_s_talk_happy_2_s_blush_1_] Suerte, Billy. Quiero que me folles."
+msgstr "[_star_s_dress_s_towards_wide_s_rise_one_s_talk_happy_2_s_blush_1_] Joder, Billy. Quiero que me folles."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6932 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_0ed597fb:
 msgid "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_2_s_blush_2_] Right here. Right now."
-msgstr "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_2_s_blush_2_] aquí. Ahora mismo."
+msgstr "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_2_s_blush_2_] Aquí y ahora mismo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6934 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_5f71d4c0:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_] Are- are you serious?!"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_] Are- ¿eres serio?!"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_] ¿é-és serio?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6936 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_6c98fe30:
 msgid "[_star_s_dress_s_towards_s_confused_s_talk_happy_2_s_blush_2_] Yes. I'm ready for it."
-msgstr "[_star_s_dress_s_towards_s_confused_s_talk_happy_2_s_blush_2_] Sí. Estoy listo para ello."
+msgstr "[_star_s_dress_s_towards_s_confused_s_talk_happy_2_s_blush_2_] Sí. Estoy lista."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6938 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_39c23cc2:
 msgid "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_2_s_blush_1_] I'm on the pill, it doesn't matter. Do me up. Fuck my guts out."
-msgstr "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_2_s_blush_1_] Estoy en la píldora, no importa. Hazme. Suerte mis cerebros."
+msgstr "[_star_s_dress_s_towards_s_neutral_2_s_talk_happy_2_s_blush_1_] He tomado la píldora. Hazlo. Fóllame a saco."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6940 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_a19641fb:
 msgid "[_danny_s_phantom_suit_s_at_danny_s_wondering_s_talk_happy_2_] Uhm..."
@@ -8610,35 +8610,35 @@ msgstr "[_danny_s_phantom_suit_s_at_danny_s_wondering_s_talk_happy_2_] Uhm..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6942 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_6998f424:
 msgid "[_danny_s_phantom_suit_s_up_wide_s_wondering_s_talk_happy_] I just..."
-msgstr "[_danny_s_phantom_suit_s_up_wide_s_wondering_s_talk_happy_] Sinto..."
+msgstr "[_danny_s_phantom_suit_s_up_wide_s_wondering_s_talk_happy_] Solo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6944 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_789a48de:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_] Oh-okay then, l-let's-"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_] Oh-okay entonces, l-let's-"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_happy_2_] O-okay entonces, voy"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6945 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2944ee12:
 msgid "[_star_s_dress_s_towards_s_neutral_s_talk_happy_2_s_blush_1_] Way ahead of you."
-msgstr "[_star_s_dress_s_towards_s_neutral_s_talk_happy_2_s_blush_1_] Vaya delante de usted."
+msgstr "[_star_s_dress_s_towards_s_neutral_s_talk_happy_2_s_blush_1_] Voy delante de ti."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6950 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_332928ec:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_2_] S-seriously though, right here of all places? You're not worried that somebody might-"
-msgstr "[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_2_] ¿S-seriamente, justo aquí de todos los lugares? No te preocupa que alguien pueda-"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_2_] ¿En s-serio?, ¿de todos los lugares en este? No te preocupa que alguien pueda-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6952 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_f529ae5d:
 msgid "[_star_s_nude_s_towards_s_neutral_s_talk_frown_s_noblush_] Billy, don't worry. I got Dash to steal me a spare pair of Janitor's keys for tonight."
-msgstr "[_star_s_nude_s_towards_s_neutral_s_talk_frown_s_noblush_] No te preocupes, no te preocupes. Tenía Dash para robarme un par de llaves de Janitorio para esta noche."
+msgstr "[_star_s_nude_s_towards_s_neutral_s_talk_frown_s_noblush_] No te preocupes, no te preocupes. Hice que Dash robara un par de llaves del conserje para esta noche."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6954 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_d31e061d:
 msgid "[_star_s_nude_s_towards_s_confused_s_talk_happy_s_noblush_] Thanks for reminding me though, I should get that taken care of first."
-msgstr "[_star_s_nude_s_towards_s_confused_s_talk_happy_s_noblush_] Gracias por recordarme, sin embargo, debería encargarme de eso primero."
+msgstr "[_star_s_nude_s_towards_s_confused_s_talk_happy_s_noblush_] Gracias por recordármelo, debo encargarme de eso primero."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6958 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_10150296:
 msgid "[_doorsound_] {i}*Jingle* *Jingle* *Ker-Klick*{/i}"
-msgstr "[_doorsound_] {i}*Jingle * *Jingle * *Ker-Klick * {/i}"
+msgstr "[_doorsound_] {i}*Tintineo * *Tintineo* *Ker-Klick * {/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6963 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_1470f1f8:
 msgid "[_star_] Now Mr. Handsome Ghost boy... are you ready for this?"
-msgstr "[_star_] Ahora el señor Handsome Ghost muchacho... ¿estás listo para esto?"
+msgstr "[_star_] Ahora señor Handsome chico fantasma... ¿está listo para esto?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6965 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_9434c949:
 msgid "[_danny_s_phantom_suit_s_towards_s_neutral_s_talk_happy_2_] I don't think I can refuse your offer, Ms. Astray."
@@ -8650,19 +8650,19 @@ msgstr "[_star_s_nude_s_towards_s_neutral_2_s_talk_happy_2_s_blush_2_] Entonces 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6980 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_9d49acc2:
 msgid "[_danny_] Ohh... that's so good..."
-msgstr "[_danny_] Ohh... eso es tan bueno..."
+msgstr "[_danny_] Ohh... esto és tan bueno..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6981 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_2d044e82:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] Oh! Yes! Fuck me Billy!"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¡Oh! ¡Sí! ¡Sí! ¡Sí!"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¡Oh! ¡Sí! ¡Fóllame Billy!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6983 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_a5b303f6:
 msgid "[_danny_] Jesus... fuck... this is really nice..."
-msgstr "[_danny_] Jesús... mierda... esto es realmente agradable..."
+msgstr "[_danny_] Jesús... mierda... esto és de puta madre..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6984 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_ba0e07f5:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] Ohh... yeah, you know how to deep dick me good...!"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] Ohh... sí, sabes cómo hacerme una polla profunda...!"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¡Ohh... sí, sabes cómo meterme la polla hasta el fondo y volverme loca...!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6986 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_b34c2653:
 msgid "[_danny_] (I have no idea what I'm doing... but I'm glad she's enjoying it.)"
@@ -8674,55 +8674,55 @@ msgstr "[_danny_] (Tal vez debería decir algo...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6990 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_4b91660c:
 msgid "[_danny_] Yeah... you like that...? Uhnnn..."
-msgstr "[_danny_] Sí... te gusta eso...? Uhnnn..."
+msgstr "[_danny_] Sí... ¿te gusta así...? Uhnnn..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6991 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_36dfffee:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Yeah, it feels so good!"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Sí, se siente tan bien!"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] ¡Sí, se siente fenomenal!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6993 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_d2fd2121:
 msgid "[_danny_] You like the way I fuck this pussy?"
-msgstr "[_danny_] ¿Te gusta la forma de follar este coño?"
+msgstr "[_danny_] ¿Te gusta como te follo el coño?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6994 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_5750ce05:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Holy shit! Yes, you're fucking me silly!"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] ¡Sagita mierda! ¡Sí, me folla bien!"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] ¡Santa biblia! ¡Sí, me estás follando de locura!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6995 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_5236eb97:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] You're so good at this! I love how you take charge!!~"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¡Eres tan bueno en esto! Me encanta cómo te cargas!!~"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¡Eres buenísimo! ¡¡Me encanta cómo me embistes!!~ "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6996 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_de66ebc5:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] You like my sweet ass, baby?"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¿Te gusta mi dulce culo, bebé?"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¿Te gusta mi dulce culo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6998 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_9391efa2:
 msgid "[_danny_] Mmphh.... feels so good... I wanna play with it all night..."
-msgstr "[_danny_] Mmphh.... se siente tan bien... Quiero jugar con él toda la noche..."
+msgstr "[_danny_] Mmphh.... se siente a gloria... Quiero jugar con él toda la noche..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6999 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_9b0c8e34:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] You like getting to fuck me, Billy?"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¿Te gusta que me jodas, Billy?"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_at_player_slow_s_talk_slow_] ¿Te gusta que follarme Billy?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7001 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_8ec9ad14:
 msgid "[_danny_] I love fucking you... it feels so..."
-msgstr "[_danny_] Me encanta follarte... se siente así..."
+msgstr "[_danny_] Me encanta follarte... se siente de gloria..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7002 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_127cb752:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Oh fuck... I'm already gonna cum soon..."
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Oh fuck... Ya estoy gonna cum pronto..."
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Oh joder... Voy a correrme otra veza..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7005 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_d7d275a6:
 msgid "[_danny_] (This is insanity! This is my first time, and I've lasted even this long??)"
-msgstr "[_danny_] (¡Esto es locura! Esta es mi primera vez, y he durado incluso este largo?)"
+msgstr "[_danny_] (¡Esto és una locura! Es mi primera vez ¿y he durado mucho?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7007 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_82cecfb8:
 msgid "[_danny_] Yeah, c-cum on this dick Star... let me... make you... cum... real good."
-msgstr "[_danny_] Sí, c-cum en esta estrella de polla... déjame... hazme... cum... realmente bueno."
+msgstr "[_danny_] Sí, c-correte con esta polla Start... déjame... hacerte... correr... de gloria."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7008 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_d9e24a29:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Ohhh.... God... you're... hitting just... the right...!!~"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Ohhh... Dios... hace... golpeando justo... la derecha...!!~"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] ¡¡Ohhh... Dios... estás... embistiendo... la derecha...!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7009 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_8238a82c:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] ...!!!..."
@@ -8730,19 +8730,19 @@ msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] ...!!!..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7010 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_4bd10d9b:
 msgid "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Huhhh!! Jeeeesus.... fuck...."
-msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Huhhh!! Jeeeesus.... fuck...."
+msgstr "[_star_s_sex_s_doggystyle_s_loop_slow_s_up_slow_s_talk_slow_] Huhhh!! Jeeeesus.... joder...."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7013 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_87d930de:
 msgid "[_danny_] (I seriously can't believe this... I just had one of the most popular girls in school...)"
-msgstr "[_danny_] (No puedo creer esto en serio... Acabo de tener una de las niñas más populares en la escuela...)"
+msgstr "[_danny_] (No puedo creer esto... Acabo de tener una de las chicas más populares de la escuela...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7015 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_063b830c:
 msgid "[_danny_] (She just... we just...)"
-msgstr "[_danny_] (Él justo... nosotros just...)"
+msgstr "[_danny_] (Ella solo... nosotros solo...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7017 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_4cdbf0af:
 msgid "[_danny_] (Oh no... I'm gonna... soon...)"
-msgstr "[_danny_] (Oh no... soy gonna... pronto...)"
+msgstr "[_danny_] (Oh no... voy a... pronto...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7019 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_f7ef0e3c:
 msgid "[_danny_] St-Star..."
@@ -8750,23 +8750,23 @@ msgstr "[_danny_] St-Star..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7020 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_6d33b97f:
 msgid "[_star_s_sex_s_doggystyle_s_loop_fast_s_up_fast_s_talk_fast_] Yahhh...??~"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_fast_s_up_fast_s_talk_fast_] Yahh...??~"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_fast_s_up_fast_s_talk_fast_] ¿¿Yahh...??~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7022 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_1700b7de:
 msgid "[_danny_] I'm gonna... it's gonna come out..."
-msgstr "[_danny_] Soy gonna... va saliendo..."
+msgstr "[_danny_] voy a... voy a correrme..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7023 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_7c74d3ba:
 msgid "[_star_s_sex_s_doggystyle_s_loop_fast_s_at_player_fast_s_talk_fast_] Fucking do it then! Fucking... shoot it inside me, I wanna feel it inside!!"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_fast_s_at_player_fast_s_talk_fast_] ¡Que lo hagas entonces! ¡Sucking... disparándolo dentro de mí, quiero sentirlo dentro!!"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_fast_s_at_player_fast_s_talk_fast_] ¡Joder hazlo entonces! ¡Joder!... ¡¡córrete dentro de mí, quiero sentirlo dentro!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7024 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_5d22c3c0:
 msgid "[_star_s_sex_s_doggystyle_s_loop_fast_s_up_fast_s_talk_fast_] I wanna feel iiiit!!!~"
-msgstr "[_star_s_sex_s_doggystyle_s_loop_fast_s_up_fast_s_talk_fast_] ¡¡¡Quiero sentir iiiit!!!~"
+msgstr "[_star_s_sex_s_doggystyle_s_loop_fast_s_up_fast_s_talk_fast_] ¡¡¡Quiero sentirlooooo!!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7026 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_848977fa:
 msgid "[_danny_] Uhnnmm.... Ughhhh!!!"
-msgstr "[_danny_] Uhnnmm.... Ughhhh!!!"
+msgstr "[_danny_] ¡¡¡Uhnnmm.... Ughhhh!!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7034 #-#-# translate crowdin A_Stroke_After_Midnight_star_dogy_7d290651:
 msgid "[_danny_] That was... amazing..."
@@ -8782,23 +8782,23 @@ msgstr "[_star_s_nude_s_towards_s_rise_one_s_talk_happy_2_s_blush_1_] Sí, la ma
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7055 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_86efe50a:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_2_] I mean... that was incredible."
-msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_2_] Quiero decir... eso era increíble."
+msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_2_] Quiero decir... fue increíble."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7057 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_5a79a224:
 msgid "[_star_s_nude_s_towards_s_rise_one_s_talk_happy_s_blush_2_] You weren't too bad yourself, champ. You treat all the ladies that nicely?"
-msgstr "[_star_s_nude_s_towards_s_rise_one_s_talk_happy_s_blush_2_] Usted no era demasiado malo usted mismo, champ. ¿Usted trata a todas las damas que muy bien?"
+msgstr "[_star_s_nude_s_towards_s_rise_one_s_talk_happy_s_blush_2_] No fuiste demasiado malo, campeón. ¿tratas a todas las damas tan bien?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7059 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_f3aec4a4:
 msgid "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_] I guess... I've never really-"
-msgstr "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_] Supongo que nunca lo he hecho en realidad-"
+msgstr "[_danny_s_phantom_s_at_danny_s_neutral_s_talk_frown_] Yo adivino... yo nunca he hecho en realidad-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7061 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_3ba3ebeb:
 msgid "[_star_s_nude_s_towards_s_confused_2_s_talk_frown_s_noblush_] Okay, not to cut this too short or anything, but I gotta get back to the dance."
-msgstr "[_star_s_nude_s_towards_s_confused_2_s_talk_frown_s_noblush_] Vale, no cortar esto demasiado corto o cualquier cosa, pero tengo que volver a bailar."
+msgstr "[_star_s_nude_s_towards_s_confused_2_s_talk_frown_s_noblush_] Vale, no és que quiera hacer corto este rato, pero tengo que volver a bailar."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7063 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_0aad0729:
 msgid "[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] There's a couple of other people I still need to throw my face in."
-msgstr "[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Hay un par de personas más que todavía tengo que echar la cara."
+msgstr "[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Hay un par de personas más que todavía tengo que ver."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7065 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_ea4a61d7:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] Uhmm... okay... well, I'm gonna wash my hands first, and then we can-"
@@ -8806,43 +8806,43 @@ msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] Uhmm... bien... b
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7067 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_f475d8c8:
 msgid "[_star_s_nude_s_down_s_neutral_s_talk_frown_s_noblush_] Oh, sweetie, absolutely no offense, honestly..."
-msgstr "[_star_s_nude_s_down_s_neutral_s_talk_frown_s_noblush_] Oh, semanas, absolutamente ninguna ofensa, honestamente..."
+msgstr "[_star_s_nude_s_down_s_neutral_s_talk_frown_s_noblush_] Oh, cielo, no me ofende en absoluto, sinceramente..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7069 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_87d7a8a0:
 msgid "[_star_s_nude_s_down_s_sad_s_talk_happy_s_noblush_] But I'll be good the rest of the night by myself."
-msgstr "[_star_s_nude_s_down_s_sad_s_talk_happy_s_noblush_] Pero seré bueno el resto de la noche por mí mismo."
+msgstr "[_star_s_nude_s_down_s_sad_s_talk_happy_s_noblush_] Seré buena el resto de la noche conmigo misma."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7071 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_b7564d3a:
 msgid "[_danny_s_phantom_s_towards_s_angry_s_talk_frown_2_] What? Seriously? Are you tossing me aside already?"
-msgstr "[_danny_s_phantom_s_towards_s_angry_s_talk_frown_2_] ¿Qué? ¿Seriamente ¿Me estás haciendo a un lado ya?"
+msgstr "[_danny_s_phantom_s_towards_s_angry_s_talk_frown_2_] ¿Qué? ¿En serio? ¿Me estás dando de lado ya?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7073 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_db5bc0a7:
 msgid "[_star_s_nude_s_towards_s_confused_2_s_talk_frown_s_noblush_] No, no, no, it's not like that at all."
-msgstr "[_star_s_nude_s_towards_s_confused_2_s_talk_frown_s_noblush_] No, no, no, no es así en absoluto."
+msgstr "[_star_s_nude_s_towards_s_confused_2_s_talk_frown_s_noblush_] No, no, no, no és eso, en absoluto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7075 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_bd71e2d9:
 msgid "[_star_s_nude_s_towards_s_neutral_2_s_talk_happy_s_noblush_] It's just that, the rest of my plans tonight, I can do by myself."
-msgstr "[_star_s_nude_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Es simplemente eso, el resto de mis planes esta noche, puedo hacer por mí mismo."
+msgstr "[_star_s_nude_s_towards_s_neutral_2_s_talk_happy_s_noblush_] Es solo que, el resto de mis planes esta noche los puedo hacer yo misma."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7077 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_2a513453:
 msgid "[_star_s_nude_s_towards_s_rise_one_s_talk_frown_s_noblush_] Nobody else really even knows you, outside of Paulina and Fenton's gang."
-msgstr "[_star_s_nude_s_towards_s_rise_one_s_talk_frown_s_noblush_] Nadie más te conoce en realidad, fuera de Paulina y del gang de Fenton."
+msgstr "[_star_s_nude_s_towards_s_rise_one_s_talk_frown_s_noblush_] Nadie más te conoce bien del todo aparte de Paulina y el lerdo de Fenton."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7079 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_f9c2e479:
 msgid "[_star_s_nude_s_towards_s_sad_s_talk_frown_s_noblush_] Now that I've already peacocked with them, you'd just be wasting your time hanging out here."
-msgstr "[_star_s_nude_s_towards_s_sad_s_talk_frown_s_noblush_] Ahora que ya he tocado con ellos, simplemente estarías perdiendo tu tiempo aquí."
+msgstr "[_star_s_nude_s_towards_s_sad_s_talk_frown_s_noblush_] Ahora que ya les he restregado mi relación contigo, estarías perdiendo tu tiempo aquí."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7081 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_0135a97a:
 msgid "[_danny_s_phantom_s_towards_s_sad_2_s_talk_frown_] So... you don't even wanna hang out with me?"
-msgstr "[_danny_s_phantom_s_towards_s_sad_2_s_talk_frown_] Así que... ¿Ni siquiera quieres pasar el rato conmigo?"
+msgstr "[_danny_s_phantom_s_towards_s_sad_2_s_talk_frown_] Entonces... ¿Ni siquiera quieres pasar el rato conmigo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7083 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_df1fa03d:
 msgid "[_star_s_nude_s_towards_wide_s_neutral_s_talk_happy_s_noblush_] You're amazing, Billy! Of course I would!"
-msgstr "[_star_s_nude_s_towards_wide_s_neutral_s_talk_happy_s_noblush_] ¡Estás asombroso! ¡Por supuesto que lo haría!"
+msgstr "[_star_s_nude_s_towards_wide_s_neutral_s_talk_happy_s_noblush_] ¡Eres asombroso! ¡Por supuesto que lo haría!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7085 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_ee763f5b:
 msgid "[_star_s_nude_s_down_s_confused_s_talk_frown_s_noblush_] But I can't imagine being {i}so{/i} selfish as to keep you to myself the rest of the whole night!"
-msgstr "[_star_s_nude_s_down_s_confused_s_talk_frown_s_noblush_] Pero no puedo imaginar ser {i}tan {/i} egoísta como para mantenerme a mí mismo el resto de toda la noche!"
+msgstr "[_star_s_nude_s_down_s_confused_s_talk_frown_s_noblush_] ¡Pero no puedo imaginar ser {i}tan {/i} egoísta para tenerte para mí el resto de la noche!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7087 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_c1ed3879:
 msgid "[_star_s_nude_s_towards_s_rise_one_s_talk_happy_s_noblush_] You need to go protect the city tonight, don't you?"
@@ -8850,11 +8850,11 @@ msgstr "[_star_s_nude_s_towards_s_rise_one_s_talk_happy_s_noblush_] Tienes que i
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7089 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_112290fd:
 msgid "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] Uhmmm... I don't really have like, patrols or anything-"
-msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] Uhmmm... Realmente no tengo gustos-patrullas o nada-"
+msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] Uhmmm... Realmente no tengo que patrullar o nada del estilo-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7091 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_657f2d6b:
 msgid "[_star_s_nude_s_towards_wide_s_angry_s_talk_happy_2_s_noblush_] Maybe you should! Get into the habit of keeping everyone safe!"
-msgstr "[_star_s_nude_s_towards_wide_s_angry_s_talk_happy_2_s_noblush_] ¡Tal vez deberías! ¡Atrévete al hábito de mantener a todo el mundo seguro!"
+msgstr "[_star_s_nude_s_towards_wide_s_angry_s_talk_happy_2_s_noblush_] ¡Tal vez deberías! ¡Ponte el hábito de mantener a todo el mundo seguro!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7093 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_6f90493f:
 msgid "[_danny_s_phantom_s_at_danny_s_wondering_s_talk_frown_2_] Well..."
@@ -8866,11 +8866,11 @@ msgstr "[_danny_s_phantom_s_towards_s_sad_s_talk_frown_] Entonces, supongo que e
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7097 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_2bf73309:
 msgid "[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Exactly! Awesome! Glad you could understand."
-msgstr "¡[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Exactamente! ¡Fantástico! Te encantaría poder entender."
+msgstr "¡[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Exacto! ¡Fantástico! Me encanta que lo entiendas."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7099 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_659e9a92:
 msgid "[_star_s_nude_s_down_s_neutral_2_s_talk_frown_s_noblush_] Now, I'll text you next week or something, we'll do lunch. Maybe. If I'm not too busy."
-msgstr "[_star_s_nude_s_down_s_neutral_2_s_talk_frown_s_noblush_] Ahora, te voy a escribir la próxima semana o algo, vamos a almorzar. Tal vez. Si no estoy demasiado ocupado."
+msgstr "[_star_s_nude_s_down_s_neutral_2_s_talk_frown_s_noblush_] Ahora, te escribiré la próxima semana más o menos, e iremos a almorzar tal vez. Si no estoy demasiado ocupada."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7101 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_4b4cbb2c:
 msgid "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_] Uhh, well, alrigh-"
@@ -8878,27 +8878,27 @@ msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_happy_] Uhh, bueno, de acue
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7103 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_9f46ab56:
 msgid "[_star_s_nude_s_down_s_angry_s_talk_happy_s_noblush_] Greeeat! Now, I gotta get changed in the bathroom. You stay safe tonight!"
-msgstr "[_star_s_nude_s_down_s_angry_s_talk_happy_s_noblush_] ¡Saludo! Ahora, tengo que cambiarme en el baño. ¡Te quedas a salvo esta noche!"
+msgstr "[_star_s_nude_s_down_s_angry_s_talk_happy_s_noblush_] ¡Genial! Ahora, tengo que cambiarme en el baño. ¡Esta noche dormirás de gloria!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7105 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_5ffb53e2:
 msgid "[_star_s_nude_s_towards_wide_s_angry_s_talk_happy_2_s_noblush_] Bye Billy!! See you around!~"
-msgstr "[_star_s_nude_s_towards_wide_s_angry_s_talk_happy_2_s_noblush_] Aye Billy!! ¡Nos vemos a lo que nos rodea!~"
+msgstr "[_star_s_nude_s_towards_wide_s_angry_s_talk_happy_2_s_noblush_] ¡¡Adiós Billy!! ¡Nos vemos!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7107 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_2f66ef19:
 msgid "[_danny_s_phantom_s_at_player_wide_s_sad_2_s_talk_frown_] Y-yeah, thanks! I'll just... phase outta here then!"
-msgstr "¡[_danny_s_phantom_s_at_player_wide_s_sad_2_s_talk_frown_] Y-sí, gracias! ¡Listo... fase outta aquí entonces!"
+msgstr "¡[_danny_s_phantom_s_at_player_wide_s_sad_2_s_talk_frown_] s-sí, gracias! ¡solo... saldré de aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7108 #-#-# translate crowdin A_Stroke_After_Midnight_after_star_dogy_239deae3:
 msgid "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] ...I guess."
-msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] ...Supongo que"
+msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] ...supongo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7129 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_5c0f7c90:
 msgid "[_danny_s_phantom_s_towards_wide_s_wondering_s_talk_frown_] Well... that was something."
-msgstr "[_danny_s_phantom_s_towards_wide_s_wondering_s_talk_frown_] Bueno... eso era algo."
+msgstr "[_danny_s_phantom_s_towards_wide_s_wondering_s_talk_frown_] Bueno... eso fue algo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7130 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_1d1281cd:
 msgid "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_frown_] I didn't just get... used, right?"
-msgstr "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_frown_] no me acababa de usar... ¿verdad?"
+msgstr "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_frown_] no me acaba de utilizar... ¿verdad?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7131 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_1d8dffaf:
 msgid "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] I mean, if she really only wanted me there to just wave in front of Sam and Paulina like that..."
@@ -8906,7 +8906,7 @@ msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_2_] Quiero decir, si rea
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7132 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_9f7ef968:
 msgid "[_danny_s_phantom_s_at_player_wide_s_angry_s_talk_frown_] One would {i}normally{/i} call that getting used..."
-msgstr "[_danny_s_phantom_s_at_player_wide_s_angry_s_talk_frown_] Uno sería {i}normalmente {/i} llamada que se utiliza ..."
+msgstr "[_danny_s_phantom_s_at_player_wide_s_angry_s_talk_frown_] Uno sería {i}normalmente {/i} descrito como haber sido utilizado..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7133 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_7c963aad:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_frown_2_] ..."
@@ -8914,7 +8914,7 @@ msgstr "[_danny_s_phantom_s_towards_s_wondering_s_frown_2_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7134 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_5eaad18f:
 msgid "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_happy_] Oh, what can I really complain about? I got laid!"
-msgstr "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_happy_] Oh, ¿de qué puedo quejarme realmente? ¡Me han ofrecido!"
+msgstr "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_happy_] Oh, ¿de qué puedo quejarme realmente? ¡He echado un polvo!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7135 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_332d7b4d:
 msgid "[_danny_s_phantom_s_at_player_wide_s_rise_one_s_talk_happy_2_] In a school bathroom..."
@@ -8926,19 +8926,19 @@ msgstr "[_danny_s_phantom_s_at_danny_s_wondering_s_talk_frown_] ¿Es una bonific
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7137 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_5c6cbf90:
 msgid "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] I'll also have to figure out some way I can explain all this to Paulina and Sam & Tuck."
-msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] También tendré que averiguar de alguna manera que pueda explicar todo esto a Paulina y Sam & Tuck."
+msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] También tendré que averiguar de alguna manera de explicar todo esto a Paulina y Sam & Tuck."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7138 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_ca510e4c:
 msgid "[_danny_s_phantom_s_at_player_wide_s_angry_s_talk_frown_2_] I didn't really like the way Star was treating them... felt way too confrontational."
-msgstr "[_danny_s_phantom_s_at_player_wide_s_angry_s_talk_frown_2_] Realmente no me gustó la forma en que Star los estaba tratando... sintiéndose demasiado confrontacional."
+msgstr "[_danny_s_phantom_s_at_player_wide_s_angry_s_talk_frown_2_] No me gustó la forma en que Star los estaba tratando... era demasiado confrontacional."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7139 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_d076ee3b:
 msgid "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] Best not think about it tonight, anyway and just go to sleep."
-msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] Mejor no pensarlo esta noche, de todos modos y simplemente ir a dormir."
+msgstr "[_danny_s_phantom_s_at_danny_s_sad_s_talk_frown_] Mejor no pensar lo de esta noche, simplemente ir a dormir."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7141 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_9c66656e:
 msgid "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_happy_2_] Man... she definitely wiped me out... but I think I even gained some Orgone! Alright!"
-msgstr "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_happy_2_] Hombre... ella definitivamente me limpió... ¡pero creo que incluso gané algo de Orgone! ¡De acuerdo!"
+msgstr "[_danny_s_phantom_s_at_player_wide_s_wondering_s_talk_happy_2_] Tío... ella me dejó vacío... ¡pero creo que gané algo de Orgone! ¡Sí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7143 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_58309785:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
@@ -8958,11 +8958,11 @@ msgstr "[_starspook_] ¡Hola, gracias de nuevo por hoy! ;) "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7162 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_dc488da6:
 msgid "[_billspook_] Uhm... yeah, you are welcome!"
-msgstr "[_billspook_] Uhm... sí, ¡eres bienvenido!"
+msgstr "[_billspook_] Uhm... sí, ¡me alegra de que me escribas!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7163 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_81e96ee5:
 msgid "[_starspook_] Again sorry about leaving you right after our fun time. But I didn't want you to get bored by hanging out with my friends for too much."
-msgstr "[_starspook_] de nuevo disculpa por dejarte justo después de nuestro tiempo de diversión. Pero no quería que te aburras colgando con mis amigos demasiado."
+msgstr "[_starspook_] de nuevo perdona por dejarte después de nuestro tiempo de diversión. Pero no quería que te aburrieras con mis amigos."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7164 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_2da4b044:
 msgid "[_billspook_] It's alright. I had a fun time regardless."
@@ -8974,7 +8974,7 @@ msgstr "[_starspook_] Eso es bueno oír. ^^"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7166 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_e83697d7:
 msgid "[_starspook_] But just to make sure you won't forget me so fast I would like to send you a special gift!"
-msgstr "[_starspook_] Pero ¡solo para asegurarnos de que no me olvides tan rápido me gustaría enviarte un regalo especial!"
+msgstr "[_starspook_] ¡para asegurarme de que no me olvides rápido me gustaría enviarte un regalo especial!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7167 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_63c32af3:
 msgid "[_billspook_] What do you mean?"
@@ -8990,11 +8990,11 @@ msgstr "[_phone_] [[{i} Bzzt {/i} {i} Bzzt {/i}]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7176 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_b6ca2c62:
 msgid "[_danny_] (Oh, cool Star just sent me a JPEG.)"
-msgstr "[_danny_] (Oh, cool Star acaba de enviarme un JPEG.)"
+msgstr "[_danny_] (Oh, joder, Star acaba de enviarme un JPEG.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7177 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_c328dc62:
 msgid "[_danny_] (Wow!! Nice. Star sure has a nice body!!)"
-msgstr "[_danny_] (¡¡¡¡Wow!! Bien hecho!!)"
+msgstr "[_danny_] (¡¡¡¡Wow!!! Bien. ¡¡Start tienen un precioso cuerpo!!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7178 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_da04abde:
 msgid "[_danny_] (I have to save this picture right away.)"
@@ -9014,27 +9014,27 @@ msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7188 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_80411932:
 msgid "[_starspook_] I just thought you deserved something special for today. For your eyes only of course. :P "
-msgstr "[_starspook_] Acabo de pensar que merecías algo especial para hoy. Para tus ojos solo por supuesto: P "
+msgstr "[_starspook_] Acabo de pensar que merecías algo especial para hoy. Solo para tus ojos por supuesto :P "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7193 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_60fa220b:
 msgid "[_billspook_] Thanks, I am definitely looking forward to see you again now."
-msgstr "[_billspook_] Gracias, definitivamente estoy deseando verte de nuevo ahora."
+msgstr "[_billspook_] Gracias, definitivamente estoy deseando verte de nuevo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7194 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_45f43275:
 msgid "[_starspook_] Yeah, me too. Let us go on a date again. I am already looking forward to that <3 "
-msgstr "[_starspook_] Sí, yo también. Volvamos otra fecha. Ya estoy deseando que <3 "
+msgstr "[_starspook_] Sí, yo también. Tengamos otra cita. Ya estoy deseando que <3 "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7195 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_d1ce52f1:
 msgid "[_billspook_] Of course!"
-msgstr "¡[_billspook_] por supuesto!"
+msgstr "¡[_billspook_] ¡por supuesto!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7196 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_1b98d878:
 msgid "[_starspook_] Well, I will have to go and sleep now. Good night Billy! Talk to you soon!! <3 "
-msgstr "[_starspook_] Bueno, tendré que ir a dormir ahora. ¡Buena noche bien! ¡¡Habla contigo!! <3 "
+msgstr "[_starspook_] Bueno, tengo que ir a dormir ahora. ¡Buenas noches Billy! ¡¡Hablaremos pronto!! <3 "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7202 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_173abacb:
 msgid "[_danny_s_phantom_s_talk_happy_] Oh man, that sure was a nice surprise..."
-msgstr "[_danny_s_phantom_s_talk_happy_] Oh hombre, eso fue una buena sorpresa..."
+msgstr "[_danny_s_phantom_s_talk_happy_] Oh tío, eso fue una buena sorpresa..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7203 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_4d68b158:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_2_] Maybe hanging out with Star wasn't so bad after all."
@@ -9042,11 +9042,11 @@ msgstr "[_danny_s_towards_s_neutral_s_talk_happy_2_] Tal vez salir con Star no e
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7204 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_9f3414c1:
 msgid "[_danny_s_phantom_s_at_player_wide_s_rise_one_s_talk_happy_] All in all... things are looking up for ol' Inviso-Bill."
-msgstr "[_danny_s_phantom_s_at_player_wide_s_rise_one_s_talk_happy_] En total... las cosas están buscando la antigua Inviso-Bill."
+msgstr "[_danny_s_phantom_s_at_player_wide_s_rise_one_s_talk_happy_] En total... las cosas están buscando a Inviso-Bill."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7232 #-#-# translate crowdin end_credits_vlad_stinger_76d0b887:
 msgid "[_vlad_s_closed_s_talk_happy_s_sad_2_] Ahhh... finally moved in. Oh, how this just feels so {b}right{/b}! Far better than that lonely old castle mansion..."
-msgstr "[_vlad_s_closed_s_talk_happy_s_sad_2_] Ahhh... finalmente se movió. ¡Oh, cómo se siente tan {b}derecha{/b}! ¡Mucho mejor que esa solitaria mansión de castillo..."
+msgstr "[_vlad_s_closed_s_talk_happy_s_sad_2_] Ahhh... finalmente me mudé. ¡Oh, se siente tan {b}bien{/b}! ¡Mucho mejor que esa solitaria mansión de castillo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7234 #-#-# translate crowdin end_credits_vlad_stinger_cbafd59c:
 msgid "[_vlad_s_towards_s_sad_s_talk_happy_] Yes, this lab will be absolutely perfect for what I need..."
@@ -9058,23 +9058,23 @@ msgstr "[_vlad_s_neutral_] Aquí hay mucho más que suficiente para destruir ese
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7236 #-#-# translate crowdin end_credits_vlad_stinger_d6086732:
 msgid "[_vlad_s_towards_2_s_talk_frown_] ...and for taking away the woman whose heart once belonged to me. All thanks to his idiotic backwards charm!"
-msgstr "[_vlad_s_towards_2_s_talk_frown_] ...y por quitar a la mujer cuyo corazón alguna vez me pertenecía. ¡Gracias a su insólito hechizo atrás!"
+msgstr "[_vlad_s_towards_2_s_talk_frown_] ...y por quitar a la mujer cuyo corazón alguna vez me perteneció. ¡Gracias a su insólito carisma!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7238 #-#-# translate crowdin end_credits_vlad_stinger_3a7d0081:
 msgid "[_vlad_s_sad_2_s_towards_s_talk_frown_] ...along with the addition of my {b}less{/b} than delightful skin complexion..."
-msgstr "[_vlad_s_sad_2_s_towards_s_talk_frown_] ...junto con la adición de mi {b}menos{/b} que la deliciosa complicidad de la piel..."
+msgstr "[_vlad_s_sad_2_s_towards_s_talk_frown_] ...junto con los desperfectos de mi {b}tez{/b} de piel deliciosa..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7239 #-#-# translate crowdin end_credits_vlad_stinger_36acfdce:
 msgid "[_vlad_s_closed_s_sad_s_talk_happy_] But how fitting, Jack- no, how {i}poetic{/i} is it that the thing that once ruined my life, would become my greatest weapon against you...?"
-msgstr "[_vlad_s_closed_s_sad_s_talk_happy_] Pero cuán apropiado, Jack-no, cómo {i}poético {/i} es que la cosa que una vez arruinó mi vida, se convertiría en mi mayor arma contra ti ...?"
+msgstr "[_vlad_s_closed_s_sad_s_talk_happy_] Pero como pudiste, Jack, ¿cómo és de {i}poético {/i} és lo que una vez arruinó mi vida, se convertiría en mi mayor arma contra ti...?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7240 #-#-# translate crowdin end_credits_vlad_stinger_e2c8bc66:
 msgid "[_vlad_s_angry_s_talk_happy_s_towards_2_] I'll make you {b}pay{/b} Jack Fenton for robbing me... and I'll be taking back what was rightfully mine in the first place..."
-msgstr "[_vlad_s_angry_s_talk_happy_s_towards_2_] Te haré {b}pagaron{/b} Jack Fenton por robarme... y estaré recuperando lo que era acertadamente mío en primer lugar..."
+msgstr "[_vlad_s_angry_s_talk_happy_s_towards_2_] Te haré {b}pagar{/b} Jack Fenton robarme... y estaré recuperando lo que fue acertadamente mío en primer lugar..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7243 #-#-# translate crowdin end_credits_vlad_stinger_8087a94c:
 msgid "[_vlad_s_sad_2_s_towards_s_talk_happy_] Oh, how I {b}love{/b} a good monologue with wickedly sinister undertones..."
-msgstr "[_vlad_s_sad_2_s_towards_s_talk_happy_] Oh, cómo me encanta {b}{/b} un buen monologue con inicuamente siniestros undertones..."
+msgstr "[_vlad_s_sad_2_s_towards_s_talk_happy_] Oh, cómo me {b}gusta{/b} un buen monólogo con unas inicuamente siniestras piedras subterráneas..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7256 #-#-# translate crowdin end_credits_vlad_stinger_750008b4:
 msgid "[_vlad_] {b}{i}Muwaha haha bwahahah ahahah!!{/i}{/b}"
@@ -9082,27 +9082,27 @@ msgstr "[_vlad_] {b}{i}Muwaha haha bwahahah ahahah!!{/i}{/b}"
 
 # §translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:911
 msgid "Who should I take to the Casper Chill Formal?"
-msgstr "¿Quién debería llevar al Formal Casper Chill?"
+msgstr "¿Quién debería llevar al baile Formal Casper Chill?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:911
 msgid "Let's take Paulina!"
-msgstr "¡Tomemos Paulina!"
+msgstr "¡Iré con Paulina!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:911
 msgid "Let's take Sam!"
-msgstr "¡Tomemos Sam!"
+msgstr "¡Iré con Sam!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:911
 msgid "Let's take Star!"
-msgstr "¡Tomemos estrella!"
+msgstr "¡Ire con Star!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:911
 msgid "Let's take Desiree!"
-msgstr "¡Tomemos Deseo!"
+msgstr "¡Ire con Desiree!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3155
 msgid "How do I ask Desiree to open up about her past?"
-msgstr "¿Cómo le pido a Desiree que se abra sobre su pasado?"
+msgstr "¿Cómo le pido a Desiree que se me hable de su vida pasada?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3155
 msgid "What was life like as a harem girl?"
@@ -9110,5 +9110,5 @@ msgstr "¿Cómo era la vida como una chica harem?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3155
 msgid "It must've been hard for you."
-msgstr "Debe haber sido difícil para usted."
+msgstr "Debe haber sido difícil para ti."
 
