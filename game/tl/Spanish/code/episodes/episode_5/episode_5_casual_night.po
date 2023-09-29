@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2023-09-29 14:59\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
-msgstr "[_danny_s_sad_] (Oh, mamá está aquí... Espero que todavía no esté enfadada por lo del fallo en el vestuario del otro día...)"
+msgstr "[_danny_s_sad_] (Oh, mamá está aquí... Espero que todavía siga enfadada por lo del vestuario del otro día...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:20 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_acb11dd7:
 msgid "[_danny_s_rise_one_s_talk_frown_2_] Uhh, hey Mom. Hanging outside of the lab, I see..."
@@ -22,31 +22,31 @@ msgstr "[_danny_s_rise_one_s_talk_frown_2_] Uh, hey mamá. Veo que estás afuera
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:25 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_d91734d9:
 msgid "[_maddie_s_towards_s_talk_happy_2_] Oh, hey sweetie. I'm actually glad I ran into you. You haven't seen the remote anywhere, have you?"
-msgstr "[_maddie_s_towards_s_talk_happy_2_] Oh, hola cariño. La verdad es que me alegro de haberme encontrado contigo. No has visto el mando en ningún sitio, ¿verdad?"
+msgstr "[_maddie_s_towards_s_talk_happy_2_] Oh, hola cariño. La verdad es que me alegro de verte. ¿No has visto el mando?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:27 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_836b3d3d:
 msgid "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] For the TV? No, I haven't, is it missing? I don't really watch much television, honestly."
-msgstr "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] ¿Para la tele? No, no lo he hecho, ¿se perdió? No veo mucha televisión, la verdad."
+msgstr "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] ¿Para la tele? ¿se perdió? No, no lo he visto. No veo mucho la tele, la verdad."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:29 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_d6c91781:
 msgid "[_maddie_s_talk_frown_s_away_s_wondering_] Oh, then where could it have gone? It's usually out here on the couch normally, and I even checked between the cushions..."
-msgstr "[_maddie_s_talk_frown_s_away_s_wondering_] Oh, ¿entonces dónde podría haber ido? Normalmente está aquí fuera, en el sofá, e incluso he mirado entre los cojines..."
+msgstr "[_maddie_s_talk_frown_s_away_s_wondering_] Oh, ¿entonces dónde podría estar? Normalmente está por aquí o en el sofá, incluso he mirado entre los cojines..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:31 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_5319c62d:
 msgid "[_danny_s_rise_one_s_talk_frown_2_] You trying to watch the news or something?"
-msgstr "[_danny_s_rise_one_s_talk_frown_2_] ¿Intentas ver las noticias o algo?"
+msgstr "[_danny_s_rise_one_s_talk_frown_2_] ¿Intentas ver las noticias?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:33 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_fd158f34:
 msgid "[_maddie_s_towards_wide_up_s_sad_2_s_talk_frown_] No, no, not at all. The news usually just depresses me unless it's ghost related. And things have been pretty quiet lately..."
-msgstr "[_maddie_s_towards_wide_up_s_sad_2_s_talk_frown_] No, no, para nada. Las noticias normalmente sólo me deprimen a menos que estén relacionadas con fantasmas. Y las cosas han estado bastante tranquilas últimamente..."
+msgstr "[_maddie_s_towards_wide_up_s_sad_2_s_talk_frown_] No, no, para nada. Las noticias normalmente a menos que estén relacionadas con fantasmas sólo me deprimen. Y las cosas han estado bastante tranquilas últimamente..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:35 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_32a12032:
 msgid "[_maddie_s_closed_s_talk_happy_s_sad_] There was actually some report on the other day about a reported \"ghost genie\" and \"nerdy ghost goblin\" sighting at the mall, but that's so ridiculous to be investigated legitimately. I certainly got a chuckle out of it..."
-msgstr "[_maddie_s_closed_s_talk_happy_s_sad_] De hecho, el otro día se informó de un avistamiento de un \"genio fantasma\" y un \"duende fantasma empollón\" en el centro comercial, pero eso es tan ridículo como para ser investigado legítimamente. A mí me hizo gracia..."
+msgstr "[_maddie_s_closed_s_talk_happy_s_sad_] El otro día se informó de un avistamiento de un \"genio fantasma\" y un \"duende fantasma empollón\" en el centro comercial, aquello fue ridículo para ser investigado legítimamente. Me hizo gracia..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:37 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_206b9d16:
 msgid "[_maddie_s_idle__s_towards_s_talk_frown_] I'm simply trying to find the remote so I can switch over to the DVD section of the cable input."
-msgstr "[_maddie_s_idle__s_towards_s_talk_frown_] Simplemente intento encontrar el mando para poder cambiar a la sección DVD de la entrada por cable."
+msgstr "[_maddie_s_idle__s_towards_s_talk_frown_] Simplemente intento encontrar el mando para poder cambiar a la sección DVD a la entrada por cable."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:39 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_36be1399:
 msgid "[_danny_s_talk_frown_s_sad_2_] Why's that?"
@@ -54,19 +54,19 @@ msgstr "[_danny_s_talk_frown_s_sad_2_] ¿Por qué?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:41 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_6c65c267:
 msgid "[_maddie_s_sad_s_talk_happy_s_towards_] I don't know, I just... I just feel like watching a movie is all. It feels like I haven't found a good time to just relax in a good long while, ya know?"
-msgstr "[_maddie_s_sad_s_talk_happy_s_towards_] No sé, yo sólo... Me apetece ver una película, eso es todo. Siento que no he encontrado un buen momento para relajarme en mucho tiempo, ¿sabes?"
+msgstr "[_maddie_s_sad_s_talk_happy_s_towards_] No sé, yo sólo... Me apetece ver una película. No he encontrado un buen momento para relajarme en mucho tiempo, ¿sabes?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:43 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_7bb83009:
 msgid "[_maddie_s_away_s_talk_frown_2_s_sad_] Raising you kids and working in the lab with your father has been great of course, but sometimes I just feel like... I don't know, a bit spread thin."
-msgstr "[_maddie_s_away_s_talk_frown_2_s_sad_] Criar a tus hijos y trabajar en el laboratorio con tu padre ha sido genial, por supuesto, pero a veces me siento como... No sé, un poco dispersa."
+msgstr "[_maddie_s_away_s_talk_frown_2_s_sad_] Criaros y trabajar en el laboratorio con tu padre és genial, por supuesto, pero a veces me siento como... No sé, un poco dispersa."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:45 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_a8a88a0c:
 msgid "[_danny_s_sad_2_s_talk_happy_] You just need to take more breaks mom! Being as busy and as inventive as you and Dad are, I'm sure it gets exhausting."
-msgstr "[_danny_s_sad_2_s_talk_happy_] Tienes que tomarte más descansos, mamá. Con lo ocupados e ingeniosos que están papá y tú, seguro que es agotador."
+msgstr "[_danny_s_sad_2_s_talk_happy_] Tienes que tomarte más descansos, mamá. Estar tan ocupados e ingeniosos seguro que és agotador."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:47 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_99eeb010:
 msgid "[_maddie_s_towards_wide_s_talk_happy_s_wondering_] Yeah, it's good to just take a break every once and awhile, right? Today has just felt like a \"casual night in\" type of vibe, you know?"
-msgstr "[_maddie_s_towards_wide_s_talk_happy_s_wondering_] Sí, es bueno tomarse un descanso de vez en cuando, ¿verdad? Hoy se ha sentido como una \"noche casual en\" tipo de ambiente, ¿sabes?"
+msgstr "[_maddie_s_towards_wide_s_talk_happy_s_wondering_] Sí, és bueno tomarse un descanso de vez en cuando. Hoy tengo la sensación de que sea una \"noche casual\" y ese tipo de ambiente, ¿sabes?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:49 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_2c6d76f1:
 msgid "[_maddie_s_away_wide_s_rise_one_3_s_talk_frown_] But with this darn remote missing, I can't even pop in a nice period piece or rom com to watch..."
