@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-29 16:07\n"
+"PO-Revision-Date: 2023-09-29 17:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -674,51 +674,51 @@ msgstr "[_danny_s_at_danny_s_frown_3_s_rise_one_] (Generalmente existes por el s
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:510 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_48b51006:
 msgid "[_danny_s_towards_s_frown_] (...but how do you bring up your developing feelings {i}for{/i} them?) {i}*Sigh*{/i}"
-msgstr "[_danny_s_towards_s_frown_] (... pero ¿cómo usted trae sus sentimientos de desarrollo {i}para {/i} ellos?) {i}*Sigh * {/i}"
+msgstr "[_danny_s_towards_s_frown_] (... pero ¿cómo tengo sentimientos {i}hacia{/i} ellos?) {i}*Suspiro * {/i}"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:513 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_0a1d9527:
 msgid "[_danny_s_at_player_s_frown_3_] (Let's just hope the rest of this night goes more smoothly without {u}any{/u} more weird moments or...)"
-msgstr "[_danny_s_at_player_s_frown_3_] (Esperemos que el resto de esta noche vaya más bien sin {u}any{/u} momentos más raros o...)"
+msgstr "[_danny_s_at_player_s_frown_3_] (Esperemos que el resto de esta noche vaya bien sin {u}otros{/u} momentos sucios o...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:514 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_b75acb7b:
 msgid "[_danny_s_towards_s_blush_s_bite_s_sad_] (...anything unnecessarily sexually frustrating in general...)"
-msgstr "[_danny_s_towards_s_blush_s_bite_s_sad_] (...cualquier cosa innecesariamente sexamente frustrante en general...)"
+msgstr "[_danny_s_towards_s_blush_s_bite_s_sad_] (...cualquier cosa innecesariamente sexual y frustrante en general...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:542 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_feeda497:
 msgid "[_danny_s_sad_s_down_s_talk_happy_] Hey, I wanted to tell you, I really like your pajamas, Mom."
-msgstr "[_danny_s_sad_s_down_s_talk_happy_] Hey, quería decirte, me gustan mucho tus pijamas, mamá."
+msgstr "[_danny_s_sad_s_down_s_talk_happy_] Hey, quería decirte, me gusta mucho tu pijama, mamá."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:544 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_086d69e1:
 msgid "[_maddie_s_closed_s_talk_happy_s_wondering_] Well thank you, I rarely get to wear them! Even ghosts can be cute!"
-msgstr "[_maddie_s_closed_s_talk_happy_s_wondering_] ¡Muchas gracias, rara vez los llevo! ¡Incluso los fantasmas pueden ser lindos!"
+msgstr "[_maddie_s_closed_s_talk_happy_s_wondering_] ¡Muchas gracias, rara vez lo llevo! ¡Incluso los fantasmas pueden ser lindos!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:546 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_80d5f438:
 msgid "[_maddie_s_towards_wide_up_s_talk_happy_2_s_idle__] I like taking them to bed cause they're super comfortable and sily, but ya know, for the longest time though, I would just sleep nake-"
-msgstr "[_maddie_s_towards_wide_up_s_talk_happy_2_s_idle__] Me gusta llevarlos a la cama porque son súper cómodas y silenciosas, pero ya lo sabe, por el más largo tiempo, sólo dormir desnudo-"
+msgstr "[_maddie_s_towards_wide_up_s_talk_happy_2_s_idle__] Me gusta llevarlo en la cama porque és súper cómodo y silencioso, pero sabes, normalmente, suelo dormir desnud-"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:548 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_f16a8d64:
 msgid "[_maddie_s_sad_s_talk_happy_s_towards_s_blush_] {i}*Ahem*{/i} ...well, you know... {i}au naturel{/i}, as they say."
-msgstr "[_maddie_s_sad_s_talk_happy_s_towards_s_blush_] {i}*Ahem*{/i} ...bueno, sabes... {i}au naturel{/i}, como dicen."
+msgstr "[_maddie_s_sad_s_talk_happy_s_towards_s_blush_] {i}*Ahem*{/i} ...bueno, sabes... {i}naturall{/i}, como dicen."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:550 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_50050aa9:
 msgid "[_maddie_s_talk_happy_2_s_rise_one_2_] Well, anyway, you ready to watch a movie?"
-msgstr "[_maddie_s_talk_happy_2_s_rise_one_2_] Bueno, de todos modos, ¿estás listo para ver un movimiento?"
+msgstr "[_maddie_s_talk_happy_2_s_rise_one_2_] Bueno, ¿estás listo para ver una película?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:552 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_d98a5c1d:
 msgid "[_danny_s_at_player_s_rise_one_s_bite_] (If I have any common sense in my head, just knowing how things have been going lately, I should just go right upstairs and go to bed...)"
-msgstr "[_danny_s_at_player_s_rise_one_s_bite_] (Si tengo algún sentido común en mi cabeza, sólo sabiendo cómo han ido las cosas últimamente, debería ir justo arriba y ir a la cama ...)"
+msgstr "[_danny_s_at_player_s_rise_one_s_bite_] (Si tengo algo de sentido común en mi cabeza, sólo sabiendo cómo han ido las cosas últimamente, debería ir arriba y a la cama...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:554 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_0dfed3b0:
 msgid "[_danny_s_towards_s_sad_2_s_talk_happy_2_] Yeah, of course! Ready for some mom and son type bonding!"
-msgstr "[_danny_s_towards_s_sad_2_s_talk_happy_2_] ¡Sí, por supuesto! ¡Listo para algunas mamás e hijos tipo bonificación!"
+msgstr "[_danny_s_towards_s_sad_2_s_talk_happy_2_] ¡Sí, por supuesto! ¡Listo para un bono de madre e hijo!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:556 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e3f485dc:
 msgid "[_maddie_s_wondering_s_talk_happy_] Great sweetie! Oh, this should be so much fun. I picked out one I haven't seen in a long time."
-msgstr "[_maddie_s_wondering_s_talk_happy_] ¡Grandes semanas! Oh, esto debería ser tan divertido. Elegí una que no he visto en mucho tiempo."
+msgstr "[_maddie_s_wondering_s_talk_happy_] ¡Bien delicia! Oh, esto debería ser muy divertido. Elegí una que no he visto en mucho tiempo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:558 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_64da055e:
 msgid "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] Have you ever seen \"Forget Paris\"?"
-msgstr "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] ¿Alguna vez has visto \"Olvidar Paris\"?"
+msgstr "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] ¿Has visto \"Olvidar Paris\"?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:560 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c62cfc09:
 msgid "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] No, I don't think so..."
@@ -726,7 +726,7 @@ msgstr "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] No, no lo creo..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:562 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e03306f1:
 msgid "[_maddie_s_closed_s_sad_2_s_talk_happy_] Great! Oh, this'll be perfect! I'll pop it in right now! Grab a seat, honey!"
-msgstr "[_maddie_s_closed_s_sad_2_s_talk_happy_] ¡Genial! ¡Oh, esto será perfecto! ¡Lo pondré en marcha ahora! ¡Toma un asiento, miel!"
+msgstr "[_maddie_s_closed_s_sad_2_s_talk_happy_] ¡Genial! ¡Oh, esta será perfecta! ¡La pondré en marcha ahora! ¡Siéntate, delicia!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:564 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_824e0f91:
 msgid "[_danny_s_closed_s_sad_2_s_talk_happy_] Sure thing, Mom!"
@@ -738,7 +738,7 @@ msgstr "[_danny_s_sad_s_talk_frown_] Vale, así que espera, así que ¿quién se
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:586 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_7200f832:
 msgid "[_maddie_s_talk_happy_] Well the airline employee married the basketball referee, but they weren't having the best of times being married together."
-msgstr "[_maddie_s_talk_happy_] Bueno, el empleado de la aerolínea se casó con el árbitro de basketball, pero no tenían lo mejor de las veces de casarse juntos."
+msgstr "[_maddie_s_talk_happy_] Bueno, la empleada de la aerolínea se casó con el árbitro de basketball, pero no tuvieron una boda."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:588 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c8d2d09d:
 msgid "[_danny_s_at_danny_s_talk_frown_2_s_sad_] Right, but then who were the people in the restaurant? Weren't they getting married?"
@@ -746,11 +746,11 @@ msgstr "[_danny_s_at_danny_s_talk_frown_2_s_sad_] Vaya, ¿pero quién era la gen
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:590 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_838607a4:
 msgid "[_maddie_s_away_s_idle__s_talk_frown_] They were the friends of the airline and basketball couple. They were just a soon to be married couple though, correct."
-msgstr "[_maddie_s_away_s_idle__s_talk_frown_] Fueron los amigos de la aerolínea y la pareja de baloncesto. No obstante, fueron una pareja casada en breve."
+msgstr "[_maddie_s_away_s_idle__s_talk_frown_] Fueron los amigos de la aerolínea y la pareja de baloncesto. No obstante, fueron una pareja casada en poco tiempo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:592 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c992478c:
 msgid "[_danny_s_neutral_s_talk_frown_] So wait, this whole time, we've been hearing the story of two people who {b}aren't{/b} married, but we never hear the story of people who {b}are{/b} getting-"
-msgstr "[_danny_s_neutral_s_talk_frown_] Así que espera, todo este tiempo, hemos estado escuchando la historia de dos personas que {b}se casaron{/b} pero nunca oímos la historia de personas que {b}está obteniendo {/b}-"
+msgstr "[_danny_s_neutral_s_talk_frown_] Así que espera, todo el rato, hemos estado escuchando la historia de dos personas que {b}no estaban{/b} casadas, pero nunca oímos la historia de personas que {b} se iban{/b} a-"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:594 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_f21241b2:
 msgid "[_maddie_s_towards_wide_s_sad_2_s_talk_frown_] But they already did get married, Danny-"
@@ -758,55 +758,55 @@ msgstr "[_maddie_s_towards_wide_s_sad_2_s_talk_frown_] Pero ya se casaron, Danny
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:596 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_f87c44f0:
 msgid "[_danny_s_talk_frown_s_towards_s_rise_one_] Yeah, but weren't they already split up...?"
-msgstr "[_danny_s_talk_frown_s_towards_s_rise_one_] Sí, pero no estaban ya divididos...?"
+msgstr "[_danny_s_talk_frown_s_towards_s_rise_one_] Sí, ¿pero no estaban ya sin casar...?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:598 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_656f27a1:
 msgid "[_maddie_s_sad_s_talk_frown_2_s_towards_wide_up_] Well... yeah. But you just saw them get back together at the end!"
-msgstr "[_maddie_s_sad_s_talk_frown_2_s_towards_wide_up_] Bueno... sí, ¡pero acabas de verlos reunidos al final!"
+msgstr "[_maddie_s_sad_s_talk_frown_2_s_towards_wide_up_] Bueno... sí, ¡pero les viste estar juntos otra vez al final!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:600 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_d59693e9:
 msgid "[_danny_s_talk_frown_s_at_player_s_wondering_] Sorry, I guess this stuff kind've went over my head."
-msgstr "[_danny_s_talk_frown_s_at_player_s_wondering_] Lo siento, supongo que este tipo de cosas han pasado por encima de mi cabeza."
+msgstr "[_danny_s_talk_frown_s_at_player_s_wondering_] Lo siento, este tipo de cosas sobrepasan mi cabeza."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:602 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_285ec656:
 msgid "[_maddie_s_talk_happy_s_away_] Oh, that's okay, kiddo. Honestly, this movie was a lot cornier than I remember."
-msgstr "[_maddie_s_talk_happy_s_away_] Oh, eso está bien, kiddo. Honestamente, esta película fue mucho más cornier de lo que recuerdo."
+msgstr "[_maddie_s_talk_happy_s_away_] Oh, eso está bien, chico. Esta película fue mucho más liosa de lo que recuerdo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:604 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_cbbffd94:
 msgid "[_maddie_s_idle__s_talk_happy_2_s_towards_] I'm just glad that you didn't mind spening time with your momma."
-msgstr "[_maddie_s_idle__s_talk_happy_2_s_towards_] Estoy contento de que no le importara espiar el tiempo con su compañía."
+msgstr "[_maddie_s_idle__s_talk_happy_2_s_towards_] Estoy contenta de que no te importara perder tiempo con tu mamá."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:606 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_a6bb89be:
 msgid "[_danny_s_talk_happy_s_sad_2_] No, of course not Mom, I like having special time with you."
-msgstr "[_danny_s_talk_happy_s_sad_2_] No, por supuesto no mamá, me gusta tener un tiempo especial contigo."
+msgstr "[_danny_s_talk_happy_s_sad_2_] No, por supuesto que no mamá, me gusta tener un tiempo especial contigo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:608 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_88865b37:
 msgid "[_maddie_s_closed_s_talk_happy_s_sad_2_] Well thank you, sweetheart. That means a lot."
-msgstr "[_maddie_s_closed_s_talk_happy_s_sad_2_] Bien, gracias por las semanas. Eso significa mucho."
+msgstr "[_maddie_s_closed_s_talk_happy_s_sad_2_] Bien, gracias cariño. Esto significa mucho."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:610 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_509f9b00:
 msgid "[_maddie_s_towards_2_s_rise_one_s_talk_happy_2_] Anyway, how are you doing lately, kiddo? Any new developments in your life I should know?"
-msgstr "[_maddie_s_towards_2_s_rise_one_s_talk_happy_2_] De todos modos, ¿cómo estás haciendo últimamente, chicos? ¿Algún desarrollo nuevo en tu vida que yo debería saber?"
+msgstr "[_maddie_s_towards_2_s_rise_one_s_talk_happy_2_] De todos modos, ¿cómo te va últimamente muchacho? ¿Algún suceso nuevo en tu vida que yo debería saber?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:612 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_0e1b479c:
 msgid "[_danny_s_rise_one_s_talk_frown_s_at_danny_] Me? Well, I mean, a little here and there. I've been meeting some... {b}interesting{/b} people as of late."
-msgstr "[_danny_s_rise_one_s_talk_frown_s_at_danny_] ¿Mos? Bueno, quiero decir, un poco aquí y allá. He estado conociendo algunos... {b}personas interesantes{/b} desde tarde."
+msgstr "[_danny_s_rise_one_s_talk_frown_s_at_danny_] ¿Mi? Bueno, quiero decir, un poco aquí y allá. He estado conociendo algunas... personas {b} interesantes{/b} últimamente."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:614 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c265bb1a:
 msgid "[_maddie_s_towards_wide_s_rise_one_3_s_talk_happy_] Oh, anyone of them happen to be girls by chance?"
-msgstr "[_maddie_s_towards_wide_s_rise_one_3_s_talk_happy_] Oh, ¿alguien de ellos es chicas por casualidad?"
+msgstr "[_maddie_s_towards_wide_s_rise_one_3_s_talk_happy_] Oh, ¿alguna chica por casualidad?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:616 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_89e4dd2a:
 msgid "[_danny_s_wondering_s_talk_happy_] Uhm, {i}*Chuckles*{/i}, yeah, a few of them."
-msgstr "[_danny_s_wondering_s_talk_happy_] Uhm, {i}*Chuckles * {/i}, yeah, algunos de ellos."
+msgstr "[_danny_s_wondering_s_talk_happy_] Uhm, {i}*risas* {/i}, yeah, alguna."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:618 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_9c2ccdeb:
 msgid "[_danny_s_blank_stare_s_sad_2_s_talk_happy_2_] But I don't really think they'd be interested in me, if that's what you're asking."
-msgstr "[_danny_s_blank_stare_s_sad_2_s_talk_happy_2_] Pero realmente no creo que estén interesados en mí, si eso es lo que estás preguntando."
+msgstr "[_danny_s_blank_stare_s_sad_2_s_talk_happy_2_] Pero no creo que estén interesadas en mí, si eso és lo que estás preguntando."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:620 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_ced391aa:
 msgid "[_maddie_s_towards_s_talk_frown_s_sad_2_] Now Danny, you just need more confidence. I see it all the time, with you and Samantha, you need to exude more bravado."
-msgstr "[_maddie_s_towards_s_talk_frown_s_sad_2_] Ahora Danny, solo necesitas más confianza. Lo veo todo el tiempo, junto contigo y Samantha, necesitas exudar más bravado."
+msgstr "[_maddie_s_towards_s_talk_frown_s_sad_2_] Danny, solo necesitas más confianza. Lo veo todo el tiempo, contigo y Samantha, necesitas exudar más valor."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:622 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_2ee9929e:
 msgid "[_danny_s_rise_one_s_talk_frown_2_] Huh? Me and Sam? What do you mean?"
@@ -814,31 +814,31 @@ msgstr "[_danny_s_rise_one_s_talk_frown_2_] ¿Huh? ¿Yo y Sam? ¿Qué quieres de
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:624 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_a9957a41:
 msgid "[_maddie_s_away_s_talk_frown_s_sad_2_] Well Danny, for the longest time that I can even remember, you and Samantha have been very close!"
-msgstr "[_maddie_s_away_s_talk_frown_s_sad_2_] Buen Danny, ¡por el más largo tiempo que puedo recordar, tú y Samantha hemos estado muy cerca!"
+msgstr "[_maddie_s_away_s_talk_frown_s_sad_2_] Buen Danny, ¡por el más largo tiempo que puedo recordar, tú y Samantha habéis estado muy vinculados!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:626 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e2ccf848:
 msgid "[_maddie_s_talk_happy_s_closed_s_sad_] And from my own personal experience, only {b}one{/b} type of feeling develops out of a young girl's heart from sticking close to somebody as close as she has to you."
-msgstr "[_maddie_s_talk_happy_s_closed_s_sad_] Y desde mi propia experiencia personal solo el tipo de sentimiento {b}uno{/b} se desarrolla a partir de un corazón de jovencita joven que se pega cerca de alguien tan cerca como se te acerca."
+msgstr "[_maddie_s_talk_happy_s_closed_s_sad_] Y desde mi propia experiencia personal, solo {b}un{/b} tipo de sentimiento se desarrolla a partir del corazón de una jovencita que se pega tan cerca de alguien como a ti."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:628 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c98376c3:
 msgid "[_danny_s_talk_frown_s_rise_one_s_blank_stare_] So... you're saying... you think she actually {b}likes{/b} me?"
-msgstr "[_danny_s_talk_frown_s_rise_one_s_blank_stare_] Así que... estás diciendo... crees que realmente a {b}me gusta{/b}?"
+msgstr "[_danny_s_talk_frown_s_rise_one_s_blank_stare_] Así que... estás diciendo... crees que realmente a ¿{b}le gusto{/b}?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:630 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_ca1c691f:
 msgid "[_maddie_s_talk_happy_2_s_towards_wide_up_s_sad_] Honey, I study ghosts and the wide spectram of the supernatural, not people. At the end of the day, what do I really know?"
-msgstr "[_maddie_s_talk_happy_2_s_towards_wide_up_s_sad_] Sola, estudio fantasmas y el amplio espectro de lo sobrenatural, no gente. Al fin y al cabo, ¿qué sé realmente?"
+msgstr "[_maddie_s_talk_happy_2_s_towards_wide_up_s_sad_] Delicia, estudio fantasmas y el amplio espectro de lo sobrenatural, no las personas. Al fin y al cabo, ¿qué sé realmente?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:632 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_0701a936:
 msgid "[_maddie_s_towards_s_talk_happy_] But knowing my own son and his friends as well I do... I don't think you need to be a scientist to put two and two togehter."
-msgstr "[_maddie_s_towards_s_talk_happy_] Pero también conozco a mi propio hijo y a sus amigos... No creo que necesites ser un científico para poner dos y dos juntos."
+msgstr "[_maddie_s_towards_s_talk_happy_] Pero también conozco a mi propio hijo y a sus amigos... No creo que necesite ser una científica para poner dos y dos juntos."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:634 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_581609e1:
 msgid "[_danny_s_blank_stare_s_sad_s_talk_frown_2_] Really? That simple, huh?"
-msgstr "[_danny_s_blank_stare_s_sad_s_talk_frown_2_] ¿Realmente? ¿Eso simple, eh?"
+msgstr "[_danny_s_blank_stare_s_sad_s_talk_frown_2_] ¿De verdad? ¿así de simple?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:636 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_7cb52dc7:
 msgid "[_maddie_s_away_s_sad_s_talk_frown_] Well now, look, I don't want to pressure you into something you maybe don't want..."
-msgstr "[_maddie_s_away_s_sad_s_talk_frown_] Bueno, ahora, mire, no quiero presionarte para algo que tal vez no quieres..."
+msgstr "[_maddie_s_away_s_sad_s_talk_frown_] Bueno, ahora, mira, no quiero presionarte por algo que tal vez no quieres..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:638 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_b21c75bb:
 msgid "[_maddie_s_towards_s_sad_2_s_talk_frown_2_] I mean, have {i}you{/i} thought about her in that sort of way before?"
