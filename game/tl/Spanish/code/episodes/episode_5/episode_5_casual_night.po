@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-30 10:47\n"
+"PO-Revision-Date: 2023-09-30 12:32\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -922,95 +922,95 @@ msgstr "[_danny_s_blush_s_blank_stare_s_talk_happy_2_s_sad_] ...y tiene un conju
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:684 #-#-# translate crowdin supportive_mom_chat_654672ca:
 msgid "[_maddie_s_away_s_sad_2_s_frown_] (Oh boy... I had really hoped he would think further than that... but he's still a boy, after all... ahh well, can't be helped.)"
-msgstr "[_maddie_s_away_s_sad_2_s_frown_] (Oh chico... Realmente esperaba que pensaría más allá... pero sigue siendo un niño, después de todo... bueno, no se puede ayudar.)"
+msgstr "[_maddie_s_away_s_sad_2_s_frown_] (Oh chico... Realmente esperaba que pensaría más allá... pero sigue siendo un adolescente después de todo... bueno, no le puedo ayudar.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:686 #-#-# translate crowdin supportive_mom_chat_f3b6b24f:
 msgid "[_maddie_s_sad_s_talk_frown_s_towards_] Well now, that might seem nice from a distance, Danny... but in reality, do you think you have a chance to prove yourself to her?"
-msgstr "[_maddie_s_sad_s_talk_frown_s_towards_] Bueno, ahora, eso podría parecer agradable a distancia, Danny... pero en realidad, ¿cree que tiene la oportunidad de demostrarse con ella?"
+msgstr "[_maddie_s_sad_s_talk_frown_s_towards_] Bueno, ahora, eso podría parecer agradable desde la distancia, Danny... pero en realidad, ¿crees que tienes oportunidad con ella?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:688 #-#-# translate crowdin supportive_mom_chat_9d7b0061:
 msgid "[_danny_s_talk_frown_s_towards_wide_s_sad_s_-blush_] That's the thing though! For the longest time, she was nothing but a pipe dream, we were in totally opposite worlds..."
-msgstr "[_danny_s_talk_frown_s_towards_wide_s_sad_s_-blush_] ¡Pero eso es todo! Durante más tiempo, ella no era más que una quimera, estábamos en mundos totalmente opuestos..."
+msgstr "[_danny_s_talk_frown_s_towards_wide_s_sad_s_-blush_] ¡Eso és todo! Durante mucho tiempo, ella no era más que un sueño, estábamos en mundos totalmente opuestos..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:690 #-#-# translate crowdin supportive_mom_chat_7ce45bbf:
 msgid "[_danny_s_down_s_talk_happy_s_wondering_] ...but recently, I think I've found a way to get her to notice me even more, and to show her what I'm really made of! There's a real chance I have now..."
-msgstr "[_danny_s_down_s_talk_happy_s_wondering_] ... no hace mucho, creo que he encontrado una manera de hacerla notar aún más, y para mostrarle de lo que realmente estoy hecho! Hay una verdadera oportunidad que tengo ahora..."
+msgstr "[_danny_s_down_s_talk_happy_s_wondering_] ... no hace mucho, creo que he encontrado una manera de hacerme notar, para mostrarle de lo que realmente estoy hecho! Ahora tengo una verdadera oportunidad..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:692 #-#-# translate crowdin supportive_mom_chat_59137d9b:
 msgid "[_danny_s_rise_one_s_grin_happy_] (In a certain way, at least...)"
-msgstr "[_danny_s_rise_one_s_grin_happy_] (De cierta manera, al menos...)"
+msgstr "[_danny_s_rise_one_s_grin_happy_] (En cierta manera, al menos...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:694 #-#-# translate crowdin supportive_mom_chat_67918ba8:
 msgid "[_maddie_s_sad_s_talk_happy_] Okay... well if you think you've got a plan, and you think you can pull it off, then I wish you the best of luck, sweetheart."
-msgstr "[_maddie_s_sad_s_talk_happy_] Vale... Bueno si piensas que tienes un plan, y piensas que puedes sacarlo, entonces te deseo mucha suerte, sweeks theart."
+msgstr "[_maddie_s_sad_s_talk_happy_] Vale... Bueno si piensas que tienes un plan, y piensas que puedes sacarlo, entonces te deseo mucha suerte, cariño."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:698 #-#-# translate crowdin supportive_mom_chat_93d12c61:
 msgid "[_danny_s_rise_one_s_talk_happy_] You know, we've sorta joked around about it a couple times, actually..."
-msgstr "[_danny_s_rise_one_s_talk_happy_] Tú lo sabes, hemos bromeado un par de veces, en realidad..."
+msgstr "[_danny_s_rise_one_s_talk_happy_] Sabes, hemos bromeado un par de veces, en..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:700 #-#-# translate crowdin supportive_mom_chat_21e279c3:
 msgid "[_maddie_s_towards_2_s_talk_happy_s_rise_one_] Playing the whole \"Will they, Won't they?\" game together?"
-msgstr "[_maddie_s_towards_2_s_talk_happy_s_rise_one_] Jugando todo el juego \"¿Van a empezar?\" ¿juntos?"
+msgstr "[_maddie_s_towards_2_s_talk_happy_s_rise_one_] Jugando el juego \"¿Empezarán, no empezarán?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:702 #-#-# translate crowdin supportive_mom_chat_1cb543ad:
 msgid "[_danny_s_talk_frown_s_down_s_sad_] Uhh, yeah, I suppose so... mainly just a joke, for the most part..."
-msgstr "[_danny_s_talk_frown_s_down_s_sad_] Uhh, sí, supongo... principalmente solo una broma, por la mayor parte..."
+msgstr "[_danny_s_talk_frown_s_down_s_sad_] Uhh, sí, supongo... principalmente solo és una broma, la mayor parte..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:704 #-#-# translate crowdin supportive_mom_chat_8056c43e:
 msgid "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] But honestly, the more it's been brought up..."
-msgstr "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] Pero sinceramente, cuanto más se ha educado..."
+msgstr "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] Pero sinceramente, cuanto más se está criando..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:706 #-#-# translate crowdin supportive_mom_chat_9f96787d:
 msgid "[_danny_s_rise_one_s_talk_happy_s_towards_] ...the more I think it might actually be true. We sorta would make for a nice couple, right?"
-msgstr "[_danny_s_rise_one_s_talk_happy_s_towards_] ...cuanto más creo que realmente podría ser cierto. Escribimos para hacer una buena pareja, ¿verdad?"
+msgstr "[_danny_s_rise_one_s_talk_happy_s_towards_] ... más creo que podría ser cierto. Podríamos ser una buena pareja, ¿verdad?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:708 #-#-# translate crowdin supportive_mom_chat_b3ee0329:
 msgid "[_maddie_s_closed_s_sad_s_talk_happy_2_] I certainly think so. A cute one in fact! You can't go wrong with someone as level headed and smart as Samantha is, either."
-msgstr "[_maddie_s_closed_s_sad_s_talk_happy_2_] ciertamente lo creo. ¡Una bonita de hecho! No puedes ir mal con alguien tan a nivel como Samantha, tampoco."
+msgstr "[_maddie_s_closed_s_sad_s_talk_happy_2_] ciertamente lo creo. ¡Una bonita de hecho! Tampoco vas mal encaminado tampoco con alguien del nivel de inteligencia de Samantha."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:710 #-#-# translate crowdin supportive_mom_chat_51c4f76e:
 msgid "[_danny_s_down_s_talk_frown_s_neutral_] {i}Hmmm{/i}... well it definitely is something to consider, for sure..."
-msgstr "[_danny_s_down_s_talk_frown_s_neutral_] {i}Hmm{/i}... bueno, definitivamente es algo a lo que te gustar..."
+msgstr "[_danny_s_down_s_talk_frown_s_neutral_] {i}Hmm{/i}... bueno, definitivamente es algo a considerar..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:712 #-#-# translate crowdin supportive_mom_chat_83ff1e4c:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_2_s_-blush_] I just don't know how I'd go about bringing it up to her. I don't wanna make things... weird, ya know?"
-msgstr "[_danny_s_towards_s_sad_s_talk_frown_2_s_-blush_] Simplemente no sé cómo iba a traerla a ella. No quiero hacer cosas... extraña, ¿ya sabe?"
+msgstr "[_danny_s_towards_s_sad_s_talk_frown_2_s_-blush_] No sé cómo ganármela. No quiero hacer cosas... extrañas, ¿ya sabes?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:714 #-#-# translate crowdin supportive_mom_chat_a8864f4f:
 msgid "[_maddie_s_sad_s_talk_happy_] Well I don't think it should be something you jump into straight away, sweetie! Pace things out a bit, and just see where it leads!"
-msgstr "[_maddie_s_sad_s_talk_happy_] Bueno, no creo que deba ser algo en lo que saltes enseguida, ¡sweetie! Pase las cosas un poco, ¡y vea adónde conduce!"
+msgstr "[_maddie_s_sad_s_talk_happy_] Bueno, no creo que deba ser algo en lo que saltes enseguida con todo, ¡cielo! Haz un poco, ¡y ve a dónde conduce!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:716 #-#-# translate crowdin supportive_mom_chat_8cae202e:
 msgid "[_maddie_s_sad_2_s_talk_happy_2_] I'm sure you'll make a decision that will make you happy, regardless. She's a nice girl, and makes for a great friend."
-msgstr "[_maddie_s_sad_2_s_talk_happy_2_] Estoy seguro de que tomarás una decisión que te hará feliz, sin fin. Es una bonita chica, y es un gran amigo."
+msgstr "[_maddie_s_sad_2_s_talk_happy_2_] Estoy seguro de que tomarás una decisión que te hará feliz. Es una bonita chica, y és una gran amiga."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:718 #-#-# translate crowdin supportive_mom_chat_cc15accd:
 msgid "[_danny_s_talk_happy_s_closed_] Thanks Mom. I'll... think about it. Honestly."
-msgstr "[_danny_s_talk_happy_s_closed_] Gracias mamá. Yo... lo pienso. Honestamente."
+msgstr "[_danny_s_talk_happy_s_closed_] Gracias mamá. Yo... sinceramente lo pensaré."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:723 #-#-# translate crowdin supportive_mom_chat_6ce91efa:
 msgid "[_danny_s_at_danny_s_talk_frown_s_sad_] Well, the thing is... I think that I've learned in just the past few days that my preference in girls is someone a bit more... well... I mean, p-putting it lightly..."
-msgstr "[_danny_s_at_danny_s_talk_frown_s_sad_] Bueno, la cosa es... Creo que en los últimos días he aprendido que mi preferencia en las niñas es un poco más. . Bueno... quiero decir, p-ponerlo ligeramente..."
+msgstr "[_danny_s_at_danny_s_talk_frown_s_sad_] Bueno, la cosa és... Creo que en los últimos días he aprendido que mi preferencia de las chicas es un poco más.. Bueno... quiero decir, hablando ligeramente..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:725 #-#-# translate crowdin supportive_mom_chat_d2f7776b:
 msgid "[_maddie_s_towards_wide_s_wondering_s_talk_happy_] Yeah...? C'mon, I'm on the edge of my seat here! {i}*Giggles*{/i}"
-msgstr "[_maddie_s_towards_wide_s_wondering_s_talk_happy_] Sí...? ¿C'mon, ¡Estoy al borde de mi asiento aquí! {i}*Giggles*{/i}"
+msgstr "[_maddie_s_towards_wide_s_wondering_s_talk_happy_] ¿Sí...? Vamos, ¡Me tienes en vilo! {i}*Risas*{/i}"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:727 #-#-# translate crowdin supportive_mom_chat_acee6556:
 msgid "[_danny_s_wondering_s_down_s_talk_frown_2_] Just... someone a tad more..."
-msgstr "[_danny_s_wondering_s_down_s_talk_frown_2_] Just... alguien a tad más..."
+msgstr "[_danny_s_wondering_s_down_s_talk_frown_2_] solo... alguien tad más..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:729 #-#-# translate crowdin supportive_mom_chat_56ea1802:
 msgid "[_danny_s_towards_s_talk_frown_s_sad_] ...{u}mature{/u}? At least, emotionally, that is... and... ya know, physically too, I-I suppose, w-would be nice..."
-msgstr "[_danny_s_towards_s_talk_frown_s_sad_] ...{u}madura{/u}? Al menos, emocionalmente, eso es... y... ya sabe, físicamente también, yo supongo, que sería agradable..."
+msgstr "[_danny_s_towards_s_talk_frown_s_sad_] ...{u}madura{/u}? Al menos, emocionalmente, eso és... y... ya sabes, físicamente también, yo supongo, que sería mejor..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:731 #-#-# translate crowdin supportive_mom_chat_4eaae758:
 msgid "[_maddie_s_sad_s_towards_s_talk_frown_] Oh? Really? You prefer... you prefer {b}older{/b} women?"
-msgstr "[_maddie_s_sad_s_towards_s_talk_frown_] Oh? ¿Realmente? Prefieres ... prefieres {b}mayores {/b} mujeres?"
+msgstr "[_maddie_s_sad_s_towards_s_talk_frown_] Oh ¿Realmente? ¿Prefieres... prefieres mujeres {b}mayores {/b}?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:733 #-#-# translate crowdin supportive_mom_chat_a06889d6:
 msgid "[_danny_s_blank_stare_s_talk_frown_] I mean, normal girls are fine, but honestly, I'm a more physical type of person, and I think that I'd just prefer someone a tad more... experienced."
-msgstr "[_danny_s_blank_stare_s_talk_frown_] quiero decir, las niñas normales están bien, pero honestamente, Soy un tipo de persona más físico, y creo que simplemente preferiría a alguien un poco más. . experimentado."
+msgstr "[_danny_s_blank_stare_s_talk_frown_] quiero decir, las chicas normales están bien, pero sinceramente, soy un tipo de persona práctica, y preferiría a alguien un poco más... experimentada."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:735 #-#-# translate crowdin supportive_mom_chat_fb83a254:
 msgid "[_danny_s_closed_s_talk_frown_2_s_sad_] I'm probably thinking pretty superficially about it, but I just think I'd like a woman with a bit more elegance and grace."
@@ -1018,7 +1018,7 @@ msgstr "[_danny_s_closed_s_talk_frown_2_s_sad_] Probablemente estoy pensando sup
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:737 #-#-# translate crowdin supportive_mom_chat_88187c5f:
 msgid "[_danny_s_towards_s_talk_happy_s_sad_2_s_blush_] I'll be even more honest and say... I think I'd prefer someone... someone sorta like {i}you{/i}, Mom."
-msgstr "[_danny_s_towards_s_talk_happy_s_sad_2_s_blush_] Seré aún más honesto y diré... creo que preferiría a alguien... alguien sorta como {i}tú{/i}, mamá."
+msgstr "[_danny_s_towards_s_talk_happy_s_sad_2_s_blush_] Seré aún más sincero y diré... creo que preferiría a alguien... alguien más como {i}tú{/i}, mamá."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:739 #-#-# translate crowdin supportive_mom_chat_5a496d21:
 msgid "[_maddie_s_sad_] ..."
@@ -1030,15 +1030,15 @@ msgstr "[_danny_s_frown_2_s_wondering_] ..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:742 #-#-# translate crowdin supportive_mom_chat_3534928a:
 msgid "[_maddie_s_talk_frown_s_rise_one_s_towards_2_] Danny you {b}know{/b} how that sounds, right Hon?"
-msgstr "[_maddie_s_talk_frown_s_rise_one_s_towards_2_] Danny you {b}know {/b} how that sounds, right Hon?"
+msgstr "[_maddie_s_talk_frown_s_rise_one_s_towards_2_] Danny ¿{b}sabes {/b} cómo suena eso?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:744 #-#-# translate crowdin supportive_mom_chat_b358de38:
 msgid "[_danny_s_at_danny_s_talk_frown_s_sad_2_] Uhm... n-now, I-I know how it {i}might{/i} sound to some, but I thought m-maybe you'd understand what I was trying to get at..."
-msgstr "[_danny_s_at_danny_s_talk_frown_s_sad_2_] Uhm... n-now, sé cómo suena {i}a algunos{/i}, pero pensé que tal vez entendieras lo que estaba tratando de conseguir..."
+msgstr "[_danny_s_at_danny_s_talk_frown_s_sad_2_] Uhm... s-sé cómo {i}podría{/i} sonar, pero pensé que entenderías lo que estoy tratando de conseguir..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:746 #-#-# translate crowdin supportive_mom_chat_3b5b7b56:
 msgid "[_maddie_s_closed_s_talk_happy_s_sad_2_] That sounds like someone who loves their mother very much. That is just so sweet of you..."
-msgstr "[_maddie_s_closed_s_talk_happy_s_sad_2_] Eso suena como alguien que ama mucho a su madre. Eso es tan dulce de ti..."
+msgstr "[_maddie_s_closed_s_talk_happy_s_sad_2_] Suena a alguien que ama mucho a su madre. Es tan dulce de ti..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:748 #-#-# translate crowdin supportive_mom_chat_aaff8c67:
 msgid "[_danny_s_talk_happy_s_neutral_] R-really? Oh, well I'm glad you think so."
@@ -1046,31 +1046,31 @@ msgstr "[_danny_s_talk_happy_s_neutral_] ¿R-realmente? Oh, bueno, me alegro de 
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:750 #-#-# translate crowdin supportive_mom_chat_523ff084:
 msgid "[_maddie_s_blush_s_towards_wide_up_s_talk_happy_2_] That actually makes me a bit emotional, honestly... thank you sweetheart."
-msgstr "[_maddie_s_blush_s_towards_wide_up_s_talk_happy_2_] Eso realmente me hace un poco emocional, sinceramente... gracias por las semanas."
+msgstr "[_maddie_s_blush_s_towards_wide_up_s_talk_happy_2_] Sinceramente eso me ha emocionado un poco.. gracias cariño."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:752 #-#-# translate crowdin supportive_mom_chat_05c7862d:
 msgid "[_danny_s_-blush_s_talk_happy_2_s_wondering_] Sure Mom, I was just speaking honestly."
-msgstr "[_danny_s_-blush_s_talk_happy_2_s_wondering_] Seguro mamá, solo hablaba honestamente."
+msgstr "[_danny_s_-blush_s_talk_happy_2_s_wondering_] Sí mamá, solo fui sincero."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:754 #-#-# translate crowdin supportive_mom_chat_79918dcd:
 msgid "[_maddie_s_noblush_s_towards_wide_2_s_rise_one_s_talk_frown_] Just don't go chasing after some sorta cougar with a lot of money, Danny. I didn't raise you like that."
-msgstr "[_maddie_s_noblush_s_towards_wide_2_s_rise_one_s_talk_frown_] Simplemente no vayas a buscar después de un sorta cougar con mucho dinero, Danny. No te he criado así."
+msgstr "[_maddie_s_noblush_s_towards_wide_2_s_rise_one_s_talk_frown_] No vayas a buscar algún tipo de pareja con mucho dinero, Danny. No te he criado así."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:756 #-#-# translate crowdin supportive_mom_chat_91cf0f54:
 msgid "[_danny_s_talk_happy_s_sad_s_closed_] {i}*Chuckles*{/i} No, no, of course not Mom, I wouldn't."
-msgstr "[_danny_s_talk_happy_s_sad_s_closed_] {i}*Chuckles*{/i} No, no, por supuesto no mamá, no lo haría."
+msgstr "[_danny_s_talk_happy_s_sad_s_closed_] {i}*Risas*{/i} No, no, por supuesto no mamá, no lo haría."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:758 #-#-# translate crowdin supportive_mom_chat_ccddcd98:
 msgid "[_maddie_s_away_s_blush_s_grin_happy_s_rise_one_3_] (More mature {b}physically{/b}? Someone like his mother? My oh my, Danny, I didn't think you had such a refined taste in women...)"
-msgstr "[_maddie_s_away_s_blush_s_grin_happy_s_rise_one_3_] (¿Más maduro {b}físicamente{/b}? ¿Alguien le gusta a su madre? Mi oh, Danny, no creo que tenías un sabor tan refinado en las mujeres...)"
+msgstr "[_maddie_s_away_s_blush_s_grin_happy_s_rise_one_3_] (¿Más madura {b}físicamente{/b}? ¿Alguien como su madre? oh Dios, oh, Danny, no pensé que tuvieras un gusto tan refinado en las mujeres...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:760 #-#-# translate crowdin supportive_mom_chat_82a6b9ce:
 msgid "[_maddie_s_towards_2_s_smile_2_s_rise_one_] (I'm glad I raised you to be so open minded, kiddo...~)"
-msgstr "[_maddie_s_towards_2_s_smile_2_s_rise_one_] (Me alegro de que te crié para ser tan abierto de mente, chicos...~)"
+msgstr "[_maddie_s_towards_2_s_smile_2_s_rise_one_] (Me alegro de que haberte criado para ser tan abierto de mente, chico...~)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:763 #-#-# translate crowdin supportive_mom_chat_af74df7d:
 msgid "[_maddie_s_towards_s_noblush_s_talk_happy_2_s_idle__] Well, regardless of who or what you decide to go after, Danny, I'm just glad you're not closing yourself off from a relationship entirely. I really think you deserve to have somebody special, honest!"
-msgstr "[_maddie_s_towards_s_noblush_s_talk_happy_2_s_idle__] Bueno, sin importar quién o qué decidas ir después, Danny, Estoy contento de que no te estés cerrando de una relación por completo. ¡Realmente creo que merecen que alguien especial, honesto!"
+msgstr "[_maddie_s_towards_s_noblush_s_talk_happy_2_s_idle__] Bueno, sin importar quién o qué decidas después, Danny, estoy contenta de que no te estés cerrando una relación por completo. ¡Creo sinceramente que te mereces alguien especial!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:765 #-#-# translate crowdin supportive_mom_chat_a62350c9:
 msgid "[_danny_s_talk_happy_s_wondering_] Right, of course."
@@ -1078,19 +1078,19 @@ msgstr "[_danny_s_talk_happy_s_wondering_] , por supuesto."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:767 #-#-# translate crowdin supportive_mom_chat_af70272d:
 msgid "[_maddie_s_sad_2_s_closed_s_talk_happy_2_] I also appreciate you opening up to me about things and just being honest."
-msgstr "[_maddie_s_sad_2_s_closed_s_talk_happy_2_] También aprecio que me abres sobre las cosas y que simplemente sea honesto."
+msgstr "[_maddie_s_sad_2_s_closed_s_talk_happy_2_] También aprecio que me hables sobre las cosas y que seas sincero."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:768 #-#-# translate crowdin supportive_mom_chat_5c4b14af:
 msgid "[_maddie_s_talk_happy_s_towards_s_sad_] And that no matter what it is, you can always come talk to me about whatever you're dealing with."
-msgstr "[_maddie_s_talk_happy_s_towards_s_sad_] Y eso sin importar lo que sea, siempre puedes hablar conmigo de lo que te ocupes."
+msgstr "[_maddie_s_talk_happy_s_towards_s_sad_] Y eso sin importar lo que sea, siempre puedes hablar conmigo de lo que te preocupe."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:770 #-#-# translate crowdin supportive_mom_chat_94b97572:
 msgid "[_danny_s_closed_s_talk_happy_2_] For sure, I will."
-msgstr "[_danny_s_closed_s_talk_happy_2_] Por cierto, lo haré."
+msgstr "[_danny_s_closed_s_talk_happy_2_] Seguro, lo haré."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:772 #-#-# translate crowdin supportive_mom_chat_fc37495b:
 msgid "[_maddie_s_rise_one_3_s_talk_happy_] Well... I think I'm about done for the night, how about you?"
-msgstr "[_maddie_s_rise_one_3_s_talk_happy_] Bueno... Creo que estoy listo para la noche, ¿qué pasa con ti?"
+msgstr "[_maddie_s_rise_one_3_s_talk_happy_] Bueno... Creo acabó nuestro tiempo, ¿qué te ha parecido?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:774 #-#-# translate crowdin supportive_mom_chat_6721a7a0:
 msgid "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] Yeah, it was nice! I liked it."
@@ -1098,43 +1098,43 @@ msgstr "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] Sí, fue agradable! Me gus
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:776 #-#-# translate crowdin supportive_mom_chat_968a6577:
 msgid "[_maddie_s_sad_s_away_wide_s_talk_frown_] Oh, it wasn't that good, honestly. It was sort've a lame kinda romance movie."
-msgstr "[_maddie_s_sad_s_away_wide_s_talk_frown_] Oh, no fue tan bueno, sinceramente. Estaba sort've una película romántica coja."
+msgstr "[_maddie_s_sad_s_away_wide_s_talk_frown_] Oh, no fue tan bueno, sinceramente. Fue una película romántica a trompicones."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:778 #-#-# translate crowdin supportive_mom_chat_72da24ce:
 msgid "[_danny_s_towards_s_talk_happy_] I just meant spending time with you."
-msgstr "[_danny_s_towards_s_talk_happy_] solo quería decir pasar tiempo contigo."
+msgstr "[_danny_s_towards_s_talk_happy_] quería decir pasar tiempo contigo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:780 #-#-# translate crowdin supportive_mom_chat_23ed1f09:
 msgid "[_maddie_s_blush_s_talk_happy_s_towards_2_s_rise_one_] Oh you... ya' know, flattery is definitely key to gaining a woman's heart, so I'd say you're already well on your way! {i}*Giggles*{/i}"
-msgstr "[_maddie_s_blush_s_talk_happy_s_towards_2_s_rise_one_] ¡Oh tú... ya sabían, la flatería es definitivamente la clave para ganar el corazón de una mujer, así que yo diría que ya estás en camino! {i}*Giggles*{/i}"
+msgstr "[_maddie_s_blush_s_talk_happy_s_towards_2_s_rise_one_] ¡Oh tú... sabes, adular és la clave para ganar el corazón de una mujer, así que yo diría que vas por buen camino! {i}*risas*{/i}"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:782 #-#-# translate crowdin supportive_mom_chat_2759caa9:
 msgid "[_danny_s_at_player_s_rise_one_s_talk_happy_2_] {i}*Chuckles*{/i} Th-thanks Mom."
-msgstr "[_danny_s_at_player_s_rise_one_s_talk_happy_2_] {i}*Chuckles * {/i} Th-agradece a mamá."
+msgstr "[_danny_s_at_player_s_rise_one_s_talk_happy_2_] {i}*risas * {/i} gr-gracias mamá."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:784 #-#-# translate crowdin supportive_mom_chat_a07e11fb:
 msgid "[_maddie_s_towards_s_idle__s_talk_happy_2_s_noblush_] Well, goodnight sweetie. I'm just gonna go pop up for a quick {b}shower{/b} before bed."
-msgstr "[_maddie_s_towards_s_idle__s_talk_happy_2_s_noblush_] Bueno, buenas semanas por la noche. Sólo voy a salir a una ducha {b}rápida{/b} antes de la cama."
+msgstr "[_maddie_s_towards_s_idle__s_talk_happy_2_s_noblush_] Bueno, buenas noches cielo. Voy a darme una ducha {b}rápida{/b} antes de ir a la cama."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:786 #-#-# translate crowdin supportive_mom_chat_ddc08484:
 msgid "[_maddie_s_closed_s_sad_2_s_talk_happy_] I probably should have done that beforehand, honestly..."
-msgstr "[_maddie_s_closed_s_sad_2_s_talk_happy_] Probablemente debería haberlo hecho de antemano, sinceramente..."
+msgstr "[_maddie_s_closed_s_sad_2_s_talk_happy_] Debería haberlo hecho de antemano..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:790 #-#-# translate crowdin supportive_mom_chat_c6238afc:
 msgid "[_danny_s_at_danny_s_neutral_s_talk_frown_] Oh uhm, alright... take care Mom. (Oh God, that's right, she's still got {b}jizz{/b} inside her! Jeezus, mom! Hygiene!)"
-msgstr "[_danny_s_at_danny_s_neutral_s_talk_frown_] Oh uhm, muy bien... ten cuidado con mamá. (Oh Dios, tiene razón, ¡todavía tiene {b}yizz{/b} dentro de ella! ¡Jeezus, Genieno!)"
+msgstr "[_danny_s_at_danny_s_neutral_s_talk_frown_] Oh uhm, muy bien... ve con cuidado mamá. (Oh Dios, tiene razón, ¡todavía tiene {b}jizz{/b} dentro de ella! ¡Jeezus, mamá! ¡Higiene!)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:792 #-#-# translate crowdin supportive_mom_chat_ed4ad96a:
 msgid "[_maddie_s_towards_wide_s_angry_s_talk_happy_] Oh no, not before I get a hug!"
-msgstr "[_maddie_s_towards_wide_s_angry_s_talk_happy_] ¡Oh, no, no antes de que me enganche un abrazo!"
+msgstr "[_maddie_s_towards_wide_s_angry_s_talk_happy_] ¡Oh, no, no ¡antes de irme un abrazo!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:794 #-#-# translate crowdin supportive_mom_chat_2cc819dc:
 msgid "[_danny_s_talk_happy_2_s_neutral_] Oh, I don't know if that's necessary, honestly..."
-msgstr "[_danny_s_talk_happy_2_s_neutral_] Oh, no sé si es necesario, sinceramente..."
+msgstr "[_danny_s_talk_happy_2_s_neutral_] Oh, no sé si es necesario..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:796 #-#-# translate crowdin supportive_mom_chat_8f00735e:
 msgid "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] No, c'mon, what is it? You're not too old to hug your mommy, are you?"
-msgstr "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] No, c'mon, ¿qué es? No eres demasiado viejo para abrazar a tu compañero, ¿eres tú?"
+msgstr "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] No, vamos, ¿qué sucede? ¿eres demasiado viejo para abrazar a tu madre?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:798 #-#-# translate crowdin supportive_mom_chat_50be8f8b:
 msgid "[_danny_s_at_player_s_rise_one_s_talk_frown_2_] Uhmmm..."
@@ -1142,7 +1142,7 @@ msgstr "[_danny_s_at_player_s_rise_one_s_talk_frown_2_] Uhmmm..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:805 #-#-# translate crowdin cummy_mummy_aa99d2fe:
 msgid "[_danny_s_sad_2_s_towards_s_talk_happy_] No, it's just... I don't think I'm the hugging type."
-msgstr "[_danny_s_sad_2_s_towards_s_talk_happy_] No, es justo... no creo que sea el tipo de abrazo."
+msgstr "[_danny_s_sad_2_s_towards_s_talk_happy_] No, es solo... no creo que sea el tipo de abrazo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:807 #-#-# translate crowdin cummy_mummy_09d22ce5:
 msgid "[_maddie_s_away_s_sad_2_s_talk_frown_] Oh... well then. My mistake."
@@ -1150,39 +1150,39 @@ msgstr "[_maddie_s_away_s_sad_2_s_talk_frown_] Oh... bueno, entonces. Mi error."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:809 #-#-# translate crowdin cummy_mummy_11922c6a:
 msgid "[_danny_s_sad_s_blank_stare_s_talk_frown_2_] Really, it's not you, it's just... in general."
-msgstr "[_danny_s_sad_s_blank_stare_s_talk_frown_2_] Verdaderamente, no es tú, es justo... en general."
+msgstr "[_danny_s_sad_s_blank_stare_s_talk_frown_2_] No eres tú, és solo... en general."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:811 #-#-# translate crowdin cummy_mummy_0985d1fb:
 msgid "[_maddie_s_towards_s_talk_frown_2_s_wondering_] I see... I didn't know that about you."
-msgstr "[_maddie_s_towards_s_talk_frown_2_s_wondering_] lo veo... No lo sabía de ti."
+msgstr "[_maddie_s_towards_s_talk_frown_2_s_wondering_] ya veo... No lo sabía de ti."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:813 #-#-# translate crowdin cummy_mummy_dfc4c56c:
 msgid "[_maddie_s_closed_s_sad_s_talk_frown_] {i}*Sigh*{/i} I guess I don't know much about you as I thought."
-msgstr "[_maddie_s_closed_s_sad_s_talk_frown_] {i}*Sigh*{/i} Supongo que no sé mucho sobre ti como pensaba."
+msgstr "[_maddie_s_closed_s_sad_s_talk_frown_] {i}*suspiro*{/i} Supongo que no sé tanto sobre ti como pensaba."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:815 #-#-# translate crowdin cummy_mummy_311598c0:
 msgid "[_danny_s_towards_s_talk_frown_] Oh, Mom, c'mon, don't feel too bad."
-msgstr "[_danny_s_towards_s_talk_frown_] Oh, mamá, c'mon, no te sientas muy mal."
+msgstr "[_danny_s_towards_s_talk_frown_] Oh, mamá, vamos, no te sientas mal."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:817 #-#-# translate crowdin cummy_mummy_b8762a8d:
 msgid "[_maddie_s_towards_s_talk_frown_s_idle__] Please, Danny, it's fine, it's just... I really didn't think it'd really be that big a bother to hug your own mother."
-msgstr "[_maddie_s_towards_s_talk_frown_s_idle__] Por favor, Danny, está bien, está bien... Realmente no pensé que realmente sería una molestia para abrazar a tu propia madre."
+msgstr "[_maddie_s_towards_s_talk_frown_s_idle__] Por favor, Danny, está bien, está bien... No pensé que sería una molestia abrazar a tu madre."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:819 #-#-# translate crowdin cummy_mummy_3d887c52:
 msgid "[_maddie_s_talk_frown_2_s_towards_wide_up_s_sad_] I'm just sorry I didn't understand that about you sooner. I suppose I never figured you'd... I don't know..."
-msgstr "[_maddie_s_talk_frown_2_s_towards_wide_up_s_sad_] Lo siento, no lo he entendido antes de ti. Supongo que nunca he encontrado tú... no lo soy..."
+msgstr "[_maddie_s_talk_frown_2_s_towards_wide_up_s_sad_] Lo siento, no lo entendí antes de ti. Supongo que nunca imaginé que tú... no sé..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:821 #-#-# translate crowdin cummy_mummy_a2f6293b:
 msgid "[_maddie_s_away_s_talk_frown_] I sometimes worry that... that we're growing apart, you and I, and I just..."
-msgstr "[_maddie_s_away_s_talk_frown_] a veces me preocupa que... que estamos quedando separados, tú y yo, y yo sólo..."
+msgstr "[_maddie_s_away_s_talk_frown_] a veces me preocupa que... que nos estamos distanciando tú y yo, y yo sólo..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:823 #-#-# translate crowdin cummy_mummy_c1763eee:
 msgid "[_danny_s_sad_2_s_talk_frown_2_] We're not Mom, don't worry! I love you, you're my Mom!"
-msgstr "[_danny_s_sad_2_s_talk_frown_2_] ¡No somos mamá, no te preocupes! Te amo, ¡eres mi mamá!"
+msgstr "[_danny_s_sad_2_s_talk_frown_2_] ¡No mamá, no te preocupes! Te amo, ¡eres mi mamá!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:825 #-#-# translate crowdin cummy_mummy_a08b0fbb:
 msgid "[_maddie_s_sad_2_s_talk_frown_] You're sure? You're not just saying that?"
-msgstr "[_maddie_s_sad_2_s_talk_frown_] ¿Estás seguro? ¿No solo estás diciendo eso?"
+msgstr "[_maddie_s_sad_2_s_talk_frown_] ¿Estás seguro? ¿No lo dices solo por mí?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:827 #-#-# translate crowdin cummy_mummy_13d079d3:
 msgid "[_danny_s_sad_s_talk_happy_] Absolutely! In fact..."
@@ -1190,39 +1190,39 @@ msgstr "[_danny_s_sad_s_talk_happy_] ¡Absolutamente! De hecho..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:829 #-#-# translate crowdin cummy_mummy_7a8ccea8:
 msgid "[_danny_s_closed_s_talk_happy_2_s_wondering_] Going forward, I'll try to work on coming down to ask for hugs while you're in the lab. Promise."
-msgstr "[_danny_s_closed_s_talk_happy_2_s_wondering_] Adelante, intentaré trabajar en bajar para pedir abrazos mientras estás en el laboratorio. Promesa."
+msgstr "[_danny_s_closed_s_talk_happy_2_s_wondering_] Además, intentaré bajar al laboratorio para pedirte abrazos cuando estés trabajando, lo prometo."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:831 #-#-# translate crowdin cummy_mummy_7c1800f0:
 msgid "[_maddie_s_rise_one_3_s_talk_happy_] You'd be willing to to make that change for me? Seriously? Oh my God..."
-msgstr "[_maddie_s_rise_one_3_s_talk_happy_] ¿Estarías dispuesto a hacer ese cambio para mí? ¿Seriamente Oh Dios mío ..."
+msgstr "[_maddie_s_rise_one_3_s_talk_happy_] ¿Estarías dispuesto a hacer ese cambio para mí? ¿En serio? Oh Dios mío..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:833 #-#-# translate crowdin cummy_mummy_d363e7ba:
 msgid "[_maddie_s_closed_s_sad_s_talk_frown_s_blush_] God, I'm so sorry... that was weak of me to beg..."
-msgstr "[_maddie_s_closed_s_sad_s_talk_frown_s_blush_] Dios, lo siento tanto... eso fue débil de mí para mendigar..."
+msgstr "[_maddie_s_closed_s_sad_s_talk_frown_s_blush_] Dios, lo siento tanto... eso fue débil de mí en acusarte..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:835 #-#-# translate crowdin cummy_mummy_9378f67d:
 msgid "[_maddie_s_towards_s_talk_happy_s_idle__] But you're just the sweetest boy, Danny..."
-msgstr "[_maddie_s_towards_s_talk_happy_s_idle__] Pero eres sólo el niño más dulce, Danny ..."
+msgstr "[_maddie_s_towards_s_talk_happy_s_idle__] Pero eres el chico más dulce, Danny..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:837 #-#-# translate crowdin cummy_mummy_8631b3fd:
 msgid "[_danny_s_talk_happy_s_sad_] It's no problem. I wanna make you happy after all."
-msgstr "[_danny_s_talk_happy_s_sad_] No es un problema. Después de todo, quiero hacerte feliz."
+msgstr "[_danny_s_talk_happy_s_sad_] No és un problema. Después de todo, quiero hacerte feliz."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:839 #-#-# translate crowdin cummy_mummy_5dfb33a4:
 msgid "[_maddie_s_wondering_s_noblush_s_talk_happy_2_] Well, in the future, I'll look forward to that."
-msgstr "[_maddie_s_wondering_s_noblush_s_talk_happy_2_] Bueno, en el futuro, esperaré con impaciencia."
+msgstr "[_maddie_s_wondering_s_noblush_s_talk_happy_2_] Bueno, en el futuro, te esperaré."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:843 #-#-# translate crowdin cummy_mummy_a73a0c3d:
 msgid "[_danny_s_at_player_s_sad_2_s_talk_happy_] Well... of course, I {b}love{/b} hugs!"
-msgstr "[_danny_s_at_player_s_sad_2_s_talk_happy_] Bueno... por supuesto, ¡ {b}me encanta{/b} abrazos!"
+msgstr "[_danny_s_at_player_s_sad_2_s_talk_happy_] Bueno... por supuesto, ¡{b}amo{/b} los abrazos!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:845 #-#-# translate crowdin cummy_mummy_1bf8faa1:
 msgid "[_maddie_s_talk_happy_s_sad_] Well then, come give one to Momma! My precious little guy..."
-msgstr "[_maddie_s_talk_happy_s_sad_] Bueno, ¡ven a dar una a Momma! Mi pequeño precio..."
+msgstr "[_maddie_s_talk_happy_s_sad_] Bueno, ¡ven a dar uno a Mammi! Mi precioso pequeño chico..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:853 #-#-# translate crowdin cummy_mummy_27966b1e:
 msgid "[_maddie_] Oh yeah, this is a nice one..."
-msgstr "[_maddie_] Oh sí, esto es agradable..."
+msgstr "[_maddie_] Oh sí, esto és agradable..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:855 #-#-# translate crowdin cummy_mummy_f0629d99:
 msgid "[_danny_] Well great, I'm glad you're enjoying this, Mom."
@@ -1230,15 +1230,15 @@ msgstr "[_danny_] Bien, estoy contento de que estés disfrutando de esto, mamá.
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:857 #-#-# translate crowdin cummy_mummy_8ed604c5:
 msgid "[_danny_] (Somebody here ought to try and enjoy it... just... try not to think about it, Danny... avoid any pelvic dampness...)"
-msgstr "[_danny_] (Somebody here should try and enjoy it... just t... try not to think about it, Danny... avoid any pelvic dampness...)"
+msgstr "[_danny_] (Alguien aquí debería intentar disfrutar... Solo... trata de no pensar en eso, Danny... Evita empalmarte...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:859 #-#-# translate crowdin cummy_mummy_4c452ea0:
 msgid "[_maddie_] Oh, I'm not squeezing you too tight, am I danny?"
-msgstr "[_maddie_] Oh, no te estoy apurando demasiado, ¿estoy ingenio?"
+msgstr "[_maddie_] Oh no, te estoy apurando demasiado, ¿te molesto?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:861 #-#-# translate crowdin cummy_mummy_d90b23c5:
 msgid "[_danny_] Oh, n-no! You're fine, I'm p-plenty comfortable right here..."
-msgstr "[_danny_] ¡Oh, n-no! Estás bien, estoy bastante cómodo aquí mismo..."
+msgstr "[_danny_] ¡Oh, n-no! Está bien, estoy muy cómodo aquí..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:863 #-#-# translate crowdin cummy_mummy_c11211f1:
 msgid "[_maddie_] Heh... I remember when you were a little baby, and you would nuzzle me just like this..."
