@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-03 18:27\n"
+"PO-Revision-Date: 2023-10-03 19:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -18,7 +18,7 @@ msgstr "[_danny_s_sad_] (Oh, mamá está aquí... Espero que todavía siga enfad
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:20 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_acb11dd7:
 msgid "[_danny_s_rise_one_s_talk_frown_2_] Uhh, hey Mom. Hanging outside of the lab, I see..."
-msgstr "[_danny_s_rise_one_s_talk_frown_2_] Uh, hey mamá. Veo que estás afuera del laboratorio..."
+msgstr "[_danny_s_rise_one_s_talk_frown_2_] Uh, hey mamá. Veo que estás fuera del laboratorio..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:25 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_d91734d9:
 msgid "[_maddie_s_towards_s_talk_happy_2_] Oh, hey sweetie. I'm actually glad I ran into you. You haven't seen the remote anywhere, have you?"
@@ -506,15 +506,15 @@ msgstr "[_maddie_s_talk_frown_s_sad_s_away_wide_] Uhmmm..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:431 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_700c91ec:
 msgid "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] ...filing our taxes!!"
-msgstr "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] ¡¡... declaramos nuestros impuestos!!"
+msgstr "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] ¡¡... recaudando nuestro acuerdo!!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:433 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_a9015592:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_2_] Oh, ye-yeah, sure... I know you trust me and everything... sorry, I just get a bit skiddish when it comes to confrontation."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_2_] Sí, claro... Sé que confías en mí y todo... lo siento, es sólo que soy un poco escurridizo cuando se trata de confrontación."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_2_] Sí, claro... Sé que confías en mí... lo siento, es sólo que soy un poco escurridizo cuando se trata de confrontar."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:435 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_59f2fa70:
 msgid "[_maddie_s_closed_s_talk_happy_2_s_rise_one_4_] Don't worry kiddo, I getcha. Trust me, I could barely even utter a word out of my mouth around my family when I was a kid. I was far too timid to say anything out of line."
-msgstr "[_maddie_s_closed_s_talk_happy_2_s_rise_one_4_] No te preocupes, te entiendo. Créeme, cuando era niña apenas podía pronunciar una palabra cerca de mi familia. Era demasiado tímido para decir algo fuera de lugar."
+msgstr "[_maddie_s_closed_s_talk_happy_2_s_rise_one_4_] No te preocupes, te entiendo. Créeme, cuando era niña apenas podía pronunciar una palabra cerca de mi familia. Era demasiado tímida para decir algo fuera de lugar."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:437 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_654af7fb:
 msgid "[_danny_s_talk_happy_2_s_towards_wide_] Really, {i}you{/i}? {b}Timid{/b}? You're like the most brave person I know, Mom."
@@ -1326,31 +1326,31 @@ msgstr "[_maddie_s_away_wide_s_frown_s_blush_s_sad_] ..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:936 #-#-# translate crowdin cummy_mummy_f3712263:
 msgid "[_maddie_s_towards_wide_s_wondering_s_talk_frown_] {i}*Ahem*{/i} Uhm, I sorta lost my train of track, sorry."
-msgstr "[_maddie_s_towards_wide_s_wondering_s_talk_frown_] {i}*Ahem*{/i} Uhm, sorta perdió mi tren de pista, lo sentimos."
+msgstr "[_maddie_s_towards_wide_s_wondering_s_talk_frown_] {i}*Ahem*{/i} Uhm, me he ido del hilo, perdona."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:938 #-#-# translate crowdin cummy_mummy_c7d24120:
 msgid "[_maddie_s_towards_s_talk_happy_2_s_sad_] I'm going to go take that shower now. Good night dear."
-msgstr "[_maddie_s_towards_s_talk_happy_2_s_sad_] voy a tomar esa lluvia ahora. Buen aprecio nocturno."
+msgstr "[_maddie_s_towards_s_talk_happy_2_s_sad_] voy a tomar esa ducha. Buenas noches querido."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:940 #-#-# translate crowdin cummy_mummy_6a2ab3c2:
 msgid "[_danny_s_talk_happy_s_sad_s_closed_] Kay', good night Mom. Love you."
-msgstr "[_danny_s_talk_happy_s_sad_s_closed_] Kay ', buena noche mamá. Te quiero."
+msgstr "[_danny_s_talk_happy_s_sad_s_closed_] Kay ', buenas noches mamá. Te quiero."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:942 #-#-# translate crowdin cummy_mummy_4fcefdae:
 msgid "[_maddie_s_idle__s_talk_happy_] ...love you too, dear."
-msgstr "[_maddie_s_idle__s_talk_happy_] ...te aman también querido."
+msgstr "[_maddie_s_idle__s_talk_happy_] ...te amo también querido."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:949 #-#-# translate crowdin cummy_mummy_87748abc:
 msgid "[_danny_s_neutral_] (Well, that'll be nice, getting hugs mom from now on.)"
-msgstr "[_danny_s_neutral_] (Bueno, eso será agradable, recibiendo abrazos mamá a partir de ahora.)"
+msgstr "[_danny_s_neutral_] (Bueno, será agradable, recibir abrazos de mamá a partir de ahora.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:950 #-#-# translate crowdin cummy_mummy_58daa12f:
 msgid "[_danny_s_towards_s_frown_3_s_sad_] (I mean she's kinda right, I don't visit her as much as I'm sure she'd like me to.)"
-msgstr "[_danny_s_towards_s_frown_3_s_sad_] (Me refiero a que está bien, no la conozco tanto como estoy seguro de que le gustaría)."
+msgstr "[_danny_s_towards_s_frown_3_s_sad_] (Me refiero a que ella tiene razón, no la visito tanto como a ella le gustaría.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:951 #-#-# translate crowdin cummy_mummy_fb1def75:
 msgid "[_danny_s_at_player_s_smile_s_wondering_] (But spending some time together like that was nice... real nice...)"
-msgstr "[_danny_s_at_player_s_smile_s_wondering_] (Pero gastar algo de tiempo juntos como eso fue agradable... realmente agradable...)"
+msgstr "[_danny_s_at_player_s_smile_s_wondering_] (Pasar algo de tiempo juntos fue agradable... realmente agradable...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:952 #-#-# translate crowdin cummy_mummy_f819f99b:
 msgid "[_danny_s_neutral_] ..."
@@ -1366,11 +1366,11 @@ msgstr "[_danny_s_rise_one_s_at_danny_s_frown_2_] (... ¿{b}ducha{/b}?)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:956 #-#-# translate crowdin cummy_mummy_78d6feda:
 msgid "[_danny_s_frown_3_s_angry_s_closed_] (Oh boy... well then, I'd better just... head on to bed myself...)"
-msgstr "[_danny_s_frown_3_s_angry_s_closed_] (Oh chico... bueno, entonces lo mejor es que me pondré a dormir...)"
+msgstr "[_danny_s_frown_3_s_angry_s_closed_] (Oh chico... bueno, entonces lo mejor és... que me valla a dormir...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:957 #-#-# translate crowdin cummy_mummy_10c6a7ad:
 msgid "[_danny_s_towards_] (Right off to sleep, no problem... yes sir, just tuck myself in after all the heart warming good times we've had tonight...)"
-msgstr "[_danny_s_towards_] (Derrota para dormir, sin problema... sí, señor, solo me metió en el corazón después de los buenos tiempos de calentamiento cardíaco que hemos tenido esta noche...)"
+msgstr "[_danny_s_towards_] (Directo a dormir, sin problema... sí, señor, me quedo para mí este buen momento de calentamiento cardíaco que he tenido esta noche...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:958 #-#-# translate crowdin cummy_mummy_ce67a4e0:
 msgid "[_danny_s_sad_] ..."
@@ -1378,15 +1378,15 @@ msgstr "[_danny_s_sad_] ..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:978 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_6ca29dfb:
 msgid "[_danny_s_sad_s_talk_frown_] {i}Yeuuup{/i}... the old bathroom... where one can get... {i}*Ahem*{/i} ...get {i}real{/i} clean..."
-msgstr "[_danny_s_sad_s_talk_frown_] {i}Yeuup{/i}... el baño antiguo... donde se puede obtener... {i}*Ahem*{/i} ...obtener limpieza {i}real{/i}..."
+msgstr "[_danny_s_sad_s_talk_frown_] {i}Yeuup{/i}... el baño antiguo... donde se puede obtener... {i}*Ahem*{/i} ...obtener {i}buena{/i} higiene..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:979 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_78aca3b9:
 msgid "[_danny_s_down_s_talk_frown_2_] The same bathroom where my mother is soon to be taking a shower soon... yeup, very soon..."
-msgstr "[_danny_s_down_s_talk_frown_2_] El mismo cuarto de baño donde mi madre pronto se va a tomar una ducha pronto... sí, muy pronto..."
+msgstr "[_danny_s_down_s_talk_frown_2_] El mismo cuarto de baño donde mi madre pronto se va a tomar una ducha... sí, muy pronto..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:981 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_ae8bd982:
 msgid "[_danny_s_neutral_s_blank_stare_s_blush_] To... to get herself... {u}clean{/u}..."
-msgstr "[_danny_s_neutral_s_blank_stare_s_blush_] Para... para obtenerla... {u}limpia{/u}..."
+msgstr "[_danny_s_neutral_s_blank_stare_s_blush_] Para... para estar... {u}limpia{/u}..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:982 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_b1d4f2f1:
 msgid "[_danny_s_sad_s_bite_] ..."
@@ -1402,7 +1402,7 @@ msgstr "[_shower_] {i}*Wrrhh* *Wrhh* *Fsssschhhhhhh*{/i}"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:988 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_135e4f13:
 msgid "[_danny_s_blank_stare_s_sad_s_talk_frown_] Oh, great, she uh... she just started..."
-msgstr "[_danny_s_blank_stare_s_sad_s_talk_frown_] Oh, gorda, ella uh... ella acaba de empezar..."
+msgstr "[_danny_s_blank_stare_s_sad_s_talk_frown_] Oh, bien, ella uh... ella acaba de empezar..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:989 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_0a34d872:
 msgid "[_danny_s_wondering_s_frown_3_] ..."
@@ -1410,19 +1410,19 @@ msgstr "[_danny_s_wondering_s_frown_3_] ..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:990 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_bf9d7a10:
 msgid "[_danny_s_towards_s_talk_frown_2_s_sad_] Well... I already said goodnight to her, so... I think I'll just... uhmm... yeah..."
-msgstr "[_danny_s_towards_s_talk_frown_2_s_sad_] Bueno... ya le dije buena noche a ella, así que... creo que lo haré... uhmm... si..."
+msgstr "[_danny_s_towards_s_talk_frown_2_s_sad_] Bueno... ya le dije buenas noches, así que... creo que... uhmm... si..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1012 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_024a7ddf:
 msgid "[_danny_s_closed_s_talk_happy_s_sad_] Yeeeuuup, yup, yup... time for old mister slumber to just... take me away..."
-msgstr "[_danny_s_closed_s_talk_happy_s_sad_] Yeeeuup, yup, yup... tiempo para que el viejo mister slumber se ajuste... quídame..."
+msgstr "[_danny_s_closed_s_talk_happy_s_sad_] Yeeeuup, yup, yup... tiempo para que el viejo mister slumber... ocupe mi lugar..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1013 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_dce93be4:
 msgid "[_danny_s_towards_s_talk_happy_2_s_wondering_] Just gonna hop into bed, cover myself in the sheets and..."
-msgstr "[_danny_s_towards_s_talk_happy_2_s_wondering_] Sólo tienes que ir a la cama, cubrirme en las sábanas y..."
+msgstr "[_danny_s_towards_s_talk_happy_2_s_wondering_] Sólo tengo que ir a la cama, cubrirme con las sábanas y..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1014 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_41d67cef:
 msgid "[_danny_s_neutral_s_talk_frown_] ...fall... asleep..."
-msgstr "[_danny_s_neutral_s_talk_frown_] ...caída... dormido..."
+msgstr "[_danny_s_neutral_s_talk_frown_] ...caer... dormido..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1015 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_3cfd2c68:
 msgid "[_danny_s_blank_stare_s_wondering_s_frown_2_] ..."
@@ -1430,19 +1430,19 @@ msgstr "[_danny_s_blank_stare_s_wondering_s_frown_2_] ..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1016 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_811ccdb8:
 msgid "[_danny_s_at_player_s_talk_frown_2_s_angry_] Oh screw it."
-msgstr "[_danny_s_at_player_s_talk_frown_2_s_angry_] Oh tornillo."
+msgstr "[_danny_s_at_player_s_talk_frown_2_s_angry_] Oh flipa."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1039 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_5cc9f7cd:
 msgid "[_danny_s_talk_frown_s_at_player_s_neutral_] Yeah, let's just... let's just get this over with."
-msgstr "[_danny_s_talk_frown_s_at_player_s_neutral_] Sí, vamos a justo... vamos a superarlo."
+msgstr "[_danny_s_talk_frown_s_at_player_s_neutral_] Sí, voy solo... voy solo a ponerme cerca."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1046 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_4b101e7a:
 msgid "[_danny_s_sad_2_s_frown_grin_s_at_danny_] (I mean, peeping on Mom isn't a first for me, what with tonight's earlier fiasco.)"
-msgstr "[_danny_s_sad_2_s_frown_grin_s_at_danny_] (Quiero decir, pegar a la Mamá no es una primera para mí, qué con el fiasco anterior de esta noche)"
+msgstr "[_danny_s_sad_2_s_frown_grin_s_at_danny_] (Quiero decir, espiar a Mamá no és lo principal para mí, con el fiasco anterior)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1047 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_f467e912:
 msgid "[_danny_s_blank_stare_s_frown_3_s_sad_] (If I just make sure not to actually go in, I think it'll be fine... just stick your dumb head inside and... look. Just look.)"
-msgstr "[_danny_s_blank_stare_s_frown_3_s_sad_] (Si sólo me aseguraré de no entrar realmente, creo que va a estar bien ... sólo pega tu cabeza tonta dentro y ... mira. Basta con mirar.)"
+msgstr "[_danny_s_blank_stare_s_frown_3_s_sad_] (solo me aseguraré de no entrar, creo que va a estar bien... solo pondré mi tonta cabeza dentro y... mirar. Basta con mirar.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1048 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_f4e71d85:
 msgid "[_danny_s_wondering_s_towards_s_frown_3_] ..."
@@ -1458,35 +1458,35 @@ msgstr "[_danny_] (Guaya... ahí está...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1073 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b04ad38a:
 msgid "[_danny_] (My own mother, totally naked once again... just getting herself all clean...)"
-msgstr "[_danny_] (Mi propia madre, totalmente desnuda una vez más ... sólo haciéndose todo limpio ...)"
+msgstr "[_danny_] (Mi propia madre, totalmente desnuda una vez más... poniéndose limpia...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1074 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_485a7f19:
 msgid "[_danny_] (This is so nuts... she's so incredibly, stupidly hot...)"
-msgstr "[_danny_] (Esto es tan loco ... ella es tan increíblemente, estúpidamente caliente ...)"
+msgstr "[_danny_] (Esto és muy loco... ella és tan increíblemente, estúpidamente caliente...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1075 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_cc82156e:
 msgid "[_danny_] (Hopefully she doesn't hear me breathing heavily over the shower faucet...)"
-msgstr "[_danny_] (Esperemos que no me oiga respirar mucho sobre el grifo de la ducha...)"
+msgstr "[_danny_] (Espero que no me oiga respirar sobre el grifo de la ducha...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1076 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b4081f54:
 msgid "[_danny_] (Man, she's got such a nice backside... those sweet little ass dimples...)"
-msgstr "[_danny_] (Hombre, ella tiene un lado trasero tan bonito ... esas pequeñas y dulces ...)"
+msgstr "[_danny_] (Tío, ella tiene un trasero tan bonito... esos pequeños y dulces hoyuelos...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1077 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_20e6b598:
 msgid "[_danny_] (You'd almost forget that she has a really nice butt too, if you only ever focused on her big tits...)"
-msgstr "[_danny_] (Usted casi se olvida que ella tiene un trasero muy bonito también, si usted sólo se centró en sus tetas grandes ...)"
+msgstr "[_danny_] (Se me podría olvidar que tiene un trasero muy bonito si sólo me centró en sus grandes teta...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1078 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_14a8278c:
 msgid "[_danny_] (Jesus... I could just stare at her forever honestly... she moves with such a sexy grace... it's crazy... I...)"
-msgstr "[_danny_] (Jesús... pude simplemente mirarla para siempre honradamente... ella se mueve con una gracia tan sexy... es curiosa... yo...)"
+msgstr "[_danny_] (Jesús... sinceramente podría mirarla para siempre... ella se mueve con una gracia tan sexy... és una locura... yo...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1079 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_98fe850b:
 msgid "[_danny_] (Okay, seriously, that's enough. I've had my fun, we don't need to pry any further...)"
-msgstr "[_danny_] (Bien, en serio, eso es suficiente. Me he divertido, no tenemos que pedir más...)"
+msgstr "[_danny_] (Ok, en serio, és suficiente. Me he divertido, no tenemos que pedir más...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1080 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_3ddf85c0:
 msgid "[_danny_] (I'll just dip out and try to get this out of my mind...)"
-msgstr "[_danny_] (Solo voy a sumergirme e intentar sacar esto de mi mente...)"
+msgstr "[_danny_] (Solo voy a salir e intentar sacar esto de mi mente...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1081 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b2019071:
 msgid "[_danny_] (...)"
@@ -1494,35 +1494,35 @@ msgstr "[_danny_] (...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1082 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_e23afc25:
 msgid "[_danny_] (...or at least try to.)"
-msgstr "[_danny_] (...o al menos intentar.)"
+msgstr "[_danny_] (...o al menos intentarlo.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1096 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_62cc3010:
 msgid "[_danny_s_talk_frown_s_wondering_s_towards_] {i}*Ahem*{/i} Well, that was pretty much what I {b}expected{/b} to see."
-msgstr "[_danny_s_talk_frown_s_wondering_s_towards_] {i}*Ahem*{/i} Bueno, eso era lo que yo {b}esperaba{/b} ver."
+msgstr "[_danny_s_talk_frown_s_wondering_s_towards_] {i}*Ahem*{/i} Bueno, eso fue mucho más de lo que {b}esperaba{/b} ver."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1101 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_98be95ed:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] How am I supposed to pretend this is even {i}slightly{/i} okay...?"
-msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] ¿Cómo se supone que pretendo que esto es incluso {i}bien{/i} bien...?"
+msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] ¿Cómo voy a suponer que pretendía hacer algo que estaba {i}bien{/i}...?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1104 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_d65b2c76:
 msgid "[_danny_s_at_player_s_rise_one_s_talk_frown_] Then again, I guess it could be said that I just enjoy... peeping of all sorts! I'm not a sick weirdo, I'm just..."
-msgstr "[_danny_s_at_player_s_rise_one_s_talk_frown_] Entonces de nuevo, supongo que podría decirse que acabo de disfrutar... ¡peeling de todo tipo! No soy un raro enfermo, estoy justo..."
+msgstr "[_danny_s_at_player_s_rise_one_s_talk_frown_] Entonces, supongo que podría decirse que acabo de disfrutar... ¡espiándole todo! No soy un raro enfermo, estoy..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1105 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_dca24ef5:
 msgid "[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...{i}perverted in {b}general{/b}{/i}! Yeah, that's it!! That must be all it is!"
-msgstr "¡[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...{i}pervertido en {b}general{/b}{/i}! ¡Sí, eso es todo!! ¡Debe ser todo lo que es!"
+msgstr "¡[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...¡{i}pervertido en {b}general{/b}{/i}! ¡Sí, eso és!! ¡Eso debe de ser!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1106 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_4181dd36:
 msgid "[_danny_s_blank_stare_s_talk_happy_2_s_neutral_] {i}Phew{/i}!! Thank goodness! For a second there, I thought I was like, actually deranged in the head or something!"
-msgstr "[_danny_s_blank_stare_s_talk_happy_2_s_neutral_] {i}Phhw{/i}!! ¡Gracias por bien! Por un segundo allí, pensé que era así, ¡realmente desquiciado en la cabeza o en algo!"
+msgstr "[_danny_s_blank_stare_s_talk_happy_2_s_neutral_] {i}Suspiro{/i}!! ¡Gracias dios! Por un segundo allí, pensé que parecía algo desquiciado o parecido!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1107 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_6c91bea4:
 msgid "[_danny_s_closed_s_talk_happy_s_sad_] Okay, now that I feel a lot better about the whole situation, I can sleep soundly, knowing there's completely nothing wrong with me."
-msgstr "[_danny_s_closed_s_talk_happy_s_sad_] Vale, ahora que me siento mucho mejor sobre toda la situación, puedo dormir sonoramente, sabiendo que no hay nada malo en mí."
+msgstr "[_danny_s_closed_s_talk_happy_s_sad_] Vale, ahora que me siento mucho mejor sobre esta situación, puedo dormir profundamente, sabiendo que no hay nada malo en mí."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1113 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_974da72d:
 msgid "[_morahzamora_] (Oh, the poor bastard, he has no idea what's in store for him yet.)"
-msgstr "[_morahzamora_] (Oh, el bastard pobre, no tiene ni idea de lo que le espera aún.)"
+msgstr "[_morahzamora_] (Oh, el pobre bastardo, no tiene ni idea de lo que le espera aún.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1114 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_36723eef:
 msgid "[_gzone__] (Ja', he definitely won't like what's coming up next, 'eizher...)"
@@ -1530,31 +1530,31 @@ msgstr "[_gzone__] (Ja', definitivamente no le gustará lo que viene a continuac
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1115 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_8df55371:
 msgid "[_clockwork_] (Gentleman, I must say, in the entire span of existence I've experienced both forwards and backwards, you two are truly a pair of the most {i}twisted{/i} individuals I've ever come across.)"
-msgstr "[_clockwork_] (lemán, debo decir, en todo el periodo de existencia que he experimentado hacia adelante y hacia atrás, tú, dos son realmente un par de las personas con más {i}torcidas{/i} que he visto jamás.)"
+msgstr "[_clockwork_] (Señores, debo decir, en todo el periodo de existencia que he experimentado hacia adelante y hacia atrás, ustedes son el par de personas más {i}retorcidas{/i} que he visto jamás.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1116 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_6448a3c0:
 msgid "[_gzone__] (No, no, I like to 'zhink of uz' as just... making Danny'z life more, uhh... how do you say... \"interesting\"?)"
-msgstr "[_gzone__] (No, no, me gusta 'zhink of uz' como justo... haciendo que Danny'z vida más, uhh... ¿cómo dices... \"interesante\"?)"
+msgstr "[_gzone__] (No, no, me gusta 'penzar en nozotros'... haciendo la vida de Danny más, uhh... ¿cómo dices... \"interesante\"?)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1117 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_2eea3f24:
 msgid "[_morahzamora_] (I just find it funny making him wanna bone his mom internally. {i}*Chuckles*{/i})"
-msgstr "[_morahzamora_] (Solo me parece gracioso haciéndole wanna bone su mamá internamente. {i}*Chuckles * {/i})"
+msgstr "[_morahzamora_] (Es gracioso haciéndole ponerse cachondo en el fondo con su mamá. {i}*Risas* {/i})"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1118 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_4f318488:
 msgid "[_clockwork_] ({i}*Sigh*{/i}... the poor bastard indeed...)"
-msgstr "[_clockwork_] ({i}*Sigh * {/i} ... el pobre bastardo de hecho ...)"
+msgstr "[_clockwork_] ({i}*Suspiro* {/i}... en efecto el pobre bastardo...)"
 
 # §translate crowdin strings: #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "Who do you think you like, kiddo?"
-msgstr "¿Quién cree que le gusta, kiddo?"
+msgstr "¿Quién cree que le gusta?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "Honestly, I've always liked Paulina."
-msgstr "Honestamente, siempre me gustó Paulina."
+msgstr "Sinceramente, siempre me gustó Paulina."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "Sam's definitely an interesting choice..."
-msgstr "Sam's definitely an interesting choic..."
+msgstr "Sam definitvamente és una interesante elección..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "I'd prefer someone like you, Mom."
@@ -1562,11 +1562,11 @@ msgstr "Prefiero a alguien como tú, mamá."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:801
 msgid "Do you hug your mom knowing she's currently cream pied?"
-msgstr "¿Te abrazas a tu mamá sabiendo que ella es actualmente tubería de crema?"
+msgstr "¿Abrazas a tu mamá sabiendo que ella está llena de semen?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:801
 msgid "Honestly, I'd prefer not to..."
-msgstr "Sinceramente, preferiría no hacer..."
+msgstr "Sinceramente, preferiría no..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:801
 msgid "Bring it in, Mom!"
