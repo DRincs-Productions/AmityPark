@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:41\n"
+"PO-Revision-Date: 2023-10-03 19:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -18,11 +18,11 @@ msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, mamá, cómo va -"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:22 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_1a0e487b:
 msgid "[_maddie_] {b}Danny!!{/b} There you are!! You're never going to believe it!"
-msgstr "[_maddie_] {b}Danny!!{/b} ¡¡¡Ya estás!! ¡Nunca lo vas a creer!"
+msgstr "[_maddie_] {b}Danny!!{/b} ¡¡¡Aquí estás!! ¡No te lo vas a creer!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:25 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9c386993:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] Woah, woah, wh-what's up? Did Dad finally catch a ghost or something?"
-msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Ay algo, qué pasa? ¿El papá finalmente atrapó a un fantasma o algo?"
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] woah, woah, ¿Qué pasa? ¿papá finalmente atrapó a un fantasma o algo parecido?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:28 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_320a1ea0:
 msgid "[_maddie_s_towards_wide_s_sad_s_talk_frown_] Oh no, Danny please, don't say that word too loudly in the house anymore, your father might-"
@@ -30,11 +30,11 @@ msgstr "[_maddie_s_towards_wide_s_sad_s_talk_frown_] Oh no, Danny por favor, no 
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:37 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_86666eda:
 msgid "[_jack_] {b}GHOSTS?!{/b} There are ghosts in the house?!? Let me at em'! I'm ready for them this time!!"
-msgstr "[_jack_] {b}GHOSTS?!{/b} ¿Hay fantasmas en la casa?!? ¡Déjame a em'! ¡¡¡¡¡Estoy listo para ellos esta vez!!"
+msgstr "[_jack_] {b}¡¿FANTASMAS?!{/b} ¿Hay fantasmas en la casa?!? ¡Déjame a em'! ¡¡Estoy listo para ellos esta vez!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:44 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_d8ec23cb:
 msgid "[_danny_] Jeez, Dad, settle down! There's not a ghost here!!"
-msgstr "[_danny_] Jeez, Dad, ¡sálvate aquí! ¡No hay un fantasma aquí!!"
+msgstr "[_danny_] Jeez, Papá, ¡calma! ¡¡No hay fantasmas!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:48 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_567c2bb2:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] Ahhh, I see... ah well, better safe than sorry!!"
