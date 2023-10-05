@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-04 15:45\n"
+"PO-Revision-Date: 2023-10-05 16:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -214,51 +214,51 @@ msgstr "[_danny_s_at_danny_s_unhappy_s_displeased_] (Tío... Mamá parece tan an
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:218 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_574d9415:
 msgid "[_danny_s_at_danny_s_unhappy_s_talk_distraught_] I just don't know if science is all my thing, I mean... I think ghosts are interesting, but I might just end up embarrassing you guys."
-msgstr "[_danny_s_at_danny_s_unhappy_s_talk_distraught_] Simplemente no sé si la ciencia es todo lo mío, quiero decir ... Creo que los fantasmas son interesantes, pero es posible que acabe por avergonzarte a ustedes."
+msgstr "[_danny_s_at_danny_s_unhappy_s_talk_distraught_] No sé si la ciencia és lo mío, quiero decir... Creo que los fantasmas son interesantes, pero és posible que acabe por avergonzaros."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:222 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_a97bf5f7:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] Well what better way to learn a bit more than with the best minds in the country around you? A symposium this size will help prepare you for when your old man finally steps down and hands the mantle to you!"
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Bueno, ¿qué mejor manera de aprender un poco más que con las mejores mentes del país que te rodea? ¡Un simposio de este tamaño te ayudará a prepararte para cuando tu anciano finalmente te descienda y te entregue el mango!"
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Bueno, ¿qué mejor manera de aprender un poco más que con las mejores mentes del país que te rodea? ¡Un simposio de este tamaño te ayudará a prepararte para cuando tu anciano padre lo deje y te entregue el mando!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:226 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_03aa6ad8:
 msgid "[_danny_s_down_s_sad_s_talk_frown_] I-I see your point there, I still just think that-"
-msgstr "[_danny_s_down_s_sad_s_talk_frown_] Veo tu punto ahí, sigo pensando eso-"
+msgstr "[_danny_s_down_s_sad_s_talk_frown_] Te entiendo, sigo pensando que-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:230 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_f1f22d7b:
 msgid "[_maddie_s_towards_s_sad_s_talk_frown_] Oh Danny, let me just be honest and put this out on the table... I feel we've been really distant recently, whether on purpose or not."
-msgstr "[_maddie_s_towards_s_sad_s_talk_frown_] Oh Danny, déjame ser honesto y poner esto sobre la mesa. . Creo que últimamente hemos estado muy lejos, con o sin propósito."
+msgstr "[_maddie_s_towards_s_sad_s_talk_frown_] Oh Danny, déjame ser honesta y poner esto sobre la mesa. Creo que últimamente hemos estado distantes, con o sin propósito."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:233 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_92f9bb48:
 msgid "[_maddie_s_towards_wide_s_neutral_s_talk_pleased_] This could be a chance to reconnect a bit. It'll be a really good opportunity for us both to have some quality mother-son bonding time together!"
-msgstr "[_maddie_s_towards_wide_s_neutral_s_talk_pleased_] Esta podría ser una oportunidad de volver a conectar un poco. ¡Será una buena oportunidad para que ambos tengamos un tiempo de unión madre-hijo de calidad juntos!"
+msgstr "[_maddie_s_towards_wide_s_neutral_s_talk_pleased_] Esta podría ser una oportunidad de volver a acercarnos. ¡Será una buena oportunidad para que ambos tengamos un tiempo madre-hijo de calidad y juntos!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:236 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_8b8804e8:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Cause I still 'wuv my little guy so much... and I bet he still 'wuv's me too..."
-msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Causa que sigo 'wuv mi pequeño tipo... y apuesto a que él también me wuv..."
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Causaría que 'podr ' mucho mi pequeño... y apuesto a que él también me ' podr'..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:240 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_52031c4e:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_s_blush_] Jeez, honestly, that's a little cringey Mom."
-msgstr "[_danny_s_towards_s_rise_s_talk_distraught_s_blush_] Jeez, honestamente, eso es una mamá cringey."
+msgstr "[_danny_s_towards_s_rise_s_talk_distraught_s_blush_] Jeez, honestamente, eso és un poco vergonzoso mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:245 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_211b15ac:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] There's nothing cringey or weird about a mother simply loving her son!"
-msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] ¡No hay nada lloroso o extraño en una madre simplemente amando a su hijo!"
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] ¡No hay nada vergonzoso o extraño en una madre que sencillamente ama a su hijo!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:248 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_070c5d7a:
 msgid "[_danny_s_at_player_s_rise_s_displeased_s_blush_] (Well, I imagine it can get weird if you overdo the whole \"loving\" part... but maybe that's just my thinking...)"
-msgstr "[_danny_s_at_player_s_rise_s_displeased_s_blush_] (Bueno, imagino que puede hacerse extraño si haces demasiado con toda la parte \"amante\"... pero tal vez eso sea sólo mi pensamiento...)"
+msgstr "[_danny_s_at_player_s_rise_s_displeased_s_blush_] (Bueno, imagino que puede volverse raro si me refiero a todo \"amor\"... pero tal vez eso sean sólo mis ideas...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:252 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_3c60e1a2:
 msgid "[_jack_s_closed_s_wondering_s_talk_happy_] In fact, it's being weird that makes being a Fenton a Fenton, you know that! It's the weird elements of life that brings people together, like your mother and I!"
-msgstr "[_jack_s_closed_s_wondering_s_talk_happy_] De hecho, es extraño que hace de ser un Fenton un Fentón, ¡ya lo sabes! ¡Son los extraños elementos de la vida que unen a la gente, como su madre y yo!"
+msgstr "[_jack_s_closed_s_wondering_s_talk_happy_] De hecho, ser raro és lo que hace a un Fenton ser un Fenton. ¡ya lo sabes! ¡Son las cosas raras de la vida las que unen a las personas, como su madre y yo!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:256 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_0aad4d9a:
 msgid "[_jack_s_towards_wide_s_sad_s_talk_happy_] For that reason alone, you should {b}love{/b} being weird! It's weirdness that helped me find the love of my life..."
-msgstr "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] Solo por esa razón, deberías ser extraño {b}{/b}! Es extraño que me haya ayudado a encontrar el amor de mi vida..."
+msgstr "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] ¡Por esa razón, deberías {b}amar{/b} siendo extraño! Es extraño que me haya ayudado a encontrar el amor de mi vida..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:259 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_1cc1d29b:
 msgid "[_maddie_s_towards_s_talk_happy_s_blush_] {i}Nawww{/i}, you really are in a sweet mood today!"
-msgstr "[_maddie_s_towards_s_talk_happy_s_blush_] {i}Nawww{/i}, ¡estás realmente de buen humor hoy!"
+msgstr "[_maddie_s_towards_s_talk_happy_s_blush_] {i}Nawww{/i}, ¡estás de buen humor hoy!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:263 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_713e738e:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Why wouldn't I be honey? My amazing wife and my developing prodigy of a son are going to represent our family at the largest ghost hunting convention in the good ol' USA!"
