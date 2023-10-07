@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-05 17:11\n"
+"PO-Revision-Date: 2023-10-07 13:32\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -218,7 +218,7 @@ msgstr "[_danny_s_at_danny_s_unhappy_s_talk_distraught_] No sé si la ciencia é
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:222 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_a97bf5f7:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] Well what better way to learn a bit more than with the best minds in the country around you? A symposium this size will help prepare you for when your old man finally steps down and hands the mantle to you!"
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Bueno, ¿qué mejor manera de aprender un poco más que con las mejores mentes del país que te rodea? ¡Un simposio de este tamaño te ayudará a prepararte para cuando tu anciano padre lo deje y te entregue el mando!"
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Bueno, ¿qué mejor manera de aprender un poco más que con las mejores mentes del país? ¡Un simposio de este tamaño te ayudará a prepararte para cuando tu anciano padre lo deje y te entregue el mando!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:226 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_03aa6ad8:
 msgid "[_danny_s_down_s_sad_s_talk_frown_] I-I see your point there, I still just think that-"
@@ -230,7 +230,7 @@ msgstr "[_maddie_s_towards_s_sad_s_talk_frown_] Oh Danny, déjame ser honesta y 
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:233 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_92f9bb48:
 msgid "[_maddie_s_towards_wide_s_neutral_s_talk_pleased_] This could be a chance to reconnect a bit. It'll be a really good opportunity for us both to have some quality mother-son bonding time together!"
-msgstr "[_maddie_s_towards_wide_s_neutral_s_talk_pleased_] Esta podría ser una oportunidad de volver a acercarnos. ¡Será una buena oportunidad para que ambos tengamos un tiempo madre-hijo de calidad y juntos!"
+msgstr "[_maddie_s_towards_wide_s_neutral_s_talk_pleased_] Esta podría ser una oportunidad de volver a acercarnos. ¡Será una buena oportunidad para que ambos tengamos un tiempo madre-hijo de calidad!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:236 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_8b8804e8:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Cause I still 'wuv my little guy so much... and I bet he still 'wuv's me too..."
@@ -418,11 +418,11 @@ msgstr "[_maddie_] Oh, muchas gracias por esto, ricura..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:464 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_Hug_3b13badd:
 msgid "[_danny_] (This is nice... man, she smells really, {i}really{/i} good today...)"
-msgstr "[_danny_] (Esto es agradable... tío, ella huele realmente, {i}realmente {/i} bien hoy...)"
+msgstr "[_danny_] (Esto es genial... tío, ella huele realmente, {i}realmente {/i} bien hoy...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:468 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_Hug_695f2818:
 msgid "[_maddie_] Oh pumpkin... this has meant the world to me, you don't even know. I love you, Danny."
-msgstr "[_maddie_] Oh cielos... esto ha significado el mundo para mí, ni siquiera lo sabes. Te amo, Danny."
+msgstr "[_maddie_] Oh cielos... esto significa el mundo para mí, no sabes cuanto. Te amo, Danny."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:471 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_Hug_6f787ad4:
 msgid "[_danny_] Y-yeah... love you too, Mom."
@@ -434,15 +434,15 @@ msgstr "[_danny_] (¿Tal vez debería hablar con alguien sobre todo esto? Estoy 
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:477 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_Hug_c9d187e6:
 msgid "[_danny_] (Nah. Tucker and Sam have already been dragged into enough weird thanks to me. Best to keep that close to the vest for now.)"
-msgstr "[_danny_] (Nah. Tucker y Sam ya han sido arrastrados a bastante extraño gracias a mí. Best to keep that close to the vest for now.)"
+msgstr "[_danny_] (Nah. Tucker y Sam ya se han visto envueltos en bastantes cosas raras por mi culpa. Lo mejor és mantenerlo callado.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:489 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_7164e907:
 msgid "[_danny_s_down_s_wondering_s_talk_distraught_s_blush_] Ehh, honestly, I should probably finish up packing for now, and save the real big hugs for the trip, ya' know?"
-msgstr "[_danny_s_down_s_wondering_s_talk_distraught_s_blush_] Ehh, sinceramente, probablemente debería terminar de empaquetar por ahora, y guardar los grandes abrazos para el viaje, ¿verdad?"
+msgstr "[_danny_s_down_s_wondering_s_talk_distraught_s_blush_] Ehh, sinceramente, debería terminar de empaquetar ahora, y guardar los abrazos para el viaje, ¿ok?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:492 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_a1738001:
 msgid "[_maddie_s_towards_s_wondering_s_talk_frown_] Oh... well, okay Danny, I'll just... I'll just let you pack in peace then."
-msgstr "[_maddie_s_towards_s_wondering_s_talk_frown_] Oh... bueno, bueno, bueno, Danny, lo pondré... Sólo te dejaré empacar en paz entonces."
+msgstr "[_maddie_s_towards_s_wondering_s_talk_frown_] Oh... bueno, bueno, bueno, Danny, yo solo... te dejaré empacar en paz entonces."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:495 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_998d3bb7:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Thanks Mom."
@@ -450,11 +450,11 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Gracias mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:507 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_bb7a954f:
 msgid "[_danny_s_towards_s_wondering_s_bite_] (Oh jeez... should I tell Mom that... her butt just looks so... {u}big{/u}. So tightly pressed up against thhat spandex jumper...)"
-msgstr "[_danny_s_towards_s_wondering_s_bite_] (Oh jeez... debería decirle a la mamá que... su perro se ve así... {u}grande{/u}. Tan apretado contra el saltador spandex thhat spandex...)"
+msgstr "[_danny_s_towards_s_wondering_s_bite_] (Oh jeez... debería decirle a la mamá que... sus tetas se ven muy... {u}grandes{/u}. Tan apretadas contra el traje elástico...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:509 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_eacd763c:
 msgid "[_danny_s_towards_s_rise_s_bite_] (Has it always looked like that? Why am I just noticing this now? Jeez, why am I even looking??)"
-msgstr "[_danny_s_towards_s_rise_s_bite_] (¿Siempre ha sido así? ¿Por qué estoy notando esto ahora? Jeez, why am I even looking??)"
+msgstr "[_danny_s_towards_s_rise_s_bite_] (¿Siempre ha sido así? ¿Por qué estoy notando esto ahora? Jeez, ¿¿por qué estoy mirando eso??)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:517 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_872617f1:
 msgid "[_danny_s_at_player_s_wondering_s_talk_distraught_] Maybe I should seriously talk to someone about all of this? I'm really starting to see Mom a bit... {i}differently{/i} lately..."
@@ -462,7 +462,7 @@ msgstr "[_danny_s_at_player_s_wondering_s_talk_distraught_] ¿Tal vez debería h
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:519 #-#-# translate crowdin The_Great_Out_Doors_scene_2_Danny_NoHug_0258dca2:
 msgid "[_danny_s_at_player_s_neutral_s_talk_happy_] Nah. Tucker and Sam have already been dragged into enough weird thanks to me. Best to keep that close to the vest for now."
-msgstr "[_danny_s_at_player_s_neutral_s_talk_happy_] Nah. Tucker y Sam ya han sido arrastrados a bastante extraño gracias a mí. Lo mejor para mantenerlo cerca del chaleco por ahora."
+msgstr "[_danny_s_at_player_s_neutral_s_talk_happy_] Nah. Tucker y Sam ya se han visto envueltos en bastantes cosas extraño por mi culpa. Lo mejor és callarlo de momento."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:553 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_6b19f6e6:
 msgid "[_danny_] Hey guys."
@@ -470,35 +470,35 @@ msgstr "[_danny_] Hey chicos."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:557 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_106e0188:
 msgid "[_tucker_s_towards_s_sad_s_talk_frown_] Man, is something up with you, dude? You look the same way you did after Sam spoiled {i}Empire Strikes Back{/i} for you."
-msgstr "[_tucker_s_towards_s_sad_s_talk_frown_] Hombre, ¿es algo para arriba contigo, tío? Usted mira de la misma manera que lo hizo después de Sam estropeado {i}Empire Strikes Back {/i} para usted."
+msgstr "[_tucker_s_towards_s_sad_s_talk_frown_] Tío, ¿estás bien? Te pareces a la vez que Sam te estropeó {i}El imperio contraataca{/i}."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:561 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_a8386ee4:
 msgid "[_sam_s_casual_outfit_s_towards_s_confused_s_talk_frown_] How is it even a spoiler at this point?! It's been decades since it came out!! EVERYONE knows that Vadar is Luke's father!"
-msgstr "[_sam_s_casual_outfit_s_towards_s_confused_s_talk_frown_] ¿Cómo es incluso un spoiler en este punto?! ¡Han pasado décadas desde que salió! ¡TODOS saben que Vadar es el padre de Luke!"
+msgstr "[_sam_s_casual_outfit_s_towards_s_confused_s_talk_frown_] ¡¿Cómo que lo estropeé?! ¡Han pasado décadas desde que aquello! ¡TODOS saben que Vader es el padre de Luke!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:565 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_5cd76cc3:
 msgid "[_tucker_s_away_s_angry_s_talk_frown_] We didn't grow up in that generation, Sam! Don't blame the fact we weren't born early enough for your lack of common decency of nerd culture!"
-msgstr "[_tucker_s_away_s_angry_s_talk_frown_] ¡No crecíamos en esa generación, Sam! ¡No culpes al hecho de que no nacimos lo suficientemente pronto como para tu falta de decencia común de la cultura nerd!"
+msgstr "[_tucker_s_away_s_angry_s_talk_frown_] ¡No crecimos en esa generación, Sam! ¡No culpes al hecho de que no nacimos antes que tu falta de decencia en de la cultura nerd!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:569 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_3ba174c9:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] Uhm, well no, it's nothing that bad. I've got to go to a convention in Florida this weekend with my Mom."
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] Uhm, bueno, no, no es nada tan malo. Tengo que ir a una convención en Florida este fin de semana con mi mamá."
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] Uhm, bueno, no, no és tan malo. Tengo que ir a una convención en Florida este fin de semana con mi mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:573 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_4beaed9c:
 msgid "[_sam_s_casual_outfit_s_towards_s_confused_s_talk_frown_] Really? But what happens if there's a ghost attack in the meanwhile?"
-msgstr "[_sam_s_casual_outfit_s_towards_s_confused_s_talk_frown_] ¿Realmente? Pero, ¿qué sucede si hay un ataque fantasma en el mientras tanto?"
+msgstr "[_sam_s_casual_outfit_s_towards_s_confused_s_talk_frown_] ¿Realmente? Pero, ¿qué sucede si hay un ataque fantasma?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:577 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_b742b473:
 msgid "[_danny_s_towards_s_wondering_s_talk_distraught_] Well besides me, Amity Park has Vlad Masters and my dad to protect itself, so that's some good news, right?"
-msgstr "[_danny_s_towards_s_wondering_s_talk_distraught_] Bueno, además de mí, Amity Park tiene Maestros Vlad y mi papá para protegerse, así que son algunas buenas noticias, ¿verdad?"
+msgstr "[_danny_s_towards_s_wondering_s_talk_distraught_] Bueno, además de mí, Amity Park tiene al Maestro Vlad y mi papá para proteger, que son buenas noticias, ¿no?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:581 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_18d8282c:
 msgid "[_tucker_s_towards_s_sad_s_talk_frown_] Uhh... that's only halfway good news, no offense."
-msgstr "[_tucker_s_towards_s_sad_s_talk_frown_] Uhh... eso es sólo una noticia a medio camino, no ofensa."
+msgstr "[_tucker_s_towards_s_sad_s_talk_frown_] Uhh... eso es sólo una noticia a medio camino, no ofende."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:585 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_a89a550a:
 msgid "[_danny_s_at_danny_s_sad_s_talk_distraught_] I mean, I do sorta wanna take breaks every now and then... but if you really think it might be a problem..."
-msgstr "[_danny_s_at_danny_s_sad_s_talk_distraught_] Quiero decir, quiero sorta que se rompa de vez en cuando... pero si realmente piensas que podría ser un problema..."
+msgstr "[_danny_s_at_danny_s_sad_s_talk_distraught_] Quiero decir, quiero tomar respiros de vez en cuando... pero si piensas que podría ser un problema..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:589 #-#-# translate crowdin The_Great_Out_Doors_scene_3_school_8ed2cfae:
 msgid "[_sam_s_casual_outfit_s_towards_s_sad_s_talk_happy_] I mean, hey, I haven't heard of a ghost try to grope me or anyone else in a good while. Maybe word's gotten back to them that a cool ghost is watching over the town?"
