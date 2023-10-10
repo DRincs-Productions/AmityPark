@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-10 13:29\n"
+"PO-Revision-Date: 2023-10-10 14:59\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -1230,7 +1230,7 @@ msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] ..trataremos de ordenar, z
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1552 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_3fa60b6a:
 msgid "[_danny_s_towards_s_unhappy_s_talk_frown_] Get real, Mom! You can't just kill him for the sake of trying to learn more about the world!!"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_frown_] ¡Consigue una verdadera mamá! ¡No puedes matarlo simplemente por intentar aprender más sobre el mundo!!"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_frown_] ¡Sé realista, mamá! ¡¡no puedes matarlo simplemente para intentar aprender más sobre el mundo!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1555 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_59e70a92:
 msgid "[_maddie_s_towards_s_confused_s_talk_displeased_] Danny, he's already dead."
@@ -1238,19 +1238,19 @@ msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Danny, ya está muerto
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1558 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_60288cb6:
 msgid "[_danny_s_down_s_unhappy_s_talk_frown_] Well sure, but... don't the dead have rights, or, something...? Besides, he needs our help!"
-msgstr "[_danny_s_down_s_unhappy_s_talk_frown_] Bien seguro, pero... no los muertos tienen derechos, o algo...? Además, ¡necesita nuestra ayuda!"
+msgstr "[_danny_s_down_s_unhappy_s_talk_frown_] Bien seguro, pero... ¿no tienen derechos los los muertos, o algo...? Además, ¡necesita nuestra ayuda!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1561 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_e58fc74c:
 msgid "[_maddie_s_towards_s_aghast_s_talk_displeased_] Danny, we're not going to go along with such a ridiculous sob story as a missing ghost girlfriend in distress, so I don't wanna hear-"
-msgstr "[_maddie_s_towards_s_aghast_s_talk_displeased_] Danny, no vamos a estar de acuerdo con una historia de jabón tan ridícula como una amiga fantasma desaparecida en destracción, así que no quiero oír-"
+msgstr "[_maddie_s_towards_s_aghast_s_talk_displeased_] Danny, no vamos a estar de acuerdo con un cuento de hadas tan ridícula de una amiga fantasma angustiada y desaparecida en, así que no quiero oír-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1564 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_e6e27494:
 msgid "[_danny_s_towards_s_angry_s_talk_distraught_] Oh c'mon!! Who knows how long he's been stuck here! All he wants to do is find some girl he's in love with!!"
-msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] Oh c'mon!! ¿Quién sabe cuánto tiempo ha estado atascado aquí! Todo lo que quiere hacer es encontrar a una chica con la que esté enamorada!!"
+msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ¡¡Oh vamos!! ¡¿Quién sabe cuánto tiempo ha estado atrapado aquí?! Todo lo que quiere hacer es encontrar a una chica de la que está enamorado!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1567 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_6a70588a:
 msgid "[_danny_s_towards_s_sad_s_talk_pleased_] Besides, aren't we being irresponsible if we leave some manic roaming ghost out in these woods? I say, two birds, one stone. Whadda ya say?"
-msgstr "[_danny_s_towards_s_sad_s_talk_pleased_] Además, ¿no somos irresponsables si dejamos fuera algún fantasma maníaco en estos bosques? Digo que dos aves, una piedra. ¿Qué dice ya?"
+msgstr "[_danny_s_towards_s_sad_s_talk_pleased_] Además, ¿no seríamos irresponsables si dejáramos un fantasma maníaco en estos bosques? Digo matar dos pájaros de un tiro. ¿Qué opinas?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1570 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_d0150016:
 msgid "[_maddie_s_closed_s_sad_s_frown_] . . ."
@@ -1258,15 +1258,15 @@ msgstr "[_maddie_s_closed_s_sad_s_frown_] . . ."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1573 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_c4589905:
 msgid "[_maddie_s_towards_s_rise_s_talk_frown_] {i}*Sigh*{/i} Alrighty then, fine... I'll try to go along with this hair brained ghost reuniting scheme of yours."
-msgstr "[_maddie_s_towards_s_rise_s_talk_frown_] {i}*Sigh * {/i} Alrigty entonces, fine ... Voy a tratar de ir junto con este pelo brained fantasma reuniendo esquema de los tuyos."
+msgstr "[_maddie_s_towards_s_rise_s_talk_frown_] {i}*Suspiro* {/i} De acuerdo, vale... Voy a tratar de ir lidiar con esa cabeza con pelo de fantasma siguiendo tu plan."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1576 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_4a51b61b:
 msgid "[_maddie_s_towards_s_angry_s_talk_displeased_] But if he so much as {b}glances{/b} at the creases of my jumpsuit for too long, he's a puddle of ectoplasm."
-msgstr "[_maddie_s_towards_s_angry_s_talk_displeased_] Pero si él tanto como {b}miradas {/b} en las pliegues de mi jumpsuit durante demasiado tiempo, él es un charco de ectoplasma."
+msgstr "[_maddie_s_towards_s_angry_s_talk_displeased_] Pero si él hace muchas {b}miradas{/b} a los pliegues de mi traje insistentemente, será un charco de ectoplasma."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1605 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_8c2808de:
 msgid "[_delvo_s_towards_s_wondering_s_talk_frown_] So then, dapper lad and his fair companion... shall I be able to count on you both to aid me in my quest?"
-msgstr "[_delvo_s_towards_s_wondering_s_talk_frown_] Así que entonces el tío dapador y su compañero justo... ¿podré contar contigo para ayudarme en mi misión?"
+msgstr "[_delvo_s_towards_s_wondering_s_talk_frown_] el muchacho apuesto y su bella dama... ¿podré contar con vosotros para ayudarme en mi misión?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1611 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_c5cba962:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] We'll try our best to help you, Sir Delvo."
@@ -1278,23 +1278,23 @@ msgstr "[_delvo_s_closed_s_wondering_s_talk_happy_] Huzzah!! Canto alabanzas a t
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1620 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_8d9925b9:
 msgid "[_danny_s_towards_s_neutral_s_talk_pleased_] Okay, so, first idea of a plan I have: what if we went there first to check if she's still at the cave waiting for you?"
-msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Vale, así primera idea de un plan que tengo: ¿qué pasa si fuimos allí primero para comprobar si todavía está en la cueva esperando?"
+msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Vale, la primera idea de un plan que tengo: ¿qué tal si fuéramos a comprobar si todavía está en la cueva esperando?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1624 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_b94fb014:
 msgid "[_delvo_s_towards_s_neutral_s_talk_happy_] Yes... {b}YES!{/b} A cunning and yet exceptionally simple strategy! Please, let me know if my beloved is in fair condition!"
-msgstr "[_delvo_s_towards_s_neutral_s_talk_happy_] Sí ... {b}¡SÍ! {/b} ¡Una estrategia astuta y excepcionalmente sencilla! Por favor, háganme saber si mi amado está en condiciones justas!"
+msgstr "[_delvo_s_towards_s_neutral_s_talk_happy_] Sí... {b}¡SÍ! {/b} ¡Una estrategia astuta y excepcionalmente sencilla! Por favor, háganme saber si mi amada está en condiciones!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1628 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_2cfe7d83:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_] I mean, reasonably, the best you can hope for is that she's a dead ghost, but yeah, we'll let you know if she's alright."
-msgstr "[_danny_s_towards_s_sad_s_talk_frown_] Quiero decir, razonablemente, lo mejor que puedes esperar es que es un fantasma muerto, pero sí, te lo dejaremos saber si está bien."
+msgstr "[_danny_s_towards_s_sad_s_talk_frown_] Quiero decir, razonablemente, lo mejor que puedes esperar és que sea una fantasma, pero sí, te diremos si está bien."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1632 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_f9db593c:
 msgid "[_maddie_s_towards_s_neutral_s_talk_displeased_] Come on then Danny, let's keep moving before it gets too dark."
-msgstr "[_maddie_s_towards_s_neutral_s_talk_displeased_] Ven entonces Danny, sigamos moviéndonos antes de que se ponga demasiado oscuro."
+msgstr "[_maddie_s_towards_s_neutral_s_talk_displeased_] Ven entonces Danny, sigamos antes de que se haga de noche."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1636 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_29dd4cf5:
 msgid "[_delvo_s_towards_s_neutral_s_talk_happy_] I wish you both good fortune on this quest! May the light of the nine protect you!!"
-msgstr "[_delvo_s_towards_s_neutral_s_talk_happy_] ¡Te deseo a ambos una buena fortuna en esta misión! ¡¡Ojalá la luz de los nueve te protejan!"
+msgstr "[_delvo_s_towards_s_neutral_s_talk_happy_] ¡Les deseo a ambos fortuna en esta misión! ¡¡Ojalá la luz de los nueve les proteja!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1640 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_3106b67e:
 msgid "[_maddie_s_towards_s_confused_s_talk_frown_] Heh... yeah..."
@@ -1302,39 +1302,39 @@ msgstr "[_maddie_s_towards_s_confused_s_talk_frown_] Heh... yeah..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1643 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_4908bf79:
 msgid "[_maddie_s_closed_s_unhappy_s_frown_] (Good heavens, I'm working for a LARPing nerd ghost... Madeline Fenton, what's become of you?)"
-msgstr "[_maddie_s_closed_s_unhappy_s_frown_] (Buen cielo, estoy trabajando para un fantasma LARPing... Fentón Madelino, ¿qué es de ti?)"
+msgstr "[_maddie_s_closed_s_unhappy_s_frown_] (Buen dios, estoy trabajando para un fantasma LARPing... Madeline Fenton, ¿qué te ha pasado?)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1680 #-#-# translate crowdin The_Great_Out_Doors_scene_8_intermission_d5dab4aa:
 msgid "[_danny_s_towards_s_wondering_s_talk_pleased_] Mom, you mind if we talk for a second?"
-msgstr "[_danny_s_towards_s_wondering_s_talk_pleased_] Mamá, ¿te importa si hablamos por un segundo?"
+msgstr "[_danny_s_towards_s_wondering_s_talk_pleased_] Mamá, ¿te importa si hablamos un segundo?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1682 #-#-# translate crowdin The_Great_Out_Doors_scene_8_intermission_c709b80f:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Sure sweetheart, what'd you want to talk about?"
-msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Seguro que el arte de las semanas, ¿de qué quieres hablar?"
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Seguro cielo, ¿de qué quieres hablar?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1697 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_3956d080:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] Did you see any buildings or notable landmarks as we were coming down in the parachutes?"
-msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Has visto algún edificio o lugares destacados a medida que bajábamos en los paracaídas?"
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Has visto algún edificio o lugar destacado a medida que bajábamos en los paracaídas?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1700 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_b183004f:
 msgid "[_maddie_s_towards_s_confused_s_talk_frown_] I don't think I did... when we were coming down it was all so chaotic... I think I maybe saw a river bank {b}East{/b} of here though."
-msgstr "[_maddie_s_towards_s_confused_s_talk_frown_] no creo que lo haga... cuando estábamos bajando era tan caótico. . Creo que tal vez vi una orilla del río {b}Este{/b} de aquí de todas formas."
+msgstr "[_maddie_s_towards_s_confused_s_talk_frown_] no sé que pensar... cuando estábamos bajando era tan caótico. Creo que tal vez vi una orilla del río al {b}Este{/b} de aquí."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1703 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_7e13b012:
 msgid "[_danny_s_towards_s_neutral_s_talk_pleased_] Alright, good to know."
-msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Bien, bueno saber."
+msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Bien, bueno de saber."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1708 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_32074991:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] Are you okay? Like, none of this has been too much for you, has it?"
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¿Estás bien? Como, nada de esto ha sido demasiado para ti, ¿lo tiene?"
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¿Estás bien? Parece, que nada de esto te ha afectado mucho, ¿o no?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1711 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_004b1be0:
 msgid "[_maddie_s_towards_s_wondering_s_talk_displeased_] I'm fine Danny, just a little on edge... crash landing like that was something, but I have to stay alert. There could be any form of predators anywhere."
-msgstr "[_maddie_s_towards_s_wondering_s_talk_displeased_] Estoy bien Danny, solo un poco al borde... The room was very clean and the staff were very friendly and helpful."
+msgstr "[_maddie_s_towards_s_wondering_s_talk_displeased_] Estoy bien Danny, solo un poco pendiente... el aterrizaje forzoso fue algo, pero tengo que estar alerta. Podría haber un depredador en cualquier lugar."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1717 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_5edf6f72:
 msgid "[_danny_s_towards_s_wondering_s_talk_distraught_] Is there anyway for us to get in touch with Dad or Jazz at all?"
-msgstr "[_danny_s_towards_s_wondering_s_talk_distraught_] ¿De todos modos podemos ponernos en contacto con papá o jaz?"
+msgstr "[_danny_s_towards_s_wondering_s_talk_distraught_] ¿podemos ponernos en contacto con papá o jazz?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1720 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_7756e15b:
 msgid "[_maddie_s_towards_s_unhappy_s_talk_displeased_] I'm afraid there's nothing we can do."
@@ -1342,27 +1342,27 @@ msgstr "[_maddie_s_towards_s_unhappy_s_talk_displeased_] Me temo que no hay nada
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1723 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_a684a3a5:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_] Don't you like, keep a... \"Fenton Cell Phone\" on yourself at all times, or something?"
-msgstr "[_danny_s_towards_s_sad_s_talk_frown_] ¿No te gusta, mantén ... \"Fenton celular\" en todo momento, o algo?"
+msgstr "[_danny_s_towards_s_sad_s_talk_frown_] ¿No te quieres, mirar... el \"Celular fenton\" en todo momento?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1726 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_7d742c7d:
 msgid "[_maddie_s_towards_s_amused_s_talk_amused_] Cell phone? Oh Danny, please... you can't fight ghosts with a {u}cell phone.{/u} C'mon, don't be ridiculous..."
-msgstr "[_maddie_s_towards_s_amused_s_talk_amused_] ¿Teléfono celular? Oh Danny, por favor ... no puedes luchar contra fantasmas con un teléfono celular {u}. {/u} C' mon, no seas ridículo ..."
+msgstr "[_maddie_s_towards_s_amused_s_talk_amused_] ¿Teléfono celular? Oh Danny, por favor... no puedes luchar contra fantasmas con un {u}teléfono celular{/u} Vamos, no seas ridículo..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1729 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_3d5eac57:
 msgid "[_danny_s_at_player_s_wondering_s_talk_frown_] Oh... right. How silly of me."
-msgstr "[_danny_s_at_player_s_wondering_s_talk_frown_] Oh... derecha. Qué tonto de mí."
+msgstr "[_danny_s_at_player_s_wondering_s_talk_frown_] Oh... ya. Qué tonto he sido."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1732 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_27e5b09b:
 msgid "[_maddie_s_towards_s_wondering_s_talk_displeased_] Well your father was expecting a phone call once we touched down... but that won't be for a few more hours, and even if he contacts the authorities, they won't start searching right away."
-msgstr "[_maddie_s_towards_s_wondering_s_talk_displeased_] Bueno, tu padre esperaba una llamada telefónica una vez que nos toquemamos... pero eso no será durante unas horas más, e incluso si se pone en contacto con las autoridades, no comenzarán a buscar de inmediato."
+msgstr "[_maddie_s_towards_s_wondering_s_talk_displeased_] Bueno, tu padre esperaba una llamada telefónica una vez que tocáramos tierra... pero eso no sucedería en unas horas, y además si se pone en contacto con las autoridades no comenzarán a buscar de inmediato."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1735 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_f23112e7:
 msgid "[_maddie_s_towards_s_unhappy_s_talk_frown_] And who's to say they even start looking in the right place? We simply have to keep heading forward."
-msgstr "[_maddie_s_towards_s_unhappy_s_talk_frown_] ¿Y quién puede decir que incluso empiezan a mirar en el lugar correcto? Simplemente tenemos que seguir adelante."
+msgstr "[_maddie_s_towards_s_unhappy_s_talk_frown_] ¿Y quién puede decir que empezarán mirando en el lugar correcto? Tenemos que seguir adelante."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1740 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_abaf77c6:
 msgid "[_danny_s_towards_s_neutral_s_talk_pleased_] That's all I wanted to ask for now Mom."
-msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Eso es todo lo que quería pedir por ahora mamá."
+msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Es todo lo que quería preguntar por ahora mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1743 #-#-# translate crowdin The_Great_Out_Doors_scene_talk_about_6e19cc68:
 msgid "[_maddie_s_towards_s_neutral_s_talk_amused_] Okay, let's keep moving then. Let's head East, see if I actually saw a water source or not..."
@@ -1370,35 +1370,35 @@ msgstr "[_maddie_s_towards_s_neutral_s_talk_amused_] Vale, sigamos moviéndonos 
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1779 #-#-# translate crowdin The_Great_Out_Doors_scene_8_continue_d1864c20:
 msgid "[_maddie_s_towards_s_wondering_s_talk_happy_] Hey, look at this! Running water! Just what we need!"
-msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] ¡Eh, mira esto! ¡Agua en ejecución! ¡Justo lo que necesitamos!"
+msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] ¡Eh, mira esto! ¡Agua corriendo! ¡Justo lo que necesitamos!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1785 #-#-# translate crowdin The_Great_Out_Doors_scene_8_continue_d35d4bdb:
 msgid "[_danny_s_towards_s_neutral_s_talk_pleased_] Awesome! Okay, think, do we have anything to bottle it up with to drink?"
-msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] genial! Vale, piensa, ¿tenemos algo con lo que embotellar para beber?"
+msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] ¡genial! Vale, piensa, ¿tenemos algo donde poner el agua para beber?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1788 #-#-# translate crowdin The_Great_Out_Doors_scene_8_continue_83b429cf:
 msgid "[_maddie_s_towards_s_wondering_s_talk_frown_] You know, there's a possible chance some of my gear I packed for the symposium came down when we were careening out of the sky..."
-msgstr "[_maddie_s_towards_s_wondering_s_talk_frown_] Usted sabe, hay una posible oportunidad de que parte de mi equipo que empacé para el simposio se vino abajo cuando nos cuidábamos del cielo ..."
+msgstr "[_maddie_s_towards_s_wondering_s_talk_frown_] Usted sabe, hay una posibilidad de que parte del equipo que empaqueté para el simposio cayera con el accidente..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1791 #-#-# translate crowdin The_Great_Out_Doors_scene_8_continue_6a5fce76:
 msgid "[_maddie_s_towards_s_wondering_s_talk_happy_] It could be somewhere in the area, and there's still time to explore... we can come back here later before it gets dark. Get a good drink now though."
-msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] Podría estar en algún lugar del área, y todavía hay tiempo para explorar. . Podemos volver aquí más tarde antes de que se oscureca. No obstante, tome una buena bebida."
+msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] Podría estar en algún lugar de este área y todavía hay tiempo para explorar... Podemos volver aquí más tarde antes de que oscurezca. No obstante, tomemos un buen trago."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1794 #-#-# translate crowdin The_Great_Out_Doors_scene_8_continue_5752ec70:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Alright, sounds good."
-msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Muy bien, suena bien."
+msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Bien, suena bien."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1798 #-#-# translate crowdin The_Great_Out_Doors_scene_8_continue_0877415f:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Awesome! Now, all we need is some food and a place to stay for the night until we find a way home."
-msgstr "¡[_danny_s_towards_s_neutral_s_talk_happy_] genial! Ahora, todo lo que necesitamos es algo de comida y un lugar para alojarnos durante la noche hasta encontrar un camino a casa."
+msgstr "¡[_danny_s_towards_s_neutral_s_talk_happy_] genial! Ahora, todo lo que necesitamos és algo de comida y un lugar para alojarnos durante la noche hasta encontrar un camino a casa."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1820 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_bag_found_8ebcef16:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_unhappy_s_talk_happy_] Nice, looks like one of Mom's bags. It must have fallen form the plane as well."
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_unhappy_s_talk_happy_] Bueno, parece una de las bolsas de mamá. Debe haber caído también desde el avión."
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_unhappy_s_talk_happy_] Bueno, parece una de las maletas de mamá. Debe haber caído también desde el avión."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1821 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_bag_found_5687067c:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_happy_s_talk_pleased_] Let's see what we got here!"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_happy_s_talk_pleased_] ¡Veamos lo que hemos llegado aquí!"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_happy_s_talk_pleased_] ¡Veamos lo que tenemos aquí!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1822 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_bag_found_3ceb2908:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_unhappy_s_talk_displeased_] (Hmm... really not much to salvage. Just some spare clothing and an empty water bottle. Better than nothing, I guess.)"
@@ -1414,51 +1414,51 @@ msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Hmmm... esta zona pare
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1882 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_d7d74a8f:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_] It'd be good shelter though for the night time, wouldn't it?"
-msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] Sería un buen refugio aunque para el tiempo nocturno, ¿no?"
+msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] Sería un buen refugio para la noche, ¿no?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1885 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_6e2ab7ff:
 msgid "[_maddie_s_towards_s_rise_s_talk_frown_] I'd rather not risk it already being the home to some very large animal... let's just keep looking for now. We can always come back later if we really need to."
-msgstr "[_maddie_s_towards_s_rise_s_talk_frown_] Prefiero no correr el riesgo de que ya sea el hogar de algún animal muy grande ... vamos a seguir buscando ahora. Siempre podemos volver más tarde si realmente lo necesitamos."
+msgstr "[_maddie_s_towards_s_rise_s_talk_frown_] Prefiero no correr el riesgo de que sea el hogar de algún animal muy grande... vamos a seguir buscando ahora. Siempre podemos volver más tarde."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1891 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_3129a590:
 msgid "[_danny_s_towards_s_wondering_s_talk_pleased_] Hey look! That looks like the cave Sir Delvo was talking about."
-msgstr "[_danny_s_towards_s_wondering_s_talk_pleased_] ¡Hey mire! Parece que la cueva de la que hablaba Sir Delvo."
+msgstr "[_danny_s_towards_s_wondering_s_talk_pleased_] ¡Hey mira! Parece la cueva de la que hablaba Sir Delvo."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1894 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_f112f8e6:
 msgid "[_maddie_s_towards_s_rise_s_talk_frown_] Doesn't it seem a little... {i}off{/i} to you?"
-msgstr "[_maddie_s_towards_s_rise_s_talk_frown_] ¿No te parece un poco... ¿ {i}desconectado{/i}?"
+msgstr "[_maddie_s_towards_s_rise_s_talk_frown_] No te parece un poco... ¿ {i}fuera {/i} de lugar?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1897 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_fe82af51:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] Like what? Like \"potentially haunted by a centuries old ghost\" type of off? Or like \"mountain lion living with her baby cubs\" type of off?"
-msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Cómo? ¿Como \"potencialmente obsesionado por un fantasma de siglos de antigüedad\" de tipo apagado? ¿O como \"león de montaña que vive con sus cachorros\" tipo de apagado?"
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Cómo? Como un \"potencialmente obsesionado fantasma de siglos de antigüedad\"? ¿O cómo un \"león de montaña que vive con sus cachorros\"?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1900 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_b54c800c:
 msgid "[_maddie_s_towards_s_confused_s_talk_displeased_] There's just something in the air... it seems thicker here."
-msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Solo hay algo en el aire... parece más grueso aquí."
+msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Solo hay algo en el aire... parece más espeso aquí."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1903 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_1a86e191:
 msgid "[_danny_s_towards_s_neutral_s_talk_distraught_] Well, you're the ghost expert here. We should approach it carefully..."
-msgstr "[_danny_s_towards_s_neutral_s_talk_distraught_] Bueno, eres el experto fantasma aquí. Deberíamos acercarlo cuidadosamente..."
+msgstr "[_danny_s_towards_s_neutral_s_talk_distraught_] Bueno, eres la experta de fantasmas. Deberíamos acercarnos cuidadosamente..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1936 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_754c3a8b:
 msgid "[_danny_s_down_wide_s_sad_s_talk_frown_] Mom... is that..."
-msgstr "[_danny_s_down_wide_s_sad_s_talk_frown_] mamá... es eso..."
+msgstr "[_danny_s_down_wide_s_sad_s_talk_frown_] mamá... és eso..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1940 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_6c5e7b46:
 msgid "[_maddie_] Oh no... the poor thing... it appears that from the blade she's clutching, it seems she took her own life."
-msgstr "[_maddie_] Oh no... lo pobre... parece que desde la espada ella está aferrada, parece que se tomó su propia vida."
+msgstr "[_maddie_] Oh no... la pobre... por la forma en que está el cuchillo, parece que ella se tomó su propia vida."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1943 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_e1b606c4:
 msgid "[_danny_s_down_s_unhappy_s_talk_distraught_] Wow, that's... that's pretty dark."
-msgstr "[_danny_s_down_s_unhappy_s_talk_distraught_] Wow, eso... eso es bastante oscuro."
+msgstr "[_danny_s_down_s_unhappy_s_talk_distraught_] Wow, eso... eso és muy triste."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1946 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_4e382489:
 msgid "[_danny_s_down_s_unhappy_s_talk_distraught_] Poor Teresa... how long do you think she's been left here?"
-msgstr "[_danny_s_down_s_unhappy_s_talk_distraught_] Pobre Teresa... ¿cuánto tiempo crees que ha quedado aquí?"
+msgstr "[_danny_s_down_s_unhappy_s_talk_distraught_] Pobre Teresa... ¿cuánto tiempo crees que lleva aquí?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1949 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_d9796850:
 msgid "[_maddie_s_towards_s_unhappy_s_talk_displeased_] From the way the bones look, she's been left here alone for at least a few centuries by my estimates... considering we're only in the Rocky's, it's honestly incredible no one has found her till now."
-msgstr "[_maddie_s_towards_s_unhappy_s_talk_displeased_] Desde la forma en que se ven los huesos, mis estimaciones la han dejado solo aquí durante al menos unos siglos. . Considerando que sólo estamos en la Rocky, es francamente increíble que nadie la haya encontrado hasta ahora."
+msgstr "[_maddie_s_towards_s_unhappy_s_talk_displeased_] Por la forma como se ven los huesos, mis estimaciones son que lleva aquí durante al menos unos siglos... Considerando estamos en la Rocky, es francamente increíble que nadie la haya encontrado hasta ahora."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1952 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_55f4da2d:
 msgid "[_maddie_s_towards_s_sad_s_talk_frown_] Anyway, we should probably let that ghost know what happened."
@@ -1466,7 +1466,7 @@ msgstr "[_maddie_s_towards_s_sad_s_talk_frown_] De todos modos, probablemente de
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1955 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_986ccb35:
 msgid "[_danny_s_closed_s_unhappy_s_consternation_] (I know I wasn't expecting her alive, but I guess there's something extra sad knowing that she took her own life waiting for him.)"
-msgstr "[_danny_s_closed_s_unhappy_s_consternation_] (Sé que no estaba esperando su vida, pero supongo que hay algo más triste sabiendo que se llevó su propia vida esperando.)"
+msgstr "[_danny_s_closed_s_unhappy_s_consternation_] (Sé que no estaba esperando que siguiera viva, pero supongo que és más triste saber que se suicidó esperando.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1958 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_960d9445:
 msgid "[_maddie_s_pointing_2_s_towards_s_confused_s_talk_displeased_] Hey... what's that flower there?"
@@ -1478,63 +1478,63 @@ msgstr "[_danny_s_down_s_rise_s_talk_distraught_] ¿Qué flor?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1964 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_a51d678a:
 msgid "[_maddie_s_pointing_2_s_towards_s_wondering_s_talk_frown_] The purple one she's still clutching in her hands!"
-msgstr "[_maddie_s_pointing_2_s_towards_s_wondering_s_talk_frown_] ¡El púrpura que todavía está agarrando en sus manos!"
+msgstr "[_maddie_s_pointing_2_s_towards_s_wondering_s_talk_frown_] ¡La púrpura que todavía está agarrando en sus manos!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1967 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_13c33206:
 msgid "[_danny_s_down_s_wondering_s_talk_distraught_] What about it?"
-msgstr "[_danny_s_down_s_wondering_s_talk_distraught_] ¿Qué pasa con esto?"
+msgstr "[_danny_s_down_s_wondering_s_talk_distraught_] ¿Qué hay de eso?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1970 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_8b212960:
 msgid "[_maddie_s_down_left_s_towards_s_confused_s_talk_displeased_] Danny she's been dead hundreds of years, how can she still be holding flowers that look like they were picked just a few hours ago?"
-msgstr "[_maddie_s_down_left_s_towards_s_confused_s_talk_displeased_] Danny ha muerto cientos de años, ¿Cómo puede seguir sosteniendo flores que parecen haber sido recogidas hace tan solo unas horas?"
+msgstr "[_maddie_s_down_left_s_towards_s_confused_s_talk_displeased_] Danny, ella lleva muerta desde hace cientos de años, ¿Cómo puede seguir sosteniendo flores que parecen haber sido recogidas hace tan solo unas horas?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1973 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_a09a0cdb:
 msgid "[_danny_s_down_s_rise_s_talk_distraught_] Wait, does that mean what I think it does?"
-msgstr "[_danny_s_down_s_rise_s_talk_distraught_] Espera, ¿eso significa lo que creo que hace?"
+msgstr "[_danny_s_down_s_rise_s_talk_distraught_] Espera, ¿eso significa lo que creo que significa?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1977 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_5880949d:
 msgid "[_maddie_s_fist_s_towards_s_wondering_s_talk_happy_] I {b}KNEW{/b} there was something ghostly hanging in the air! These flowers are absolutely emitting steady traces of ectoplasmic energy!"
-msgstr "[_maddie_s_fist_s_towards_s_wondering_s_talk_happy_] I {b}KNEW{/b} ¡Había algo fantasmalmente colgante en el aire! ¡Estas flores emiten trazas constantes de energía ectoplásmica!"
+msgstr "[_maddie_s_fist_s_towards_s_wondering_s_talk_happy_] Lo {b}SABIA{/b} ¡Había algo fantasmal en el aire! ¡Estas flores emiten trazas constantes de energía ectoplásmica!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1980 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_3e7f2e60:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] Mom, maybe you shouldn't be holding them so close if they're omitting such weirdo ghost stuff like-"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] Mamá, tal vez no deberías tenerlos tan cerca si omiten cosas tan raras como-"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] Mamá, tal vez no deberías estar tan cerca si omiten cosas tan raras como-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1984 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_cd6b9118:
 msgid "[_maddie_s_fist_s_towards_s_amused_s_talk_amused_] Emitting, Danny, and don't be silly! I need to analyze them properl-"
-msgstr "[_maddie_s_fist_s_towards_s_amused_s_talk_amused_] Emiendo, Danny y no seas silly! Necesito analizarlos correctamente-"
+msgstr "[_maddie_s_fist_s_towards_s_amused_s_talk_amused_] Emitiendo, Danny, ¡no seas tonto! Necesito analizarla correctamente-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1987 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_61fede6b:
 msgid "[_maddie_s_fist_s_towards_s_wondering_s_talk_displeased_s_blush_] {i}*Ahem*{/i} I need to... well... {i}*Nnghh*{/i}... oh my... is it... is it getting hot out here?"
-msgstr "[_maddie_s_fist_s_towards_s_wondering_s_talk_displeased_s_blush_] {i}*Ahem*{/i} necesito que... bueno... {i}*Nnghh*{/i}... oh mi... ¿está saliendo a la luz aquí?"
+msgstr "[_maddie_s_fist_s_towards_s_wondering_s_talk_displeased_s_blush_] {i}*Ahem*{/i} necesito que... bueno... {i}*Nnghh*{/i}... oh mi... ¿está haciendo calor aquí?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1990 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_45b6dceb:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] What? Uhh, no not really."
-msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Qué? Uhh, no realmente."
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ¿Qué? Uhh, no."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1993 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_56bbf174:
 msgid "[_maddie_s_fist_s_away_s_confused_s_talk_frown_s_blush_] Danny I... goodness! I'm seriously... I feel boiling hot right now! I need to-"
-msgstr "[_maddie_s_fist_s_away_s_confused_s_talk_frown_s_blush_] Danny y... ¡Bueno! Estoy en serio... ¡Me siento caliente ahora mismo! Necesito -"
+msgstr "[_maddie_s_fist_s_away_s_confused_s_talk_frown_s_blush_] Danny y... ¡Bueno! Hablo en serio... ¡tengo calor ahora mismo! Necesito -"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1997 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_7361626d:
 msgid "[_danny_s_towards_s_wondering_s_talk_frown_s_blush_] {b}MOM!?{/b} Mom, wh-what the heck are you doing?!"
-msgstr "[_danny_s_towards_s_wondering_s_talk_frown_s_blush_] {b}MOM!?{/b} mamá, ¿qué haces?!"
+msgstr "[_danny_s_towards_s_wondering_s_talk_frown_s_blush_] {b}¿¡MOM!?{/b} mamá, ¡¿qué haces?!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2000 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_29e2b2a3:
 msgid "[_maddie_s_towards_s_wondering_s_talk_amused_s_blush_] Danny, {i}mmmfff{/i}, it's n-nothing to worry about... I just...! I just got r-really, really {u}hot{/u} all of a sudden and, uh... please, g-go fetch me s-some water to cool down!"
-msgstr "[_maddie_s_towards_s_wondering_s_talk_amused_s_blush_] Danny, {i}mmfff{/i}, no es nada de lo que preocuparme... Sinto... Acabo de obtener r-realmente, realmente {u}hot{/u} de repente y, uh... por favor, g-go me obsequio - ¡agua para refrescar!"
+msgstr "[_maddie_s_towards_s_wondering_s_talk_amused_s_blush_] Danny, {i}mmfff{/i}, no es nada de lo que preocuparse... Solo... Estoy r-realmente, realmente {u}caliente{/u} de repente y, uh... por favor, ve a traerme - ¡agua para refrescar!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2003 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_d6355dad:
 msgid "[_danny_s_towards_s_neutral_s_talk_distraught_s_blush_] O-okay, s-sure thing!"
-msgstr "[_danny_s_towards_s_neutral_s_talk_distraught_s_blush_] O-okay, ¡está seguro!"
+msgstr "[_danny_s_towards_s_neutral_s_talk_distraught_s_blush_] O-okay, ¡seguro!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2006 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_6fae1c55:
 msgid "[_danny_s_at_player_s_wondering_s_bite_s_blush_] (Shit what did those flowers do to her?! Oh man... I keep looking at her tits and ass though... jeez, why can't I look away!?)"
-msgstr "[_danny_s_at_player_s_wondering_s_bite_s_blush_] (¿Qué le hicieron esas flores?! Oh hombre ... Sigo mirando sus tetas y culo aunque ... jeez, ¿por qué no puedo mirar lejos!?)"
+msgstr "[_danny_s_at_player_s_wondering_s_bite_s_blush_] (¡¿Qué le hicieron esas flores?! Oh tío... Sigo mirando sus tetas y culo aunque... jeez, ¿¡por qué no puedo mirar a otro lado!?)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2012 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_195686da:
 msgid "[_maddie_s_pointing_s_towards_s_wondering_s_talk_displeased_s_blush_] Oh gods! Danny! {b}PLEASE!{/b} I need that water to cool down!! G-go get some some water somewhere! {i}Mmmm!{/i}"
-msgstr "[_maddie_s_pointing_s_towards_s_wondering_s_talk_displeased_s_blush_] ¡Oh dios! ¡Genial! ¡ {b}POR FAVOR!{/b} ¡¡¡Necesito ese agua para enfriarse! ¡G-ve a conseguir algo de agua en algún lugar! {i}Mmm!{/i}"
+msgstr "[_maddie_s_pointing_s_towards_s_wondering_s_talk_displeased_s_blush_] ¡Oh dios! ¡Danny! ¡{b}POR FAVOR!{/b} ¡¡¡Necesito agua para refrescarme!!! ¡v-ve a conseguir algo de agua en algún lugar! {i}¡Mmm!{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2015 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_cave_interior_9f5d7aef:
 msgid "[_danny_s_towards_s_wondering_s_bite_s_blush_] (I better do as she says!)"
@@ -1542,23 +1542,23 @@ msgstr "[_danny_s_towards_s_wondering_s_bite_s_blush_] (¡Mejor hago como ella d
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2048 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_water_taken_first_time_9a4f2552:
 msgid "[_danny_s_at_player_s_neutral_s_talk_distraught_] Well, I got the water, I best start heading back. Hope this stuff is filtered through rocks well enough..."
-msgstr "[_danny_s_at_player_s_neutral_s_talk_distraught_] Bueno, tengo el agua, lo mejor que puedo empezar a ir hacia atrás. Espero que estas cosas estén filtradas a través de las rocas lo suficientemente bien..."
+msgstr "[_danny_s_at_player_s_neutral_s_talk_distraught_] Bueno, tengo el agua, mejor vuelvo hacia atrás. Espero que estén filtradas bien a través de las rocas..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2096 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_4162424e:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_talk_pleased_s_-blush_] Mom I got some- {b}MOM!?{/b}"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_talk_pleased_s_-blush_] ¿Mamá tengo algo- {b}MOM!?{/b}"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_talk_pleased_s_-blush_] Mamá tengo algo- {b}¿¡MAMA!?{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2099 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_b2b3d394:
 msgid "[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown_] D-Danny!! Look away!"
-msgstr "¡[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown_] D-Danny!! ¡Mía!"
+msgstr "¡[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown_] ¡¡D-Danny!! ¡Mira a otro lado!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2102 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_70055918:
 msgid "[_danny_s_f_s_offscreen_s_towards_wide_s_sad_s_bite_s_blush_] (This is so weird... my mom's masturbating in front of me. What even is my life anymore? All this crazy stuff just keeps happening!)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_sad_s_bite_s_blush_] (Esto es tan extraño ... la masturbación de mi mamá delante de mí. ¿Qué es ya mi vida? All this crazy stuff just keeps happening!"
+msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_sad_s_bite_s_blush_] (Esto es tan extraño... la masturbación de mi mamá delante de mí. ¿Qué más pasará en mi vida? ¡Estas locuras siguen sucediendo!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2104 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_a6b6af1c:
 msgid "[_maddie_s_cave_s_masturbation_s_shocked_s_neutral_s_talk_frown2_] J-just give me the water please!"
-msgstr "¡[_maddie_s_cave_s_masturbation_s_shocked_s_neutral_s_talk_frown2_] J-just dame el agua por favor!"
+msgstr "¡[_maddie_s_cave_s_masturbation_s_shocked_s_neutral_s_talk_frown2_] ¡S-olo dame el agua por favor!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2107 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_33273f3a:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_sad_s_talk_distraught_s_blush_] Okay..."
@@ -1566,11 +1566,11 @@ msgstr "[_danny_s_f_s_offscreen_s_closed_s_sad_s_talk_distraught_s_blush_] Vale.
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2109 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_2b534f39:
 msgid "[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown3_] N-now, turn around! You shouldn't see me like this!"
-msgstr "[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown3_] N-ahora, ¡hazte partícipe! ¡No deberías verme así!"
+msgstr "[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown3_] A-ahora, ¡gírate! ¡No deberías verme así!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2110 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_735dfcae:
 msgid "[_maddie_s_cave_s_masturbation_s_down_s_neutral_s_bite_frown_] (Oh my goodness... this is so embarrassing! But I couldn't resist my desires for some reason... get ahold of yourself, Madeline Fenton!)"
-msgstr "[_maddie_s_cave_s_masturbation_s_down_s_neutral_s_bite_frown_] (Oh mi bien... ¡esto es tan vergonzoso! Pero no pude resistir mis deseos por alguna razón... ¡hazte con ti mismo, Madeline Fenton!)"
+msgstr "[_maddie_s_cave_s_masturbation_s_down_s_neutral_s_bite_frown_] (Oh dios mío... ¡esto és muy vergonzoso! Pero no pude resistir mis deseos por alguna razón... ¡controlate, ¡Madeline Fenton!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2132 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_9bd84e3b:
 msgid "[_danny_s_down_s_wondering_s_talk_frown_s_blush_] Can I turn around now?"
@@ -1582,23 +1582,23 @@ msgstr "[_maddie_s_away_s_confused_s_talk_displeased_s_blush_] ...sí."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2144 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_b142a6ce:
 msgid "[_danny_s_down_s_wondering_s_talk_frown_s_blush_] Uhm... at the expense of sounding overly weird, or making things somehow even more uncomfortable... is everything okay?"
-msgstr "[_danny_s_down_s_wondering_s_talk_frown_s_blush_] Uhm... a expensas de sonar demasiado extraño, o de hacer de alguna manera aún más inocuas... ¿está todo bien?"
+msgstr "[_danny_s_down_s_wondering_s_talk_frown_s_blush_] Uhm... a expensas de sonar extraño, o de pasar alguna cosa inconfortable... ¿está todo bien?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2147 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_fc294e7f:
 msgid "[_maddie_s_towards_s_sad_s_talk_displeased_s_blush_] Yes just... try to forget what you saw and let's get back to that ghost already."
-msgstr "[_maddie_s_towards_s_sad_s_talk_displeased_s_blush_] Sí justo... trate de olvidar lo que vio y volvamos a ese fantasma ya."
+msgstr "[_maddie_s_towards_s_sad_s_talk_displeased_s_blush_] Sí solo... trata de olvidar lo que viste y volvamos con ese fantasma ya."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2150 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_9163c0f6:
 msgid "[_danny_s_towards_s_sad_s_talk_pleased_s_blush_] Alright."
-msgstr "[_danny_s_towards_s_sad_s_talk_pleased_s_blush_] ."
+msgstr "[_danny_s_towards_s_sad_s_talk_pleased_s_blush_] vale."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2152 #-#-# translate crowdin The_Great_Out_Doors_Scene_9_mastrubation_f213c8db:
 msgid "[_danny_s_at_player_s_wondering_s_bite_s_blush_] (I don't think I'm just gonna forget that in a hurry! I don't know if I even want to...)"
-msgstr "[_danny_s_at_player_s_wondering_s_bite_s_blush_] (No creo que sólo voy a olvidar que a toda prisa! I don't know if I even want to ...)"
+msgstr "[_danny_s_at_player_s_wondering_s_bite_s_blush_] (¡No creo que vaya a olvidar a toda prisa! No sé si ni si quiera quiero...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2192 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_f9996544:
 msgid "[_delvo_s_towards_s_wondering_s_talk_happy_] Ah, you've returned! Praise be to the nine! What news do you bring me about my beloved?"
-msgstr "[_delvo_s_towards_s_wondering_s_talk_happy_] ¡Ah, has regresado! ¡Alabado sea a los nueve! ¿Qué noticias me traes de mi amado?"
+msgstr "[_delvo_s_towards_s_wondering_s_talk_happy_] ¡Ah, habéis regresado! ¡Alabados sean los nueve! ¿Qué noticias me traéis de mi amada?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2196 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_d5ae87bd:
 msgid "[_danny_s_towards_s_unhappy_s_talk_frown_] I uhm... think we have some bad news."
