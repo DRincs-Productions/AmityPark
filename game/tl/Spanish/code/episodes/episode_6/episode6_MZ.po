@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-09 12:55\n"
+"PO-Revision-Date: 2023-10-10 13:29\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -1214,19 +1214,19 @@ msgstr "[_maddie_s_towards_s_aghast_s_talk_displeased_] ¡Gracias a dios! ¡Nos 
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1540 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_2bc6d1a8:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] Mom, c'mon, I don't think he's like the other kinda ghosts we've seen roaming Amity Park."
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] Mamá, c'mon, no creo que sea como los otros fantasmas que hemos visto en roaming de Amity Park."
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] Mamá, vamos, no creo que sea como los otros fantasmas que hemos visto en Amity Park."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1543 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_f9bddfe0:
 msgid "[_maddie_s_towards_s_confused_s_talk_displeased_] Honey, he's a {u}ghost{/u}. Period! You can't trust ghosts based off their somewhat endearing projection. Trust me Danny, I've researched them long enough to know a dirty ghost when I see one..."
-msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Feliz, es un fantasma {u}{/u}. ¡Period! No puedes confiar en los fantasmas basados en su proyección algo ardua. Confíe en mí Danny, los he investigado el tiempo suficiente para conocer un fantasma sucio cuando veo una..."
+msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Cielo, és un {u}fantasma{/u}. No puedes confiar en los fantasmas basándote en la proyección algo ardua que hacen. Confía en mí Danny, los he investigado el tiempo suficiente para conocer un fantasma malo cuando lo veo..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1546 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_58bd053d:
 msgid "[_maddie_s_towards_s_neutral_s_talk_frown_] The best we can hope is to use them to further our scientific knowledge of the world!"
-msgstr "[_maddie_s_towards_s_neutral_s_talk_frown_] ¡Lo mejor que podemos esperar es usarlos para promover nuestro conocimiento científico del mundo!"
+msgstr "[_maddie_s_towards_s_neutral_s_talk_frown_] ¡Lo mejor que podemos hacer es usarlos para promover nuestro conocimiento científico del mundo!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1549 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_d9d4fc12:
 msgid "[_maddie_s_towards_s_wondering_s_talk_happy_] ...then we try to squash, zap, condense, eviscerate, or fry em' anyway we know how to see what comes outta their eyes! For science!!"
-msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] ...luego tratamos de escuadrar, zap, condensar, eviscerar o freír de todos modos ¡¡sabemos cómo ver qué sale de sus ojos! ¡¡¡¡¡Para la ciencia!!"
+msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] ..trataremos de ordenar, zapear, condensar, viscerar o achicharrarlos ¡¡sabemos cómo ver qué hay dentro de ellos!! ¡¡Para la ciencia!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1552 #-#-# translate crowdin The_Great_Out_Doors_scene_8a_2_3fa60b6a:
 msgid "[_danny_s_towards_s_unhappy_s_talk_frown_] Get real, Mom! You can't just kill him for the sake of trying to learn more about the world!!"
