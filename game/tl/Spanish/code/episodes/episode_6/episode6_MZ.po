@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-10 14:59\n"
+"PO-Revision-Date: 2023-10-11 13:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -1622,23 +1622,23 @@ msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] Lo siento mucho Sir Delvo."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2216 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_9f0963c6:
 msgid "[_delvo_s_towards_s_wondering_s_talk_frown_] It is quite alright, kind lad... it is already done. Might I impose on you one last request? Though I fear it may be a touch morbid."
-msgstr "[_delvo_s_towards_s_wondering_s_talk_frown_] Está bien, amable mucho... ya está hecho. ¿Puedo imponerle una última petición? Aunque me temo que puede ser un toque morbida."
+msgstr "[_delvo_s_towards_s_wondering_s_talk_frown_] Está bien, caballero... ya está hecho. ¿Puedo imponerle una última petición? Aunque temo que puede ser un poco morbida."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2220 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_06ca434e:
 msgid "[_maddie_s_towards_s_unhappy_s_talk_frown_] Danny, it's really getting late and we should be looking for a way-"
-msgstr "[_maddie_s_towards_s_unhappy_s_talk_frown_] Danny, está llegando tarde y deberíamos buscar una manera-"
+msgstr "[_maddie_s_towards_s_unhappy_s_talk_frown_] Danny, se está haciendo tarde y deberíamos buscar un-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2224 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_259a6a9b:
 msgid "[_danny_s_towards_s_wondering_s_talk_frown_] What is it Sir Delvo?"
-msgstr "[_danny_s_towards_s_wondering_s_talk_frown_] ¿Qué es Sir Delvo?"
+msgstr "[_danny_s_towards_s_wondering_s_talk_frown_] ¿Qué Sir Delvo?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2228 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_079b876d:
 msgid "[_delvo_s_towards_s_sad_s_talk_frown_] Could you... bring her remains to me?"
-msgstr "[_delvo_s_towards_s_sad_s_talk_frown_] ¿Podrías... traerla a mí?"
+msgstr "[_delvo_s_towards_s_sad_s_talk_frown_] ¿Me podrías... traer sus restos?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2233 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_11c140c3:
 msgid "[_maddie_s_towards_s_angry_s_talk_displeased_] Danny no, come now, this is too much."
-msgstr "[_maddie_s_towards_s_angry_s_talk_displeased_] Danny no, venga ahora, esto es demasiado."
+msgstr "[_maddie_s_towards_s_angry_s_talk_displeased_] Danny no, venga, esto és demasiado."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2237 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_877f75a2:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] But Mom, I want to help!"
@@ -1646,15 +1646,15 @@ msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] Pero mamá, ¡quiero ayu
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2241 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_bcd59940:
 msgid "[_delvo_s_closed_s_sad_s_talk_frown_] No no, I apologize m'lady. You are quite right. I should not have asked. I merely thought her remains would be best suited with the one she... well, never mind."
-msgstr "[_delvo_s_closed_s_sad_s_talk_frown_] No, me disculpo m'lady. Tienes toda la razón. No debería haberme preguntado. Simplemente pensé que sus restos serían más adecuados con ella... bueno, no importa."
+msgstr "[_delvo_s_closed_s_sad_s_talk_frown_] No no, me disculpo milady. Tiene razón. No debería haber preguntado. Pensé que sus restos estarían mejor con la única persona que ella... bueno, no importa."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2244 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_d3dcf346:
 msgid "[_maddie_s_towards_s_unhappy_s_frown_] (Ugh... if Jack could see me now... damn it.)"
-msgstr "[_maddie_s_towards_s_unhappy_s_frown_] (Ugh... si Jack pudiera verme ahora... maldita esto.)"
+msgstr "[_maddie_s_towards_s_unhappy_s_frown_] (Ugh... si Jack pudiera verme ahora... maldita sea.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2251 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_73f5b679:
 msgid "[_maddie_s_towards_s_sad_s_talk_displeased_] {i}*Sigh*{/i} Fine, but this is the last thing we're doing for a ghost this trip."
-msgstr "[_maddie_s_towards_s_sad_s_talk_displeased_] {i}*Alta*{/i} Bien, pero esto es lo último que estamos haciendo para un fantasma este viaje."
+msgstr "[_maddie_s_towards_s_sad_s_talk_displeased_] {i}*Suspiro*{/i} Bien, pero esto és lo último que vamos a hacer para un fantasma durante este viaje."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2256 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_594a729a:
 msgid "[_delvo_s_towards_wide_s_wondering_s_talk_happy_] Oh, I thank you both! You are both saints to be praised!"
@@ -1662,7 +1662,7 @@ msgstr "[_delvo_s_towards_wide_s_wondering_s_talk_happy_] ¡Oh, gracias a ambos!
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2260 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Central_Forest_79935697:
 msgid "[_danny_s_towards_s_neutral_s_talk_pleased_] Thanks Mom. this is the right thing to do."
-msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Gracias Momia. Esto es lo correcto."
+msgstr "[_danny_s_towards_s_neutral_s_talk_pleased_] Gracias Mami. Es lo correcto."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2291 #-#-# translate crowdin The_Great_Out_Doors_scene_10_RetrievedBones_4c555a2e:
 msgid "[_danny_] (Yuck... human remains... kinda the more ghoulish aspects of being a regular ghost, I guess. The actual {i}dying{/i} part...)"
