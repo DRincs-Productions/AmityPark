@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 11:17\n"
+"PO-Revision-Date: 2023-10-12 13:48\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -2418,7 +2418,7 @@ msgstr "¡[_danny_] {i}Ahh!{/i} ¡S-Sí! ¡Me encanta!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3123 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_0ca6d387:
 msgid "[_danny_] (She's so good at this! She's barely even gripping it and yet...)"
-msgstr "[_danny_] (¡Es tan buena en esto! Apenas la está agarrando y aún...)"
+msgstr "[_danny_] (¡Es buenísima! Apenas la está agarrando y aún...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3126 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_cb27324a:
 msgid "[_maddie_] {i}Goood{/i} baby, good... oh yes, I think this will be the perfect dessert to go with my yummy sweet bread..."
@@ -2426,7 +2426,7 @@ msgstr "[_maddie_] {i}Bueno{/i} bebé, bueno... oh sí, creo que este será el p
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3129 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_404b1acb:
 msgid "[_danny_] Yeah, stroke it... just like that... I could have you do this all night! Oh man, you're so hot!!"
-msgstr "[_danny_] Sí, acaríciala... creo que... ¡Podría estar así toda la noche! ¡Oh, tío, eres muy caliente!!"
+msgstr "[_danny_] Sí, acaríciala... creo que... ¡Podría estar así toda la noche! ¡Oh, tíá, eres muy caliente!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3132 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_2e7b9f52:
 msgid "[_maddie_] Thank you sweetie, you look really good too... with this big thing hidden in your pants all day... but just touching you isn't enough for me right now."
@@ -2438,119 +2438,119 @@ msgstr "¿[_danny_]¿ H-huh?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3138 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_38dcb885:
 msgid "[_maddie_] I... I think I... I want {u}this{/u} instead..."
-msgstr "[_maddie_] yo... creo que... quiero {u}este lugar {/u} en su lugar de..."
+msgstr "[_maddie_] yo... creo que... quiero {u}esto {/u} en otro lugar..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3154 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_d8dad7ac:
 msgid "[_maddie_] A good {i}taste{/i}."
-msgstr "[_maddie_] Un buen sabor {i}{/i}."
+msgstr "[_maddie_] Un buen {i}sabor{/i}."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3157 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_6cc3e90b:
 msgid "[_danny_] (HOLY SHIT!!)"
-msgstr "[_danny_] (¡¡¡¡¡MÁSIMA!!)"
+msgstr "[_danny_] (¡¡¡¡¡SANTAS PASCUAS!!!!!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3163 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_c3fe2034:
 msgid "[_maddie_] {i}*Ehrmmmmph*{/i} (Oh wow... his cock tastes so good... this is so messed up, but I can't help myself anymore.)"
-msgstr "[_maddie_] {i}*Ehrmmmph*{/i} (Oh wow... su polla sabe tan bien... esto está tan desordenado, pero ya no me puedo ayudar a mí mismo.)"
+msgstr "[_maddie_] {i}*Ehrmmmph*{/i} (Oh wow... su polla sabe tan bien... esto és muy retorcido, pero ya no me puedo controlar.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3165 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_15ffda1e:
 msgid "[_danny_] Jesus Mom, you're soooo good at this!"
-msgstr "[_danny_] a Jesús, ¡eres soooo bueno en esto!"
+msgstr "[_danny_] a Jesús mamá, ¡eres bueniiiiiísima en esto!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3167 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_54a2d891:
 msgid "[_maddie_] (Ohh... my baby likes this! Fantastic! Too bad his father doesn't appreciate my head as much as he used to... maybe he just wishes he had a younger version of me to top him off...)"
-msgstr "[_maddie_] (Ohh... ¡A mi bebé le gusta esto! ¡Fantástico! ¡Demasiado mal su padre no aprecia mi cabeza tanto como antes. . Tal vez él sólo desea que tenga una versión más joven de mí para superarlo...)"
+msgstr "[_maddie_] (Ohh... ¡A mi bebé le gusta esto! ¡Fantástico! ¡Lástima que tu padre no aprecie mi boca tanto como antes... Tal vez desea una versión más joven de mí para difsfrutarlo...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3169 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_ea9b8e22:
 msgid "[_danny_] {b}OH YEAH, THAT'S IT!!{/b}"
-msgstr "[_danny_] {b}OH YEAH, THAT'S IT!!{/b}"
+msgstr "[_danny_] {b}¡¡OH YEAH, ESO ÉS!!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3171 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_13f1efec:
 msgid "[_maddie_] (Heh, sounds like {i}someone{/i} is appreciating my blowjobs...)"
-msgstr "[_maddie_] (Heh, suena como {i}alguien{/i} está apreciando mis blowjobs...)"
+msgstr "[_maddie_] (Heh, suena como {i}alguien{/i} que está apreciando mi mamada...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3173 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_72bac301:
 msgid "[_maddie_] (God, doing this is making me feel like I'm eighteen again! Mmm, soo damn good...)"
-msgstr "[_maddie_] (Dios, hacer esto me está haciendo sentir como que soy ocho de nuevo! Mmm, tan maldita bien...)"
+msgstr "[_maddie_] (Dios, ¡hacer esto me está haciendo sentir que tengo 18 años otra vez! Mmm, tan malditamente bien...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3177 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_03663194:
 msgid "[_danny_] Oh God... you're an amazingly hot {u}MILF{/u}, Mom! This feels amazing!"
-msgstr "[_danny_] Oh Dios ... eres un increíblemente caliente {u}MILF {/u}, mamá! ¡Esto se siente increíble!"
+msgstr "[_danny_] Oh Dios... eres una increíblemente caliente {u}MILF {/u}, mamá! ¡Esto se siente increíble!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3179 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_7e0e67f3:
 msgid "[_maddie_] (GOODNESS! I certainly wish he'd mind his language! Especially while I'm sucking his cock. I certainly didn't raise him to talk like that.)"
-msgstr "[_maddie_] (¡GOOODNES! ¡Ciertamente le deseo que le importe su idioma! Especialmente mientras estoy chupando su polla. Ciertamente no lo levanté para hablar así.)"
+msgstr "[_maddie_] (¡DIOOOOS! ¡Desearía que moderara su lengua! Especialmente mientras estoy chupando su polla. No le he educado para hablar así.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3181 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_947e8f50:
 msgid "[_danny_] D-don't stop, please."
-msgstr "[_danny_] no se detiene, por favor."
+msgstr "[_danny_] N-no pares, por favor."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3183 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_e7a45691:
 msgid "[_danny_] Oh God, that's so good!"
-msgstr "[_danny_] ¡Oh Dios, eso es tan bueno!"
+msgstr "[_danny_] ¡Oh Dios, és tan bueno!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3185 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_07a7d421:
 msgid "[_maddie_] {i}Mmm!{/i} (Such a delicious cock baby, I don't wanna stop myself.)"
-msgstr "[_maddie_] {i}Mmm!{/i} (Un delicioso bebé de polla, no quiero detenerme a mí mismo.)"
+msgstr "[_maddie_] {i}Mmm!{/i} (Una deliciosa polla de chico, no quiero detenerme.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3187 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_78536844:
 msgid "[_maddie_] (Maybe it's time to use my secret weapon I learned from my college days?)"
-msgstr "[_maddie_] (¿Tal vez es hora de usar mi arma secreta que aprendí de mis días de colegio?)"
+msgstr "[_maddie_] (¿Tal vez es hora de usar el arma secreta que aprendí de tiempos de colegio?)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3192 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_ac26944f:
 msgid "[_danny_] {b}MOM! F-F-FUCKKK!{/b}"
-msgstr "[_danny_] ¡ {b}MOM! ¡F-F-FUCKKKK!{/b}"
+msgstr "[_danny_] ¡ {b}MAMA! ¡J-J-JODEEEEEER!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3194 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_7c0b084e:
 msgid "[_maddie_] {i}*Gasp*{/i} (Phew!) {i}*Gasp*{/i} (Wow! There's a lot of cock to wrap myself around here sweetie, let's try that again!)"
-msgstr "[_maddie_] {i}*Gasp * {/i} (Phew!) {i}*Gasp * {/i} (Wow! There's a lot of cock to wrap myself around here swetie, let's try that again!)"
+msgstr "[_maddie_] {i}*Jadeo*{/i} (¡Uf!) {i}*Jadeo*{/i} (¡Wow! Hay mucha polla para disfrutar aquí cariño, ¡lo intentaré otra vez!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3196 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_f12ed8f7:
 msgid "[_danny_] Wait Mom, I'm not-"
-msgstr "[_danny_] Espere a mamá, no soy -"
+msgstr "[_danny_] Espere a mamá, yo no -"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3198 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_5dea43d9:
 msgid "[_danny_] {u}OH WOW, THIS IS SO AWESOME!{/b}"
-msgstr "[_danny_] {u}OH WOW, ¡ESTO ES SU AWESOME!{/b}"
+msgstr "[_danny_] {b}OH WOW, ¡ESTO ES SUPER GENIAL!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3202 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_7b4ca177:
 msgid "[_maddie_] (Ooooh... that's right baby, tell me how {i}Mommy{/i} is the best)."
-msgstr "[_maddie_] (Ooooh... ese es el bebé correcto, dígame cómo {i}Mommy{/i} es el mejor)."
+msgstr "[_maddie_] (Ooooh... ese és bebé, dime cómo {i}Mami{/i} és la mejor)."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3204 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_cfeff4c7:
 msgid "[_maddie_] (He's already lasted longer than Jack ever has!)"
-msgstr "[_maddie_] (¡Ya ha durado más de lo que Jack tiene!)"
+msgstr "[_maddie_] (¡Ya ha durado más que Jack!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3206 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_1c9cc3dd:
 msgid "[_danny_] Oh yeah, oh shit! Y-yeah, I'm really, {i}really{/i} close!"
-msgstr "[_danny_] Oh sí, ¡oh mierda! ¡Sí, estoy realmente, {i}ciertamente{/i} cercano!"
+msgstr "[_danny_] Oh sí, ¡oh mierda! ¡Sí, estoy, {i}ciertamente{/i} cerca!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3208 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_84b0c172:
 msgid "[_maddie_] (Hehehe, I've still got it.~)"
-msgstr "[_maddie_] (Hehehe, todavía lo tengo.~)"
+msgstr "[_maddie_] (Hehehe, casi le tengo.~)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3210 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_6bae6dc2:
 msgid "[_danny_] Oh fuck, OH FUCK!!"
-msgstr "[_danny_] Oh fuck, OH FUCK!!"
+msgstr "[_danny_] Oh fuck, ¡¡OH FUCK!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3220 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_6aefe57b:
 msgid "[_maddie_] Come on baby! Don't hold back! Cover my face and tits!"
-msgstr "[_maddie_] ¡Ven a bebé! ¡No se retengan! Cubre mi cara y tetas!"
+msgstr "[_maddie_] ¡Vamos bebé! ¡No te retengas! ¡Cubre mi cara y tetas!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3228 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_07e64e0c:
 msgid "[_maddie_] Sweetie? What's wrong? Don't you want to-"
-msgstr "¿[_maddie_] Semanas? ¿Qué está mal? ¿No quieres hacer-"
+msgstr "[_maddie_] ¿cielo? ¿Qué hay mal? ¿No quieres-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3234 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_25ba4cab:
 msgid "[_danny_] ({b}I can't hold it anymore!{/b})"
-msgstr "[_danny_] ({b}¡Ya no puedo guardarlo!{/b})"
+msgstr "[_danny_] ({b}¡Ya no puedo aguantar más!{/b})"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3236 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_92e9804d:
 msgid "[_maddie_] {i}*Ehrmmmmph*{/i} (It's so {b}deep{/b}!!)"
-msgstr "[_maddie_] {i}*Ehrmmmph*{/i} (Es tan {b}profundo{/b}!!)"
+msgstr "[_maddie_] {i}*Ehrmmmph*{/i} (¡¡Está tan {b}profunda{/b}!!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3239 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_d894ea02:
 msgid "[_danny_] {b}I'M CUMMING!{/b}"
-msgstr "[_danny_] {b}¡CUMINGO!{/b}"
+msgstr "[_danny_] {b}¡ME CORROOOO!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3240 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_bda4dc74:
 msgid "[_maddie_] {b}MMMMMMPPHHHH!!{/b}"
@@ -2558,11 +2558,11 @@ msgstr "[_maddie_] {b}MMMMMMPPHHHH!!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3248 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_3a48ea04:
 msgid "[_maddie_] That's it baby! Give it all to me!~"
-msgstr "[_maddie_] ¡Eso es un bebé! ¡Dame todo a mí!~"
+msgstr "[_maddie_] ¡Eso es bebé! ¡Dame todo a mí!~"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3255 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_d894ea02_1:
 msgid "[_danny_] {b}I'M CUMMING!{/b}"
-msgstr "[_danny_] {b}¡CUMINGO!{/b}"
+msgstr "[_danny_] {b}¡ME CORROOOO!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3256 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_b86701a2:
 msgid "[_maddie_] (Why is his cum so delicious?~)"
