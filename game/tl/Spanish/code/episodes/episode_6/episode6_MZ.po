@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 15:07\n"
+"PO-Revision-Date: 2023-10-13 06:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -2822,7 +2822,7 @@ msgstr "[_maddie_s_towards_s_confused_s_talk_frown_] Sí... por supuesto."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3547 #-#-# translate crowdin The_Great_Out_Doors_scene_14a_cave_morning_49316121:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_] Mom... are you sure you're okay with what happened last night? I really don't want to think you weren't happy with us...."
-msgstr "[_danny_s_towards_s_sad_s_talk_frown_] Mamá... ¿estás seguro de que estás de acuerdo con lo que pasó la última noche? Realmente no quiero pensar que no estabas contento con nosotros..."
+msgstr "[_danny_s_towards_s_sad_s_talk_frown_] Mamá... ¿estás segura de que estás de acuerdo con lo que pasó anoche? No quiero pensar que no estabas contenta...."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3550 #-#-# translate crowdin The_Great_Out_Doors_scene_14a_cave_morning_f41ee473:
 msgid "[_maddie_s_away_s_confused_s_talk_happy_] ...ehhh... well... oh honey, I... I {i}did{/i} enjoy it, it's just that... it's a lot to think about... it felt like it came outta nowhere!"
