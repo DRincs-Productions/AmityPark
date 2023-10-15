@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-13 08:20\n"
+"PO-Revision-Date: 2023-10-15 10:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -2822,7 +2822,7 @@ msgstr "[_maddie_s_towards_s_confused_s_talk_frown_] Sí... por supuesto."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3547 #-#-# translate crowdin The_Great_Out_Doors_scene_14a_cave_morning_49316121:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_] Mom... are you sure you're okay with what happened last night? I really don't want to think you weren't happy with us...."
-msgstr "[_danny_s_towards_s_sad_s_talk_frown_] Mamá... ¿estás segura de que estás de acuerdo con lo que pasó anoche? No quiero pensar que no estabas contenta...."
+msgstr "[_danny_s_towards_s_sad_s_talk_frown_] Mamá... ¿estás segura de que estás de acuerdo con lo que pasó anoche? No quiero pensar que no estás contenta...."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3550 #-#-# translate crowdin The_Great_Out_Doors_scene_14a_cave_morning_f41ee473:
 msgid "[_maddie_s_away_s_confused_s_talk_happy_] ...ehhh... well... oh honey, I... I {i}did{/i} enjoy it, it's just that... it's a lot to think about... it felt like it came outta nowhere!"
@@ -3018,31 +3018,31 @@ msgstr "[_maddie_s_towards_s_neutral_s_talk_amused_] Oh, ¿podrías dejarme el t
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3866 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_905d9f52:
 msgid "[_vlad_s_towards_s_neutral_s_talk_frown_] Ah yes, my memory, very forgetful. Yes, right over this way."
-msgstr "[_vlad_s_towards_s_neutral_s_talk_frown_] Ah, sí, mi memoria, muy olvidada. Sí, de esta manera."
+msgstr "[_vlad_s_towards_s_neutral_s_talk_frown_] Ah, sí, mi memoria, que despiste. Sí, por aquí."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3870 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_f03167d8:
 msgid "[_maddie_s_away_s_amused_s_talk_amused_] Thanks Vlad. Danny, chat with Vlad a while so I can call your father and try to explain this."
-msgstr "[_maddie_s_away_s_amused_s_talk_amused_] Gracias, Danny, hable con Vlad un poco para que pueda llamar a su padre e intentar explicarlo."
+msgstr "[_maddie_s_away_s_amused_s_talk_amused_] Gracias Vlad. Danny, hablé con Vlad un poco y puedo llamar a tu padre e intentar explicarle todo."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3878 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_67ee2ec0:
 msgid "[_vlad_s_towards_s_rise_s_talk_frown_] So... do you like the place, Daniel?"
-msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] Así que... ¿te gusta el lugar?"
+msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] Así que... ¿te gusta el lugar Daniel?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3881 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_51413bcb:
 msgid "[_danny_s_towards_s_rise_s_talk_pleased_] Well yeah, it's uh, pretty impressive."
-msgstr "[_danny_s_towards_s_rise_s_talk_pleased_] Bueno, sí, es uh, bastante impresionante."
+msgstr "[_danny_s_towards_s_rise_s_talk_pleased_] Bueno, sí, és uh, impresionante."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3884 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_1bac2bc1:
 msgid "[_vlad_s_towards_s_sad_s_talk_happy_] Thank you, I'm sure your mother- I mean, {i}both of you{/i} would love to stay here sometime."
-msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Gracias, estoy seguro de que su madre-quiero decir, {i}ambos de usted {/i} le encantaría quedarse aquí en algún momento."
+msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Gracias, estoy seguro de que tu madre- quiero decir, a {i}ambos {/i} les encantaría quedarse aquí."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3887 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_9aeac1fb:
 msgid "[_danny_s_closed_s_angry_s_talk_distraught_] I dunno, I think we should probably try to get back to Amity Park. The science symposium we were invited to was probably bunk."
-msgstr "[_danny_s_closed_s_angry_s_talk_distraught_] I dunno, creo que probablemente deberíamos tratar de volver a Amity Park. El simposio de ciencia al que fuimos invitados fue probablemente un bunk."
+msgstr "[_danny_s_closed_s_angry_s_talk_distraught_] No, creo que deberíamos tratar de volver a Amity Park. El simposio de ciencia al que fuimos invitados fue una trampa."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3890 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_244e29e0:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] Oh, please, I insist. It would be good for me and your mother to... {i}catch up.{/i}"
-msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Oh, por favor, insisto. Sería bueno para mí y para tu madre que... {i}ponte al día.{/i}"
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Oh, por favor, insisto. Sería bueno para mí y para tu madre para... {i}ponernos al día.{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3893 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_0731b641:
 msgid "[_danny_] (What do I wanna say to Vlad?) [nointeract]"
@@ -3050,63 +3050,63 @@ msgstr "[_danny_] (¿Qué le digo a Vlad?) [nointeract]"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3897 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_249d0694:
 msgid "[_danny_s_towards_s_rise_s_talk_pleased_] Oh don't worry, I've already had done some {i}catching up{/i} with Mom, she's doing juuuust fine."
-msgstr "[_danny_s_towards_s_rise_s_talk_pleased_] Oh no te preocupes, ya había hecho algo de {i}poniéndome al día {/i} con mamá, ella está haciendo juuuust bien."
+msgstr "[_danny_s_towards_s_rise_s_talk_pleased_] Oh no te preocupes, ya se ha {i}puesto al día{/i} con mamá, ella está muuuuuy bien."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3901 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_e601236b:
 msgid "[_vlad_s_towards_wide_s_rise_s_talk_frown_] Ehmmm... well uh... that's good to here then... (What does that even mean? This boy sure can be strange...)"
-msgstr "[_vlad_s_towards_wide_s_rise_s_talk_frown_] Ehmmm... bien uh... eso es bueno para aquí entonces... (¿Qué significa eso? Este chico seguro que puede ser extraño...)"
+msgstr "[_vlad_s_towards_wide_s_rise_s_talk_frown_] Ehmmm... bien uh... eso és bueno entonces... (¿Qué significa eso? Este chico hace cosas extrañas...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3904 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_c7365884:
 msgid "[_danny_s_towards_s_angry_s_talk_distraught_] Pfft, ahh c'mon Vlad, quit flirting with my mom!"
-msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ¡Pfft, ahh c'mon, deje de colirtear con mi vención!"
+msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ¡Pfft, ahh vamos Vlad, deja de ligar con mi mamá!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3907 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_eab3525b:
 msgid "[_vlad_s_towards_s_angry_s_talk_frown_] Oh please now, Daniel. It's called being polite and a good guest. You don't need to be so crass..."
-msgstr "[_vlad_s_towards_s_angry_s_talk_frown_] Oh, por favor, ahora, vaya. Es llamado ser educado y ser un buen invitado. No tienes que ser tan crás..."
+msgstr "[_vlad_s_towards_s_angry_s_talk_frown_] Oh por favor, Daniel. Se llama ser educado y hospitalario. No tienes que ser tan crás..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3910 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_2ac4a4ec:
 msgid "[_danny_s_down_s_rise_s_talk_frown_] Uh, sure Vlad... I'm sure Mom would love to chat and talk... old times, and stuff."
-msgstr "[_danny_s_down_s_rise_s_talk_frown_] Uh, seguro de que... Estoy seguro de que a Mamá le encantaría chatear y hablar... viejos tiempos, y cosas."
+msgstr "[_danny_s_down_s_rise_s_talk_frown_] Uh, seguro Vlad... Estoy seguro de que a mamá le encantaría chatear y hablar... viejos tiempos, y esas cosas."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3913 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_6d48a074:
 msgid "[_vlad_s_towards_wide_s_rise_s_talk_happy_] Oh, I'm so glad to hear you say that... I certainly know I'd personally just {i}love{/i} to reminisce..."
-msgstr "[_vlad_s_towards_wide_s_rise_s_talk_happy_] Oh, estoy muy contento de oírte decir eso... ciertamente sé que personalmente solo me encantaría {i}{/i} para recordar..."
+msgstr "[_vlad_s_towards_wide_s_rise_s_talk_happy_] Oh, estoy muy contento de oírte decir eso... personalmente me {i}encantaría{/i} recordar..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3924 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_03e5e22d:
 msgid "[_maddie_s_towards_s_sad_s_talk_amused_] Well, sounds like Jack has been frantic not hearing from us earlier, but he's relieved that we're okay."
-msgstr "[_maddie_s_towards_s_sad_s_talk_amused_] Bueno, suena como Jack ha estado frenético no escuchando de nosotros antes, pero se ha aliviado de que estemos bien."
+msgstr "[_maddie_s_towards_s_sad_s_talk_amused_] Bueno, parece que Jack ha estado frenético por no saber de nosotros antes, se ha aliviado de que estemos bien."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3928 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_b2c3238a:
 msgid "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] You two must be famished!! Perhaps I could have some lunch prepared for us all? Have you stay for dinner as well?"
-msgstr "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] Usted dos debe ser famoso!! ¿Tal vez podría tener algún almuerzo preparado para todos nosotros? ¿Te has alojado también para cenar?"
+msgstr "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] ¡¡Ustedes dos deben estar hambrientos!! ¿podría hacerles un almuerzo? ¿Se quedarán también para cenar?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3931 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_95922830:
 msgid "[_maddie_s_towards_s_rise_s_talk_displeased_] Well the food is a good idea, but we really should plan on getting home sooner rather than later."
-msgstr "[_maddie_s_towards_s_rise_s_talk_displeased_] Bueno, la comida es una buena idea, pero realmente deberíamos planear volver a casa más pronto que tarde."
+msgstr "[_maddie_s_towards_s_rise_s_talk_displeased_] Bueno, la comida és una buena idea, pero deberíamos planear volver a casa más pronto que tarde."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3935 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_4d79b845:
 msgid "[_vlad_s_towards_s_unhappy_s_talk_frown_] Now Maddie, it's at least an hour and a half drive to the nearest town by land. Please, stay for dinner."
-msgstr "[_vlad_s_towards_s_unhappy_s_talk_frown_] Ahora Maddie, está por lo menos una hora y media en coche hasta la ciudad más cercana por tierra. Por favor, manténgase para cenar."
+msgstr "[_vlad_s_towards_s_unhappy_s_talk_frown_] Ahora Maddie, hay al menos una hora y media en coche hasta la ciudad más cercana. Por favor, quédate para cenar."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3939 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_17a1d1a8:
 msgid "[_danny_s_towards_s_unhappy_s_talk_frown_] That long?? Jeez, we can't do that on foot!!"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_frown_] ¿Hasta ahora?? ¿Jéz, no podemos hacer eso a pie!!"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_frown_] ¿¿Tan lejos?? Jeez, ¡¡no podemos hacer eso a pie!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3943 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_7d82e8d0:
 msgid "[_maddie_s_towards_s_unhappy_s_talk_displeased_] {i}*Sigh*{/i} Vlad would you be willing to lend us a vehicle to drive?"
-msgstr "[_maddie_s_towards_s_unhappy_s_talk_displeased_] {i}*Alta*{/i} Vlad ¿estarías dispuesto a prestarnos un vehículo para conducir?"
+msgstr "[_maddie_s_towards_s_unhappy_s_talk_displeased_] {i}*Suspiro*{/i} Vlad ¿estarías dispuesto a prestarnos un vehículo para conducir?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3947 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_d3b370b9:
 msgid "[_vlad_s_closed_s_neutral_s_talk_happy_] Why of course! I merely ask for one simple, innocent, fairly doable condition."
-msgstr "[_vlad_s_closed_s_neutral_s_talk_happy_] ¿Por qué, por supuesto! Simplemente pido un estado simple, inocente y bastante factible."
+msgstr "[_vlad_s_closed_s_neutral_s_talk_happy_] ¿Qué?, ¡por supuesto! Solo te pongo una simple, bastante y factible condición."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3951 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_9d13d2dd:
 msgid "[_maddie_s_towards_s_rise_s_talk_amused_] ...we stay for dinner?"
-msgstr "[_maddie_s_towards_s_rise_s_talk_amused_] ...nos quedamos para cenar?"
+msgstr "[_maddie_s_towards_s_rise_s_talk_amused_] ¿...que nos quedamos para cenar?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3955 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_5904fb43:
 msgid "[_vlad_s_towards_s_sad_s_talk_happy_] You stay for dinner. The brilliant Maddie Fenton strikes again!"
-msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Te quedas para cenar. ¡El brillante Maddie Fenton vuelve a golpear!"
+msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Te quedas para cenar. ¡La brillante Maddie Fenton vuelve a destacar!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3959 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_7ba4c257:
 msgid "[_danny_s_closed_s_wondering_s_talk_pleased_] I honestly can't complain. I'm pretty starved, I could eat a four course meal between now and dinner."
@@ -3118,27 +3118,27 @@ msgstr "[_maddie_s_towards_s_amused_s_talk_amused_] Bueno, supongo que sólo que
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3967 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_d3a229e1:
 msgid "[_vlad_s_towards_s_sad_s_talk_happy_] Maddie darling, you won't regret it my dear. In fact, why don't you both spend the night at my estate here?"
-msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Maddie darling, no te arrepentirás de mi querido. De hecho, ¿por qué no pasas la noche en mi propiedad aquí?"
+msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Maddie cariño, no te arrepentirás de mi querida. De hecho, ¿por qué no pasas la noche en mi propiedad?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3971 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_38adfc03:
 msgid "[_maddie_s_towards_s_unhappy_s_talk_frown_] Vlad, we just can't do that!"
-msgstr "[_maddie_s_towards_s_unhappy_s_talk_frown_] , ¡no podemos hacer eso!"
+msgstr "[_maddie_s_towards_s_unhappy_s_talk_frown_] Vlad, ¡no podemos hacer eso!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3975 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_68d09de2:
 msgid "[_vlad_s_towards_s_rise_s_talk_frown_] Well you both came here to bond didn't you both? Now that you're both safe and warm, this is a perfect place for you to, uh, {i}talk.{/i}"
-msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] Bueno, los dos vinieron aquí para vincularse no ambos? Ahora que eres seguro y cálido, este es un lugar perfecto para ti, uh, {i}. /i}"
+msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] Bueno, ¿los dos vinieron aquí para pasar tiempo juntos? Ahora que están salvo y resguardados, este es un lugar perfecto para ambos, uh, {i}hablar{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3978 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_8edc8e43:
 msgid "[_vlad_s_towards_wide_s_rise_s_talk_happy_] Besides, you simply can't persist through a 15-hour drive home without a full night's sleep, can you?"
-msgstr "[_vlad_s_towards_wide_s_rise_s_talk_happy_] Además, simplemente no puedes persistir a través de un viaje de 15 horas en casa sin dormir toda la noche, ¿puedes?"
+msgstr "[_vlad_s_towards_wide_s_rise_s_talk_happy_] Además, no puedes aguantar tras un viaje de 15 horas y sin dormir toda la noche, ¿o puedes?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3982 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_2636733b:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] ...hey uhm, how did you know this was a bonding trip?"
-msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ...hey uhm, ¿cómo sabías que era un viaje de unión?"
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] ...hey uhm, ¿cómo sabías que era un viaje para pasar tiempo juntos?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3986 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_a64fda52:
 msgid "[_vlad_s_closed_s_neutral_s_talk_frown_] Well umm, {i}*Cough*{/i} Jack told me! How you were flying to Florida for a convention, and hoping to gain some quality time!"
-msgstr "¡[_vlad_s_closed_s_neutral_s_talk_frown_] Bueno, {i}*Cough*{/i} Jack me dijo! ¡Cómo volabas a Florida para una convención, y esperas ganar algo de tiempo de calidad!"
+msgstr "¡[_vlad_s_closed_s_neutral_s_talk_frown_] Bueno umm, {i}*tos*{/i} ¡Jack me lo dijo! Y como volabas a Florida para una convención, y esperabas pasar un buen tiempo!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3990 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_ed5f27d1:
 msgid "[_maddie_s_towards_s_confused_s_talk_frown_] He did?"
@@ -3158,11 +3158,11 @@ msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] Oh, tú lo conoces, probablemente
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4006 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_e4f34dd4:
 msgid "[_maddie_s_towards_s_confused_s_talk_displeased_] Well I just thought he might have told me that you were in the area we were flying over, but-"
-msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Bueno, pensé que podría haberme dicho que estabas en el área que volábamos, pero-"
+msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Bueno, creo que él podría haberme dicho que estabas en el área que volábamos, pero-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4010 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_d7deace9:
 msgid "[_vlad_s_towards_s_unhappy_s_talk_happy_] Madeline, {i}Madeline{/i}! You're over-worrying my dear! Look around you, take in the scenery!"
-msgstr "¡[_vlad_s_towards_s_unhappy_s_talk_happy_] Madeline, {i}Madeline{/i}! ¡Me preocupa demasiado mi querido! ¡Mira a tu alrededor, toma el escenario!"
+msgstr "¡[_vlad_s_towards_s_unhappy_s_talk_happy_] Madeline, {i}Madeline{/i}! ¡Me preocupas querida! ¡Mira a tu alrededor, ponte en el escenario!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4015 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_d1f9241a:
 msgid "[_maddie_s_away_s_unhappy_s_talk_amused_] Well... I suppose if we can salvage anything from this trip, it'll at least have been worth something."
@@ -3170,7 +3170,7 @@ msgstr "[_maddie_s_away_s_unhappy_s_talk_amused_] bien... Supongo que si podemos
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4020 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_0a7303f6:
 msgid "[_vlad_s_closed_s_neutral_s_talk_happy_] Exactly! And straight in the morning I will see to it personally you are both taken straight home!"
-msgstr "¡[_vlad_s_closed_s_neutral_s_talk_happy_] Exactamente! ¡Y recto por la mañana velaré personalmente por que ambos te lleves a casa recta!"
+msgstr "¡[_vlad_s_closed_s_neutral_s_talk_happy_] ¡Exacto! ¡Y por la mañana supervisaré personalmente que ambos valla directos a casa!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4023 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_95b7cac0:
 msgid "[_maddie_s_towards_s_rise_s_talk_amused_] ...one night?"
@@ -3186,11 +3186,11 @@ msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] ...oh, supongo que me has co
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4034 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_f6409b09:
 msgid "[_vlad_s_towards_s_sad_s_talk_happy_] Excellent! I'll make sure to cook for some extra guests tonight!"
-msgstr "¡[_vlad_s_towards_s_sad_s_talk_happy_] genial! ¡Esta noche me aseguraré de cocinar para algunos invitados más!"
+msgstr "¡[_vlad_s_towards_s_sad_s_talk_happy_] ¡¡genial! ¡Esta noche me aseguraré de cocinar para algunos invitados!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4038 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_9cae23ad:
 msgid "[_danny_s_towards_s_neutral_s_talk_pleased_] Sounds great!"
-msgstr "¡[_danny_s_towards_s_neutral_s_talk_pleased_] suena genial!"
+msgstr "¡[_danny_s_towards_s_neutral_s_talk_pleased_] ¡¡suena genial!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4058 #-#-# translate crowdin The_Great_Out_Doors_scene_16_vlad_mansion_687a6fa8:
 msgid "[_vlad_s_towards_s_rise_s_talk_frown_] While you're staying here Danny, why don't you go, oh I don't know, go play with some sticks outside or something?"
