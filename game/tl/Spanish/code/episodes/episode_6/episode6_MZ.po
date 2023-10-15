@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 12:13\n"
+"PO-Revision-Date: 2023-10-15 13:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -4030,11 +4030,11 @@ msgstr "[_maddie_s_missionary_s_after_s_d_grin_s_m_sad_s_m_talk_happy3_] increí
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5020 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_4052d40a:
 msgid "[_danny_] Ye-yesh... amaz... amazing..."
-msgstr "[_danny_] Ye-yesh... amaz... amazing..."
+msgstr "[_danny_] S-sí... incre... increíble..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5022 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_7fa1996d:
 msgid "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Danny... you really do understand that we {u}have{/u} to keep this a secret right?"
-msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Danny... ¿realmente entiendes que {u}tenemos{/u} para mantener esto en secreto correcto?"
+msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Danny... ¿ entiendes que {u}tenemos{/u} que mantener esto en secreto?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5025 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_8a1203a6:
 msgid "[_danny_] No, of course, duh."
@@ -4042,7 +4042,7 @@ msgstr "[_danny_] No, por supuesto."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5027 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_6bbf0acd:
 msgid "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] I'm serious, you can't go bragging to your friends or anyone. Even if you change my name or our relation-"
-msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Soy serio, no puedes ir a presumir a tus amigos o a nadie. Incluso si usted cambia mi nombre o nuestra relación-"
+msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Te hablo en serio, no puedes ir a presumir a tus amigos o a nadie. Incluso si cambias mi nombre o nuestra relación-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5030 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_ce2b79ec:
 msgid "[_danny_] I know. Don't worry."
@@ -4050,19 +4050,19 @@ msgstr "[_danny_] Lo sé. No te preocupes."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5032 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_1fa8c5ed:
 msgid "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] And your father can NEVER find out."
-msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Y tu padre NUNCA lo sabe."
+msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_frown_] Y tu padre NUNCA lo debe de saber."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5034 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_9a4646a9:
 msgid "[_maddie_s_missionary_s_after_s_d_frown_s_m_neutral_s_m_bite_s_m_blush_] (At least... he {i}shouldn't{/i} know... right?)"
-msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_neutral_s_m_bite_s_m_blush_] (Al menos... él {i}no debería{/i} saber... ¿verdad?)"
+msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_neutral_s_m_bite_s_m_blush_] (Al menos... él {i}no debería{/i} saberlo... ¿verdad?)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5037 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_3fe3ca13:
 msgid "[_danny_] Mom I get it, I'm not going to do anything to mess this up."
-msgstr "[_danny_] Mamá que lo entiendo, no voy a hacer nada para desbaratarlo."
+msgstr "[_danny_] Mamá lo entiendo, no voy a hacer nada para desbaratarlo."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5039 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_e66c1073:
 msgid "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_happy2_] Okay sweetie, I'm glad you understand."
-msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_happy2_] Vale las semanas, me alegro de que entiendas."
+msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_sad_s_m_talk_happy2_] Vale cielo, me alegro de que lo entiendas."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5042 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_9921472f:
 msgid "[_maddie_s_missionary_s_after_s_d_frown_s_m_neutral_s_m_talk_frown_s_-m_blush_] Wait. Did you hear that?"
@@ -4070,35 +4070,35 @@ msgstr "[_maddie_s_missionary_s_after_s_d_frown_s_m_neutral_s_m_talk_frown_s_-m_
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5045 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_b06c2673:
 msgid "[_danny_] It sounded like glass breaking..."
-msgstr "[_danny_] Suenó como rompiendo vidrio..."
+msgstr "[_danny_] Sonó como cristales rompiéndose..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5074 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_9a7eb86d:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_unhappy_s_clenchteeth_] (There's no way I'm leaving those guys alone for real.)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_unhappy_s_clenchteeth_] (No hay manera de dejar a esos chicos solos para real.)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_unhappy_s_clenchteeth_] (No hay manera de que me dejen esos chicos solo.)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5093 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_cf8234b1:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_s_blush_] Oh Vlad, it's so nice of you to look after us tonight."
-msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_s_blush_] Oh, vaya, es muy agradable de ti cuidarnos de nosotros esta noche."
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_s_blush_] Oh Vlad, ha sido muy agradable cuidar de nosotros esta noche."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5096 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_85767d36:
 msgid "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh why it's my pleasure darling."
-msgstr "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh por qué es mi placer querer."
+msgstr "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh por qué, és un placer cielo."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5099 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_39d8ca8a:
 msgid "[_maddie_s_closed_s_neutral_s_talk_frown_s_blush_] I... ooh, I feel really light-headed, maybe I should go lay down for a bit."
-msgstr "[_maddie_s_closed_s_neutral_s_talk_frown_s_blush_] yo... me siento muy ligero, tal vez debería ir un poco."
+msgstr "[_maddie_s_closed_s_neutral_s_talk_frown_s_blush_] yo... me siento mareada, tal vez debería tumbarme un poco."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5102 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_0aa65c3c:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] Just relax dear, rest onto the couch just for a bit."
-msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Simplemente relájese querido, relájese en el sofá sólo por un poco."
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Relájate querida, relájate en el sofá un poco."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5105 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_311ba299:
 msgid "[_maddie_s_towards_wide_s_amused_s_talk_happy_] It's a nice-looking couch you have there."
-msgstr "[_maddie_s_towards_wide_s_amused_s_talk_happy_] Es un sofá agradable que tienes allí."
+msgstr "[_maddie_s_towards_wide_s_amused_s_talk_happy_] Es un sofá muy bonito."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5108 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_f7585473:
 msgid "[_vlad_s_towards_s_sad_s_talk_happy_] Yes, I do believe it's the rich corinthian leather you can't even import from Europe anymore."
-msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Sí, creo que es el rico cuero corintio que ya no se puede importar de Europa."
+msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Sí, creo que es el rico cuero corintio que ya no se importa de Europa."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5111 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_2e5a192b:
 msgid "[_maddie_s_towards_s_amused_s_talk_amused_s_blush_] That's-"
@@ -4106,11 +4106,11 @@ msgstr "[_maddie_s_towards_s_amused_s_talk_amused_s_blush_] Eso -"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5114 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_c4b159e7:
 msgid "[_vlad_s_closed_s_neutral_s_talk_happy_] The man who sold it to me was a world renowned craftsman and stated that this piece, right here, was his magnum opus... just before his untimely death."
-msgstr "[_vlad_s_closed_s_neutral_s_talk_happy_] El hombre que me lo vendió era un artesano de renombre mundial y afirmó que este picoteo. justo aquí, era su magnum opus. Justo antes de su muerte inoportuna."
+msgstr "[_vlad_s_closed_s_neutral_s_talk_happy_] El hombre que me lo vendió era un artesano de renombre mundial y afirmó que esta pieza, esta, era su magnum opus... antes de morir."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5117 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_ae9e1607:
 msgid "[_maddie_s_away_s_aghast_s_talk_displeased_s_blush_] That's a little dark."
-msgstr "[_maddie_s_away_s_aghast_s_talk_displeased_s_blush_] Eso es un poco oscuro."
+msgstr "[_maddie_s_away_s_aghast_s_talk_displeased_s_blush_] Eso és un poco triste."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5120 #-#-# translate crowdin The_Great_Out_Doors_scene_19b_e4d75bb8:
 msgid "[_vlad_s_towards_wide_s_rise_s_talk_happy_] It's worth {u}several{/u} million dollars."
