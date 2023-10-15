@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 16:23\n"
+"PO-Revision-Date: 2023-10-15 17:32\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -5450,7 +5450,7 @@ msgstr "[_maddie_] {i}¡CORRERME~~!{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6939 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_f1d32f27:
 msgid "[_maddie_] {i}*Pant* *Pant*{/i} Danny... where did that energy come from?"
-msgstr "[_maddie_] {i}*Pant* *Pant*{/i} Danny... ¿de dónde procedió esa energía?"
+msgstr "[_maddie_] {i}*Jadeo* *Jdeo*{/i} Danny... ¿de dónde sacas tanta energía?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6940 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_73f04952:
 msgid "[_danny_] Sorry, I guess I just got carried away..."
@@ -5458,11 +5458,11 @@ msgstr "[_danny_] Lo siento, supongo que acabo de dejarme llevar..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6941 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_85cb0b57:
 msgid "[_maddie_] I {i}*Pant*{/i} need to... lay down a... bit..."
-msgstr "[_maddie_] I {i}*Pant*{/i} necesita que... poner un bit..."
+msgstr "[_maddie_] I {i}*Jadeo*{/i} necesito... tumbarme un... poco..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6942 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_8b6e3c04:
 msgid "[_danny_] Me... me too... I guess that was a little intense for the both of us, huh...?"
-msgstr "[_danny_] Yo... yo también... Supongo que fue un poco intenso para los dos, ¿eh...?"
+msgstr "[_danny_] Yo... yo también... Supongo que fue un intenso para los dos, ¿eh...?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6943 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_e2c94d70:
 msgid "[_maddie_] Zzzzz..."
@@ -5470,43 +5470,43 @@ msgstr "[_maddie_] Zzzzz..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6944 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_d9776292:
 msgid "[_danny_] (Did I just... fuck Mom to sleep? Was it {i}that{/i} good?)"
-msgstr "[_danny_] (¿Acabo de follar a mamá para dormir? Was it {i}that {/i} good?)"
+msgstr "[_danny_] (¿Acabo de follarme a mamá hasta dormirse? ¿fue esto {i}esto{/i} bueno?)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6945 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_5d01086b:
 msgid "[_maddie_] {i}*Grumble*{/i} Danny... come cuddle me a bit baby."
-msgstr "[_maddie_] {i}*Grumble * {/i} Danny ... ven a mí un poco de bebé."
+msgstr "[_maddie_] {i}*refunfuño * {/i} Danny... abrázame un poco de bebé."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6946 #-#-# translate crowdin The_Great_Out_Doors_h_scene_doggy_376a9bb5:
 msgid "[_danny_] ...yeah. Okay Mom."
-msgstr "[_danny_] ...sí. Vale. Momia."
+msgstr "[_danny_] ...sí. Vale. Mami."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6994 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_6bb0972c:
 msgid "[_maddie_] {i}*Yawn*{/i} Ohhh, goodness... I feel like I ran a marathon last night. My legs still feel like Jelly..."
-msgstr "[_maddie_] {i}*Yawn*{/i} Ohhh, bueno... Siento que ayer corrí un marathon. Mis piernas todavía se sienten Jalones..."
+msgstr "[_maddie_] {i}*bostezo*{/i} Ohhh, bueno... Siento que ayer corrí un marathon anoche. Mis piernas todavía se sienten temblar..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6996 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_9811cadf:
 msgid "[_danny_] {i}*Grumble*{/i} Murrnnng, Mom."
-msgstr "[_danny_] {i}*Molullo*{/i} Murrnnng, mamá."
+msgstr "[_danny_] {i}*Bostezo*{/i} Buenos días, mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6998 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_f3b41eef:
 msgid "[_maddie_] {i}*Gasp*{/i} {b}OH NO!! DANNY, QUICKLY, WHAT TIME IS IT?!{/b}"
-msgstr "[_maddie_] {i}*Gasp * {/i} {b}OH NO!! DANNY, RÁPIDAMENTE, ¿QUÉ HORA ES?! {/b}"
+msgstr "[_maddie_] {i}*Jadeo* {/i} {b}OH NO!! DANNY, RÁPIDO, ¿QUÉ HORA ES?! {/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7000 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_7ace1d1d:
 msgid "[_danny_] Uhh, 11, I THINK?"
-msgstr "[_danny_] Uhh, 11, ¿QUIÉ?"
+msgstr "[_danny_] Uhh, 12, ¿CREO?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7002 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_dd2f4aab:
 msgid "[_maddie_] I can't believe we fell asleep! Danny, your father and Jazz will be home in an hour!! Get dressed!"
-msgstr "[_maddie_] ¡No puedo creer que nos duermos! Danny, tu padre y Jazz estarán en casa en una hora! ¡Vestidos!"
+msgstr "[_maddie_] ¡No puedo creer que nos durmiéramos Danny!, tu padre y Jazz estarán en casa en una hora! ¡Vistámonos!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7004 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_b7de9281:
 msgid "[_danny_] Mom, we have a whole hour, relax. It's not like we trashed the place. Just go take a shower, and I'll stay in my room"
-msgstr "[_danny_] Mamá, tenemos toda una hora, relámpago. No es como hemos eliminado el lugar. Solo ir a tomar una ducha y me quedaré en mi habitación"
+msgstr "[_danny_] Mamá, tenemos toda una hora, relájate. Vea tomar una ducha y yo me quedaré en mi habitación"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7006 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_6cecea4a:
 msgid "[_maddie_] {i}*Mumble*{/i} Oh, Sorry, guess I'm just a little paranoid."
-msgstr "[_maddie_] {i}*Mumble*{/i} Oh, lo siento, adivina que soy un poco paranoide."
+msgstr "[_maddie_] {i}*Mascullar*{/i} Oh, lo siento, soy un poco paranoica."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7008 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_65dbb471:
 msgid "[_danny_] It's okay Mom, I'll get up in a minute."
@@ -5514,11 +5514,11 @@ msgstr "[_danny_] Está bien, mamá, me levantaré en un minuto."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7011 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_591ba184:
 msgid "[_maddie_] I'm gonna go shower and get dressed..."
-msgstr "[_maddie_] Me voy a duchar y vestirar..."
+msgstr "[_maddie_] Me voy a duchar y vestir..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7013 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_8d738f33:
 msgid "[_danny_] Don't worry about it Mom. Just go take care of yourself..."
-msgstr "[_danny_] No te preocupes por ella mamá. Solo ve a cuidarte de ti mismo..."
+msgstr "[_danny_] No te preocupes mamá. Ve a cuidarte de ti misma..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7021 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_e507cf9d:
 msgid "[_maddie_] Now, where did I put my clothes?"
@@ -5526,7 +5526,7 @@ msgstr "[_maddie_] Ahora, ¿dónde puse mi ropa?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7032 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_03ff52e8:
 msgid "[_maddie_s_morningafter_s_normal_s_towards_s_wondering_s_talk_bite_] You know... you can slap it if you want sweetie, you don't need to be a good boy again just yet..."
-msgstr "[_maddie_s_morningafter_s_normal_s_towards_s_wondering_s_talk_bite_] Sabes ... puedes darle una bofetada si quieres cariño, no necesitas ser un buen chico otra vez ..."
+msgstr "[_maddie_s_morningafter_s_normal_s_towards_s_wondering_s_talk_bite_] Sabes... puedes darle una palmada si quieres cariño, no necesitas ser un buen chico otra vez..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7034 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_c3385501:
 msgid "[_danny_] ...."
@@ -5534,47 +5534,47 @@ msgstr "[_danny_] ...."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7052 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_4e2607ab:
 msgid "[_danny_s_f_s_offscreen_s_down_s_wondering_s_talk_happy_s_blush_] It's a really nice butt Mom."
-msgstr "[_danny_s_f_s_offscreen_s_down_s_wondering_s_talk_happy_s_blush_] Es una mamá muy bonita."
+msgstr "[_danny_s_f_s_offscreen_s_down_s_wondering_s_talk_happy_s_blush_] Es un culo precioso mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7054 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_b20bad06:
 msgid "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_bite_s_-blush_] (Poor dear... I'm really going to have to work to shape up his confidence a bit aren't I?)"
-msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_bite_s_-blush_] (Pobre querido... Realmente voy a tener que trabajar para dar forma a su confianza un poco ¿no?)"
+msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_bite_s_-blush_] (Pobre querido... Voy a tener que trabajar para un poco para conservar su confidencia ¿no?)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7056 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_d93c8dcb:
 msgid "[_maddie_s_morningafter_s_handprint_s_towards_s_neutral_s_talk_bite_s_blush_] {i}*Ahem*{/i}! I think you've had enough of my butt for now young man."
-msgstr "¡[_maddie_s_morningafter_s_handprint_s_towards_s_neutral_s_talk_bite_s_blush_] {i}*Ahem*{/i}! Creo que ya has tenido suficiente de mi perro por ahora joven."
+msgstr "¡[_maddie_s_morningafter_s_handprint_s_towards_s_neutral_s_talk_bite_s_blush_] {i}*Ahem*{/i}! Creo que ya has tenido suficiente de mi culo por ahora joven."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7059 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_79ff9b91:
 msgid "[_danny_s_f_s_offscreen_s_ahegao_s_wondering_s_talk_pleased_] Well actually... speaking of your butt, there's sorta been something I've wanted to try for a little while..."
-msgstr "[_danny_s_f_s_offscreen_s_ahegao_s_wondering_s_talk_pleased_] Bueno, en realidad... hablando de tu perro, hay algo que he querido intentar durante un poco..."
+msgstr "[_danny_s_f_s_offscreen_s_ahegao_s_wondering_s_talk_pleased_] Bueno, en realidad... hablando de tu culo, hay algo que he querido hacer desde hace un tiempo..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7061 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_d77380c8:
 msgid "[_maddie_s_morningafter_s_handprint_s_towards_s_idle_s_talk_bite_] ...smooth. It's been but one day, and you're already thinking of laying into my rear end."
-msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_idle_s_talk_bite_] ...suave. Ha sido sólo un día, y ya estás pensando en poner en mi parte trasera."
+msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_idle_s_talk_bite_] ...calma. Ha sido sólo el primer día, y ya estás pensando en follarte mi culo."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7064 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_d8149ed3:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_pleased_s_blush_] Hey can't blame a guy for trying. Shouldn't you be getting your sexy butt dressed again?"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_pleased_s_blush_] Hey no puede culpar a un tipo por intentarlo. ¿No deberías estar recibiendo tu sexy perro vestido de nuevo?"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_pleased_s_blush_] Hey no puedes culpar a un tipo por intentarlo. ¿No deberías estar vistiendo tu sexi culo?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7066 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_c03b11eb:
 msgid "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_talk_bite_] Enjoying ordering me around?"
-msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_talk_bite_] ¿Que me guste ordenarme?"
+msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_talk_bite_] ¿disfrutas dándome órdenes?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7069 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_ddcca02c:
 msgid "[_danny_s_f_s_offscreen_s_down_s_wondering_s_talk_frown_s_-blush_] ...heh, maybe a little? It's kinda weird still..."
-msgstr "[_danny_s_f_s_offscreen_s_down_s_wondering_s_talk_frown_s_-blush_] ...heh, ¿tal vez un poco? Es algo extraño hasta ahora..."
+msgstr "[_danny_s_f_s_offscreen_s_down_s_wondering_s_talk_frown_s_-blush_] ...heh, ¿tal vez un poco? Es algo extraño..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7071 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_d002b8f4:
 msgid "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_talk_bite_] Haha! Don't get too used to it then, {i}mister.~{/i}"
-msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_talk_bite_] ¡Haha! Don't get too used to it then, {i}mister. ~ {/i}"
+msgstr "[_maddie_s_morningafter_s_handprint_s_towards_s_wondering_s_talk_bite_] ¡Haha! Entonces no te acostumbres demasiado, {i}mister. ~ {/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7081 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_308c6df0:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_wondering_s_talk_frown_] Man... so much has been going on in my life the past few weeks..."
-msgstr "[_danny_s_f_s_offscreen_s_closed_s_wondering_s_talk_frown_] Hombre ... tanto ha estado pasando en mi vida las últimas semanas ..."
+msgstr "[_danny_s_f_s_offscreen_s_closed_s_wondering_s_talk_frown_] Tio... han estado pasando muchas cosas en mi vida las últimas semanas..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7083 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_103918ea:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_talk_frown_] I'm sorta looking forward to a real break, just doing regular school things again, making some extra money, hanging with friends..."
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_talk_frown_] Estoy esperando una verdadera pausa, simplemente haciendo las cosas normales de la escuela otra vez, haciendo algo de dinero extra, colgando con amigos..."
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_talk_frown_] Estoy esperando una verdadera pausa, haciendo las cosas normales de la escuela otra vez, haciendo algo de dinero extra, quedando con amigos..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7085 #-#-# translate crowdin The_Great_Out_Doors_scene_25_END_7bb1c309:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_talk_happy_] But it's already pretty clear to me that some big, big changes are about to begin..."
@@ -5608,7 +5608,7 @@ msgstr "Señala el extraño aspecto del árbol."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1158
 msgid "Stop and talk for a moment"
-msgstr "Detener y hablar por un momento"
+msgstr "Detenerse y hablar por un momento"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1158
 msgid "Just keep moving."
@@ -5620,19 +5620,19 @@ msgstr "¿Sobre qué quiero preguntar a mamá?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1692
 msgid "See any landmarks when we landed?"
-msgstr "¿Ves algún hito cuando llegamos?"
+msgstr "¿Viste algún punto de referencia cuando aterrizaste?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1692
 msgid "Ask how Maddie's doing."
-msgstr "Pregunte cómo está haciendo Maddie."
+msgstr "Pregunta cómo está Maddie."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1692
 msgid "Try to call Dad."
-msgstr "Intenta llamar a Dad."
+msgstr "Intenta llamar a papá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1692
 msgid "Nothing, I'm good."
-msgstr "Nada, soy bueno."
+msgstr "Nada, estoy bien."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2823
 msgid "Give her the bread?"
@@ -5648,19 +5648,19 @@ msgstr "No."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3224
 msgid "Cum down throat."
-msgstr "Sumar garganta."
+msgstr "Correrte en su garganta."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3224
 msgid "Cover Maddie in cum."
-msgstr "Cubrir a Maddie en cum."
+msgstr "Cubrir a Maddie en semen."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3893
 msgid "She's probably a little too \"tired\" to talk, I'm afraid...~"
-msgstr "She es probablemente un poco demasiado \"cansado\" para hablar, estoy así...~"
+msgstr "Ella está probablemente demasiada \"cansada\" para hablar, siento el temor...~"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3893
 msgid "Vlad, relax, you're being a little too on the nose there..."
-msgstr ", tú, estás un poco demasiado en la nariz allí..."
+msgstr ", Vlad, calma, estás metiendo demasiado allí..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3893
 msgid "Yeah, I guess so."
@@ -5676,15 +5676,15 @@ msgstr "Preocupación por la familia."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4311
 msgid "Problems with Vlad?"
-msgstr "¿Problemas con �ndice�?"
+msgstr "¿Problemas con Vlad?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4311
 msgid "Nothing, I'm good Mom."
-msgstr "Nada, soy buena mamá."
+msgstr "Nada, estoy bien mamá."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4479
 msgid "No, {i}she{/i} is going to lie down now!"
-msgstr "No, ¡ {i}tiene{/i} va a acostarse ahora!"
+msgstr "No, ¡{i}ella {/i} va a acostarse ahora!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4479
 msgid "Uhmm... I guess it's not too bad an idea..."
