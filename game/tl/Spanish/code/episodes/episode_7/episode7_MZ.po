@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:41\n"
+"PO-Revision-Date: 2023-10-16 09:53\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
-msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... tener que caminar por el Parque esta tarde por la noche puede ser tan espeluznante a veces. Pero hey, eso es lo que los héroes tienen que hacer, ¿no? Ve a patrullas tarde, {i}sólo{/i} en caso de que algo suceda con-"
+msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Siiiii{/i}... caminar por el Parque tan tarde por la noche puede ser espeluznante a veces. Pero hey, eso és lo que los héroes tienen que hacer, ¿no? Patrullar tarde, {i}sólo{/i}por si sucediera algo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:171 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_af063f32:
 msgid "[_kateunk_] {i}AHHHHHHH!!{/i}"
@@ -26,43 +26,43 @@ msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:176 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_935d72b4:
 msgid "[_kateunk_] {i}HELPPPP!!{/i}"
-msgstr "[_kateunk_] {i}HELPP!!{/i}"
+msgstr "[_kateunk_] {i}¡¡AYUDAAAAA!!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:178 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_aedc4b0c:
 msgid "[_danny_s_at_player_s_angry_s_talk_happy_] Welp, right on cue!{p}Looks like I'm going ghost!"
-msgstr "¡[_danny_s_at_player_s_angry_s_talk_happy_] Welp, justo en curso! ¡{p}parece que voy a un fantasma!"
+msgstr "¡[_danny_s_at_player_s_angry_s_talk_happy_] Welp, justo en el clavo! ¡{p} parece{/p} que voy a ser fantasma!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:191 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_e2af3507:
 msgid "[_kate_s_towards_wide_s_unhappy_s_talk_consternation_] {i}Ahhh!{/i} M-monster!! Get away from me!"
-msgstr "[_kate_s_towards_wide_s_unhappy_s_talk_consternation_] {i}¡Ahhh!{/i} M-monstruo! ¡Salga de mí!"
+msgstr "[_kate_s_towards_wide_s_unhappy_s_talk_consternation_] {i}¡Ahhh!{/i}¡ M-monstruo! ¡Alejate de mí!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:195 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_cb635591:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_towards_s_rise_s_talk_distraught_] (Nurse Kate? She shouldn't be walking through the park this late!){p}{i}Uhh{/i}, woah lady! Get down!"
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_towards_s_rise_s_talk_distraught_] (Nurse Kate? ¡No debería estar caminando por el parque tan tarde!){p}{i}Uhh{/i}, ¡Qué señora! ¡Descanse!"
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_towards_s_rise_s_talk_distraught_] (Enfermera Kate? ¡No debería estar caminando por el parque tan tarde!){p}{i}Uhh{/i}{/p}, ¡Señora! ¡Cálmese!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:198 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_cde77150:
 msgid "[_kate_s_down_s_rise_s_talk_displeased_] H-huh??"
-msgstr "¿[_kate_s_down_s_rise_s_talk_displeased_] H-huh??"
+msgstr "¿[_kate_s_down_s_rise_s_talk_displeased_] ¿¿H-huh??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:214 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_ed18bc7d:
 msgid "[_kate_s_towards_wide_s_neutral_s_talk_displeased_] What the-{p}I-Inviso-Bill?!"
-msgstr "[_kate_s_towards_wide_s_neutral_s_talk_displeased_] ¿Qué -{p}I-Inviso-Bill?!"
+msgstr "[_kate_s_towards_wide_s_neutral_s_talk_displeased_] ¿Qué -{p}I-Inviso-Bill{/p}?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:218 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_6d47f889:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_pleased_] Stay back, ma'am! I'll take care of ol' pale and scaly over here!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_pleased_] ¡Quédate atrás, ma'am! ¡Me encargaré de los viejos pálidos y escamosos aquí!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_pleased_] ¡Quédate atrás, mujer! ¡Me encargaré de la vieja pálida y escamosa!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:254 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_8d570f49:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] That's right pal! You better run!{p}...or... slither!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ¡Eso es pálido! ¡Mejor corre!{p}...o... ¡desliza!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ¡Eso és pálida! ¡Mejor corre!{p}...o... ¡deslizate!{/p}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:258 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_2265a8be:
 msgid "[_kate_s_towardsdown_s_rise_s_talk_displeased_] T-thank you! I didn't expect such a vicious monster like that to come and attack me on my walk home from-{p}...h-hey, are you okay? It looked like that thing bit you pretty-"
-msgstr "[_kate_s_towardsdown_s_rise_s_talk_displeased_] T-¡gracias! No esperaba que un monstruo tan vicioso como ese viniese a atacarme en mi casa-{p}... h-hey, ¿estás bien? Parecía que esa cosa te mordió-"
+msgstr "[_kate_s_towardsdown_s_rise_s_talk_displeased_] ¡G-gracias! No esperaba que un monstruo tan vicioso como ese viniese a atacarme de camino a casa-{p}... h-hey, {/p} ¿estás bien? Parece que esa cosa te mordió-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:261 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_3cb07f40:
 msgid "[_kate_s_towardsdown_wide_s_neutral_s_talk_displeased_] I was right! You're actually bleeding!!"
-msgstr "[_kate_s_towardsdown_wide_s_neutral_s_talk_displeased_] ¡Tengo razón! ¡Estás sangrando!!"
+msgstr "[_kate_s_towardsdown_wide_s_neutral_s_talk_displeased_] ¡Tengo razón! ¡¡Estás sangrando!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:264 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_decaeb4e:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_pleased_] Oh, it's fine don't worry. I can handle it. I'm a little tougher than you'd think."
@@ -5486,7 +5486,7 @@ msgstr "[_star_] {i}¡Ah!{/i} ¡Cuéntame que soy mejor que los demás!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6946 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_6a67bf7d:
 msgid "[_danny_] H-huh?"
-msgstr "¿[_danny_] H-huh?"
+msgstr "¿[_danny_]¿ H-huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6949 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_0d2da9a7:
 msgid "[_star_] Just do it! Tell me my pussy's better than any other girl's in this town!"
