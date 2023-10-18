@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-16 11:50\n"
+"PO-Revision-Date: 2023-10-18 20:25\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
-msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Siiiii{/i}... caminar por el Parque tan tarde por la noche puede ser espeluznante a veces. Pero hey, eso és lo que los héroes tienen que hacer, ¿no? Patrullar tarde, {i}sólo{/i}por si sucediera algo-"
+msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Siiiii{/i}... caminar por el Parque tan tarde y por la noche puede ser espeluznante a veces. Pero hey, eso és lo que los héroes tienen que hacer, ¿no? Patrullar tarde, {i}sólo{/i}por si sucediera algo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:171 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_af063f32:
 msgid "[_kateunk_] {i}AHHHHHHH!!{/i}"
