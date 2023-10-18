@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-18 21:31\n"
+"PO-Revision-Date: 2023-10-18 22:33\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -242,39 +242,39 @@ msgstr "[_danny_s_f_s_offscreen_s_closed_s_unhappy_s_talk_distraught_] {i}*Gemid
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:504 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_82b36b44:
 msgid "[_kate_s_offscreen_s_unhappy_s_talk_distraught_] Hey, hey, take it easy kiddo. You know the drill, lie still for a bit.{p}You've had it pretty rough lately."
-msgstr "[_kate_s_offscreen_s_unhappy_s_talk_distraught_] Hey, hey, toma a un niño fácil. Conoces el perforador, mientes un poco.{p}Lo has tenido bastante duro últimamente."
+msgstr "[_kate_s_offscreen_s_unhappy_s_talk_distraught_] Hey, hey, cálmate chico. Ya conoces la enfermería, quédate tumbado.{p}Has estado mareado hace poco{/p}."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:513 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_fcc9f24a:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_] Huh? Wh... where am I?"
-msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] ¿Huh? ¿Qué... ¿dónde esto?"
+msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] ¿Huh? ¿Qué... ¿dónde estoy?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:516 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_c59f2716:
 msgid "[_kate_s_towardsdown_s_unhappy_s_talk_consternation_] In my office Danny. You collapsed while in class again.{p}It looks like you gained a pretty nasty injury on your arm. Seems to have gotten rather infected, so I've given you some emergency antibiotics."
-msgstr "[_kate_s_towardsdown_s_unhappy_s_talk_consternation_] En mi oficina Danny. Ha vuelto a contraer la clase.{p}Parece que obtienes una lesión bastante desagradable en tu brazo. Parece haberse infectado bastante, así que te he dado algunos antibióticos de emergencia."
+msgstr "[_kate_s_towardsdown_s_unhappy_s_talk_consternation_] En mi oficina Danny. Te quedaste inconsciente en clase.{p}Parece que obtienes una lesión bastante fea en tu brazo{/p}. Parece bastante infectada, así que te he dado algunos antibióticos de emergencia."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:519 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_5f63d2f8:
 msgid "[_danny_s_closed_s_unhappy_s_talk_distraught_] {i}Ughh{/i}... wow, I feel {u}awful{/u}."
-msgstr "[_danny_s_closed_s_unhappy_s_talk_distraught_] {i}Ughh{/i}... wow, I feel {u}awful{/u}."
+msgstr "[_danny_s_closed_s_unhappy_s_talk_distraught_] {i}Ughh{/i}... wow, Siento {u}picor{/u}."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:522 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_89b662e7:
 msgid "[_kate_s_towardsdown_s_rise_s_talk_displeased_] I'm not surprised! You must have had it festering overnight in your sleep.{p}Can you think of how you would have gotten such a bad wound?"
-msgstr "¡[_kate_s_towardsdown_s_rise_s_talk_displeased_] no me sorprende! Debes haberlo repelido durante la noche en tu sueño.{p}¿Puedes pensar en cómo haberías cometido una herida tan mala?"
+msgstr "¡[_kate_s_towardsdown_s_rise_s_talk_displeased_] ¡no me sorprende! Debe haberse hecho más grande la infección mientras dormías durante la noche.{p}¿Puedes recordar cómo te hiciste una herida tan mala?{/p}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:525 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_662bcc0c:
 msgid "[_danny_s_down_wide_s_sad_s_talk_displeased_] {i}Uhhhm{/i}...{p}pretty sure I fell?"
-msgstr "[_danny_s_down_wide_s_sad_s_talk_displeased_] {i}Uhhhm{/i}...{p}bastante seguro de que he caído?"
+msgstr "[_danny_s_down_wide_s_sad_s_talk_displeased_] {i}Uhhhm{/i}...{p}¿és probable que me haya caído?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:528 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_d3251027:
 msgid "[_kate_s_towardsdown_wide_s_unhappy_s_talk_consternation_] You fell? Into what? A septic tank?!{p}There's something really strong irritating your skin, acting like a poison... or even some kind've corrosive!"
-msgstr "[_kate_s_towardsdown_wide_s_unhappy_s_talk_consternation_] ¿Te caiste? ¿En qué? Un tanque séptico?!{p}Hay algo realmente fuerte irritante su piel, actuando como un veneno ... o incluso algún tipo de corrosivo!"
+msgstr "[_kate_s_towardsdown_wide_s_unhappy_s_talk_consternation_] ¿Te caíste? ¿En qué? ¡Un tanque séptico?!{p}¡Hay algo realmente fuerte irritando su piel, actuando como un veneno... o incluso algún tipo de corrosivo{/p}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:531 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_b271f8d9:
 msgid "[_danny_s_at_player_s_rise_s_talk_distraught_] {i}Uhhh{/i}, nope, nah, just the good ol' concrete! N-nothing particularly suspicious or bizzare about how I got it, not that I can think of!"
-msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] {i}Uhh{/i}, nope, nah, ¡solo el buen hormigón! N-nada particularmente sospechoso o bizzare sobre cómo lo conseguí, no que pueda pensar!"
+msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] {i}Uhh{/i}, nope, nah, ¡solo el buen hormigón! N-nada particularmente sospechoso o bizarro sobre cómo me lo hice, no recuerdo nada más!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:534 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_f68a7cce:
 msgid "[_kate_s_towardsdown_s_angry_s_talk_displeased_] ...right... well, just keep that bandaged area clean and dry. Also, take two of these antibody pills every day until they're gone, and that should hopefully help clear things up.{p}{u}Hopefully.{/u}"
-msgstr "[_kate_s_towardsdown_s_angry_s_talk_displeased_] ...correcto... bueno, simplemente mantén la zona vendida limpia y seca. Además, toma dos de estas píldoras anticuerpos todos los días hasta que desaparezcan, y esperemos que esto ayude a limpiar las cosas.{p}{u}con esperanza.{/u}"
+msgstr "[_kate_s_towardsdown_s_angry_s_talk_displeased_] ...bien... bueno, mantén la zona vendada limpia y seca. Además, toma dos de estas píldoras de anticuerpos todos los días hasta que desaparezca, y esperemos que esto ayude a limpiar la herida.{p}{u}Espero{/u}{/p}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:537 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_a420cdb9:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Thanks Kate. You're a lifesaver! I should have you on speed dial for the amount of times you've patched me up!"
