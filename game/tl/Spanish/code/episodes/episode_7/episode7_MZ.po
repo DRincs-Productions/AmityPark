@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-18 22:33\n"
+"PO-Revision-Date: 2023-10-19 20:26\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
-msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Siiiii{/i}... caminar por el Parque tan tarde y por la noche puede ser espeluznante a veces. Pero hey, eso és lo que los héroes tienen que hacer, ¿no? Patrullar tarde, {i}sólo{/i}por si sucediera algo-"
+msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Siiiii{/i}... caminar por el Parque tan tarde y por la noche puede ser a veces espeluznante. Pero hey, eso és lo que los héroes tienen que hacer, ¿no? Patrullar tarde, {i}solo{/i}por si sucediera algo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:171 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_af063f32:
 msgid "[_kateunk_] {i}AHHHHHHH!!{/i}"
@@ -266,7 +266,7 @@ msgstr "[_danny_s_down_wide_s_sad_s_talk_displeased_] {i}Uhhhm{/i}...{p}¿és pr
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:528 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_d3251027:
 msgid "[_kate_s_towardsdown_wide_s_unhappy_s_talk_consternation_] You fell? Into what? A septic tank?!{p}There's something really strong irritating your skin, acting like a poison... or even some kind've corrosive!"
-msgstr "[_kate_s_towardsdown_wide_s_unhappy_s_talk_consternation_] ¿Te caíste? ¿En qué? ¡Un tanque séptico?!{p}¡Hay algo realmente fuerte irritando su piel, actuando como un veneno... o incluso algún tipo de corrosivo{/p}!"
+msgstr "[_kate_s_towardsdown_wide_s_unhappy_s_talk_consternation_] ¿Te caíste? ¿En qué? ¡Un tanque séptico?!{p}¡Hay algo fuerte irritando su piel, actuando como un veneno... o incluso algún tipo de corrosivo{/p}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:531 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_b271f8d9:
 msgid "[_danny_s_at_player_s_rise_s_talk_distraught_] {i}Uhhh{/i}, nope, nah, just the good ol' concrete! N-nothing particularly suspicious or bizzare about how I got it, not that I can think of!"
@@ -282,43 +282,43 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Gracias a Kate. ¡Eres un salvavi
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:540 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_46c9fd9c:
 msgid "[_kate_s_towardsdown_s_unhappy_s_talk_displeased_] I certainly appreciate the praise Danny, but please be more careful with yourself. You're honestly lucky you didn't go into shock sooner. That could have become {i}far{/i} more serious if we didn't treat it in time."
-msgstr "[_kate_s_towardsdown_s_unhappy_s_talk_displeased_] Ciertamente aprecio la alabanza de Danny, pero por favor tenga más cuidado consigo mismo. Eres francamente afortunado no entraste en choque antes. Eso podría haberse vuelto {i}lejos{/i} más grave si no lo tratáramos a tiempo."
+msgstr "[_kate_s_towardsdown_s_unhappy_s_talk_displeased_] Aprecio la alabanza Danny, pero por favor ten más cuidado. Eres francamente afortunado de no entrar en shock antes. Eso podría haberse vuelto {i}mucho{/i} más grave si no lo hubiésemos tratado a tiempo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:543 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_7eabad21:
 msgid "[_danny_s_towards_s_unhappy_s_talk_happy_] Okay Kate, I'll be more careful, promise. Good looking out for me, I mean it."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_happy_] Okay Kate, voy a ser más cuidadoso, prometedor. Buen esperarme, me refiero a ello."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_happy_] Okay Kate, voy a ser más cuidadoso, lo prometo. Búscame fuera, quiero decir, nos vemos fuera."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:546 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_be4fad58:
 msgid "[_kate_s_towardsdown_s_neutral_s_talk_happy_] I'd suggest heading home and taking the rest of the day off. Best to get some rest."
-msgstr "[_kate_s_towardsdown_s_neutral_s_talk_happy_] Te sugeriría ir a casa y tomarte el resto del día libre. Lo mejor para descansar un poco."
+msgstr "[_kate_s_towardsdown_s_neutral_s_talk_happy_] Te sugeriría ir a casa y tomarte el resto del día libre. Es lo mejor para descansar un poco."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:549 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_660dd3fc:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Thanks Kate, will do."
-msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Gracias Kate, lo hará."
+msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Gracias Kate, lo haré."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:552 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_a4e04562:
 msgid "[_kate_s_towardsdown_s_neutral_s_talk_amused_] Bye Danny, take care."
-msgstr "[_kate_s_towardsdown_s_neutral_s_talk_amused_] Bye Danny, cuídese."
+msgstr "[_kate_s_towardsdown_s_neutral_s_talk_amused_] Adiós Danny, cuídate."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:555 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_eb4988de:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Cya around!"
-msgstr "¡[_danny_s_towards_s_wondering_s_talk_happy_] Cya alrededor!"
+msgstr "¡[_danny_s_towards_s_wondering_s_talk_happy_] ¡nos vemos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:565 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_d351b9b4:
 msgid "[_kate_s_towards_s_unhappy_s_displeased_] (Geez... that wound... it looked awfully familiar to the wound I saw... no, it couldn't be...{p}...could it?)"
-msgstr "[_kate_s_towards_s_unhappy_s_displeased_] (Geez... esa herida... parecía terriblemente familiar la herida que vi ... no, no podía ser...{p}...¿podría?)"
+msgstr "[_kate_s_towards_s_unhappy_s_displeased_] (Geez... esa herida... me parecía terriblemente familiar a la herida que vi... no, no podría ser...{p}...¿podría?{/p})"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:574 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_4a2d41a1:
 msgid "[_danny_s_at_player_s_sad_s_consternation_] ({i}Phew!{/i} I need to be on my toes more when fighting ghosts from now on. They can really do a number on me if I'm not careful!)"
-msgstr "[_danny_s_at_player_s_sad_s_consternation_] ({i}¡Phew!{/i} Necesito estar más en mis dedos de la mano cuando luche contra fantasmas a partir de ahora. Realmente pueden hacer un número en mí si no soy cuidadoso!)"
+msgstr "[_danny_s_at_player_s_sad_s_consternation_] ({i}¡Phew!{/i} Necesito tener más recursos cuando luche contra fantasmas a partir de ahora. ¡Pueden hacerme un ocho si no soy cuidadoso!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:576 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_897c69f4:
 msgid "[_danny_s_closed_s_wondering_s_grin_] (Kate's the best. She's actually really good at being a nurse!)"
-msgstr "[_danny_s_closed_s_wondering_s_grin_] (Kate es el mejor. ¡Es realmente bueno para ser enfermero!)"
+msgstr "[_danny_s_closed_s_wondering_s_grin_] (Kate és la mejor. ¡Es realmente buena como enfermera!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:596 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_6_Danny_Home_Afternoon_88605078:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Home sweet home. Time for me to get my grub on!{p}Now where did Jazz leave that box of Pink Munchies...?"
-msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Casa dulce de casa. ¡Es hora de que mi centro se encienda!{p}Ahora ¿dónde salió Jazz esa caja de Munquies rosa...?"
+msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Hogar dulce hogar. ¡Es hora de pasar un buen rato!{p}Oh,{/p} ¿de dónde ha sacado Jazz esa caja de Munchies rosa...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:599 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_6_Danny_Home_Afternoon_8c3b02ac:
 msgid "[_doorsound_] {i}*Ding Dong*{/i}"
