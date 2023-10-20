@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-19 21:36\n"
+"PO-Revision-Date: 2023-10-20 15:48\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -622,15 +622,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:961 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_8573ab42:
 msgid "[_kate_s_towardsdown_wide_s_sad_s_talk_amused_] Danny Fenton... {i}you're{/i} {u}Inviso-Bill{/u}!!"
-msgstr "[_kate_s_towardsdown_wide_s_sad_s_talk_amused_] ¡¡Danny Fenton... {i}tú eres{/i} {u}Inviso-Bill{/u}!!"
+msgstr "[_kate_s_towardsdown_wide_s_sad_s_talk_amused_] Danny Fenton... {i}tú eres{/i} {u}Inviso-Bill{/u}!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:964 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_3c94d8c7:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhh!{/i} N-no! Wh-wha-whatever could you be referring to, {i}uh{/i}, human citizen? I do not know of such a, {i}ehm{/i}, cool and groovy kid as Danny... Fen... ton..."
-msgstr "¡[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhh!{/i} N-no! ¿A qué se puede referir, {i}uh{/i}, ciudadano humano? No sé de tales como, {i}ehm{/i}, chico fresco y groovy como Danny. . Fen... ton..."
+msgstr "¡[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhh!{/i} N-no! ¿A q-q-q-qué te refieres, {i}uh{/i}, ciudadana humana? No sé de tales facultades de,{i}ehm{/i}, un chico tan majo y fresco como Danny... Fen... ton..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:967 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_f098a476:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_angry_s_talk_distraught_] {i}Ahhh{/i}, rats...{p}This figures."
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_angry_s_talk_distraught_] {i}Ahhh{/i}, ratas...{p}Esta cifra."
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_angry_s_talk_distraught_] {i}Ahhh{/i}, {p}ratas...{/p}."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:972 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_30eb72d4:
 msgid "[_kate_s_towardsdown_s_neutral_s_talk_amused_] C'mon. Turn back into your human form, Danny."
@@ -646,15 +646,15 @@ msgstr "[_kate_s_towardsdown_s_rise_s_cute_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:981 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_9ecb4e7c:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] ...f-fine."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] ...f-fine."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] ...v-vale."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1001 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_48405d88:
 msgid "[_kate_s_towardsdown_s_neutral_s_talk_amused_] Wow. Seriously, I still can't believe it's real... like, {i}really{/i} real! It's actually you!"
-msgstr "[_kate_s_towardsdown_s_neutral_s_talk_amused_] Wow. En serio, todavía no puedo creer que es real ... como, {i}realmente {/i} real! ¡En realidad es usted!"
+msgstr "[_kate_s_towardsdown_s_neutral_s_talk_amused_] Wow. En serio, todavía no puedo creer que sea real... como, {i}verdaderamente{/i} real! ¡En realidad eres tú!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1004 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_2c16e9c0:
 msgid "[_danny_s_towards_s_unhappy_s_talk_displeased_] So, how did you figure it out?"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] Entonces, ¿cómo lo descubriste?"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] ¿cómo me has descubierto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1007 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_Park_Evening_9aee1b47:
 msgid "[_kate_s_towardsdown_s_rise_s_talk_amused_] Well, c'mon, the clues were kinda obvious, hon: the distinct wound on your arm matching Inviso-Bill's? Then the utterly bizarre healing cycle working WAY too fast given the injury?"
