@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-20 16:50\n"
+"PO-Revision-Date: 2023-10-21 08:05\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -1026,19 +1026,19 @@ msgstr "¡[_danny_s_phantom_s_fc_s_closed_s_neutral_s_talk_distraught_] No, de n
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1345 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_1b55fcda:
 msgid "[_kate_s_fc_s_towards_s_sad_s_talk_displeased_] Cause it'd probably cause you more problems than it's worth?"
-msgstr "[_kate_s_fc_s_towards_s_sad_s_talk_displeased_] ¿Por qué probablemente te causaría más problemas de los que vale la pena?"
+msgstr "[_kate_s_fc_s_towards_s_sad_s_talk_displeased_] ¿Porque te causaría más problemas de los que vale la pena?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1348 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_f60d1107:
 msgid "[_danny_s_phantom_s_fc_s_towards_s_sad_s_talk_happy_] Yeah, exactly."
-msgstr "[_danny_s_phantom_s_fc_s_towards_s_sad_s_talk_happy_] Sí, exactamente."
+msgstr "[_danny_s_phantom_s_fc_s_towards_s_sad_s_talk_happy_] Sí, exacto."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1351 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_87fd9c84:
 msgid "[_kate_s_fc_s_towards_s_neutral_s_talk_happy_] So, what you're saying is..."
-msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_happy_] Entonces, lo que estás diciendo es..."
+msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_happy_] Entonces, lo que estás diciendo és..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1354 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_6e916d6f:
 msgid "[_kate_s_fc_s_towards_s_rise_s_talk_amused_] {i}*Grins*{/i} You're powerless to stop me from telling your parents, unless... you do what I say...?"
-msgstr "[_kate_s_fc_s_towards_s_rise_s_talk_amused_] {i}*Grins * {/i} Usted es impotente para impedir que le diga a sus padres, a menos que ... usted haga lo que yo diga ...?"
+msgstr "[_kate_s_fc_s_towards_s_rise_s_talk_amused_] {i}*Sonrisa * {/i} No tienes capacidad de impedir que se lo diga a tus padres, a menos que... ¿hagas lo que yo diga...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1357 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_1f322e76:
 msgid "[_danny_s_phantom_s_fc_s_towards_s_angry_s_talk_displeased_] {i}Harr harr{/i}, very funny Kate."
@@ -1054,15 +1054,15 @@ msgstr "[_danny_s_phantom_s_fc_s_towards_wide_s_rise_s_talk_displeased_] ...no l
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1366 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_3eb10538:
 msgid "[_kate_s_fc_s_towards_s_neutral_s_talk_amused_] {i}Hmmm...{/i} maybe, maybe not...{p}depends on how badly I need whatever it is I'd be asking of you..."
-msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_amused_] {i}Hmmm...{/i} quizás, tal vez no...{p}depende de lo mal que necesito que sea lo que te esté pidiendo..."
+msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_amused_] {i}Hmmm...{/i} quizás, tal vez no...{p} depende{/p} de lo malo que sea lo que te esté pidiendo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1369 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_279b9242:
 msgid "[_danny_s_phantom_s_fc_s_towards_wide_s_sad_s_consternation_] {i}*Gulps*{/i}"
-msgstr "[_danny_s_phantom_s_fc_s_towards_wide_s_sad_s_consternation_] {i}*ps*{/i}"
+msgstr "[_danny_s_phantom_s_fc_s_towards_wide_s_sad_s_consternation_] {i}*Gulps*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1372 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_fa419c45:
 msgid "[_kate_s_fc_s_towards_s_neutral_s_talk_happy_] So, your turn! Ask away. I'm an open book, as they say. Though I don't know if I'm gonna have anything too exciting for you..."
-msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_happy_] ¡Así que tu turno! Pregúntelo. Soy un libro abierto, como dicen. Aunque no sé si soy gonna tiene algo muy emocionante para usted..."
+msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_happy_] ¡tu turno! Pregúnta. Soy un libro abierto. Aunque no sé si soy voy a tener emocionante para ti..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1384 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_dd38297a:
 msgid "[_danny_] (Kate's letting me ask her whatever I want...) [nointeract]"
@@ -1070,23 +1070,23 @@ msgstr "[_danny_] (Kate me deja preguntarle lo que quiera...) [nointeract]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1408 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_e61f1cd7:
 msgid "[_kate_s_fc_s_towards_s_rise_s_talk_amused_s_blush_] {i}*Blushing*{/i} Well, that's an odd route to go down! Or to presume is true! {i}Haha hah!{/i}"
-msgstr "[_kate_s_fc_s_towards_s_rise_s_talk_amused_s_blush_] {i}*Blushing * {/i} Bueno, ¡eso es una ruta extraña para bajar! ¡O para presumir es verdad! {i}Haha hah! {/i}"
+msgstr "[_kate_s_fc_s_towards_s_rise_s_talk_amused_s_blush_] {i}*Sonrojada* {/i} Bueno, ¡és un dicho poco adecuado¡ ¡aunque se cierto! {i}Haha hah! {/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1411 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_a0228f23:
 msgid "[_danny_s_phantom_s_fc_s_towards_s_sad_s_talk_pleased_] I mean, not that I don't like the nice attention I've gotten, or anything..."
-msgstr "[_danny_s_phantom_s_fc_s_towards_s_sad_s_talk_pleased_] Quiero decir, no que no me guste la atención agradable que he recibido, ni nada..."
+msgstr "[_danny_s_phantom_s_fc_s_towards_s_sad_s_talk_pleased_] Quiero decir, que és que no me guste la atención agradable que he recibido, ni nada..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1414 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_c320dd13:
 msgid "[_danny_s_phantom_s_fc_s_down_s_unhappy_s_talk_displeased_] But, well... I guess I'm kinda used to girls liking Inviso-Bill more than Danny Fenton. Or just not liking me, period."
-msgstr "[_danny_s_phantom_s_fc_s_down_s_unhappy_s_talk_displeased_] Pero, bien... supongo que soy amable de las chicas que les gusta Inviso-Bill más que Danny Fenton. O simplemente no me gusta mí."
+msgstr "[_danny_s_phantom_s_fc_s_down_s_unhappy_s_talk_displeased_] Pero, bien... supongo que soy más amable con las chicas a las que les gusta Inviso-Bill que a Danny Fenton."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1417 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_1470e652:
 msgid "[_danny_s_phantom_s_fc_s_towards_s_rise_s_talk_pleased_] But, you seem to mainly like {i}me{/i}. Which I definitely like. I guess I'm just curious as to {i}why{/i}?"
-msgstr "[_danny_s_phantom_s_fc_s_towards_s_rise_s_talk_pleased_] Pero, parece que te gusta principalmente {i}me{/i}. Lo que definitivamente me gusta. Supongo que estoy curioso en cuanto a {i}por qué{/i}?"
+msgstr "[_danny_s_phantom_s_fc_s_towards_s_rise_s_talk_pleased_] Pero, parece que te gusto principalmente {i}yo{/i}. Lo que definitivamente me gusta. Tengo curiosidad de saber el ¿{i}por qué{/i}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1420 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_3239bcc0:
 msgid "[_kate_s_fc_s_down_s_neutral_s_talk_happy_] I guess that's a fair question..."
-msgstr "[_kate_s_fc_s_down_s_neutral_s_talk_happy_] Supongo que es una pregunta justa..."
+msgstr "[_kate_s_fc_s_down_s_neutral_s_talk_happy_] Es una pregunta justa..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1423 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_4389ab25:
 msgid "[_kate_s_fc_s_towards_s_rise_s_talk_happy_] I just think you're kinda sweet, to be honest."
@@ -1094,19 +1094,19 @@ msgstr "[_kate_s_fc_s_towards_s_rise_s_talk_happy_] Sólo creo que eres dulce, p
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1426 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_3a82f18c:
 msgid "[_danny_s_phantom_s_fc_s_towards_wide_s_rise_s_talk_distraught_] Really? That's the secret?"
-msgstr "[_danny_s_phantom_s_fc_s_towards_wide_s_rise_s_talk_distraught_] ¿Realmente? Ese es el secreto?"
+msgstr "[_danny_s_phantom_s_fc_s_towards_wide_s_rise_s_talk_distraught_] ¿En serio? ¿Ese és el secreto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1429 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_6bec1ad6:
 msgid "[_kate_s_fc_s_towards_s_sad_s_talk_displeased_] Look, I spent a lot of time chasing guys who were assholes when I was younger, and never really gave the \"sweet\" guys a proper chance."
-msgstr "[_kate_s_fc_s_towards_s_sad_s_talk_displeased_] Mira, pasé mucho tiempo persiguiendo a los chicos que eran assholares cuando era más joven, y nunca realmente dio a los \"dulces\" chicos una oportunidad adecuada."
+msgstr "[_kate_s_fc_s_towards_s_sad_s_talk_displeased_] Mira, pasé mucho tiempo persiguiendo a los chicos que eran malos cuando era más joven, y nunca tuve oportunidad de encontrar el chico dulce."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1432 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_a03a8c05:
 msgid "[_danny_s_phantom_s_fc_s_closed_s_unhappy_s_talk_displeased_] ...{i}sooo{/i}, I'm a sorta test drive, essentially?"
-msgstr "[_danny_s_phantom_s_fc_s_closed_s_unhappy_s_talk_displeased_] ...{i}sooo {/i}, soy un disco de prueba de sorta, esencialmente?"
+msgstr "[_danny_s_phantom_s_fc_s_closed_s_unhappy_s_talk_displeased_] ...{i}vallaaaa{/i}, ¿soy una especie de test de prueba?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1435 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_68ae784e:
 msgid "[_kate_s_fc_s_towards_s_neutral_s_talk_amused_] {i}*Laughs*{/i} No, Danny... I just learned my lesson is all. After one too many jerks in your life, you tend to start looking down unexplored avenues..."
-msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_amused_] {i}*Risas*{/i} No, Danny... Acabo de aprender mi lección es todo. Después de muchas carnicerías en tu vida, tendes a empezar a mirar hacia abajo las avenues..."
+msgstr "[_kate_s_fc_s_towards_s_neutral_s_talk_amused_] {i}*Risas*{/i} No, Danny... Acabo aprendí la lección. Después de muchos desengaños en tu vida, tiendes a empezar a mirar hacia abajo lo inexplorado..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1438 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_1_b85b3bc7:
 msgid "[_kate_s_fc_s_towards_s_rise_s_talk_amused_] Besides, it turns out the \"nice guys\" like you were packing {i}way{/i} more than the jerks in the first place! {i}*Winks*{/i}"
