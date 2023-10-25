@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-21 10:10\n"
+"PO-Revision-Date: 2023-10-25 15:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -1434,7 +1434,7 @@ msgstr "[_kate_] ¡No creo que pueda aguantar mucho más a Danny!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1800 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_1_dda98ecd:
 msgid "[_danny_] I'm gonna... I'm gonna cum, Kate!"
-msgstr "[_danny_] Voy a... ¡voy a correrme, Kate!"
+msgstr "[_danny_] Voy a... ¡voy a correrme!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1803 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_1_d5ad282c:
 msgid "[_kate_] Yes! That's it baby! Yes! Yes!! {i}YES!!{/i}"
@@ -1630,7 +1630,7 @@ msgstr "[_danny_] (¡su coño tan apretado, y puedo sentir que ella se aprieta s
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2024 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_273f5c0c:
 msgid "[_star_s_offscreen_s_towards_s_neutral_s_talk_displeased_] Wait a minute... you've changed in front of me before, nudity shouldn't bother you at all! Mom...{p}...are you..."
-msgstr "[_star_s_offscreen_s_towards_s_neutral_s_talk_displeased_] Espera un minuto... te has cambiado delante de mí antes, ¡estar desnuda no debería molestarte en absoluto! Mamá...{p}...estás tú{/p}..."
+msgstr "[_star_s_offscreen_s_towards_s_neutral_s_talk_displeased_] Espera un minuto... te has cambiado delante de mí antes, ¡estar desnuda no debería molestarte! Mamá...{p}...estás tú{/p}..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2027 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_f36501b2:
 msgid "[_kate_] {i}Mmmmmph! Ahh!{/i}{p}Am-am I w-what, s-sweetie...~?"
@@ -1638,7 +1638,7 @@ msgstr "[_kate_] {i}Mmmmmph! Ahh!{/i}{p} ¿Es-estoy q-qué, c-cielo...~?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2030 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_3682b333:
 msgid "[_kate_] (Please don't suspect anything, PLEASE don't suspect anything!)"
-msgstr "[_kate_] (Por favor, no sospeché nada, ¡POR FAVOR, no sospeches nada!)"
+msgstr "[_kate_] (Por favor, no sospeches nada, ¡POR FAVOR, no sospeches nada!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2033 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_b4d0104c:
 msgid "[_danny_] (Oh crap! I'm about to cum! Here it comes!!)"
@@ -1654,43 +1654,43 @@ msgstr "[_kate_] ...oooh... s-solo un poco cielo, tengo una larga.... y d-ura...
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2042 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_523c18b9:
 msgid "[_kate_] {i}Uhhh{/i}, oh... God... a very... {i}very{/i} exhausting day! It's certainly taken a lot out of me... s-still... is... even... NOW!!"
-msgstr "[_kate_] {i}Uhhh{/i}, oh... ¡Dios... un muy... ¡ {i}muy{/i} agotador día! Ciertamente se ha sacado mucho de mí... s-still... is... even... AHORA!!"
+msgstr "[_kate_] {i}Uhhh{/i}, oh... ¡Dios... un muy... ¡ {i}muy{/i} agotador día! He trabajado mucho hoy... és-solo... lo... eso... ¡¡Si!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2045 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_0919d711:
 msgid "[_danny_] (CUMMING!!)"
-msgstr "[_danny_] (CUMINGO!!)"
+msgstr "[_danny_] (¡¡ME CORRO!!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2048 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_9c952aff:
 msgid "[_kate_] I'll be out in-"
-msgstr "[_kate_] I'll be out in-"
+msgstr "[_kate_] Estaré fuera en-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2057 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_8a5db959:
 msgid "[_kate_] (Holy fuck! He just filled me up in an instant!! Oh dammit, that feels {i}sooooo{/i} good!)"
-msgstr "[_kate_] (¡Santo joder! ¡Me acaba de llenar en un instante!! Oh dammit, that feels {i}sooooo {/i} good!)"
+msgstr "[_kate_] (¡Santo dios! ¡Me llenado enseguida!! Oh dios, ¡esto sienta {i}muyyy {/i} bieeen!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2059 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_97d00287:
 msgid "[_kate_] ({i}Ah!{/i} I'm... I'm cumming again, just from his jizz inside me! God, I'm such a slut!!)"
-msgstr "[_kate_] ({i}¡Ah!{/i} I'm... Estoy cumming de nuevo, justo desde su jíz dentro de mí! ¡Dios, soy una putilla!!)"
+msgstr "[_kate_] ({i}¡Ah!{/i} voy... voy a correrme otra vez, solo por tener su esperma dentro de mí¡ ¡¡Dios, soy una puta!!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2072 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_7256bbf3:
 msgid "[_star_s_offscreen_s_towards_s_rise_s_talk_displeased_] ...Mom? Seriously, are you having a stroke or something? What's with all the whimpering?"
-msgstr "[_star_s_offscreen_s_towards_s_rise_s_talk_displeased_] ...Mamá? Seriosamente, ¿estás teniendo un trazo o algo? ¿Qué pasa con todo lo asqueroso?"
+msgstr "[_star_s_offscreen_s_towards_s_rise_s_talk_displeased_] ¿...Mamá?En serio ¿te has dado un golpe o algo? ¿Qué son todas esas quejas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2074 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_f50526e9:
 msgid "[_star_s_offscreen_s_closed_s_sad_s_talk_displeased_] ...look, it's not {i}that{/i} big a big deal if you're smoking... I just wish you'd have kept at the nicotine gum some more!"
-msgstr "[_star_s_offscreen_s_closed_s_sad_s_talk_displeased_] ...mira, no es {i}que{/i} es grande si estás fumando... ¡Solo me gustaría que te hubieras mantenido en la chicle de nicotina algo más!"
+msgstr "[_star_s_offscreen_s_closed_s_sad_s_talk_displeased_] ...mira, no és {i}que{/i} sea algo muy grave que estés fumando... ¡Solo deseo que te mantengas usando el chicle de nicotina!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2076 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_a131569f:
 msgid "[_kate_s_offscreen_s_nude_s_closed_s_sad_s_talk_happy_] N-no, Star I... j-just- {i}*Shivers*{/i} ...need to lay- {i}*Huff*{/i} ...d-down for a little bit...{p}Like I said... this one just took it all out of me today..."
-msgstr "[_kate_s_offscreen_s_nude_s_closed_s_sad_s_talk_happy_] N-no, Star I... j-just- {i}*Shivers*{/i} ...need to lay- {i}*Huff*{/i} . .d-down por un poco...{p}Como digo... este acaba de sacarlo todo de mi hoy..."
+msgstr "[_kate_s_offscreen_s_nude_s_closed_s_sad_s_talk_happy_] N-no, Star yo... s-solo- {i}*escalofríos*{/i} ...nedecisto tumbarme- {i}*Huff*{/i}... un poco...{p} Como te dije{/p}... hoy he trabajado mucho..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2078 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_04947f95:
 msgid "[_star_s_offscreen_s_towards_s_rise_s_talk_happy_] {i}Uhhmm{/i}... okay, but seriously, have you seen my hair straighten-"
-msgstr "[_star_s_offscreen_s_towards_s_rise_s_talk_happy_] {i}Uhhmm{/i}... ok, pero en serio, ¿has visto mi cabello directo-"
+msgstr "[_star_s_offscreen_s_towards_s_rise_s_talk_happy_] {i}Uhhmm{/i}... ok, pero en serio, ¿has visto mi plancha de pelo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2080 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_88373b2a:
 msgid "[_kate_s_offscreen_s_nude_s_towards_s_sad_s_talk_displeased_] No sweetie!! Haven't seen them in here! Bye, talk to you later, taking a nap now!!"
-msgstr "[_kate_s_offscreen_s_nude_s_towards_s_sad_s_talk_displeased_] No hay semanas. ¡No las has visto aquí! ¡Bien, habla contigo más tarde, tomando una siesta ahora!!"
+msgstr "[_kate_s_offscreen_s_nude_s_towards_s_sad_s_talk_displeased_] No cielo. ¡No la he visto aquí! ¡¡Bien, hablamos más tarde, voy a tomar una siesta!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2082 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_e243196f:
 msgid "[_star_s_offscreen_s_normal_s_at_player_wide_s_confused_s_consternation_] (???)"
@@ -1706,7 +1706,7 @@ msgstr "[_kate_s_nude_s_closed_s_neutral_s_cute_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2102 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_After_4adcb19b:
 msgid "[_doorsound_] {i}*Slam*{/i}"
-msgstr "[_doorsound_] {i}*Golpear*{/i}"
+msgstr "[_doorsound_] {i}*Golpe*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2105 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_After_85471e46:
 msgid "[_kate_s_nude_s_towards_s_neutral_s_talk_happy_] ...okay, it sounds like she's gone back to her room."
@@ -1714,11 +1714,11 @@ msgstr "[_kate_s_nude_s_towards_s_neutral_s_talk_happy_] ...bueno, suena como si
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2108 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_After_ebfcbd75:
 msgid "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] {i}Uhhh{/i}... bad time to ask, but... you're not mad, are you? About the whole-"
-msgstr "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] {i}Uhhh {/i} ... mal momento para preguntar, pero ... no estás loco, ¿eres? Sobre el conjunto-"
+msgstr "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] {i}Uhhh {/i}... mal momento para preguntar, pero... ¿no estarás enfadada verdad? Sobre el conjunto-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2116 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_After_f2077541:
 msgid "[_kate_s_nude_s_towardsdown_s_rise_s_talk_amused_] After {i}that{/i} performance? Hell no, I'm impressed!"
-msgstr "[_kate_s_nude_s_towardsdown_s_rise_s_talk_amused_] ¿Después de {i}que {/i} rendimiento? ¿Indigno, estoy impresionado!"
+msgstr "[_kate_s_nude_s_towardsdown_s_rise_s_talk_amused_] ¿Después de {i}este {/i}suceso? ¡Diablos no, estoy impresionada!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2119 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_After_b8cd7046:
 msgid "[_danny_s_boxers_s_towards_s_angry_s_talk_pleased_] Really? I mean, great, I'm glad!"
