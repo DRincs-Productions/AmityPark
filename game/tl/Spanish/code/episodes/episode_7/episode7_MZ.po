@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-25 16:54\n"
+"PO-Revision-Date: 2023-10-28 15:05\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -1834,11 +1834,11 @@ msgstr "[_tucker_s_arms_pdastraps_s_towards_s_wondering_s_talk_happy_] ¡El prim
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2358 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_3b6a399a:
 msgid "[_danny_s_towards_s_wondering_s_displeased_] (Dang she sure is pretty hot... I kinda dig the messy grunge thing... but even just looking at her is... I don't know giving me that weird vibe again.)"
-msgstr "[_danny_s_towards_s_wondering_s_displeased_] (Dang ella seguro que és guapa y caliente... me gusta el grunch desordenado... pero mirándola a ella... no sé, me da extrañas vibraciones.)"
+msgstr "[_danny_s_towards_s_wondering_s_displeased_] (ella és seguro que és guapa y caliente... me gusta el grunch desordenado... pero mirándola... no sé, me da extrañas vibraciones.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2362 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_75e85c96:
 msgid "[_sam_s_co_s_towards_s_angry_s_talk_consternation_] Are you two seriously going to just drool and fawn over her all day?"
-msgstr "[_sam_s_co_s_towards_s_angry_s_talk_consternation_] ¿Vas a estar en serio babeando y adulándola todo el día?"
+msgstr "[_sam_s_co_s_towards_s_angry_s_talk_consternation_] ¿Vais a estar los dos babeando y adulándola todo el día?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2365 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_5c5dbf98:
 msgid "[_tucker_s_arms_straps_s_away_s_sad_s_talk_frown_] Don't be like that Sam! I've heard you listening to a couple of her songs too!"
@@ -1890,15 +1890,15 @@ msgstr "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] Así que un debut de
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2412 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_cbc756c0:
 msgid "[_tucker_s_arms_straps_s_away_s_angry_s_talk_frown_] Never pegged you for the kind to get jealous over awesome punk rockers, Sam."
-msgstr "[_tucker_s_arms_straps_s_away_s_angry_s_talk_frown_] No te pongas celosa de los increíbles rockeros punk, Sam."
+msgstr "[_tucker_s_arms_straps_s_away_s_angry_s_talk_frown_] No te pongas celosa de la increíble rockera punk, Sam."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2416 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_6c62286d:
 msgid "[_sam_s_co_s_towards_glare_s_angry_s_talk_distraught_] I am {u}not{/u} jealous! I'm just saying, it is kinda weird, Danny's right. One minute no one's heard of her, and now people can't stop playing her stuff."
-msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_distraught_] ¡Yo {u}no {/u} estoy celosa! Solo estoy diciendo, que és muy raro, Danny tiene razón. Un minuto atrás nadie ha oído hablar de ella, y ahora la gente no puede dejar de tocar sus cosas."
+msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_distraught_] ¡Yo {u}no {/u} estoy celosa! Solo estoy diciendo, que és muy raro, Danny tiene razón. Un minuto atrás nadie había oído hablar de ella y ahora la gente no puede dejar de tocar sus cosas."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2420 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_3f0ef2d8:
 msgid "[_tucker_s_arms_straps_s_away_s_angry_s_talk_frown_] So what? Most artists are nobodies 'til they get their stuff out there. I mean she could be a total industry plant for all I care, her sound is {u}hot!{/u} And so is she!"
-msgstr "[_tucker_s_arms_straps_s_away_s_angry_s_talk_frown_] Entonces, ¿qué? La mayoría de los artistas no son algo hasta que sacan sus cosas por ahí. Quiero decir que podría dedicarse a todo lo que me importa, ¡su sonido és {u}caliente!{/u} ¡Y también ella!"
+msgstr "[_tucker_s_arms_straps_s_away_s_angry_s_talk_frown_] ¿Entonces qué? La mayoría de los artistas no son algo hasta que sacan sus cosas por ahí. Podría dedicarse a todo lo que me importa, ¡su canción és {u}excitante!{/u} ¡Y también ella!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2424 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_27659aa3:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_consternation_] Yeah but, it's like she literally popped out of thin air, it's like she's a... a..."
@@ -1910,15 +1910,15 @@ msgstr "[_danny_s_towards_s_wondering_s_talk_distraught_] ¿ ...como un fantasma
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2432 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_f0204fae:
 msgid "[_sam_s_co_s_away_s_confused_s_talk_displeased_] ...well, I mean, that {i}does{/i} sound sorta silly when you say it out loud, but... y-yeah."
-msgstr "[_sam_s_co_s_away_s_confused_s_talk_displeased_] ...bueno, quiero decir, esto que {i}hace{/i} que suene bobo cuando lo dices en voz alta... yeah."
+msgstr "[_sam_s_co_s_away_s_confused_s_talk_displeased_] ...bueno, quiero decir, esto {i}parece{/i} que suene a una tontería cuando lo dices en voz alta... yeah."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2436 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_3ae51041:
 msgid "[_tucker_s_arms_straps_s_towards_s_angry_s_talk_frown_] Whoa, whoa, whoa! You guys are just going to assume a super starlet who {i}you{/i} didn't personally hear of before is a ghost? We're making {i}that{/i} leap of faith already?"
-msgstr "[_tucker_s_arms_straps_s_towards_s_angry_s_talk_frown_] ¡Vaya, vaya, vaya! ¿vais a asumir que una super estrella que {i}vosotros{/i} habéis escuchado antes és un fantasma? ¿Estamos haciendo {i}que{/i} sea dudosa la fe?"
+msgstr "[_tucker_s_arms_straps_s_towards_s_angry_s_talk_frown_] ¡Vaya, vaya, vaya! ¿vais a asumir que una super estrella que {i}vosotros{/i} no habéis escuchado antes és un fantasma? ¿Estamos haciendo {i}que{/i} sea dudosa la fe?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2440 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_a5690793:
 msgid "[_sam_s_co_s_away_s_neutral_s_talk_displeased_] {i}Ugh{/i}, no, I'm not saying she's a ghost Tucker, I'm just saying it's pretty strange that a nobody could reach super stardom {i}this{/i} fast.{p}What do you think Danny?"
-msgstr "[_sam_s_co_s_away_s_neutral_s_talk_displeased_] {i}Ugh {/i}, no, no estoy diciendo que es un fantasma, solo estoy diciendo que es bastante extraño que alguien pueda llegar al super estrella {i}tan{/i} rápido. {p}¿Qué crees que Danny?{/p}?"
+msgstr "[_sam_s_co_s_away_s_neutral_s_talk_displeased_] {i}Ugh {/i}, no, no estoy diciendo que sea un fantasma, solo estoy diciendo que és bastante extraño que alguien pueda llegar a super estrella {i}tan{/i} rápido. ¿{p}Qué crees Danny{/p}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2444 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_5cc4395a:
 msgid "[_danny_s_closed_s_sad_s_consternation_] ..."
@@ -1938,7 +1938,7 @@ msgstr "[_tucker_s_arms_straps_s_towards_s_neutral_s_talk_frown_] ¿Cuidar y com
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2461 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_9fc85ad4:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] It's nothing... I just, I do sorta get this funny feeling listening to her music, and even looking at that photo Tuck showed."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] No es nada... Justo, me sorta tener esta sensación divertida escuchando su música e incluso mirando la foto que Tuck mostró."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] No és nada... Solo, me da una sensación divertida escuchando su música e incluso mirando la foto que Tuck mostró."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2465 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_c3057f31:
 msgid "[_tucker_s_arms_straps_s_ahegao_s_wondering_s_talk_happy_] {i}Heh{/i}, well my friend, I think I've got something to give you an even {u}bigger{/u} dose of that kinda feeling, if you know what I mean!"
@@ -1950,31 +1950,31 @@ msgstr "[_sam_s_co_s_towards_s_angry_s_talk_distraught_] Tucker, ¡esto no va a 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2473 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_7ab8a1a8:
 msgid "[_tucker_s_arms_straps_s_away_s_neutral_s_talk_frown_] {i}*Ahem*{/i} I will have you know, miss high and mighty, that this is {i}highly{/i} relevant to the situation at hand!"
-msgstr "[_tucker_s_arms_straps_s_away_s_neutral_s_talk_frown_] {i}*Ahem*{/i} te haré saber, perderás alto y poderoso, ¡esto es {i}muy relevante{/i} a la situación a mano!"
+msgstr "[_tucker_s_arms_straps_s_away_s_neutral_s_talk_frown_] {i}*Ahem*{/i} te hago saber, miss alto y poderoso, ¡tengo entre manos una {i}muy {/i} relevante situación!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2476 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_16e1f2c7:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] Oh, really? Please, enlighten me as to how."
-msgstr "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] Oh, ¿verdad? Por favor, ilumíname cómo hacerlo."
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] Oh, ¿en serio? Por favor, ilumíname cómo hacerlo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2480 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_492fb625:
 msgid "[_tucker_s_arms_pdastraps_s_towards_s_angry_s_talk_happy_] Like {u}this!{/u}"
-msgstr "[_tucker_s_arms_pdastraps_s_towards_s_angry_s_talk_happy_] Me gusta {u}esto!{/u}"
+msgstr "[_tucker_s_arms_pdastraps_s_towards_s_angry_s_talk_happy_] como {u}¡esto!{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2514 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_dd21a8ad:
 msgid "[_danny_s_ahegao_s_rise_s_talk_amused_] {i}Whoa!!{/i} What the heck...?!"
-msgstr "[_danny_s_ahegao_s_rise_s_talk_amused_] {i}¡¡¡¡Ojo!!{/i} ¿Qué heck...?!"
+msgstr "[_danny_s_ahegao_s_rise_s_talk_amused_] {i}¡¡¡¡Whoa!!!!{/i} ¿Qué coño...?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2518 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_22113505:
 msgid "[_tucker_s_arms_pdastraps_s_towards_s_angry_s_talk_happy_] She did a modeling shoot the other day, and it is GLORIOUS!"
-msgstr "[_tucker_s_arms_pdastraps_s_towards_s_angry_s_talk_happy_] Hizo un disparo modelador el otro día, ¡y es GLORIOUS!"
+msgstr "[_tucker_s_arms_pdastraps_s_towards_s_angry_s_talk_happy_] Se hizo unas fotos posando el otro día, ¡y son GLORIOSAS!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2521 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_3107420a:
 msgid "[_sam_s_co_s_towards_glare_s_angry_s_talk_displeased_] ...{u}real{/u} relevant. {i}Very{/i} focused on the topic at hand, Tuck."
-msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_displeased_] ...{u}real{/u} relevante. {i}Very{/i} centrado en el tema a mano, Tuck."
+msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_displeased_] ...{u}realmente{/u} relevantes. {i}Muy{/i} concentrado en el asunto entre manos, Tuck."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2525 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_649f3163:
 msgid "[_danny_s_ahegao_s_wondering_s_talk_amused_] I mean, yeah, seriously Tuck... that isn't very... I mean, that is just... wow..."
-msgstr "[_danny_s_ahegao_s_wondering_s_talk_amused_] Quiero decir, sí, seriamente Tuck... eso no es muy... quiero decir, eso es justo... wow..."
+msgstr "[_danny_s_ahegao_s_wondering_s_talk_amused_] Quiero decir, sí, seriamente Tuck... eso no es muy... quiero decir, eso es solo... wow..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2529 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_2_School_Morning_3b583cb5:
 msgid "[_sam_s_co_s_towards_s_angry_s_talk_distraught_] Hey, stay focused for a second, Y chromosome!{p}Also, that picture is probably photo edited anyway. No one looks this way in real life!!"
