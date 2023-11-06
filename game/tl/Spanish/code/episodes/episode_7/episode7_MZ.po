@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-06 21:04\n"
+"PO-Revision-Date: 2023-11-06 22:11\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -3006,15 +3006,15 @@ msgstr "[_danny_] (¿de quién quiero tratar de conseguir a Orgone para derrotar
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3877 #-#-# translate crowdin A_Nightmare_Called_Ember_ep_7_Route_Choice_9ac83d6f:
 msgid "[_danny_s_at_player_s_sad_s_talk_frown_] ...I guess after that whole experience in the woods and Vlad's cabin, it would only make sense that I could try for Mom?"
-msgstr "[_danny_s_at_player_s_sad_s_talk_frown_] ...Supongo que después de toda esa experiencia en la cabina de maderas y cápsulas, ¿tendría sentido que pudiera intentar mama?"
+msgstr "[_danny_s_at_player_s_sad_s_talk_frown_] ...después de toda esa experiencia en lso bosques y la casa de Vlad, ¿podría intentar con mamá?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3879 #-#-# translate crowdin A_Nightmare_Called_Ember_ep_7_Route_Choice_0668722c:
 msgid "[_danny_s_at_player_s_rise_s_talk_amused_] ...so, this is what my life has become, huh? Truly didn't expect my Senior year to change me this drastically."
-msgstr "[_danny_s_at_player_s_rise_s_talk_amused_] ...entonces, esto es lo que se ha convertido en mi vida, ¿eh? Realmente no esperaba que mi año Senior me cambiara drásticamente."
+msgstr "[_danny_s_at_player_s_rise_s_talk_amused_] ...entonces, esto es en lo que se ha convertido en mi vida, ¿eh? No esperaba que mi año Senior cambiara drásticamente."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3921 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_1b469f88:
 msgid "[_danny_s_at_player_s_rise_s_smile_] (Well... I guess I could always call up Nurse Kate, right?)"
-msgstr "[_danny_s_at_player_s_rise_s_smile_] (Bueno... Supongo que siempre podría llamar a Nurse Kate, ¿verdad?)"
+msgstr "[_danny_s_at_player_s_rise_s_smile_] (Bueno... Supongo que siempre podría llamar a la enfermera Kate, ¿verdad?)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3926 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_4e595714:
 msgid "[_phone_] [[{i}*Riiing*{/i}]{p}[[{i}*Riiing*{/i}]"
@@ -3022,55 +3022,55 @@ msgstr "[_phone_] [[{i}*Riiing*{/i}]{p}[[{i}*Riiing*{/i}]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3928 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_a3eddc84:
 msgid "[_kate_s_casual_s_offscreen_s_towardsdown_s_rise_s_talk_amused_] [[-ate Astray speaking, yes?]"
-msgstr "[_kate_s_casual_s_offscreen_s_towardsdown_s_rise_s_talk_amused_] [[-comió Astray hablando, ¿si?]"
+msgstr "[_kate_s_casual_s_offscreen_s_towardsdown_s_rise_s_talk_amused_] [[- Astray hablando, ¿si?]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3930 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_a7959ec4:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Hey, Kate? It's me, Danny. Can we meet up sometime soon? I need your help with something."
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Hey, Kate? Soy yo, Danny. ¿Podemos reunirnos pronto en algún momento? Necesito tu ayuda con algo."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Hey, Kate? Soy yo, Danny. ¿Podemos reunirnos en algún momento? Necesito tu ayuda con algo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3933 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_2681816b:
 msgid "[_kate_s_casual_s_offscreen_s_towards_s_sad_s_talk_displeased_] [[{i}Uhhh{/i}, oh, hey Danny. Now? Sorry, I'm kinda busy working on some online work I was hoping to get-]"
-msgstr "[_kate_s_casual_s_offscreen_s_towards_s_sad_s_talk_displeased_] [[{i}Uhhh{/i}, oh, hey Danny. ¿Ahora? Lo siento, estoy ocupado trabajando en algún trabajo en línea que esperaba obtener]"
+msgstr "[_kate_s_casual_s_offscreen_s_towards_s_sad_s_talk_displeased_] [[{i}Uhhh{/i}, oh, hey Danny. ¿Ahora? Lo siento, estoy ocupada trabajando]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3935 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_2c10cbf4:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_distraught_] Sorry, but it's kind've an emergency."
-msgstr "[_danny_s_at_player_s_unhappy_s_talk_distraught_] Lo siento, pero es algo que tiene una emergencia."
+msgstr "[_danny_s_at_player_s_unhappy_s_talk_distraught_] Lo siento, pero es una emergencia."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3938 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_1f7510b5:
 msgid "[_kate_s_casual_s_offscreen_s_closed_s_neutral_s_talk_consternation_] [[{i}*Sigh*{/i} Okay, sure. Star's out with the girls having some sort've pre-concert sleepover for that Ember show, so you can come over if you really need to.]"
-msgstr "[_kate_s_casual_s_offscreen_s_closed_s_neutral_s_talk_consternation_] [[{i}*Alta*{/i} Vale, seguro. La estrella sale con las chicas que tienen algún sort've pre-concierto para ese espectáculo de Ember, así que puedes venir si realmente lo necesitas.]"
+msgstr "[_kate_s_casual_s_offscreen_s_closed_s_neutral_s_talk_consternation_] [[{i}*Suspiro*{/i} Vale, seguro. Star está fuera con otras chicas buscando algo de ropa para el concierto de Ember, así que puedes venir si lo necesitas.]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3940 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_8c063cca:
 msgid "[_danny_s_closed_s_wondering_s_talk_amused_] Great! I'll be there in ten!"
-msgstr "[_danny_s_closed_s_wondering_s_talk_amused_] ¡Genial! ¡Estaré ahí en diez!"
+msgstr "[_danny_s_closed_s_wondering_s_talk_amused_] ¡Genial! ¡Estaré ahí en diez minutos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3942 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_scene_1_59b5f393:
 msgid "[_danny_s_at_player_s_sad_s_frown_] (Sounds like I called at a weird time. My bad. I better not keep Kate waiting.)"
-msgstr "[_danny_s_at_player_s_sad_s_frown_] (Los sonidos como llamé en un momento raro. Mi malo. Es mejor que no sigas esperando a Kate.)"
+msgstr "[_danny_s_at_player_s_sad_s_frown_] (Suena a que he llamado en mal momento. Malo. Es mejor que no haga esperar a Kate.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3965 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_abc8b39d:
 msgid "[_kate_s_casual_s_towards_s_neutral_s_talk_displeased_] Oh, hey. Good. Come on in, I suppose."
-msgstr "[_kate_s_casual_s_towards_s_neutral_s_talk_displeased_] Oh, je. Bueno. Venga, supongo."
+msgstr "[_kate_s_casual_s_towards_s_neutral_s_talk_displeased_] Oh, je. Bueno. Pasa dentro, supongo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3968 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_326fe4eb:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] T-thanks for taking me at such short notice, this late. I do appreciate it, Kate."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] T-Gracias por tomarme en tan breve aviso, esto tarde. Lo aprecio, Kate."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] G-Gracias por recibirme con mi breve aviso. Lo aprecio, Kate."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3984 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_ff99566e:
 msgid "[_kate_s_casual_s_towards_s_rise_s_talk_displeased_] So, what's so urgent that you needed to call me for? Nothing new happening with your arm, right?"
-msgstr "[_kate_s_casual_s_towards_s_rise_s_talk_displeased_] Entonces, ¿para qué es tan urgente que necesitaste llamarme? ¿No pasa nada nuevo con tu brazo?"
+msgstr "[_kate_s_casual_s_towards_s_rise_s_talk_displeased_] Entonces, ¿qué es tan urgente para llamarme? ¿algo nuevo con tu brazo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3987 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_cfdccd5b:
 msgid "[_danny_s_towards_s_unhappy_s_talk_displeased_] Oh, no, that's fine... well, it's kinda a long story, I hope you don't mind... basically, there's this strange thing about ghosts and their powers..."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] Oh, no, está bien... bueno, es una larga historia, espero que no te importe. Básicamente, hay esta extraña cosa sobre los fantasmas y sus poderes..."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] Oh, no, está bien... bueno, es una larga historia, espero que no te importe. Es una cosa extraña sobre los fantasmas y sus poderes..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4008 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_e1eb5970:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] ...and so while I know how crazy that all sounds, that's really the way Orgone works, and I could really use your help."
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ...y así mientras sé lo loco que suenan todos los sonidos, esa es la forma en que funciona Orgone y realmente podría usar tu ayuda."
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ... sé lo loco que suena todo esto, esa es la forma en que funciona el Orgone y podrías serme de gran ayuda."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4011 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_c376892a:
 msgid "[_kate_s_casual_s_towardsdown_s_rise_s_talk_amused_] Wow, I never knew how kinky the afterlife could be. That's pretty nuts..."
-msgstr "[_kate_s_casual_s_towardsdown_s_rise_s_talk_amused_] Wow, nunca sabía lo amargado que podría ser la vida posterior. Eso es precioso..."
+msgstr "[_kate_s_casual_s_towardsdown_s_rise_s_talk_amused_] Wow, no sabía lo retorcida que podía ser la vida tras la muerte. Eso es precioso..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4014 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_2_Living_room_d11b723c:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] So, can you help me?"
