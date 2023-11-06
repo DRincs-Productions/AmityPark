@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-04 17:50\n"
+"PO-Revision-Date: 2023-11-06 20:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -2642,51 +2642,51 @@ msgstr "[_star_s_offscreen_s_ef_s_towards_s_neutral_2_s_talk_happy_s_noblush_] {
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3445 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_541b3c9a:
 msgid "[_danny_s_at_player_s_wondering_s_talk_displeased_] Ember...? What?{p}{i}Here?!{/i}"
-msgstr "¿[_danny_s_at_player_s_wondering_s_talk_displeased_] Ember...? ¿Qué?{p}{i}aquí?!{/i}"
+msgstr "¿[_danny_s_at_player_s_wondering_s_talk_displeased_] Ember...? ¿Qué?{p}{i}aquí?!{/i}{/p}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3465 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_014548e5:
 msgid "[_ember_s_human_guitar_s_towards_s_idle_s_talk_amused_] {i}Hellooooooo{/i} Casper High!!"
-msgstr "[_ember_s_human_guitar_s_towards_s_idle_s_talk_amused_] {i}Hellooooooo{/i} Casper Alta!!"
+msgstr "[_ember_s_human_guitar_s_towards_s_idle_s_talk_amused_] ¡¡{i}Holaaaaaa{/i} Casper High!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3468 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_5d89b1d2:
 msgid "[_tucker_s_ef_s_offscreen_s_arms_straps_s_ahegao_s_angry_s_talk_happy_] Ember!! We love youuuu!!"
-msgstr "[_tucker_s_ef_s_offscreen_s_arms_straps_s_ahegao_s_angry_s_talk_happy_] Ember!! Nos encanta youuu!!"
+msgstr "[_tucker_s_ef_s_offscreen_s_arms_straps_s_ahegao_s_angry_s_talk_happy_] ¡¡Ember!! ¡¡te quereeeemos!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3470 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_37344de6:
 msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Come on everyone! Let me hear you...{p}SAY.{p}MY.{p}NAME!!"
-msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] ¡Ven a todos! Déjame oírte ...{p}SAY.{p}MI.{p}NOMBRE!!"
+msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] ¡Venid todos! ¡¡Dejadme oíros...{p}DECIR. {/p} {p}MI. {/p} {p}NOMBRE {/p}!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3473 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_17d67e28:
 msgid "Crowd [special_delimiter] Ember!{p}Ember!!{p}Ember!!!"
-msgstr "Crowd [special_delimiter] Ember!{p}Ember!!{p}Ember!!!"
+msgstr "Crowd [special_delimiter] ¡Ember!{p}¡¡Ember!!{/p} {p}¡¡¡Ember!!!{/p}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3476 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_8893b4c0:
 msgid "[_ember_s_human_guitar_s_at_player_s_angry_s_talk_amused_] Alright everyone! Let's {u}ROCK!{/u}"
-msgstr "¡[_ember_s_human_guitar_s_at_player_s_angry_s_talk_amused_] ¡Todo el mundo! ¡ {u}ROCK!{/u}"
+msgstr "¡[_ember_s_human_guitar_s_at_player_s_angry_s_talk_amused_] ¡Todo el mundo! ¡ Hagamos {u}¡ROCK!{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3480 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_64e59be9:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_angry_s_talk_frown_] {b}Catch-22!!{/b} What in the world is going on here?! Break it up, people, BREAK IT UP!!"
-msgstr "[_lancer_s_offscreen_s_towards_wide_s_angry_s_talk_frown_] {b}Catch-22!!{/b} ¿Qué está pasando en el mundo aquí?! ¡¡¡¡¡¡¡Pácalo, gente!!"
+msgstr "[_lancer_s_offscreen_s_towards_wide_s_angry_s_talk_frown_] {b}¡¡Catch-22!!{/b} ¿Qué está pasando a todo el mundo?! Parad, alumnos, ¡¡PARAD YA!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3483 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_01bc2609:
 msgid "[_lancer_s_offscreen_s_towards_s_rise_one_s_talk_frown_] What is the meaning of this?! I'll have to insist that all of this rocking as well as rolling cease, henceforth, immediately!"
-msgstr "¡[_lancer_s_offscreen_s_towards_s_rise_one_s_talk_frown_] ¿Cuál es el significado de esto?! ¡Tendré que insistir en que toda esta rueda, así como la cesión de ruedas, ¡por delante, inmediatamente!"
+msgstr "¡[_lancer_s_offscreen_s_towards_s_rise_one_s_talk_frown_] ¿Cuál es el significado de esto?! ¡Tendré que insistir en este jaleo¡, ¡parad inmediatamente!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3487 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_a5296348:
 msgid "[_ember_s_human_guitar_s_down_s_angry_s_talk_consternation_] Hey old man, what's your problem?? Stop ruining my gig!"
-msgstr "[_ember_s_human_guitar_s_down_s_angry_s_talk_consternation_] Hola viejo, ¿cuál es tu problema?? ¡Deja de arruinar mi gig!"
+msgstr "[_ember_s_human_guitar_s_down_s_angry_s_talk_consternation_] Hey viejo, ¿cuál es tu problema?? ¡Deja de arruinar mi escena!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3490 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_1091ccce:
 msgid "[_lancer_s_offscreen_s_towards_s_angry_s_talk_frown_] This is an un-coordinated event on school grounds! You're disrupting the students' learning with all this noise! I will have the police here at a moment's notice and have your whole groupie act shut down!"
-msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_frown_] ¡Este es un evento descoordinado en los centros escolares! ¡Interrumpe el aprendizaje de los estudiantes con todo este ruido! Voy a tener a la policía aquí en un momento de aviso y hacer que todo su acto groupie se cierra!"
+msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_frown_] ¡Este es un evento descoordinado con el centro escolar! ¡Interrumpes el aprendizaje de los estudiantes con todo este ruido! Voy a tener a la policía aquí en un momento si la aviso y va a hacer que toda tu escena se acabe!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3492 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_e3a1677b:
 msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_amused_] Oh yeah? Well, do you {i}feel{/i} that everyone? Feels to me like a song with a little more {u}AGGRESSION{/u} is coming on!{p}Show this geezer what we think of his rules!!"
-msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_amused_] ¿Oh si? Bueno, ¿eres {i}sintiendo{/i} que todos? ¡Me sienta como una canción con un poco más de {u}AGRESSION{/u} está llegando!{p}Muestra a este geezer lo que pensamos de sus reglas!!"
+msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_amused_] ¿Oh si? Bueno, ¿no {i}sientes{/i} lo mismo que todos? ¡Siento que una canción con un poco más de {u}AGRESISVIDAD{/u} está llegando! ¡¡{p}Mostrad a esta momia lo que pensamos de sus reglas{/p}!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3498 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_cdf028b0:
 msgid "Crowd [special_delimiter] {i}Boooh!!{/i} Get rid of Lancer!! {i}Boooh!!{/i}"
-msgstr "Crowd [special_delimiter] {i}Boooh!!{/i} Deshacerte de Lancer!! {i}Boooh!!{/i}"
+msgstr "Crowd [special_delimiter] {i}¡¡Boooh!!{/i} ¡¡Largate Lancer!! {i}¡¡Boooh!!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3500 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_fed61e2f:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_wondering_s_talk_frown_] Unhand me, you misguided, rebellious teenagers! I'll have your grades slashed for this! Your permanent records will look mighty-{p}h-hey, stop pushing! {b}Of Mice and Men!!{/b} Help!!"
