@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-06 20:09\n"
+"PO-Revision-Date: 2023-11-06 21:04\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -2690,7 +2690,7 @@ msgstr "Crowd [special_delimiter] {i}¡¡Boooh!!{/i} ¡¡Largate Lancer!! {i}¡�
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3500 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_fed61e2f:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_wondering_s_talk_frown_] Unhand me, you misguided, rebellious teenagers! I'll have your grades slashed for this! Your permanent records will look mighty-{p}h-hey, stop pushing! {b}Of Mice and Men!!{/b} Help!!"
-msgstr "[_lancer_s_offscreen_s_towards_wide_s_wondering_s_talk_frown_] ¡Dame la mano, tus adolescentes rebeldes y mal orientados! ¡Haré que tus calificaciones sean golpeadas por esto! Tus registros permanentes se verán poderosos-{p}h-hey, ¡deja de empujar! {b}de ratones y menús!!{/b} de ayuda!!"
+msgstr "[_lancer_s_offscreen_s_towards_wide_s_wondering_s_talk_frown_] ¡Soltadme!, adolescentes rebeldes perdidos! ¡Haré que vuestras calificaciones sean suspendidas por esto! Vuestros recuerdos permanentes parecerán -{p}¡h-hey, ¡dejad de empujar!{/p} {b} ¡¡menús de ratones!!{/b} ¡¡socorro!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3502 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_abca98f1:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_angry_s_talk_displeased_s_breath_1_] {w=0.5}{nw}"
@@ -2706,19 +2706,19 @@ msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_displeased_s_breath_3
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3508 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_e3faf2f0:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_displeased_s_breath_3_] Woah... Sam was right! Ember {i}IS{/i} a ghost!{p}She's using her music to control everyone!!"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_displeased_s_breath_3_] Woah... ¡Sam estaba en lo cierto! ¡Ember {i}IS{/i} un fantasma! ¡{p}She está usando su música para controlar a todos!!"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_displeased_s_breath_3_] Woah... ¡Sam estaba en lo cierto! ¡Ember {i}ES{/i} un fantasma! ¡{p}Está usando su música para controlar a todos{/p}!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3510 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_4e4e2fa6:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_displeased_s_-breath_3_] I need to save Lancer! And the rest of the school from her control!{p}With this angry mob all gathered around and focused on Ember, I doubt anyone will notice me if I do this..."
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_displeased_s_-breath_3_] Necesito guardar Lancer! ¡Y el resto de la escuela de su control!{p}Con esta turba enojada todos se reunieron alrededor y se enfocaron en Ember, dudo que alguien me va a notar si hago esto ..."
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_displeased_s_-breath_3_] Necesito salvar a Lancer! ¡Y restaurar el orden en la escuela! {p}En esta turba enojada{/p} concentrada y enfocada en Ember, dudo que alguien note si hago esto..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3512 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_e1a070e9:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_amused_] I'm going ghost!!"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_amused_] me voy a fantasma!!"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_amused_] ¡¡voy a ser fantasma!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3523 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_0d43e682:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] Hey, the nice bald man said that he'd call the police, not that he loves \"The Police\", and that you guys should keep rocking out!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] Hola, el calvario dijo que llamaría a la policía, No es que él ama \"La Policía\", y que los chicos deben seguir rocando fuera!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] Hola, el buen hombre dijo que llamaría a la policía, no és que le guste llamar a la \"La Policía\", sino que vosotros deberíais ir a tocar fuera!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3526 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_c1208127:
 msgid "[_ember_s_human_guitar_s_towards_s_confused_s_talk_displeased_] Uhhh... what?"
@@ -2726,115 +2726,115 @@ msgstr "[_ember_s_human_guitar_s_towards_s_confused_s_talk_displeased_] Uhhh... 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3529 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_2cec0e96:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ...okay, not one of my better intros, a little long winded perhaps, but still..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ...ok, no uno de mis mejores intros, un poco de viento largo quizás, pero aún..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ...ok, no fúe una de mis mejores intros, un poco faltada de ritmo, pero aún..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3532 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_826cbe21:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] ...my point still stands! Pack it up and go home, Cherry Bomb!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] ...¡mi punto sigue en pie! ¡Empégalo y vuelve a casa, ¡Bomba de cerezo!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] ...¡mi orden sigue en pie! ¡Recogedlo todo y volver a casa, ¡Bomba de cereza!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3535 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_183aeac7:
 msgid "[_ember_s_human_guitar_s_towards_s_idle_s_displeased_] (Hmmm... this must be that \"Inviso-Bill\" my creepy manager warned me about... better take care of this little heckler before I can play my songs...)"
-msgstr "[_ember_s_human_guitar_s_towards_s_idle_s_displeased_] (Hmmm... esto debe ser que \"Inviso-Bill\" me advirtió mi espeluznante. . mejor cuidar de este pequeño heckler antes de poder tocar mis canciones...)"
+msgstr "[_ember_s_human_guitar_s_towards_s_idle_s_displeased_] (Hmmm... este debe de ser el \"Inviso-Bill\" del que me advirtió mi espeluznante manager... mejor encargarme de este espanta pájaros antes de tocar mis canciones...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3538 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_66013e3e:
 msgid "[_ember_s_human_guitar_s_stare_s_confused_s_talk_amused_] So, you're the boot licker that's been stomping out all the fun around here, huh?"
-msgstr "[_ember_s_human_guitar_s_stare_s_confused_s_talk_amused_] Así que, eres el lame de arranque que ha estado pisando toda la diversión por aquí, ¿eh?"
+msgstr "[_ember_s_human_guitar_s_stare_s_confused_s_talk_amused_] Así que, eres el agua fiestas que ha estado deteniendo toda la diversión por aquí, ¿eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3541 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_2dd1e294:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_distraught_] Terrorizing people through mind alterning music and alt-core fashion sense is no sane person's definition of \"fun\"!{p}I'm sending you and your little entourage back to the Ghost Zone and ending this jam session!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_distraught_] Terrorizar a la gente a través de la mente alterando la música y el sentido de moda alt-core no es la definición de la persona sana de \"diversión\"!{p}¡Te envío a ti y a tu pequeño entorno de vuelta a la Zona Fantasma y termino esta sesión de mermelada!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_distraught_] Aterrorizar a la gente alterando su mente en el sentido de moda alt-core a través de la música no es la definición de sana \"diversión\"!{p}¡Tevoy a enviar a ti y a tu tropa de vuelta a la Zona Fantasma y pondré fin a esta sesión de zombis{/p}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3544 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_5d067f24:
 msgid "[_ember_s_human_guitar_s_towards_s_angry_s_talk_amused_] {i}Ha!{/i} Trying to break the band up, aye Yoko?{p}I think what you need is a little workout music!! And a workout like this will {i}really{/i} kick your butt into shape!"
-msgstr "[_ember_s_human_guitar_s_towards_s_angry_s_talk_amused_] {i}Ha!{/i} Tratando de romper la banda, aye Yoko?{p}¡Creo que lo que necesitas es una pequeña música de entrenamiento! ¡Y un entrenamiento como este sacará realmente a tu perro a la forma {i}!"
+msgstr "[_ember_s_human_guitar_s_towards_s_angry_s_talk_amused_] {i}Ha!{/i} ¿Tratando de romper el ambiente?{p}¡Creo que lo que necesitas es una música de deberes! ¡Unos deberes como estos {i}realmente{/i} patearan tu culo fuera de mi camino}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3547 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_a0844cdd:
 msgid "[_ember_s_human_guitar_s_towards_wide_s_angry_s_talk_bite_] A one, two, three, four!!"
-msgstr "[_ember_s_human_guitar_s_towards_wide_s_angry_s_talk_bite_] A uno, dos, tres, cuatro!!"
+msgstr "[_ember_s_human_guitar_s_towards_wide_s_angry_s_talk_bite_] ¡¡un, dos, tres, cuatro!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3550 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_5f52b6d7:
 msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Say my name everyone!!"
-msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Diga mi nombre a todo el mundo!!"
+msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] ¡¡decid todos mi nombre!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3554 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_afc1e406:
 msgid "Crowd [special_delimiter] EMBER!{p}EMBER!!{p}EMBER!!!"
-msgstr "Crowd [special_delimiter] EMBER!{p}EMBER!!{p}EMBER!!!"
+msgstr "Crowd [special_delimiter] ¡EMBER!{p}¡¡EMBER{/p}!!{p}¡¡EMBER{/p}!!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3557 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_d8238bcb:
 msgid "[_ember_s_human_guitar_s_closed_s_angry_s_talk_bite_] Oh {i}yeah!!{/i} That's what I needed to hear!"
-msgstr "[_ember_s_human_guitar_s_closed_s_angry_s_talk_bite_] Oh {i}si!!{/i} ¡Eso es lo que necesitaba escuchar!"
+msgstr "[_ember_s_human_guitar_s_closed_s_angry_s_talk_bite_] Oh {i}¡¡si!!{/i} ¡Eso es lo que necesitaba escuchar!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3560 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_b8bb22ff:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_angry_s_grindteeth_] (Shoot! The more they chant, the stronger she gets! I'll have to end this little concert quickly!)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_angry_s_grindteeth_] (Shoot! Cuanto más cantan, más fuerte se pone! ¡Voy a tener que terminar este pequeño concierto rápidamente!)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_angry_s_grindteeth_] (¡joder! ¡Cuanto más cantan, más fuerte se pone! ¡Voy a tener que terminar este concierto rápidamente!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3596 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_c1d60e11:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_self_s_unhappy_s_talk_distraught_] {i}*Huff* *Huff*{/i} ...not happening... she's {i}way{/i} too strong for me!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_self_s_unhappy_s_talk_distraught_] {i}*Huff * *Huff * {/i} ... no está sucediendo ... ella es {i}manera {/i} demasiado fuerte para mí!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_self_s_unhappy_s_talk_distraught_] {i}*Huff * *Huff * {/i} ...no va bien... ¡ella es {i}demasido{/i} fuerte para mí!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3599 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_22431e78:
 msgid "[_ember_s_human_guitar_s_towards_s_angry_s_talk_amused_] I am, aren't I? And that was just a nice little warmup to tune my instruments, but now you're gonna get the {u}full show!{/u}"
-msgstr "[_ember_s_human_guitar_s_towards_s_angry_s_talk_amused_] Yo lo esto,¿no? Y eso fue solo un pequeño warmup para afinar mis instrumentos, ¡pero ahora vas a conseguir el show completo {u}! /u}"
+msgstr "[_ember_s_human_guitar_s_towards_s_angry_s_talk_amused_] ¿soy, no soy? Eso fue solo un pequeño calentamiento para afinar mis instrumentos, ¡ ahora vas a conocer el {u}¡show completo! {/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3602 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_418c72c7:
 msgid "[_ember_s_human_guitar_s_towards_s_rise_s_talk_happy_] This next one's a real crowd pleaser! And by that, I mean it'll please the crowd to tear you apart, limb from limb!!"
-msgstr "[_ember_s_human_guitar_s_towards_s_rise_s_talk_happy_] ¡Esto es un verdadero placer! ¡Y con eso, quiero decir que agradecerá a la multitud para desgarrarte de la extremidad de la derrota!!"
+msgstr "[_ember_s_human_guitar_s_towards_s_rise_s_talk_happy_] ¡Esto es un verdadero placer! ¡Y con eso, quiero decir que agradecerá la multitud que te pongas a un lado!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3605 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_72a8f25e:
 msgid "Crowd [special_delimiter] {i}*Growling* *Snarling * Ember! Ember! Ember!{/i}"
-msgstr "Crowd [special_delimiter] {i}*Disparando* *Snarling * ¡Ember! ¡Ember!{/i}"
+msgstr "Crowd [special_delimiter] {i}*gruñido* *gruñido* ¡Ember! ¡Ember!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3608 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_6006ebe2:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_talk_displeased_] Oh boy, I think I'm about to be mosh pitted..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_talk_displeased_] Oh chico, creo que estoy a punto de ser mosh enclavado..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_talk_displeased_] Oh tio, creo que estoy a punto de ser linchado..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3614 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_f2353237:
 msgid "[_sam_s_co_s_offscreen_s_towards_s_sad_s_talk_displeased_] Danny!!"
-msgstr "[_sam_s_co_s_offscreen_s_towards_s_sad_s_talk_displeased_] Danny!!"
+msgstr "[_sam_s_co_s_offscreen_s_towards_s_sad_s_talk_displeased_] ¡¡Danny!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3617 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_084703fc:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_wide_s_rise_s_talk_displeased_] Huh? Sam? I mean, uh, w-who? Excuse me miss, I'm afraid you're rather mistaken, as I am Inviso-Bill, ghostly hero of Amity Park, n-not this Danny you speak of-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_wide_s_rise_s_talk_displeased_] ¿Huh? ¿Sam? Quiero decir, uh, ¿w-whe? Perdóneme, me temo que estás bastante equivocado, ya que soy Inviso-Bill, héroe fantasmal de Amity Park, no este Danny que hablas de-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_wide_s_rise_s_talk_displeased_] ¿Huh? ¿Sam? Quiero decir, uh, ¿q-qué? Perdóname, me temo que estás equivocado, ya que soy Inviso-Bill, héroe fantasmal de Amity Park, no este Danny que hablas de-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3621 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_f3d10cdb:
 msgid "[_sam_s_co_s_offscreen_s_towards_s_angry_s_talk_distraught_] Come on! We need to get you out of here before these crazed fans go stir crazy and rip you apart!"
-msgstr "[_sam_s_co_s_offscreen_s_towards_s_angry_s_talk_distraught_] ¡Vamos! We need to get you out of here before these enloqued fans go stir crazy and rip you apart!"
+msgstr "[_sam_s_co_s_offscreen_s_towards_s_angry_s_talk_distraught_] ¡Vamos! ¡tenemos que salir de aquí antes de que esa multitud de fans te linche!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3625 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_d9e85c2d:
 msgid "[_sam_s_co_s_offscreen_s_towards_s_sad_s_talk_happy_] Jump behind the stand!!"
-msgstr "[_sam_s_co_s_offscreen_s_towards_s_sad_s_talk_happy_] saltar detrás del stand!!"
+msgstr "[_sam_s_co_s_offscreen_s_towards_s_sad_s_talk_happy_] ¡¡saltemos detrás del escenario!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3628 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_9c83873a:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_displeased_] Jumping!"
-msgstr "¡[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_displeased_] saltando!"
+msgstr "¡[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_displeased_] ¡saltando!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3634 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_0b331079:
 msgid "[_ember_s_human_guitar_s_towards_s_angry_s_talk_displeased_] Bogus!! Brat got away with his little gal pal... oh well, this won't be the last time I get to show them who's leading the show now..."
-msgstr "[_ember_s_human_guitar_s_towards_s_angry_s_talk_displeased_] Bogus!! Brat se quedó con su pequeño gal pal... Oh bueno, esta no será la última vez que llegué a mostrarles quién está liderando el espectáculo..."
+msgstr "[_ember_s_human_guitar_s_towards_s_angry_s_talk_displeased_] Bogus!! Brat se largó con su pequeña gal pal... bueno, esta no será la última vez que llegue a mostrarles quién lidera el espectáculo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3636 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_69756e51:
 msgid "[_ember_s_human_guitar_s_at_player_s_sad_s_talk_amused_] Sorry about that lame hold up gang!! Now, are you ready for more of your favorite songs from yours truly ?!"
-msgstr "[_ember_s_human_guitar_s_at_player_s_sad_s_talk_amused_] Lo siento, mantén pulsado el juego!! Ahora, ¿estás listo para más de tus canciones favoritas de la tuya?!"
+msgstr "[_ember_s_human_guitar_s_at_player_s_sad_s_talk_amused_] ¡¡Perdonad por todo, mantengamos el concierto!! Ahora, ¡¿estáis listos para más de vuestras canciones favoritas?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3639 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_eca6c132:
 msgid "Crowd [special_delimiter] {i}*Cheering* *Fawning* *Shouting*{/i}"
-msgstr "Crowd [special_delimiter] {i}*Saludo* *Saludo* *Grito*{/i}"
+msgstr "Crowd [special_delimiter] {i}*Aplausos* *Piropos* *Gritos*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3641 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_d5122bdc:
 msgid "[_ember_s_human_guitar_s_at_player_s_rise_s_talk_happy_] Now, if ya'll don't know yet, which I doubt, I've got a concert coming up soon, right here in your own dinky little town!"
-msgstr "[_ember_s_human_guitar_s_at_player_s_rise_s_talk_happy_] Ahora, si aún no lo sé, lo cual dudo de que llegue un concierto pronto, ¡justo aquí en tu pequeña y dinky ciudad!"
+msgstr "[_ember_s_human_guitar_s_at_player_s_rise_s_talk_happy_] Ahora, si no lo sabíais, lo cual dudo, haré un concierto pronto, ¡aquí en vuestra pequeña y linda ciudad!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3643 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_2ffc29e4:
 msgid "[_ember_s_human_guitar_s_closed_s_idle_s_talk_amused_] The tickets just went live online, so buy em' quick, before you're the only loser in Amity Park not going!!"
-msgstr "[_ember_s_human_guitar_s_closed_s_idle_s_talk_amused_] Los billetes se acaban de conectar en línea, así que compra rápido antes de que seas el único perdedor en Amity Park que no se vaya!!"
+msgstr "[_ember_s_human_guitar_s_closed_s_idle_s_talk_amused_] Los billetes se acaban de poner en venta en línea, ¡¡así que comprad rápido antes de que ser el único perdedor en Amity Park!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3646 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_810067a5:
 msgid "Crowd [special_delimiter] Ember! {i}Wooooh!!{/i} We love you Ember!!"
-msgstr "¡Crowd [special_delimiter] Ember! {i}Wooooh!!{/i} ¡¡¡¡¡Te amamos Ember!!"
+msgstr "¡Crowd [special_delimiter] Ember! {i}¡¡Wooooh!!{/i} ¡¡Te amamos Ember!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3648 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_01b66f90:
 msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Oh really? Then tell me how {u}much{/u} you love me!!{p}SAY.{p}MY.{p}NAME!!"
-msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] ¿Oh realmente? Entonces dime cómo me amas {u}much{/u}!{p}.{p}. {p} MY.{p}NOMBRE!!"
+msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Oh, ¿en serio? Entonces ¡¡decidme {u}cuánto{/u} me amáis!! ¡¡{p}DECID.{/p}. {p} MI.{/p} {p}NOMBRE{/p}!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3651 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_f90ba28e:
 msgid "Crowd [special_delimiter] Ember!! Ember!! Ember!! Ember!! Ember!! Ember!!"
@@ -2846,27 +2846,27 @@ msgstr "[_ember_s_ghost_guitar_s_closed_s_idle_s_talk_bite_] {i}Ahhh{/i}... mús
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3718 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_0e554116:
 msgid "[_danny_s_beatenup_s_towards_s_sad_s_talk_displeased_s_stars_] {i}Ow!!{/i} That stings!!{p}Take it easy with that stuff, Nurse Ratchet!"
-msgstr "[_danny_s_beatenup_s_towards_s_sad_s_talk_displeased_s_stars_] {i}Ow!!{/i} ¡¡¡Que pica!!{p}¡Úsalo fácil con esa cosa, Nurse Ratchet!"
+msgstr "[_danny_s_beatenup_s_towards_s_sad_s_talk_displeased_s_stars_] {i}Ow!!{/i} ¡¡¡pica!!{p}¡ten cuidado con esa cosa, enfermera Ratchet!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3721 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_3229c5b5:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_displeased_] Darn it Danny! Hold still, and don't be such a baby. I've gotta apply more antiseptic ointment..."
-msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_displeased_] ¡Darn it Danny! Mantén presionado, y no seas un bebé. Tengo que aplicar más ungüento antiséptico..."
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_displeased_] ¡calma Danny! Mantén presionado, y no seas un crío. Tengo que aplicar más ungüento antiséptico..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3724 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_447742e5:
 msgid "[_danny_s_beatenup_s_at_self_s_unhappy_s_talk_distraught_] {i}Ugh{/i}, Sam, how on Earth am I going to stop her?? She's way stronger than I would have thought!"
-msgstr "[_danny_s_beatenup_s_at_self_s_unhappy_s_talk_distraught_] {i}Ugh{/i}, Sam, ¿cómo voy a detenerla?? ¿Va a ser más fuerte de lo que hubiera pensado!"
+msgstr "[_danny_s_beatenup_s_at_self_s_unhappy_s_talk_distraught_] {i}Ugh{/i}, Sam, ¿¿cómo voy a detenerla?? ¿Va a ser más fuerte de lo que pensé!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3727 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_50ae4aef:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] What do you mean? Was it really that bad?"
-msgstr "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] ¿Qué quieres decir? ¿Fue realmente tan malo?"
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_displeased_] ¿Qué quieres decir? ¿Fue tan malo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3730 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_3753d7c8:
 msgid "[_danny_s_beatenup_s_towards_s_unhappy_s_talk_distraught_] I haven't faced an enemy that powerful before! She's way tough, and her attacks were pretty much taking me out in one hit!"
-msgstr "¡[_danny_s_beatenup_s_towards_s_unhappy_s_talk_distraught_] No me he enfrentado a un enemigo tan poderoso antes! ¡Está camino de ser más duro, y sus ataques me estaban llevando de un solo golpe!"
+msgstr "¡[_danny_s_beatenup_s_towards_s_unhappy_s_talk_distraught_] No me he enfrentado a una enemiga tan poderosa antes! ¡Va camino de ser más fuerte y sus ataques me tiraron de un solo golpe!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3733 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_13f581f8:
 msgid "[_sam_s_co_s_away_s_sad_s_talk_happy_s_slight_blush_] {i}*Blushing*{/i} Well, uh, so, do... do you... do you maybe need me to {i}\"help out\"{/i} again...?"
-msgstr "[_sam_s_co_s_away_s_sad_s_talk_happy_s_slight_blush_] {i}*Brushing * {/i} Bueno, uh, así que, haz ... hazlo ... ¿quizás me necesitas a {i}\"ayudar\" {/i} de nuevo ...?"
+msgstr "[_sam_s_co_s_away_s_sad_s_talk_happy_s_slight_blush_] {i}*Sonrojar* {/i} Bueno, uh, así que, tú... tú... ¿tú quizás me necesites para {i}\"ayudarte\" {/i} de nuevo...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3736 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_57eb4dd2:
 msgid "[_danny_s_beatenup_s_towards_s_sad_s_talk_happy_] Uh, thanks Sam, but I'm not even sure that'll be enough to stop her."
@@ -2878,11 +2878,11 @@ msgstr "[_sam_s_co_s_towards_wide_s_sad_s_talk_displeased_s_-slight_blush_] ¿De
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3742 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_3ae8de87:
 msgid "[_danny_s_beatenup_s_towards_s_sad_s_talk_displeased_] Yeah, what I've been doing up til' now fighting ghosts might not get the job done this time. Don't suppose you have any bright ideas?"
-msgstr "[_danny_s_beatenup_s_towards_s_sad_s_talk_displeased_] Sí, lo que he estado haciendo hasta que los fantasmas luchen ahora puede que no se haga el trabajo esta vez. ¿No supones que tienes ideas brillantes?"
+msgstr "[_danny_s_beatenup_s_towards_s_sad_s_talk_displeased_] Sí, lo que he estado haciendo hasta contra los fantasmas no me servirá esta vez. ¿Tienes alguna otra idea brillante?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3745 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_58c7b4e8:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_consternation_] Well... what if you had, say, um, more than just {u}one?{/u}"
-msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_consternation_] Bueno... ¿qué pasaría si tuvieras, digamos, um, más que {u}uno?{/u}"
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_consternation_] Bueno... ¿qué pasaría si tuvieras, digamos, um, más de {u}una vez?{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3748 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_58982dae:
 msgid "[_danny_s_beatenup_s_towards_s_rise_s_talk_displeased_] Huh? What do you mean Sam? More than one what?"
@@ -2890,7 +2890,7 @@ msgstr "[_danny_s_beatenup_s_towards_s_rise_s_talk_displeased_] ¿Huh? ¿Qué qu
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3751 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_6f1529d9:
 msgid "[_sam_s_co_s_away_s_neutral_s_talk_displeased_] I mean... what if, hypothetically... you had an {i}additional{/i} charge of Orgone?"
-msgstr "[_sam_s_co_s_away_s_neutral_s_talk_displeased_] quiero decir... ¿qué pasaría si, hipotéticamente... tenías una carga adicional de Orgona {i}?"
+msgstr "[_sam_s_co_s_away_s_neutral_s_talk_displeased_] quiero decir... ¿qué pasaría si, hipotéticamente... tuvieras una carga {i}adicional{/i} de Orgone?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3754 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_3fe9e54a:
 msgid "[_danny_s_beatenup_s_towards_s_idle_s_consternation_] ..."
@@ -2902,11 +2902,11 @@ msgstr "¿[_sam_s_co_s_away_s_neutral_s_talk_consternation_] ...de chicas difere
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3760 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_23cdf452:
 msgid "[_danny_s_beatenup_s_at_self_s_unhappy_s_talk_distraught_] S-Sam... I mean, I wouldn't wanna make things any more-"
-msgstr "[_danny_s_beatenup_s_at_self_s_unhappy_s_talk_distraught_] S-Sam... Quiero decir, no querría hacer cosas más-"
+msgstr "[_danny_s_beatenup_s_at_self_s_unhappy_s_talk_distraught_] S-Sam... Quiero decir, no podría hacerlos más veces-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3763 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_7e2a09cd:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_consternation_s_blush_] Hey, I mean, it's not like we're boyfriend or girlfriend, right?"
-msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_consternation_s_blush_] Hey, quiero decir, no es como somos un amigo o una amiga, ¿verdad?"
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_consternation_s_blush_] Hey, quiero decir, no es como ser novios, ¿sabes?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3766 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_611baeb7:
 msgid "[_danny_s_beatenup_s_down_s_sad_s_talk_displeased_] ...n-no, you're right, of course not."
@@ -2914,23 +2914,23 @@ msgstr "[_danny_s_beatenup_s_down_s_sad_s_talk_displeased_] ...n-no, tienes raz�
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3769 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_ed26167d:
 msgid "[_danny_s_beatenup_s_towards_s_rise_s_talk_happy_] So... you're saying you'd be willing to... ya' know... with me...{p}...and another-?"
-msgstr "[_danny_s_beatenup_s_towards_s_rise_s_talk_happy_] Así que... estás diciendo que estarías dispuesto a... si' sabe... conmigo...{p}...y otro?"
+msgstr "[_danny_s_beatenup_s_towards_s_rise_s_talk_happy_] Así que... estás diciendo que estarías dispuesta a... ya sabes... conmigo...{p}...y ¿otra{/p}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3772 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_58565e9d:
 msgid "[_sam_s_co_s_towards_wide_s_sad_s_talk_amused_s_blush_] {i}Oh{/i}, uh, s-sorry, n-no, I didn't... that wasn't how I meant it to come across, I wasn't meaning-"
-msgstr "[_sam_s_co_s_towards_wide_s_sad_s_talk_amused_s_blush_] {i}Oh{/i}, uh, s-disyunry, n-no, yo no... no era así como yo lo quería decir que no tenía sentido."
+msgstr "[_sam_s_co_s_towards_wide_s_sad_s_talk_amused_s_blush_] {i}Oh{/i}, uh, p-perdon, n-no, yo no... no era eso lo que quería decir, no decía eso"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3775 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_7256a5b5:
 msgid "[_danny_s_beatenup_s_down_s_unhappy_s_talk_displeased_] Sorry, yeah, that's just sorta where my train of thought went..."
-msgstr "[_danny_s_beatenup_s_down_s_unhappy_s_talk_displeased_] Lo siento, sí, eso es solo sorta donde mi tren de pensamiento fue..."
+msgstr "[_danny_s_beatenup_s_down_s_unhappy_s_talk_displeased_] Lo siento, eso es solo donde mi pensamiento fue..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3778 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_b279a158:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_amused_s_slight_blush_] N-no, yeah, I just meant that you should maybe combine some sorta boost from me... along with someone else's charge."
-msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_amused_s_slight_blush_] N-no, sí, solo quería decir que quizás deberías combinar alguna mejora sorta de mí... junto con la carga de otra persona."
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_amused_s_slight_blush_] N-no, sí, solo quería decir que quizás deberías combinar la mía... junto con la carga de otra persona."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3781 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_7206a0a1:
 msgid "[_danny_s_beatenup_s_towards_s_idle_s_talk_happy_] Oh, right, I get what you mean... like a double dose, sorta situation."
-msgstr "[_danny_s_beatenup_s_towards_s_idle_s_talk_happy_] Oh, bueno, tengo lo que quieres decir... como una doble dosis, sorta situación."
+msgstr "[_danny_s_beatenup_s_towards_s_idle_s_talk_happy_] Oh, bueno, entiendo lo que quieres decir... como una doble dosis,."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3784 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_b969364e:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_amused_s_blush_] I just mean, it's only logical if you got someone else to also help \"charge\" your Orgone, you'll have enough power to win."
@@ -2938,19 +2938,19 @@ msgstr "[_sam_s_co_s_towards_s_confused_s_talk_amused_s_blush_] Solo quiero deci
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3787 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_7ef11927:
 msgid "[_danny_s_beatenup_s_towards_s_rise_s_talk_happy_] I... I guess that makes sense."
-msgstr "[_danny_s_beatenup_s_towards_s_rise_s_talk_happy_] I. .. Supongo que eso tiene sentido."
+msgstr "[_danny_s_beatenup_s_towards_s_rise_s_talk_happy_]... Supongo que eso tiene sentido."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3790 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_808c2ef3:
 msgid "[_sam_s_co_s_away_s_sad_s_talk_displeased_s_blush_] Besides, it's just to get the charge, right?"
-msgstr "[_sam_s_co_s_away_s_sad_s_talk_displeased_s_blush_] Además, ¿es solo para obtener la carga, correcto?"
+msgstr "[_sam_s_co_s_away_s_sad_s_talk_displeased_s_blush_] Además, es solo para obtener la carga, ¿correcto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3793 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_1952fc11:
 msgid "[_danny_s_beatenup_s_at_self_s_wondering_s_talk_amused_] O-of course. Always grinding away for that Orgone, {i}heh{/i}...."
-msgstr "[_danny_s_beatenup_s_at_self_s_wondering_s_talk_amused_] O-of course. Siempre moliendo para ese Orgone, {i}heh{/i}...."
+msgstr "[_danny_s_beatenup_s_at_self_s_wondering_s_talk_amused_] p-perdon. Siempre como objetivo obtener Orgone, {i}heh{/i}...."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3796 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_79767ffa:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_happy_s_blush_] ...so, would you... do you want to, I mean, ya' know..."
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_s_blush_] ...así... ¿querrías hacerlo, quiero decir, só..."
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_s_blush_] ...así... ¿querrías hacerlo?, quiero decir, só..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3799 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_60f651cb:
 msgid "[_danny_s_beatenup_s_towards_s_wondering_s_bite_] ..."
@@ -2958,51 +2958,51 @@ msgstr "[_danny_s_beatenup_s_towards_s_wondering_s_bite_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3802 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_45309b89:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_bite_s_blush_] ...{i}now?{/i}"
-msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_bite_s_blush_] ...{i}ahora?{/i}"
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_bite_s_blush_] ...{i}¿ahora?{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3807 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_12884a02:
 msgid "[_danny_s_beatenup_s_closed_s_unhappy_s_talk_distraught_] Ow, ow, ow! Yeah, okay, that still smarts!"
-msgstr "[_danny_s_beatenup_s_closed_s_unhappy_s_talk_distraught_] Vaya, ¡debe, debe! Sí, está bien, ¡eso sigue siendo inteligente!"
+msgstr "[_danny_s_beatenup_s_closed_s_unhappy_s_talk_distraught_] ¡Vaya! Sí, está bien, ¡eso sigue siendo inteligente!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3810 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_ee4b4530:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_displeased_] Oh, s-sorry! Kinda forgot you're a little bruised up right now."
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_displeased_] Oh, ¡lo sentimos! Kinda olvidó que estabas un poco golpeado ahora mismo."
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_displeased_] Oh, perdon. ¡casi olvido que estás un poco lastimado ahora."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3813 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_d5228670:
 msgid "[_danny_s_beatenup_s_towards_s_sad_s_talk_distraught_] Yeah, I seriously feel like I was just tossed off a cliff head first... really strong instruments she's working with..."
-msgstr "[_danny_s_beatenup_s_towards_s_sad_s_talk_distraught_] Sí, me siento muy seriamente como si me pusieran una cabeza de acantilado primero... instrumentos realmente fuertes con los que trabaja..."
+msgstr "[_danny_s_beatenup_s_towards_s_sad_s_talk_distraught_] Sí, me siento como si me retumbara al cabeza... sus instrumentos son realmente fuertes..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3816 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_09c477b4:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_happy_] I'll let you rest up for a bit then. You sure you can make it back to your place on your own?"
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Te dejaré descansar un poco entonces. ¿Estás seguro de que puedes volver a tu lugar por ti mismo?"
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Te dejaré descansar un poco entonces. ¿Estás seguro de que puedes volver a tu casa solo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3819 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_9fab077e:
 msgid "[_danny_s_beatenup_s_towards_s_idle_s_talk_happy_] Yeah, I'll be good, thanks. And Sam?"
-msgstr "[_danny_s_beatenup_s_towards_s_idle_s_talk_happy_] Sí, seré bueno, gracias. ¿Y Sam?"
+msgstr "[_danny_s_beatenup_s_towards_s_idle_s_talk_happy_] Sí, seré bueno, gracias. ¿Sam?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3822 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_c7b77883:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_happy_] Yeah?"
-msgstr "[_sam_s_co_s_towards_s_confused_s_talk_happy_] Sí?"
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_happy_] ¿Sí?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3825 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_d3e16909:
 msgid "[_danny_s_beatenup_s_towards_s_unhappy_s_talk_amused_] ...I'll visit again when I've recovered, okay?"
-msgstr "[_danny_s_beatenup_s_towards_s_unhappy_s_talk_amused_] ...Volveré a visitar cuando me recuperé, ¿no?"
+msgstr "[_danny_s_beatenup_s_towards_s_unhappy_s_talk_amused_] ...Volveré a visitarte cuando me recupere, ¿ok?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3828 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_a9bb44f3:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_bite_s_blush_] {i}*Blushing*{/i} Okay."
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_bite_s_blush_] {i}*Blushing*{/i} Vale."
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_bite_s_blush_] {i}*Sonrojada*{/i} Vale."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3860 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_10_Danny_Home_Evening_52ce6225:
 msgid "[_danny_s_at_player_s_wondering_s_talk_happy_] Well, I've finally made it home... I guess now I just have to try figure out who this second girl is gonna be..."
-msgstr "[_danny_s_at_player_s_wondering_s_talk_happy_] Bueno, finalmente lo he hecho a casa... Supongo que ahora solo tengo que intentar averiguar quién esta segunda chica se va a quedar..."
+msgstr "[_danny_s_at_player_s_wondering_s_talk_happy_] Bueno, finalmente estoy en casa... Supongo que ahora tengo que intentar averiguar quién será la segunda chica con la que..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3862 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_10_Danny_Home_Evening_e09b62e3:
 msgid "[_danny_s_at_player_s_rise_s_talk_amused_] So, I really gotta think: who do I want to try and get an Orgone charge from besides Sam?"
-msgstr "[_danny_s_at_player_s_rise_s_talk_amused_] Así que, realmente tengo pensar: ¿a quién quiero intentar conseguir una carga de Orgone además de Sam?"
+msgstr "[_danny_s_at_player_s_rise_s_talk_amused_] Así que, tengo pensar: ¿de quién quiero intentar conseguir una carga de Orgone además de Sam?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3869 #-#-# translate crowdin A_Nightmare_Called_Ember_ep_7_Route_Choice_b6aab97a:
 msgid "[_danny_] (Who do I wanna try to get Orgone from to defeat Ember?) [nointeract]"
-msgstr "[_danny_] (¿A quién quiero tratar de conseguir a Orgone para derrotar a Ember?) [nointeract]"
+msgstr "[_danny_] (¿de quién quiero tratar de conseguir a Orgone para derrotar a Ember?) [nointeract]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3877 #-#-# translate crowdin A_Nightmare_Called_Ember_ep_7_Route_Choice_9ac83d6f:
 msgid "[_danny_s_at_player_s_sad_s_talk_frown_] ...I guess after that whole experience in the woods and Vlad's cabin, it would only make sense that I could try for Mom?"
