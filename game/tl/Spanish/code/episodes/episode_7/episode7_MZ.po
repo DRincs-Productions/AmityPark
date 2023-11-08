@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-07 21:09\n"
+"PO-Revision-Date: 2023-11-08 17:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -3650,71 +3650,71 @@ msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_amused_] Lamentablemente, la do
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4615 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_47c76b2f:
 msgid "[_box_ghost_s_at_player_s_unhappy_s_talk_frown_] Upon this realization, she began to tirade! Turning back into a fearsome dragon, and, well... ate all my inventory from the past few days...."
-msgstr "[_box_ghost_s_at_player_s_unhappy_s_talk_frown_] A partir de esta comprensión, ¡ella empezó a cansarse! Volviendo a un dragón temible, y bien... comió todo mi inventario de los últimos días..."
+msgstr "[_box_ghost_s_at_player_s_unhappy_s_talk_frown_] A partir de esta realidad, ¡ella empezó a cansarse! Volviéndose en un dragón temible, y bien... se comió todo mi inventario...."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4618 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_e397cfe2:
 msgid "[_danny_s_towards_s_angry_s_talk_displeased_] Oh, come on!! Just my luck!!"
-msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] Oh, ¡Vaya!! ¡¡Solo mi suerte!!"
+msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] Oh, ¡¡Vaya!! ¡¡que mala suerte!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4621 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_1cc5dbe6:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] But fear not, friend! For there is still good news to be celebrated!"
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Pero el miedo, ¡amigo! ¡Porque todavía hay buenas noticias que celebrar!"
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Pero no temas, ¡amigo! ¡Porque todavía hay buenas noticias que celebrar!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4624 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_13fd9c94:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_] Well, what is it??"
-msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] Bueno, ¿qué es??"
+msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] Bien, ¿qué es??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4627 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_2a6cb992:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_amused_] She didn't eat {u}me{/u}!!{p}{i}Or{/i} the boxes!!"
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_amused_] No comió {u}me {/u}!!{p}{i}O {/i} las cajas!!"
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_amused_] No me comió a {u}mí{/u}!!{p} {i}O {/i} las cajas!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4630 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_9fbf8518:
 msgid "[_danny_s_at_player_s_neutral_s_talk_displeased_] I'm jumping for joy, internally, believe me..."
-msgstr "[_danny_s_at_player_s_neutral_s_talk_displeased_] Estoy saltando por alegría, internamente, créame..."
+msgstr "[_danny_s_at_player_s_neutral_s_talk_displeased_] Estoy saltando por alegría, internamente, créeme..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4633 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_4719b7ee:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] But know this, hybrid child! I also have knowledge of something else you'll be thrilled to know!"
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] ¡Pero conoce a este hibrido niño! ¡También tengo conocimiento de otra cosa que estarás encantado de saber!"
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] ¡Pero sabes que, chico hibrido! ¡También tengo conocimiento de otra cosa que estarás encantado de saber!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4636 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_5a114715:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] {i}*Sigh*{/i} You know where the dragon is?"
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] {i}*Sigh * {/i} ¿Sabes dónde está el dragón?"
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] {i}*Suspiro* {/i} ¿Sabes dónde está el dragón?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4639 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_740f1cb3:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Why yes! She hasn't left! She prefers to wander around the main Lobby of the Mall at night. You can find her there and then, package seeker!"
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] ¿Por qué sí! ¡Ella no se fue! Prepara para andar alrededor del Lobby principal del centro comercial por la noche. Usted puede encontrarla allí y luego, la búsqueda de paquetes!"
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Por qué sí! ¡Ella no se fue! Ella prefiere andar alrededor del Lobby principal del centro comercial por la noche. Puedes encontrarla allí y luego, buscar el paquete!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4642 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_987f7f51:
 msgid "[_danny_s_towards_s_angry_s_talk_displeased_] Why the heck haven't {i}you{/i} gotten the packages from her yourself?"
-msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] ¿Por qué los diablos no han obtenido los paquetes {i}?"
+msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] ¿Por qué diablos {i}tú{/i} no has obtenido los paquetes de ella?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4645 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_71fddd2c:
 msgid "[_box_ghost_s_at_player_s_sad_s_talk_frown_] I tried! But... I mean, it is rather disgusting, no? Going inside a stomach isn't really my forte,{p}{i}or{/i} my fetish..."
-msgstr "[_box_ghost_s_at_player_s_sad_s_talk_frown_] ¡Lo he intentado! Pero... Quiero decir, es bastante repugnante, ¿no? Ir dentro de un estómago no es realmente mi fortaleza,{p}{i}o{/i} mi fetich..."
+msgstr "[_box_ghost_s_at_player_s_sad_s_talk_frown_] ¡Lo he intentado! Pero... Quiero decir, es bastante repugnante. Ir dentro de un estómago no es mi fortaleza,{p}{i}o{/i}{/p} mi fetiche..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4648 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_cd92d206:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] {i}Ugh{/i}... fine. I'm not thrilled at the idea myself, but if I can possibly get that package back... sure."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] {i}Ugh{/i}... bien. No estoy encantado con la idea yo mismo, pero si es posible que pueda recuperar ese paquete... seguro."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] {i}Ugh{/i}... bien. No estoy encantado con la idea, pero si es posible que pueda recuperar ese paquete... seguro."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4651 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_882a8cb1:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] {i}Huzzah!!{/i} Just say the word when you're ready and I can let you stay behind in my shop while I close up, then you can talk to her yourself after hours!"
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] {i}Huzzah!! /i} Dile la palabra cuando estés listo y puedo dejarte quedarte atrás en mi tienda mientras me cierro ¡entonces usted puede hablar con ella después de horas!"
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] {i}Huzzah!! /i} Di cuando estés listo y podré quedarme en mi tienda encerrado, ¡entonces podrás hablar con ella!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4654 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_7288901a:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] Why do I have a feeling she's not going to wanna talk this over, reasonably?"
-msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] ¿Por qué tengo la sensación de que no va a desear hablar de esto, razonablemente?"
+msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] ¿Por qué tengo la sensación de que no va a desear hablar de esto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4657 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_d5c54e42:
 msgid "[_box_ghost_s_at_player_s_confused_s_talk_frown_] So, you ready to wait 'till the Evening?"
-msgstr "[_box_ghost_s_at_player_s_confused_s_talk_frown_] Entonces, ¿estás listo para esperar a la tarde?"
+msgstr "[_box_ghost_s_at_player_s_confused_s_talk_frown_] Entonces, ¿estás listo para esperar hasta la tarde?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4660 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_058d8fcf:
 msgid "[_danny_] (Am I ready to take on the Dragon Princess again?) [nointeract]"
-msgstr "[_danny_] (Am listo para tomar la Princesa del Dragón de nuevo?) [nointeract]"
+msgstr "[_danny_] (¿estoy listo para enfrentarme a la Princesa del Dragón otra vez?) [nointeract]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4665 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_8efbddbb:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Alrighty, I'll let you stay back here 'til close up."
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Muy bien, te dejaré volver aquí para cerrar."
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Muy bien, te dejaré estar en la parte de atrás mientras cierro."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4668 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_a204bf8b:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Hey, I know we're not like, friends or anything, but thanks for helping me out."
@@ -3722,31 +3722,31 @@ msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Hey, sé que no somos como amigo
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4671 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_47c33a8e:
 msgid "[_box_ghost_s_at_player_glare_s_angry_low_s_talk_distraught_] Helping you... HELPING YOU OUT?!"
-msgstr "[_box_ghost_s_at_player_glare_s_angry_low_s_talk_distraught_] Ayudándote... ¡HELPING YOU OUT?!"
+msgstr "[_box_ghost_s_at_player_glare_s_angry_low_s_talk_distraught_] ¿Ayudándote... ¡AYUDANDOTE?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4674 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_74909fb9:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] {i}Whoa{/i}, man! It was just a simple gesture of me saying thanks!"
-msgstr "¡[_danny_s_towards_s_sad_s_talk_distraught_] {i}Whoa{/i}, hombre! ¡Fue un simple gesto por mi parte diciendo gracias!"
+msgstr "¡[_danny_s_towards_s_sad_s_talk_distraught_] {i}Whoa{/i}, tio! ¡Fue un detalle por mi parte decirte gracias!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4677 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_20594ad9:
 msgid "[_box_ghost_s_at_player_s_angry_s_talk_frown_] Good sir! I have made a {u}solemn{/u} pledge, that all parcels sent through to me WILL BE DELIVERED! The loyal customers are who I have allied with, and always will ally with!"
-msgstr "¡[_box_ghost_s_at_player_s_angry_s_talk_frown_] Buen señor! ¡He hecho un trozo {u}de solemn{/u}, que todos los paquetes me han enviado a mi SANTE! Los clientes leales son con los que me he aliado, y siempre se aliará!"
+msgstr "¡[_box_ghost_s_at_player_s_angry_s_talk_frown_] ¡Buen dios! ¡He hecho un {u}solemne{/u} compromiso, que todos los paquetes me han enviado a mi SEAN REPARTIDOS! Los clientes leales con los que me he aliado, y siempre me aliaré!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4680 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_e802b9ad:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] {i}Uhh{/i}, cool? I mean, I was mainly saying it to just try and be nice. You're not even going to help me talk to her!"
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] {i}Uhh{/i}, ¿frío? Quiero decir, principalmente lo estaba diciendo para intentar ser bueno. ¡Ni siquiera me vas a ayudar a hablar con ella!"
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] {i}Uhh{/i}, ¿mola? ¡Quería decir principalmente que intentes ser bueno. No vas a ayudarme a hablar con ella!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4683 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_e1d1ff5d:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_frown_] {i}Bah!{/i} Just sit back here and be quiet until they shut the lights off..."
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_frown_] {i}Bahí!{/i} Simplemente siéntate aquí y mantén silencio hasta que apaguen las luces..."
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_frown_] {i}Bahí!{/i} Siéntate aquí y mantén silencio hasta que apaguen las luces..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4701 #-#-# translate crowdin A_Nightmare_Called_Ember_ep7_face_the_dragon_2f190385:
 msgid "[_box_ghost_s_at_player_s_confused_s_talk_distraught_] Oh great, take your sweet time, why don'cha! Sheesh, it's only a fire breathing dragon with all of my stuff inside it, right?{p}Fine, just come here tonight then!"
-msgstr "[_box_ghost_s_at_player_s_confused_s_talk_distraught_] Oh grande, tómate tu dulce tiempo, ¿por qué no lo haces! Bueno, solo es un dragón de respiración de fuego con todas mis cosas dentro de él, ¿no? ¡{p}Bien, entonces ¡ven aquí!"
+msgstr "[_box_ghost_s_at_player_s_confused_s_talk_distraught_] Oh grato, tómate tu dulce tiempo, ¿por qué te preocupass! es solo un dragón con aliento de fuego y con todas mis cosas dentro de él, {p}Bien{/p}, ¡solo vente por la noche!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4730 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_4db0c759:
 msgid "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Alright, looks like all the Mall guests have left. Now it's up to you to find her! Shouldn't be hard, just listen for the violent shaking of the ground and building."
-msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Muy bien, parece que todos los huéspedes del centro comercial se han ido. ¡Ahora depende de ti encontrarla! No debería ser difícil, solo escuchar la agitación violenta del suelo y el edificio."
+msgstr "[_box_ghost_s_at_player_s_neutral_s_talk_happy_] Muy bien, parece que todos los clientes del centro comercial se han ido. ¡Ahora depende de ti encontrarla! No debería ser difícil, solo escucha el temblor violento del suelo y el edificio."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4733 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_c9646eb4:
 msgid "[_danny_s_at_player_s_sad_s_talk_displeased_] Well... here we go I guess..."
@@ -3754,7 +3754,7 @@ msgstr "[_danny_s_at_player_s_sad_s_talk_displeased_] Bueno... aquí vamos supon
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4754 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_cf9d5a75:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_smile_] (Good, she's not a horrible beast just yet... and she appears to be in a good mood... this could actually go smoother than I thought!)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_smile_] (Bueno, aún no es una bestia horrible... y parece estar de buen humor... ¡esto podría ser más suave de lo que penso!)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_smile_] (Bueno, aún no es una bestia horrible... y parece estar de buen humor... ¡esto podría ser más suave de lo que pensé!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4757 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_679bf393:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Hey Princess, it's getting pretty close to midnight, shouldn't you be getting home to your wicked step mother soon?"
