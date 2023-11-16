@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-16 21:48\n"
+"PO-Revision-Date: 2023-11-16 23:16\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -5254,31 +5254,31 @@ msgstr "[_star_s_normal_s_down_s_rise_s_talk_pleased_] Tu amigo Danny {i}dijo{/i
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6577 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_1a155120:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Yeah, it's no big dea- I mean, yeah, that was nice of him, wasn't it?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Sí, no es un gran deca- Quiero decir, sí, eso era bueno de él, ¿no?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Sí, no es muy bue- Quiero decir, sí, eso fue muy bueno de su parte ¿no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6580 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_5ebdb162:
 msgid "[_star_s_normal_s_down_s_neutral_s_talk_happy_] Yeah it was. Come on hero, I want to get to the end of this little crazy date..."
-msgstr "[_star_s_normal_s_down_s_neutral_s_talk_happy_] Sí fue. Ven al héroe, quiero llegar al final de esta pequeña fecha de locura..."
+msgstr "[_star_s_normal_s_down_s_neutral_s_talk_happy_] Sí. Vamos héroe, quiero llegar al final de esta pequeña locura de cita..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6583 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_27342e7d:
 msgid "[_star_s_normal_s_down_s_neutral_s_talk_amused_s_blush_] ...cause right now I feel like letting some ghostly hands rub all over me... so let's get going!"
-msgstr "[_star_s_normal_s_down_s_neutral_s_talk_amused_s_blush_] ...causa ahora mismo la sensación de dejar que algunas manos fantasmales me froten por todo... ¡así que vamos a empezar!"
+msgstr "[_star_s_normal_s_down_s_neutral_s_talk_amused_s_blush_] ...porque ahora mismo tengo la sensación de que unas manos fantasmales me frotan por todas partes... ¡así que vámonos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6588 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_faa1a1fe:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_wondering_s_talk_pleased_] Whoa, hey, I'm coming already!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_wondering_s_talk_pleased_] ¡Vaya, hey, ya vengo!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_wondering_s_talk_pleased_] ¡Vaya, hey, ya voy!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6591 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_c6a09542:
 msgid "[_star_s_normal_s_down_s_rise_s_talk_pleased_] Oh, don't worry, you {i}will{/i} be! {u}Soon!{/u} {i}Hahaha~!{/i}"
-msgstr "[_star_s_normal_s_down_s_rise_s_talk_pleased_] Oh, no te preocupes, ¡ {i}será! ¡ {u}pronto!{/u} {i}Haha~!{/i}"
+msgstr "[_star_s_normal_s_down_s_rise_s_talk_pleased_] Oh, no te preocupes, ¡tú {i}serás{/}! ¡ {u}pronto!{/u} {i}Haha~!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6618 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_7_danny_house_evening_55d19070:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] So, this is Fenton Works! Hey, {i}uhh{/i}, let me go check inside first to speak to Danny."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] Así que, ¡esto es Fenton Works! Hey, {i}uhh {/i}, déjame ir a check-in primero para hablar con Danny."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] Así que, ¡esto es Fenton! Hey, {i}uhh {/i}, déjame ver primero dentro para hablar con Danny."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6621 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_7_danny_house_evening_0bbb9bd8:
 msgid "[_star_s_normal_s_down_s_idle_s_talk_happy_] Oh, {i}riiight{/i}, make sure the coast is clear for me. Smart."
-msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] Oh, {i}riiight{/i}, asegúrate de que la costa está limpia para mí. inteligente."
+msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] Oh, {i}bieeen{/i}, asegúrate de que la costa está limpia para mí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6629 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_7_danny_house_evening_dc9cf7cb:
 msgid "[_star_s_towards_s_rise_s_talk_displeased_] Huh... Fenton's house is actually huge. I mean, it goes past the ceiling, and into all that weird metal on the roof. I can't even see the top!"
