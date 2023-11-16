@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 17:22\n"
+"PO-Revision-Date: 2023-11-16 20:24\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -4870,23 +4870,23 @@ msgstr "[_danny_s_phantom_s_park_s_towards_s_rise_s_talk_displeased_] \"¿bonita
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6078 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_2_park_saturday_morning_6e20ee74:
 msgid "[_star_s_park_s_towards_s_rise_s_talk_happy_] Yeah, it's like the visual appetizer for showing everyone online how things are going between us."
-msgstr "[_star_s_park_s_towards_s_rise_s_talk_happy_] Sí, es como el apetitoso visual para mostrar a todos en línea cómo van las cosas entre nosotros."
+msgstr "[_star_s_park_s_towards_s_rise_s_talk_happy_] Sí, es como el aperitivo visual para mostrar a todos en línea cómo van las cosas entre nosotros."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6081 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_2_park_saturday_morning_5ffcec31:
 msgid "[_star_s_park_s_closed_s_wondering_s_talk_happy_] Now we just spend the rest of the time together showing off how much cuter and more special we are!"
-msgstr "[_star_s_park_s_closed_s_wondering_s_talk_happy_] Ahora solo pasamos el resto del tiempo juntos mostrando cuánta taza y más especial somos!"
+msgstr "[_star_s_park_s_closed_s_wondering_s_talk_happy_] ¡Ahora pasaremos el resto del tiempo juntos mostrando que lindos y especiales somos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6084 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_2_park_saturday_morning_780bd9bc:
 msgid "[_danny_s_phantom_s_park_s_down_s_unhappy_s_talk_distraught_] ...{i}greaaat{/i}... sounds like a good way to spend time together."
-msgstr "[_danny_s_phantom_s_park_s_down_s_unhappy_s_talk_distraught_] ...{i}greaat{/i}... suena como una buena manera de pasar el tiempo juntos."
+msgstr "[_danny_s_phantom_s_park_s_down_s_unhappy_s_talk_distraught_] ...{i}geniaaal{/i}... suena a una buena manera de pasar el tiempo juntos."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6087 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_2_park_saturday_morning_ff4b0e4f:
 msgid "[_star_s_park_s_towards_s_neutral_s_talk_displeased_] Come on, we gotta get a move on already! The Mall's peak lighting is only gonna be around for the next forty-five minutes!{p}Also, throw that ice cream away. I hate the smell of dairy..."
-msgstr "[_star_s_park_s_towards_s_neutral_s_talk_displeased_] Vamos, ¡ya tenemos que movernos ya! ¡La iluminación máxima de la pluma solo estará disponible durante los próximos cuarenta y cinco minutos!{p}Además, tira ese helado. Odio el olor de los productos lácteos..."
+msgstr "[_star_s_park_s_towards_s_neutral_s_talk_displeased_] Vamos, ¡tenemos que movernos ya! ¡La iluminación máxima en el centro comercial solo estará disponible durante los próximos cuarenta y cinco minutos!{p}Además{/p}, tira ese helado. Odio el olor de la leche..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6110 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_218a5fec:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ...sorry Star, can you not put the phone down for just five minutes? I'm pretty sure your followers don't need to know where we are every single second."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ... orry Star, ¿no puede poner el teléfono apagado durante sólo cinco minutos? Estoy bastante seguro de que tus seguidores no necesitan saber dónde estamos cada segundo."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ... perdon Star, ¿no puedes dejar el teléfono apagado durante sólo cinco minutos? Estoy bastante seguro de que tus seguidores no necesitan saber dónde estamos cada segundo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6113 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_3ba118f0:
 msgid "[_star_s_-cellphone_s_normal_s_towards_s_rise_s_talk_consternation_] {i}Hmph{/i}, fine. I guess I can take a short break after that last three dozen pics I took of us in AbYss."
@@ -4898,19 +4898,19 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_happy_] Enton
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6119 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_7668c8dc:
 msgid "[_star_s_normal_s_towards_s_confused_s_talk_happy_] The movies, obviously!"
-msgstr "[_star_s_normal_s_towards_s_confused_s_talk_happy_] ¡Las películas, obviamente!"
+msgstr "[_star_s_normal_s_towards_s_confused_s_talk_happy_] ¡Películas, obviamente!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6122 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_7f9d68b0:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_pleased_] Oh, really? Alright, that actually sounds fun."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_pleased_] Oh, ¿verdad? De acuerdo, eso suena divertido."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_pleased_] Oh, ¿de verdad? De acuerdo, eso suena divertido."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6125 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_0c26e619:
 msgid "[_star_s_normal_s_towards_s_sad_s_talk_happy_] Of course! What date at the Mall doesn't involve a fun movie together?"
-msgstr "[_star_s_normal_s_towards_s_sad_s_talk_happy_] ¡Por supuesto! ¿Qué fecha en el centro comercial no involucra una película divertida juntos?"
+msgstr "[_star_s_normal_s_towards_s_sad_s_talk_happy_] ¡Por supuesto! ¿Qué cita en el centro comercial no involucra una película divertida?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6128 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_eb6fcc59:
 msgid "[_star_s_normal_s_down_s_idle_s_talk_pleased_] {i}*Cough*{/i} ...mainly so I can live react to it to my hundreds of Pinstagram followers who demand my critique... {i}*Cough*{/i}"
-msgstr "[_star_s_normal_s_down_s_idle_s_talk_pleased_] {i}*Cough*{/i} ...principalmente para que pueda vivir reaccionar a ella a mis cientos de seguidores de Pinstagrama que exigen mi críquica... {i}*Cough*{/i}"
+msgstr "[_star_s_normal_s_down_s_idle_s_talk_pleased_] {i}*tos*{/i} ...principalmente para que pueda opinar a mis cientos de seguidores de Pinstagrama que exigen mi crítica... {i}*Tos*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6131 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_63227398:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_] What was that?"
@@ -4918,7 +4918,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6134 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_3_mall_morning_c3f9bd17:
 msgid "[_star_s_normal_s_at_player_wide_s_neutral_s_talk_amused_] Nothing! Now come on, silly Billy~"
-msgstr "¡[_star_s_normal_s_at_player_wide_s_neutral_s_talk_amused_] nada! Ahora venid, tonto Billy~"
+msgstr "¡[_star_s_normal_s_at_player_wide_s_neutral_s_talk_amused_] nada! Ahora ven, tonto Billy~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6153 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_4_cinema_e4849a6b:
 msgid "[_danny_s_phantom_s_cinema_s_pose2_s_towards_s_neutral_s_talk_happy_] {i}*Whispering*{/i} Wait, so I don't get it, so they're using time travel to make things go backwards, to stop things that haven't even happened yet? Man, this movie is next level stuff."
