@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-17 09:57\n"
+"PO-Revision-Date: 2023-11-17 11:53\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -5446,19 +5446,19 @@ msgstr "[_star_] Solo quítate tus pantalones y ven aquí, lindo...."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6902 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_d582ef4d:
 msgid "[_star_] Now put it in nice and gentl-{i}EEEEEEH!{/i}{p}Oh, god...~"
-msgstr "[_star_] Ahora pónla dentro y se gent-{i}EEEEEEH!{/i}{p}Oh, dios...~"
+msgstr "[_star_] Ahora ponla dentro y se gent-{i}EEEEEEH!{/i}{p}Oh, dios...~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6905 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_76ea0555:
 msgid "[_danny_] S-sorry! Did I put it in too fast?"
-msgstr "[_danny_] S-sorry! ¿Me lo puse demasiado rápido?"
+msgstr "[_danny_] P-perdon! ¿La metí demasiado rápido?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6908 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_865d733e:
 msgid "[_star_] It's- {i}ah!{/i} ...fine, j-just... try a little slower next time, 'kay? Give me a chance to.... {i}mmmm{/i}... adjust myself a bit first."
-msgstr "[_star_] ¡Listo- {i}ah!{/i} ...bueno, j-just... prueba un poco más lento la próxima vez, 'kay? Dame la oportunidad de.... {i}mmm{/i}... ajústame un poco primero."
+msgstr "[_star_] ¡está- {i}ah!{/i} ...bien, s-solo... intenta ir un poco más lento la próxima vez, ¿'kay? Dame la oportunidad de.... {i}mmm{/i}... acostumbrarme un poco primero."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6911 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_bc63f0a4:
 msgid "[_danny_] Alright... {i}mmph{/i}... izzat' better?"
-msgstr "[_danny_] Bien... {i}mmph{/i}... ¿mejor izzat?"
+msgstr "[_danny_] Bien... {i}mmph{/i}... ¿mejor?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6914 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_3d8e62fa:
 msgid "[_star_] {i}Mmm{/i}, yeah, that's it... you can go a little faster now."
@@ -5466,23 +5466,23 @@ msgstr "[_star_] {i}Mmm{/i}, sí, eso... ahora puedes ir un poco más rápido."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6931 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_c9cf5eef:
 msgid "[_danny_] {i}*Huff*{/i} Star... your butt is so soft... {i}*Nnfh*{/i} ...soft to squeeze."
-msgstr "[_danny_] {i}*Estrella Huff*{/i}... tu perro es tan suave... {i}*Nnfh*{/i} ...suaves de apretar."
+msgstr "[_danny_] {i}*Huff*{/i} Star... tu culo és tan suave... {i}*Nnfh*{/i} ...suave de follar."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6934 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_36b65bbf:
 msgid "[_star_] {i}Mmmmmm{/i}, ohh Billy... you know all the right things to say to a girl."
-msgstr "[_star_] {i}Mmmmm{/i}, ohh Billy... sabes todas las cosas correctas para decir a una chica."
+msgstr "[_star_] {i}Mmmmm{/i}, ohh Billy... sabes bien que decir a una chica."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6937 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_fcee6eb8:
 msgid "[_star_] {i}Ah!{/i} Yes... that's it! Move it in, just like that!"
-msgstr "[_star_] {i}¡Ah!{/i} ¡Sí! ¡Muévelo adentro!"
+msgstr "[_star_] {i}¡Ah!{/i} ¡Sí! ¡Muévela adentro, así como lo haces!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6940 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_128b87d8:
 msgid "[_star_] Oh, {i}fuck!{/i} You're so big, Billy... it's so good..."
-msgstr "[_star_] Oh, {i}fuck!{/i} Eres tan grande, Billy... es tan bueno..."
+msgstr "[_star_] Oh, {i}fuck!{/i} Es tan grande, Billy... es tan buena..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6943 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_789fefb4:
 msgid "[_star_] {i}Ah!{/i} Tell me I'm better than the others!"
-msgstr "[_star_] {i}¡Ah!{/i} ¡Cuéntame que soy mejor que los demás!"
+msgstr "[_star_] {i}¡Ah!{/i} ¡Dime que soy mejor que las demás!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6946 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_6a67bf7d:
 msgid "[_danny_] H-huh?"
@@ -5490,35 +5490,35 @@ msgstr "¿[_danny_]¿ H-huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6949 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_0d2da9a7:
 msgid "[_star_] Just do it! Tell me my pussy's better than any other girl's in this town!"
-msgstr "[_star_] ¡Solo hazlo! ¡Dime que mi coño es mejor que cualquier otra jinete en esta ciudad!"
+msgstr "[_star_] ¡Solo hazlo! ¡Dime que mi coño es mejor que cualquier otra chica de esta ciudad!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6952 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_42ff82ea:
 msgid "[_danny_] Y-your, uhm... {i}*Mmph*{/i} ...your pussy is... {i}*Phew!*{/i} ...way better than any of the other girls'!."
-msgstr "[_danny_] Y-tu, uhm... {i}*Mf*{/i} ...tu coño es... {i}*¡Phew!*{/i} ...mejor que ninguna de las otras chicas'!."
+msgstr "[_danny_] t-tu, uhm... {i}*Mmphf*{/i} ...tu coño és... {i}*¡Phew!*{/i} ...mejor que ninguna otra chica!."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6955 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_a7014142:
 msgid "[_star_] {i}Oooooooh,{/i} fuck... damn, I love hearing you tell me that!"
-msgstr "[_star_] {i}Oooooh,{/i} fuck... maldita, ¡me encanta oírme decirme eso!"
+msgstr "[_star_] {i}Oooooh,{/i} joder... maldición, ¡me encanta oír eso!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6958 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_ffd3441b:
 msgid "[_danny_] {i}Ah!{/i} You're really tightening up Star, are you already-"
-msgstr "[_danny_] {i}Ah!{/i} Realmente estás apretando Estrellas, ya estás-"
+msgstr "[_danny_] {i}Ah!{/i} Estás apretando Star, estás cerca-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6961 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_8cc53e10:
 msgid "[_star_] D-don't stop! Fuck my sweet little pussy, please!"
-msgstr "[_star_] ¡No se detienes! ¡Felga mi pequeño coño dulce, por favor!"
+msgstr "[_star_] ¡N-no te detengas! ¡Folla mi dulce coño, por favor!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6964 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_4d7c9337:
 msgid "[_star_] Squeeze my ass! Harder!!"
-msgstr "[_star_] ¡Correr mi culo! ¡Harder!!"
+msgstr "[_star_] ¡Rompe mi culo! ¡dame duro!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6967 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_26b80a64:
 msgid "[_danny_] S-Star, how are you holding on from-"
-msgstr "[_danny_] Estrella S,¿cómo se sostiene en-"
+msgstr "[_danny_] S-Star,¿cómo aguantas tan-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6970 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_9905a8bb:
 msgid "[_star_] {i}Mmmmmmmm!{/i} I'm... I'm..."
-msgstr "[_star_] {i}Mmmmmmmmmm!{/i} I'm... Yo..."
+msgstr "[_star_] {i}Mmmmmmmmmm!{/i} Yo soy, yo soy..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6973 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_41b4b1cd:
 msgid "[_star_] {i}...ahhhhh~!!{/i}"
@@ -5526,75 +5526,75 @@ msgstr "[_star_] {i}...ahhhhh~!!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6976 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_c7b624e2:
 msgid "[_star_] Oh fuck... I just came... {i}*Phew!*{/i}{p}...God... I just came in that nerd Fenton's room... unbelievable..."
-msgstr "[_star_] Oh fuck... Acabo de llegar... {i}*¡Phew!*{/i}{p}...Dios... Acabo de entrar en la habitación de Fenton... increíble..."
+msgstr "[_star_] Oh fuck... me corrí... {i}*¡Phew!*{/i}{p}...Dios... me he corrido en la habitación de Fenton... increíble..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6979 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_596d824f:
 msgid "[_danny_] Yeah? You like it that we're making a sex filled racket in his room, huh?"
-msgstr "[_danny_] ¿Si? Te gusta que estemos haciendo una cancha llena de sexo en su habitación, ¿verdad?"
+msgstr "[_danny_] ¿Si? Te gusta que estemos haciendo una sesión de sexo en su habitación, ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6982 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_a61a7bfd:
 msgid "[_star_] Yeah! I love taking advantage of your friendship with him, Billy! Fucking in the place he sleeps at night!{p}It's {i}suuuch{/i} a turn on!!"
-msgstr "[_star_] ¡Sí! Me encanta aprovechar tu amistad con él, ¡Billy! ¡{p}es {i}suuch{/i} un giro!!"
+msgstr "[_star_] ¡Sí! Me encanta aprovecharme de su amistad con él, ¡Billy! ¡follando en el lugar donde duerme por las noches! ¡¡{p}es{/p} {i}super{/i} morboso!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6985 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_73cc3b47:
 msgid "[_danny_] (She likes getting off on humiliating Danny Fenton, huh? Well, his ol' pal Billy doesn't quite like that! Time to finish her off!)"
-msgstr "[_danny_] (Le gusta bajarse humillando a Danny Fenton, ¿eh? Bueno, el amigo de su viejo no le gusta eso! ¡Es hora de terminarla!)"
+msgstr "[_danny_] (Le gusta humillar a Danny Fenton, ¿eh? Bueno, a su amigo Billy no le importa porque la está utilizando a ella! ¡Es hora de acabar!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6988 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_1c29ad7a:
 msgid "[_danny_] Okay, get ready, cause I'm gonna push myself over the edge too! "
-msgstr "[_danny_] Vale, prepárense porque también me voy a empujar sobre el borde! "
+msgstr "[_danny_] Vale, prepárate porque voy a metértela hasta los huevos! "
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6991 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_47be0dde:
 msgid "[_star_] P-push y-yourself over th- WAIT, does that mean you're gonna-"
-msgstr "[_star_] P-push y-yourself over th- WAIT, does that mean you gonna-"
+msgstr "[_star_] M-meterla hasta los huevos- ESPERA, eso significa que vas a-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7004 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_5230a7e9:
 msgid "[_star_] OH. MY. {u}GODDDDD!!!{/u}"
-msgstr "[_star_] OH. MY. {u}GODDDDD!!!{/u}"
+msgstr "[_star_] OH. {u}¡¡¡DIOOOOOOSSS!!!{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7007 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_a7fca311:
 msgid "[_danny_] {i}Ah!{/i} I'm going to cum, Star!"
-msgstr "[_danny_] {i}¡Ah!{/i} ¡Voy a cum, estrella!"
+msgstr "[_danny_] {i}¡Ah!{/i} ¡Me voy a correr, Star!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7010 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_f86382c9:
 msgid "[_star_] {i}AHHHH~!!{/i} It's like... like a mini-orgasm with every thrust!"
-msgstr "[_star_] {i}AHHHH~!!{/i} Es así... como un mini orgasmo con cada impulso!"
+msgstr "[_star_] {i}AHHHH~!!{/i} Tengo... tengo un mini orgasmo con cada impulso!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7013 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_50270559:
 msgid "[_star_] Do it Billy! Fill me!! Fill me up with that cum!"
-msgstr "¡[_star_] Hazlo Billy! ¡Relléname!! ¡Relléname con esa espera!"
+msgstr "¡[_star_] Hazlo Billy! ¡Lléname!! ¡Lléname con tu leche!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7016 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_12f33ef6:
 msgid "[_danny_] I'm CUMMING!"
-msgstr "[_danny_] ¡Soy CUMING!"
+msgstr "[_danny_] ¡Me COOORROOOOOO!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7019 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_ac413eba:
 msgid "[_star_] {i}Yessss!!{/i}"
-msgstr "[_star_] {i}Yessss!!{/i}"
+msgstr "[_star_] {i}¡¡Siiiiiiiiii!!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7032 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_c6bba86c:
 msgid "[_danny_] Oh my God... that felt amazing."
-msgstr "[_danny_] Oh mi Dios... eso se sintió increíble."
+msgstr "[_danny_] Oh mi Dios... fue increíble."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7035 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_a63b6d4d:
 msgid "[_star_] I know... it always does with me... {i}heh{/i}..."
-msgstr "[_star_] Lo soy... siempre lo hace conmigo... {i}hh{/i}..."
+msgstr "[_star_] Lo sé... siempre lo és conmigo... {i}heh{/i}..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7038 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_c24c1a96:
 msgid "[_danny_] No, seriously, that was awesome. It feels so good having this much strength for that kinda pose..."
-msgstr "[_danny_] No, en serio, eso fue increíble. Es tan bueno tener tanta fuerza para esa posición..."
+msgstr "[_danny_] No, en serio, fue increíble. Se disfruta tope en esa posición..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7041 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_825887b0:
 msgid "[_star_] That's great babe... now can you kindly pull your dick out of me please? I'm on the Pill, but there's no need to let it simmer. {i}*Giggles*{/i}"
-msgstr "[_star_] Eso es un gran babe ... ahora puede usted amablemente sacar su polla fuera de mí por favor? Estoy en el Pill, pero no hay necesidad de dejarlo simmer. {i}*Giggles * {/i}"
+msgstr "[_star_] Eso es fabuloso bebe... podrías amablemente sacar tu polla fuera de mí por favor? Estoy en la píldora, pero no hay necesidad de dejarla dentro. {i}*Risas* {/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7044 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_bffb0141:
 msgid "[_danny_] Oh y-yeah, sorry."
-msgstr "[_danny_] Oh y-sí, lo sentimos."
+msgstr "[_danny_] Oh s-sí, lo siento."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7073 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_04f24f7a:
 msgid "[_star_s_normal_s_down_s_idle_s_talk_happy_] Well, thanks for showing a girl a hell of a good time today."
-msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] Bueno, gracias por mostrar a una chica un infierno de un buen momento hoy."
+msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] Bueno, gracias por mostrar a una chica el cielo en esta buen día."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7076 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_827e4aba:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] Yeah, no problem...{p}{nw}"
@@ -5602,23 +5602,23 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] Sí, no
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7079 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_7ac66893:
 msgid "[_extend_] ...uh, hey, you're not still mad about earlier? I thought you might wanna talk about-"
-msgstr "[_extend_] ...uh, hey, ¿aún no estás loco de antes? Pensé que podrías hablar de-"
+msgstr "[_extend_] ...uh, ¿no estás enojada por lo de antes? Pensé que tal vez quisieras hablar de-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7082 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_862cce0a:
 msgid "[_star_s_normal_s_down_s_confused_s_talk_displeased_] {i}Ehhh{/i}, not really, I mean... I'm still not quite sure where to take things from here, honestly, but..."
-msgstr "[_star_s_normal_s_down_s_confused_s_talk_displeased_] {i}Ehhh{/i}, no en realidad, quiero decir... todavía no estoy seguro de dónde tomar las cosas de aquí, sinceramente, pero..."
+msgstr "[_star_s_normal_s_down_s_confused_s_talk_displeased_] {i}Ehhh{/i}, no en realidad, quiero decir... todavía no estoy segura de que hacer sinceramente, pero..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7085 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_a7451730:
 msgid "[_star_s_normal_s_down_s_rise_s_talk_happy_s_blush_] I- {i}*Ahem*{/i} ...I suppose at least calling you my actual {b}boyfriend{/b} could come with some good publicity."
-msgstr "[_star_s_normal_s_down_s_rise_s_talk_happy_s_blush_] I- {i}*Ahem*{/i} ...Supongo que al menos llamarte mi verdadero amigo {b}podría venir con una buena publicidad."
+msgstr "[_star_s_normal_s_down_s_rise_s_talk_happy_s_blush_] I- {i}*Ahem*{/i} ...Supongo que llamarte mi {b}novio{/b} podría ser una buena publicidad."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7088 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_4a247cfa:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_displeased_] Boyfriend? Wait what, I didn't-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_displeased_] ¿novio? Esperar lo que, yo no-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_displeased_] ¿novio? Espera, espera, yo no-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7091 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_4f7e8f42:
 msgid "[_star_s_normal_s_down_s_sad_s_talk_pleased_s_blush_] {i}Shhh{/i}, hey, hey, {i}relaaaax{/i}. Trust me Billy, you're so much cuter when you let me take the lead on this kinda stuff."
-msgstr "[_star_s_normal_s_down_s_sad_s_talk_pleased_s_blush_] {i}Shhh{/i}, hey, hey, {i}Textaaax{/i}. Confía en mí, eres mucho más lindo cuando me dejas tomar la iniciativa en este tipo de cosas."
+msgstr "[_star_s_normal_s_down_s_sad_s_talk_pleased_s_blush_] {i}Shhh{/i}, hey, hey, {i}calmaaaa{/i}. Confía en mí Billy, estas mucho más lindo cuando me dejas tomar la iniciativa en este tipo de cosas."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7094 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_caba0a9d:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_smile_] ..."
@@ -5626,7 +5626,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_smile_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7097 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_ec05de2b:
 msgid "[_star_s_normal_s_closed_s_neutral_s_talk_amused_] By the way, enjoy the video I'm gonna send you later!"
-msgstr "[_star_s_normal_s_closed_s_neutral_s_talk_amused_] Por cierto, ¡disfruta del vídeo que te voy a enviar más tarde!"
+msgstr "[_star_s_normal_s_closed_s_neutral_s_talk_amused_] Por cierto, ¡disfruta del vídeo que enviaré más tarde!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7100 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_117b735e:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_distraught_] Video? What video-"
@@ -5634,11 +5634,11 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_distraught_] ¿V
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7104 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_7793964e:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_s_blush_] Wait... DID YOU RECORD US HAVING SEX?!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_s_blush_] Espere... ¡DID QUE RECORDOS QUE HAYA SEX?!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_s_blush_] Espera... ¡NOS HAS GRABABADO FOLLANDO?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7107 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_7831daf7:
 msgid "[_star_s_normal_s_down_s_confused_s_talk_pleased_] Duh, gotta bait my OnlySimps followers with the premium content somehow!"
-msgstr "[_star_s_normal_s_down_s_confused_s_talk_pleased_] Duh, ¡cebar a mis seguidores de OnlySimps con el contenido premium de alguna manera!"
+msgstr "[_star_s_normal_s_down_s_confused_s_talk_pleased_] Duh, ¡cebará a mis seguidores de con el contenido premium!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7110 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_7bdbaa74:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_s_-blush_] But I didn't-"
@@ -5646,19 +5646,19 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_s_
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7113 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_8244c1ec:
 msgid "[_star_s_normal_s_down_s_wondering_s_talk_displeased_] Oh hush, I'm gonna blur our faces in post, and my real life identity isn't out there online like that. Public reputation and all that... I'll just say you're albino and like to wear latex or something."
-msgstr "[_star_s_normal_s_down_s_wondering_s_talk_displeased_] Oh hush, soy gonna desenfocar nuestras caras en el correo postal, y mi identidad de la vida real no está ahí fuera en línea así. La reputación pública y todo eso... Sólo diré que eres albino y te gusta llevar látex o algo."
+msgstr "[_star_s_normal_s_down_s_wondering_s_talk_displeased_] Oh, voy a desenfocar nuestras caras, y mi identidad de la vida real no estará en riesgo. La reputación pública y todo eso... Sólo diré que eres albino y te gusta llevar látex o algo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7118 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_8a4a3738:
 msgid "[_star_s_normal_s_down_s_wondering_s_talk_amused_] Gotta go now! Buh-bye, {u}boyfriend{/u}! {i}Haha!{/i}"
-msgstr "[_star_s_normal_s_down_s_wondering_s_talk_amused_] ¡Gotta ve ahora! ¡Buh-bye, {u}boyfriend{/u}! {i}Haha!{/i}"
+msgstr "[_star_s_normal_s_down_s_wondering_s_talk_amused_] ¡Ahora me voy! ¡Ad-adios, {u}novio{/u}! {i}Ha ha!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7123 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_9b32c48f:
 msgid "[_star_s_normal_s_down_s_angry_s_talk_happy_] Oh man, I can't wait to rub this news in Paulina's face!"
-msgstr "[_star_s_normal_s_down_s_angry_s_talk_happy_] ¡Oh hombre, no puedo esperar para frotar esta noticia en la cara de Paulina!"
+msgstr "[_star_s_normal_s_down_s_angry_s_talk_happy_] ¡Oh tio, no puedo esperar para restregar esta noticia en la cara de Paulina!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7126 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_9580e9e5:
 msgid "[_star_s_normal_s_down_s_idle_s_talk_happy_] ...oh, and tell Danny I said thanks for the space to bust my beautiful nut in. He can bask in the glory of knowing a girl did in fact achieve an orgasm in his room! For once!"
-msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] ...oh, y le dije a Danny que agradecí el espacio para aplastar mi hermosa nuez dentro. ¡Él puede disfrutar en la gloria de saber que una chica consiguió de hecho un orgasmo en su habitación!"
+msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] ...oh, y le dije a Danny que agradezco el espacio para rascarme el higo. ¡Él puede disfrutar en la gloria de saber que una chica consiguió tubo un orgasmo en su habitación!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7133 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_3fef858b:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_displeased_] ..."
@@ -5666,27 +5666,27 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_displeased_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7135 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_8e6c816f:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...what. The heck. Just happened?!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...¿Qué. El heck. ¿Acabo de pasar?!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...¿Qué. cojones? ¿ha sucedido?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7137 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_2af8e25e:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Star is so weird. I mean, I'm almost glad she's at least consistent in her craziness, but...{p}...and now, I'm her... boyfriend, I guess?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Star es tan extraño. Quiero decir, estoy casi contenta de que ella sea al menos consistente en su locura, pero ...{p}... y ahora, yo soy su ... novio, supongo?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Star es tan extraña. Quiero decir, estoy casi contento de que ella tenga planes con su locura, pero... {p}... y ahora{/p}, yo soy su... novio, ¿no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7139 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_a7b402cf:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_talk_displeased_] Or, at least Inviso-Bill is. Is she seriously gonna spread that around now? Great..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_talk_displeased_] O, al menos Inviso-Bill lo es. ¿Ella se lo va a difundir en serio ahora? Genial..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_talk_displeased_] O, al menos Inviso-Bill lo es. ¿Ella lo va a difundir en serio? Genial..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7141 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_1cc047da:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Well, I guess I've got my first part of the Orgone boost I'll need, which is good...{p}but I think this just brought on a whole lot more trouble than I was expecting..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Bueno, supongo que tengo mi primera parte del impulso de Orgone que necesitaré, lo cual es bueno. .{p}, pero creo que esto ha traído mucho más problema de lo que esperaba..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Bueno, supongo que tengo el Orgone que necesitaré, lo cual es bueno...{p} pero{/p} creo que esto ha traído mucho más problema de los que esperaba..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7159 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_orgone_choice_1_e40ae8f4:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] Well, if I've got a choice in the matter, it oughta be my dream girl, right?"
-msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] Bueno, si tengo una elección en el asunto, debería ser mi niña de sueño, ¿verdad?"
+msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] Bueno, si tengo una elección en el asunto, debería ser la chica de mis sueños, ¿o no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7161 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_orgone_choice_1_8aa12d83:
 msgid "[_danny_s_down_s_neutral_s_talk_happy_] I'll just use my PDA to get in touch with her as Inviso-Bill."
-msgstr "[_danny_s_down_s_neutral_s_talk_happy_] Solo utilizaré mi PDA para ponerse en contacto con ella como Inviso-Bill."
+msgstr "[_danny_s_down_s_neutral_s_talk_happy_] Utilizaré mi PDA para ponerse en contacto con ella como Inviso-Bill."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7178 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_76b2fe88:
 msgid "[nvl_clear]"
@@ -5694,11 +5694,11 @@ msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7182 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_0ce5950d:
 msgid "[_billspook_] Hey Paulina, it's Billy, the Ghost Boy."
-msgstr "[_billspook_] Hey Paulina, es Billy, el Fantasma Boy."
+msgstr "[_billspook_] Hey Paulina, soy Billy, el chico fantasma."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7185 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_14e84e29:
 msgid "[_paulinaspook_] Oh, hey, how are you!! I'm so glad to hear from you!"
-msgstr "[_paulinaspook_] Oh, hey, ¿cómo estás!! ¡Me alegra mucho escuchar de ti!"
+msgstr "[_paulinaspook_] Oh, hey, ¿cómo estás!! ¡Me alegra mucho de leerte!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7188 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_cca6a0b9:
 msgid "[_billspook_] Good, thanks for asking.{p}Hey, I really need your help with something, if you don't mind."
