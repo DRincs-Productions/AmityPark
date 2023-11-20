@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-17 11:53\n"
+"PO-Revision-Date: 2023-11-20 21:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -5658,7 +5658,7 @@ msgstr "[_star_s_normal_s_down_s_angry_s_talk_happy_] ¡Oh tio, no puedo esperar
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7126 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_9580e9e5:
 msgid "[_star_s_normal_s_down_s_idle_s_talk_happy_] ...oh, and tell Danny I said thanks for the space to bust my beautiful nut in. He can bask in the glory of knowing a girl did in fact achieve an orgasm in his room! For once!"
-msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] ...oh, y le dije a Danny que agradezco el espacio para rascarme el higo. ¡Él puede disfrutar en la gloria de saber que una chica consiguió tubo un orgasmo en su habitación!"
+msgstr "[_star_s_normal_s_down_s_idle_s_talk_happy_] ...oh, y le dile a Danny que agradezco el espacio para rascarme el higo. ¡Él puede disfrutar en la gloria de saber que una chica tubo un orgasmo en su habitación!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7133 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_3fef858b:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_displeased_] ..."
@@ -5666,11 +5666,11 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_displeased_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7135 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_8e6c816f:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...what. The heck. Just happened?!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...¿Qué. cojones? ¿ha sucedido?!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...qué. cojones. ¡¿ha sido real?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7137 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_2af8e25e:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Star is so weird. I mean, I'm almost glad she's at least consistent in her craziness, but...{p}...and now, I'm her... boyfriend, I guess?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Star es tan extraña. Quiero decir, estoy casi contento de que ella tenga planes con su locura, pero... {p}... y ahora{/p}, yo soy su... novio, ¿no?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Star es tan extraña. Quiero decir, estoy contento de que ella tenga planes con su locura, pero... {p}... ahora{/p}, yo soy su... novio, ¿no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7139 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_a7b402cf:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_talk_displeased_] Or, at least Inviso-Bill is. Is she seriously gonna spread that around now? Great..."
@@ -5678,15 +5678,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_talk_displeased_] O, 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7141 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_1cc047da:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Well, I guess I've got my first part of the Orgone boost I'll need, which is good...{p}but I think this just brought on a whole lot more trouble than I was expecting..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Bueno, supongo que tengo el Orgone que necesitaré, lo cual es bueno...{p} pero{/p} creo que esto ha traído mucho más problema de los que esperaba..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Bueno, supongo que tengo el Orgone que necesitaré, lo cual es bueno...{p} pero{/p} creo que esto ha traído muchos más problemas de los que esperaba..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7159 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_orgone_choice_1_e40ae8f4:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] Well, if I've got a choice in the matter, it oughta be my dream girl, right?"
-msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] Bueno, si tengo una elección en el asunto, debería ser la chica de mis sueños, ¿o no?"
+msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] Bueno, si tengo la oportunidad, ¿debería coger a la chica de mis sueños?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7161 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_orgone_choice_1_8aa12d83:
 msgid "[_danny_s_down_s_neutral_s_talk_happy_] I'll just use my PDA to get in touch with her as Inviso-Bill."
-msgstr "[_danny_s_down_s_neutral_s_talk_happy_] Utilizaré mi PDA para ponerse en contacto con ella como Inviso-Bill."
+msgstr "[_danny_s_down_s_neutral_s_talk_happy_] Utilizaré mi PDA para ponerme en contacto con ella como Inviso-Bill."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7178 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_76b2fe88:
 msgid "[nvl_clear]"
@@ -5698,15 +5698,15 @@ msgstr "[_billspook_] Hey Paulina, soy Billy, el chico fantasma."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7185 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_14e84e29:
 msgid "[_paulinaspook_] Oh, hey, how are you!! I'm so glad to hear from you!"
-msgstr "[_paulinaspook_] Oh, hey, ¿cómo estás!! ¡Me alegra mucho de leerte!"
+msgstr "[_paulinaspook_] Oh, hey, ¡¡¿cómo estás?!! ¡Me alegra mucho de me escribas!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7188 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_cca6a0b9:
 msgid "[_billspook_] Good, thanks for asking.{p}Hey, I really need your help with something, if you don't mind."
-msgstr "[_billspook_] Bueno, gracias por preguntar.{p}Ey, realmente necesito tu ayuda con algo, si no te importa."
+msgstr "[_billspook_] Bueno, gracias por el cumplido.{p}Ey{/p}, necesito tu ayuda con algo si no te importa."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7191 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_dd92fea1:
 msgid "[_paulinaspook_] Sure, is everything ok tho?"
-msgstr "[_paulinaspook_] Seguro, ¿está todo bien así?"
+msgstr "[_paulinaspook_] Claro, ¿va todo bien?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7194 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_e269aff1:
 msgid "[_billspook_] Yeah, it's fine, I'd just like to maybe hang out together? Is there a time that's good for you?"
