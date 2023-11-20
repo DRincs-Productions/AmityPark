@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-20 21:06\n"
+"PO-Revision-Date: 2023-11-20 22:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -5710,147 +5710,147 @@ msgstr "[_paulinaspook_] Claro, ¿va todo bien?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7194 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_e269aff1:
 msgid "[_billspook_] Yeah, it's fine, I'd just like to maybe hang out together? Is there a time that's good for you?"
-msgstr "[_billspook_] Sí, está bien, solo me gustaría pasar el rato juntos? ¿Hay un momento que sea bueno para ti?"
+msgstr "[_billspook_] Sí, está bien, solo me gustaría pasar el rato juntos. ¿Tienes un rato que te vaya bien?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7197 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_e6338978:
 msgid "[_paulinaspook_] Oh! Well I'm free tomorrow?? We could meet at the Park if you want :)"
-msgstr "[_paulinaspook_] ¡Oh! ¿Bueno soy gratis para mañana?? Podríamos reunirnos en el Parque si lo desea :)"
+msgstr "[_paulinaspook_] ¡Oh! Bueno ¿¿estoy libre mañana?? Podríamos reunirnos en el Parque si quieres :)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7200 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_05c2e99f:
 msgid "[_billspook_] That'd be awesome. I'll see you in the {b}afternoon{/b} then?"
-msgstr "[_billspook_] Eso sería increíble. ¿Te veré en la {b}por la tarde{/b} entonces?"
+msgstr "[_billspook_] Eso sería fenómeno. ¿Te veo por la {b}tarde{/b}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7202 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_c8e3c077:
 msgid "[_paulinaspook_] I will be there! Not a problem!! See ya later Billy!! :)"
-msgstr "[_paulinaspook_] ¡Estaré allí! ¡No es un problema!! ¡Mira más tarde Billy!! :)"
+msgstr "[_paulinaspook_] ¡¡Allí estaré! ¡¡Sin problemas!! ¡¡Nos vemos Billy!! :)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7208 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_221114a4:
 msgid "[_danny_s_at_player_s_wondering_s_grin_] (Great, that worked out pretty well. Hopefully, scoring with the most popular girl in school will be a breeze!)"
-msgstr "[_danny_s_at_player_s_wondering_s_grin_] (Genial, eso funcionó bastante bien. Esperemos que anotar con la chica más popular en la escuela sea una brisa!)"
+msgstr "[_danny_s_at_player_s_wondering_s_grin_] (Genial, funcionó bastante bien. Espero que ganar interés de la chica más popular de la escuela sea tan fácil como silbar!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7234 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_91d5a862:
 msgid "[_paulina_s_normal_s_towards_s_neutral_s_talk_pleased_] Hey, you're here! You really came!"
-msgstr "[_paulina_s_normal_s_towards_s_neutral_s_talk_pleased_] ¡Eh, estás aquí! ¡Has venido!"
+msgstr "[_paulina_s_normal_s_towards_s_neutral_s_talk_pleased_] ¡Hey, estás aquí! ¡Has venido de verdad!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7237 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_15b424c7:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] So did you! I appreciate it Paulina, thanks for responding so quickly."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] ¡Así lo hizo! Lo aprecio Paulina, gracias por responder tan rápidamente."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] ¡Viniste! Lo aprecio mucho Paulina, gracias por responder tan rápidamente."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7240 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_66ce4971:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Totally, but if you don't mind me asking, why'd you wanna meet up again? You didn't give a lot of details as to our little {i}rendezvous{/i}, Ghost Boy."
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Totalmente, pero si no te importa preguntarme, ¿por qué quieres reunirte de nuevo? No has dado muchos detalles en cuanto a nuestra pequeña cita de {i}{/i}, Ghost Boy."
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] De nada. Si no te importa preguntar, ¿por qué quieres verme otra vez? No has dado muchos detalles en cuanto a nuestra pequeña {i}cita{/i}, Chico fantasma."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7243 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_275e70ca:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] It's, uh... a bit complicated, I'll be honest."
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] Es, uh ... un poco complicado, voy a ser honesto."
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] Es, uh... és un poco complicado, seré honesto."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7246 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_9cbf289d:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_displeased_] Well just explain it to me, I'm not a {i}total{/i} idiot, ya' know."
-msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_displeased_] Bueno, simplemente explíqueme que no soy un idiota {i}total{/i}, sé."
+msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_displeased_] Bueno, explícate que no soy una {i}total{/i} idiota, sabes."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7249 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_ee0121e2:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] ...well, ya' see, there's... I kinda needed...{p}...I just wanted to spend some time with you is all?{p}All this rough and tumble ghost fighting lately has really just been wearing me out."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] ...bueno, ya' ver, no... Me necesito ...{p}... sólo quería pasar algo de tiempo con usted es todo?{p}Todo este brutal y tumble fantasma luchando últimamente me acaba de llevarme fuera."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] ...bueno, yo' verás, hay... necesito ...{p}... sólo{/p} quería ¿pasar algo de tiempo contigo?{p} Todo{/p} esos fantasmas brutos y las luchas me han tenido agotado últimamente."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7252 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_c55463bb:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] But I thought you were an amazing superhero who could handle any mean ghosty bad guys no problem, no?"
-msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Pero pensé que eres un superhéroe asombroso que podría manejar a cualquier tipo malo fantasma sin problema, ¿no?"
+msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Pensaba que eras un superhéroe asombroso que podía manejar a cualquier tipo fantasma sin problema, ¿o no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7255 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_f910e6f9:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] Well, kinda, but this new ghost I'm up against, they're the strongest one I've faced yet."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] Bueno, bueno, bueno, pero este nuevo fantasma estoy en contra, son el más fuerte al que me enfrenté aún."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] Bueno, bueno, bueno, hay un nuevo fantasma que és más poderoso que ningún otro que haya visto antes."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7258 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_ed967b4a:
 msgid "[_paulina_s_normal_s_towards_s_wondering_s_talk_consternation_] {i}*Gasp*{/i} So in case you don't survive your next battle, you wanted to spend your last few hours in a somewhat semi-corporeal form with {u}me{/u}??"
-msgstr "[_paulina_s_normal_s_towards_s_wondering_s_talk_consternation_] {i}*Gasp * {/i} Así que en caso de que no sobrevivas a tu próxima batalla, querías pasar tus últimas horas en una forma algo semi-corpórea con {u}me {/u}??"
+msgstr "[_paulina_s_normal_s_towards_s_wondering_s_talk_consternation_] {i}*jadeo * {/i} ¿¿y en caso de que no sobrevivas a tu próxima batalla querías pasar tus últimas horas en una forma algo semi-corpórea {u}conmigo{/u}??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7261 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_60bc64bf:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] Well-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] bien-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] bueno-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7264 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_f75b560f:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_amused_] That is {i}sooooo{/i} romantic!"
-msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_amused_] Eso es {i}sooooo {/i} romántico!"
+msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_amused_] ¡Eso es {i}muyyy {/i} romántico!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7267 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_3ef20354:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_wide_s_neutral_s_talk_happy_] ...oh, yeah, that was {i}exactly{/i} what I wanted to have happen, yeup."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_wide_s_neutral_s_talk_happy_] ...oh, sí, eso fue {i}exactamente{/i} lo que quería haber sucedido, siento."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_wide_s_neutral_s_talk_happy_] ...oh, sí, eso era {i}exactamente{/i} lo que tenía pensado."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7270 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_275ccd11:
 msgid "[_paulina_s_normal_s_closed_s_idle_s_talk_happy_] {i}Nawww{/i}, you're so sweet Ghost Boy..."
-msgstr "[_paulina_s_normal_s_closed_s_idle_s_talk_happy_] {i}Nawww{/i}, eres tan dulce Ghost Boy..."
+msgstr "[_paulina_s_normal_s_closed_s_idle_s_talk_happy_] {i}Nawww{/i}, eres tan dulce chico fantasma..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7273 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_e46c82e4:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] So, how should we spend our time together? Go to the Mall maybe, catch a movie to watch-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Entonces, ¿cómo deberíamos pasar nuestro tiempo juntos? Ve al centro comercial, tal vez, atrapa una película para ver-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Entonces, ¿cómo pasaremos nuestro tiempo juntos? Ir al centro comercial, tal vez, coger una película para ver-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7276 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_77cb2fad:
 msgid "[_paulina_s_normal_s_towards_s_angry_s_talk_amused_] Let's break into my school together!"
-msgstr "[_paulina_s_normal_s_towards_s_angry_s_talk_amused_] ¡Vamos juntos a mi escuela!"
+msgstr "[_paulina_s_normal_s_towards_s_angry_s_talk_amused_] ¡Ir juntos a mi escuela!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7279 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_758eba9a:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ...or commit breaking and entering, just the sort've intimate getaway I would've imagined you suggesting."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ...o comete a romper y entrar, solo la escapada íntima que me hubiera imaginado sugerir."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ...nada complicado, solo quería sugerir una escapada íntima."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7282 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_178d77e5:
 msgid "[_paulina_s_normal_s_away_s_idle_s_talk_displeased_] {i}Well{/i}, I guess I should be upfront and say I do have a {u}reason{/u} for wanting to break in with you..."
-msgstr "[_paulina_s_normal_s_away_s_idle_s_talk_displeased_] {i}bien{/i}, supongo que debería estar por delante y decir que tengo una razón {u}{/u} para querer romper contigo..."
+msgstr "[_paulina_s_normal_s_away_s_idle_s_talk_displeased_] {i}bien{/i}, supongo que debería adelantarme y decir que tengo una {u}razón {/u} para querer romper contigo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7285 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_54d043f5:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Oh please, I'm all ears on this one..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Oh, por favor, todos mis oídos en este..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Oh, por favor, soy todo oídos para ti..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7288 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_8dbef013:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] See, I was going to ask this guy Dash to help me out with this, but he can barely brush his teeth, let alone open a locked door quietly and discreetly."
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Ve, iba a pedir a este tipo de Dash que me ayude con esto, pero apenas puede correr los dientes, por no hablar de abrir una puerta cerrada de forma silenciosa y discreta."
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Ves, iba a pedir a este tipo de Dash que me acompañe, pero no sabe ni como evitar que le chirríen los dientes, eso por no hablar de abrir una puerta cerrada de forma silenciosa y discreta."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7291 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_132022ca:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] Why exactly do you want to break into your own high school though?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ¿Por qué exactamente quieres entrar en tu propia escuela secundaria?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ¿Por qué quieres ir a tu instituto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7294 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_39d41cb8:
 msgid "[_paulina_s_normal_s_down_s_neutral_s_talk_displeased_s_blush_] I {i}maaaaybe{/i} wanna get a copy of the test answers for the upcoming quizzes ahead of time...?"
-msgstr "[_paulina_s_normal_s_down_s_neutral_s_talk_displeased_s_blush_] I {i}maaaaybe{/i} quiere obtener una copia de las respuestas de prueba para los próximos cuestionarios antes de tiempo...?"
+msgstr "[_paulina_s_normal_s_down_s_neutral_s_talk_displeased_s_blush_] ¿{i}quizaaaa{/i} quiera obtener una copia de las respuestas de prueba para los próximos exámenes antes de tiempo...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7297 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_adc84313:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Wait, what?! Why? Haven't you studied for them?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Espera, ¿qué?! ¿Porqué? ¿No has estudiado para ellos?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Espera, ¿qué?! ¿Por qué? ¿No has estudiado para ellos?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7300 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_bc321022:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_consternation_] {i}Uhhh{/i}, no?? Of course not! But Daddy needs to see that I'm getting an \"A\" on this one stupid test, or I'm banned from going to see Ember's concert that's in town!"
-msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_consternation_] {i}Uhh{/i}, ¿no? ¡Por supuesto que no! Pero papá necesita ver que estoy recibiendo una \"A\" en esta estúpida prueba, o estoy prohibido de ver el concierto de Ember que está en la ciudad!"
+msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_consternation_] {i}Uhh{/i}, ¿no? ¡Por supuesto que no! Pero papá necesita ver que estoy recibiendo una \"aprobado\" en esta estúpida prueba, o me prohibirá ver el concierto de Ember en la ciudad!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7303 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_eeac81bb:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] C'mon Paulina, don't you think honest, hard work and determination to challenge yourself is far more rewarding than cheating your way forward?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] C'mon Paulina, ¿no crees que la honestidad, el trabajo duro y la determinación de desafiarse a ti mismo es mucho más gratificante que hacer trampa a tu camino hacia delante?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] Vamos Paulina, cree en la honestidad, el trabajo duro y la determinación de desafiarse a ti misma es mucho más gratificante que hacer trampa en tu vida?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7308 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_63cde5b2:
 msgid "[_paulina_s_normal_s_closed_s_wondering_s_talk_amused_] Oh my goodness, and he's {u}funny{/u} too! Ghost boy, you should consider a career in comedy!"
-msgstr "[_paulina_s_normal_s_closed_s_wondering_s_talk_amused_] ¡Oh mi bondad, y es {u}divertido{/u} también! ¡Fantasma muchacho, deberías considerar una carrera en la comedia!"
+msgstr "[_paulina_s_normal_s_closed_s_wondering_s_talk_amused_] ¡Oh Dios, eres {u}divertido{/u} también! ¡Chico fantasma, deberías considerar hacer carrera en la comedia!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7311 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_b16a8713:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Look, people are always telling me I need to apply my brain more often, and I am! My plan will absolutely work, especially with you helping!"
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Mira, la gente siempre me dice que necesito aplicar mi cerebro más a menudo, ¡y lo soy! ¡Mi plan funcionará completamente, especialmente con usted ayudando!"
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] Mira, la gente siempre me dice que necesito aplicar mi cerebro más a menudo, ¡y lo hago! ¡Mi plan funcionará, especialmente contigo ayudando!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7314 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_74c4b1cf:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] I'm pretty sure they mean applying your mental faculties, and actually reading the material."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Estoy bastante seguro de que significan aplicar sus facultades mentales, y en realidad leer el material."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Estoy seguro de lo que intentaban decirte con facultades mentales, leyendo y esas cosas."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7317 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_52049b86:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] ...{i}ehh{/i}, maybe, but I like doing things my own way."
-msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] ...{i}ehh{/i}, quizás, pero me gusta hacer las cosas a mi manera."
+msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] ...{i}ehh{/i}, puede, pero me gusta hacer las cosas a mi manera."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7320 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_dba05140:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_displeased_] {i}*Sigh*{/i} (I'm not gonna be able to stop Ember if I don't get things to work out with Paulina in some way or another... if this is what she wants...?)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_displeased_] {i}*Sigh * {/i} (No voy a poder detener a Ember si no consigo que las cosas funcionen con Paulina de alguna manera u otra ... si esto es lo que quiere ...?)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_unhappy_s_displeased_] {i}*Suspiro* {/i} (No voy a poder detener a Ember si no consigo que las cosas funcionen con Paulina de alguna manera u otra... Si esto es lo que ella quiere...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7323 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_3ab2fea7:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Sure, fine, we wouldn't wanna disappoint \"Daddy\"."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Claro, bueno, no queremos decepcionar a \"Daddy\"."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Claro, bueno, no queremos decepcionar a \"Papi\"."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7326 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_c7ab629a:
 msgid "[_paulina_s_normal_s_towards_wide_s_wondering_s_talk_pleased_] Oh, thank you Ghost Boy, thank you!"
-msgstr "[_paulina_s_normal_s_towards_wide_s_wondering_s_talk_pleased_] Oh, gracias Ghost Boy, ¡gracias!"
+msgstr "[_paulina_s_normal_s_towards_wide_s_wondering_s_talk_pleased_] Oh, ¡gracias Chico fantasma, ¡gracias!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7331 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_4f1ea436:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_amused_] {i}Mwha!{/i} You won't regret it!"
@@ -5858,15 +5858,15 @@ msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_amused_] {i}Mwha!{/i} ¡No te
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7334 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_eae398ea:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_] So, what time are we going to do this little B&E session? I think if we plan a little bit ahead of time, we'll be able to-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_] Entonces, ¿a qué hora vamos a hacer esta pequeña sesión de B&E? Creo que si planeamos un poco antes de tiempo, podremos-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_] Entonces, ¿a qué hora vamos a hacer esta pequeña sesión de B&E? Creo que si lo planeamos un poco antes, podremos-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7337 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_91bc8652:
 msgid "[_paulina_s_normal_s_towards_s_neutral_s_talk_consternation_] It has to be tonight, actually."
-msgstr "[_paulina_s_normal_s_towards_s_neutral_s_talk_consternation_] tiene que ser esta noche, en realidad."
+msgstr "[_paulina_s_normal_s_towards_s_neutral_s_talk_consternation_] tiene que ser esta noche, siendo clara."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7340 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_756695ec:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_] {u}Tonight?!{/u}"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_] {u}Esta noche?! {/u}"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_] {u}¡¿Esta noche?! {/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7343 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_dbd08b9a:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] Yes, otherwise I won't have enough time to memorize all the answers before the test!"
@@ -5874,55 +5874,55 @@ msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] Sí, de lo contr
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7346 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_a2f7bf7f:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] Alright, fine, then I'll meet you outside the front of the school, tonight. I'll at least see if I can get you inside.{p}But you really should study more!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] Bien, bien, entonces te encontraré esta noche fuera del frente de la escuela. Al menos veré si te puedo meter dentro.{p}. ¡Pero realmente deberías estudiar más!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] Bien, bien, entonces te encontraré esta noche frente a la escuela. Veré si te puedo meter dentro.¡{p}Pero{/p} deberías estudiar más!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7349 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_0a43ab72:
 msgid "[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] Perfect! See you then!"
-msgstr "¡[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] Perfecto! ¡Nos vemos entonces!"
+msgstr "¡[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] ¡Perfecto! ¡Nos vemos entonces!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7352 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_70e7eec4:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] ...oh, one more thing: I'm totally gonna claim you kidnapped me if we get caught by anyone. That cool?"
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] ...oh, una cosa más: Estoy totalmente gonna reclamar que me hirió si nos cogemos por alguien. ¿Que genial?"
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] ...oh, una cosa más: diré que me secuestraste si nos pillan ¿sería genial o no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7355 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_56bed7c3:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] WHAT?!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] ¿QUI?!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] ¡¿QUE?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7358 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_867eb0ae:
 msgid "[_paulina_s_normal_s_down_s_sad_s_talk_displeased_] Sorry, but I mean, c'mon, it'd be the only valid excuse I'd have to not get expelled."
-msgstr "[_paulina_s_normal_s_down_s_sad_s_talk_displeased_] Lo siento, pero quiero decir, c'mon, sería la única excusa válida que tendría que no ser expulsada."
+msgstr "[_paulina_s_normal_s_down_s_sad_s_talk_displeased_] Lo siento, pero quiero decir, vamos, sería la única excusa válida que tendría para no ser expulsada."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7361 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_cc372d51:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Oh, but my reputation gets to be even cruddier than it already is?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Oh, pero mi reputación llega a ser aún más crudo de lo que ya lo es?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Oh, pero ¿mi reputación sería más cruda de lo que ya es?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7364 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_649d02b7:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] I'll give it some more charm than just \"kidnapping\", of course!{p}...make it seem like a romantic ghost, having fallen in love with the most prettiest girl in the world!"
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] ¡Le daré algo más de encanto que simplemente \"kidnapping\", por supuesto!{p}... ake parece un fantasma romántico, después de haberse enamorado de la chica más escocesa del mundo!"
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_happy_] ¡Le daré algo más de encanto que \"secuestrar\", por supuesto!{p}... algo{/p} así como un romántico fantasma, enamorado de la más preciosa chica del mundo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7367 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_e1d341a1:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_amused_] Besides, it's not like you can really get in trouble with the school or something. Really, what do you have to lose here?"
-msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_amused_] Además, no es como si realmente pudieras tener problemas con la escuela o con algo. Verdaderamente, ¿qué tienes que perder aquí?"
+msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_amused_] Además, no es que tú pudieras tener problemas con la escuela o con alguien. Verdaderamente, ¿qué tienes que perder aquí?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7370 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_e247858f:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_neutral_s_grindteeth_] (I'm gonna get stiffed somehow at the end of this deal, and not in the good way, I just know it...)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_neutral_s_grindteeth_] (Me voy a endurecer de alguna manera al final de esta oferta, y no de la manera adecuada, sólo lo soy...)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_neutral_s_grindteeth_] (Voy a salir salpicado al final de este acuerdo, y por nada bueno, lo sé...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7373 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_7ec0ac62:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] {i}*Sigh*{/i} I guess that makes sense. Just not what I had in mind for a another chance to hang and get to know each other better is all..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] {i}*Alta*{/i} Supongo que eso tiene sentido. No es lo que tenía en mente para una nueva oportunidad de colgar y conocer mejor es todo..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] {i}*suspiro*{/i} Supongo que esto explica todo. No era lo que tenía en mente para una cita y conocernos mejor..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7376 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_17126447:
 msgid "[_paulina_s_normal_s_closed_s_wondering_s_talk_pleased_] Great! See you tonight then, cutie!"
-msgstr "¡[_paulina_s_normal_s_closed_s_wondering_s_talk_pleased_] genial! ¡Nos vemos esta noche entonces, cutie!"
+msgstr "¡[_paulina_s_normal_s_closed_s_wondering_s_talk_pleased_] ¡genial! ¡Nos vemos esta noche entonces, lindo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7382 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_2_park_5e09c470:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_pleased_s_blush_] ...did Paulina just call me {u}cutie?{/u}"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_pleased_s_blush_] ...¿Paulina me llamó a la cutia {u}?{/u}"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_pleased_s_blush_] ...¿Paulina me llamó {u}lindo? {/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7406 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_6d8f87f5:
 msgid "[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] Great, you're here!{p}This is so exciting! I can't believe we're really doing this!"
-msgstr "[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] ¡Genial, estás aquí! ¡{p}¡Esto es tan emocionante! ¡No puedo creer que realmente estemos haciendo esto!"
+msgstr "[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] ¡Genial, estás aquí! ¡{p}¡Esto es muy emocionante!{/p} ¡No puedo creer que estemos haciendo esto!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7409 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_e5c1e50d:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Yeah, so what's the plan?"
@@ -5930,31 +5930,31 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Sí, ent
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7412 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_4bee1dbd:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_pleased_] Okay, so all the doors are locked on all sides, from both the inside {i}and{/i} the outside. So what we need is for you to go all Inviso-Bill and stuff and head through the walls, find some spare key to open the front doors and let me inside!"
-msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_pleased_] Vale, así que todas las puertas están cerradas en todos los lados, tanto desde el interior de {i}como {/i} desde el exterior. Así que lo que necesitamos es que pases todo Inviso-Bill y cosas y que te metas a través de las paredes, ¡Encuentre alguna llave libre para abrir las puertas delanteras y déjenme dentro!"
+msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_pleased_] Vale, todas las puertas están cerradas, tanto desde el interior de {i}como {/i} desde el exterior. Así que lo que necesitamos es que pases todo Inviso-Bill a través de las paredes, ¡Encuentres alguna llave para abrir las puertas delanteras y dejarme pasar dentro!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7415 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_3112f9c3:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...alright, but any idea where the keys might even be?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...bueno, pero ¿alguna idea de dónde podrían estar las teclas?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...bueno, ¿alguna idea de dónde podrían estar las llaves?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7418 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_fccdebc3:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] {i}Hmm{/i}... that I don't exactly know, but just knowing Mr. Lancer, he'd probably keep a spare set of keys in his desk drawer maybe?"
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] {i}Hmm{/i}... eso no sé exactamente, pero solo sabiendo al Sr. Lancer, probablemente guardaría un conjunto de llaves en su cajón de escritorio tal vez?"
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] {i}Hmm{/i}... eso no sé, pero conociendo al Sr. Lancer, ¿probablemente guardaría un conjunto de llaves en su cajón de escritorio?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7421 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_c022d3a9:
 msgid "[_paulina_s_normal_s_down_s_angry_s_talk_consternation_] He takes his job as the Vice Principal {i}way{/i} too seriously, so it'd make sense he'd have a set of them. He's definitely big enough of a dork like that."
-msgstr "[_paulina_s_normal_s_down_s_angry_s_talk_consternation_] Él se toma su trabajo como Vice Principal {i}manera{/i} demasiado en serio, así que tendría sentido tener un conjunto de ellas. Él es definitivamente lo suficientemente grande como para dormir."
+msgstr "[_paulina_s_normal_s_down_s_angry_s_talk_consternation_] Él se toma su trabajo como {i}Vice Principal{/i} muy en serio, así que tendría sentido tener un conjunto de ellas. Él es lo suficientemente grande y bobo para hacerlo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7424 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_15b50ec8:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] Alright then, I guess that sounds simple enough. Hopefully no late night staff are working... I'll be right back then."
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] De acuerdo, entonces supongo que suena lo suficientemente simple. Esperemos que no haya personal nocturno que esté trabajando... Estaré en ese momento."
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_displeased_] De acuerdo, entonces supongo que és sencillo. Esperemos que no haya personal nocturno que esté trabajando... Volveré en un momento."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7427 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_4caa8779:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_consternation_] Wait, won't you need directions to Mr. Lancer's class? It's not like you go here, right?"
-msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_consternation_] Espera, ¿no vas a necesitar instrucciones para la clase del señor Lancer? ¿No es como tú vas aquí, verdad?"
+msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_consternation_] Espera, ¿no vas a necesitar instrucciones para encontrar clase del señor Lancer? No eres de por aquí ¿recuerdas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7430 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_8a6748b2:
 msgid "[_danny_s_phantom_s_arms_normal_s_closed_happy_s_wondering_s_talk_happy_] {i}Uhh{/i}, right, but no thanks, I'm sure I'll easily be able to navigate the building on my own. Wish me luck!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_closed_happy_s_wondering_s_talk_happy_] {i}Uhh{/i}, bueno, pero no gracias, estoy seguro de que podré navegar fácilmente por mi propio edificio. ¡Deseo suerte!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_closed_happy_s_wondering_s_talk_happy_] {i}Uhh{/i}, bueno, no gracias, estoy seguro de que me podré orientar fácilmente por el edificio. ¡Deseame suerte!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7433 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_8fe540ec:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_happy_] Okay, good luck!!"
@@ -5966,95 +5966,95 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] B
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7455 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_0459e26b:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Lancer would have them somewhere on his desk, right? Best look there first."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Lancer los tendría en algún lugar en su escritorio, ¿verdad? Lo mejor es mirar allí primero."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Lancer las tendría en algún lugar en su escritorio, Lo mejor es mirar allí primero."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7460 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_95f77985:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_unhappy_s_talk_displeased_] Huh? Really? Doesn't look like there's any keys lying around... maybe I should look in the drawers too?"
-msgstr "¿[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_unhappy_s_talk_displeased_] Huh? ¿Verdaderamente? ¿No parece que hay llaves que se cierran... ¿Tal vez debería buscar en los cajones también?"
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_unhappy_s_talk_displeased_] ¿Huh? ¿de verdad? No parece haber llaves por aquí... ¿Tal vez debería buscar en los cajones también?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7473 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_454ccb73:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_neutral_s_talk_displeased_] \"Note to self: Remember to score all the smarter students lower to encourage them to work even harder on midterms.\""
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_neutral_s_talk_displeased_] \"Nota al ser: Recuerde anotar todos los estudiantes más inteligentes más bajos para animarlos a trabajar aún más duro en términos medios.\""
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_neutral_s_talk_displeased_] \"Nota: Recuerda evaluar a los estudiantes más inteligentes un poco más bajo para motivarlos a trabajar aún más duro\""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7475 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_6688e7e0:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Well {i}that's{/i} disturbing.{p}I mean, not for me really, but for the smart kids I guess."
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Bueno {i}eso es molesto{/i} .{p}significa, no para mí realmente, sino para los niños inteligentes que supongo."
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Bueno {i}eso es{/i} molesto.{p}quiero decir{/p}, no para mí, sino para los chicos inteligentes."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7493 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_52c694ac:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_rise_s_talk_displeased_] \"New Doomed password is {i}Goatee_4_Lyfe{/i}.\""
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_rise_s_talk_displeased_] \"Nueva contraseña condenada es {i}Goatee_4_Lyfe{/i}.\""
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_rise_s_talk_displeased_] \"Nueva contraseña {i}Goatee_4_Lyfe{/i}.\""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7495 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_544291ed:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Woah, wait, Lancer plays {b}Doomed Online{/b}??{p}Who would've thought that a middle-aged, pudgy bald man would be much of a gamer... huh."
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Woah, wait, Lancer plays {b}Doomed Online{/b}??{p}¿Quién pensaría que un hombre calvo de mediana edad sería mucho más de una calvicie gorda... eh."
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Woah, espera, ¿¿Lancer juega a {b}Doomed Online{/b}??{p}¿Quién{/p} pensaría que un hombre calvo de mediana edad sería mucho más de una calvicie... eh."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7512 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_453d3572:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_wondering_s_talk_displeased_] \"Reminder: Head to library over weekend to find more book titles for exasperated exclamations.\""
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_wondering_s_talk_displeased_] \"Recordatorio: ve a la biblioteca durante el fin de semana para encontrar más títulos de libros para exclamaciones exasperadas\"."
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_wondering_s_talk_displeased_] \"Recordatorio: ve a la biblioteca durante el fin de semana para encontrar más libros para hacer exclamaciones exasperadas\""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7514 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_25a383da:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Look, I know he's an educated guy and all, but I wonder out of all the books Lancer likes to shout about, how many he's actually read...?"
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Mira, sé que es un tipo educado y todo, pero me pregunto de todos los libros que a Lancer le gusta gritar, ¿cuántos ha leído realmente...?"
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Mira, sé que es un tipo educado y todo, pero me pregunto de todos los libros que a Lancer le gusta recomendar, ¿cuántos se ha leído él...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7531 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_5dc12020:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_wondering_s_talk_displeased_] \"Idea for Novel: Handsome and beloved vice-principal overcomes adversity through his lack of naturally occurring follicles and rises to the ranks of principal of his school.\""
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_wondering_s_talk_displeased_] \"Idea para Novel: Handsome y vice-principal amado supera la adversidad por su falta de folículos que ocurren naturalmente y se eleva a las filas de director de su escuela\"."
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_down_s_wondering_s_talk_displeased_] \"Idea para Novel: Estimado vice-principal supera la adversidad por su falta de folículos y asciende hasta director de la escuela\""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7533 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_91fa022a:
 msgid "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...this is probably just a fantasy of his his and nothing more, but Lancer better hope Ishiyama doesn't see this. She wouldn't like the idea of her second-in-command vying for her position under her nose."
-msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...probablemente esto sea solo una fantasía de su y nada más, pero Lancer espera mejor que Ishiyama no vea esto. A ella no le gustaría la idea de que su segundo en el mando compite por su posición bajo la nariz."
+msgstr "[_danny_s_p_s_offscreen_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] ...probablemente esto sea solo una fantasía suya y nada más, por Lancer sera mejor que Ishiyama no vea esto. A ella no le gustaría la idea de que su segundo en el mando compite por su posición a escondidas."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7546 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_e1db9955:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_distraught_] ...darn it, not one of these is helpful..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_distraught_] ...oscurecerlo, no uno de estos es útil..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_distraught_] ...mierda, nada de esto tiene utilidad..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7549 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_15b3f32d:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_distraught_] Well, if not Mr. Lancer, who {i}else{/i} might have a spare set of keys left lying around in the school?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_distraught_] Bueno, si no el señor Lancer, ¿quién {i}más{/i} podría tener un conjunto de llaves sobrantes que quedan en la escuela?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_distraught_] Bueno, si el señor Lancer no las tiene, ¿quién {i}más{/i} podría tener un conjunto de llaves en la escuela?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7562 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_f12e153c:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Nurse Kate? Maybe she'd have access to all the doors as the school nurse?"
-msgstr "¿[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] Nurse Kate? ¿Tal vez tendría acceso a todas las puertas como enfermeros de la escuela?"
+msgstr "¿[_danny_s_phantom_s_arms_normal_s_at_player_s_neutral_s_talk_displeased_] ¿enfermera Kate? ¿Tal vez tendría acceso a todas las puertas como enfermera?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7564 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_e38df123:
 msgid "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_sad_s_talk_displeased_] But where would she keep them? She's got so many different spots to hide stuff away in this office..."
-msgstr "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_sad_s_talk_displeased_] Pero ¿dónde los guardaría? Sha tiene tantos puntos diferentes para ocultar cosas en esta oficina..."
+msgstr "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_sad_s_talk_displeased_] Pero ¿dónde las guardaría? Ella tiene muchos lugares diferentes para ocultar cosas en su oficina..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7566 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_b40811ca:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] I guess I can just try them one at a time... starting with this purple drawer."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Supongo que solo puedo probarlos uno a la vez... comenzando con este cajón morado."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_displeased_] Supongo que solo puedo mira uno a uno... comenzando con este cajón morado."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7582 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_4f9cf6fa:
 msgid "[_danny_s_p_s_offscreen_s_down_s_neutral_s_talk_happy_] {i}Ah hah!{/i} I knew I'd end up finding a pair of them!"
-msgstr "[_danny_s_p_s_offscreen_s_down_s_neutral_s_talk_happy_] {i}¡Ah hah!{/i} ¡Sabía que acabaría encontrando un par de ellos!"
+msgstr "[_danny_s_p_s_offscreen_s_down_s_neutral_s_talk_happy_] {i}¡Ah hah!{/i} ¡Sabía que acabaría encontrando un par de ellas!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7584 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_2c515c1e:
 msgid "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_happy_] Thank you, Nurse Kate, for not thinking to lock up a single thing in your room!{p}"
-msgstr "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_happy_] Gracias, enfermera Kate, por no pensar en cerrar una sola cosa en su habitación!{p}"
+msgstr "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_happy_] Gracias, enfermera Kate, por no pensar en cerrar una sola cosa en tu habitación!{p}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7586 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_8819e01f:
 msgid "[_danny_s_p_s_offscreen_s_closed_happy_s_neutral_s_talk_happy_] Great, now let's get these down to the front doors so I can let Paulina in."
-msgstr "[_danny_s_p_s_offscreen_s_closed_happy_s_neutral_s_talk_happy_] Genial, ahora vamos a bajarlos a las puertas delanteras para que pueda dejar entrar a Paulina."
+msgstr "[_danny_s_p_s_offscreen_s_closed_happy_s_neutral_s_talk_happy_] Genial, ahora voy a abrir a las puertas delanteras para que pueda entrar Paulina."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7619 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_8d0226ce:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] Goodness, took you long enough! What was the hold up?"
-msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] ¡Bien, te llevó el tiempo suficiente! ¿Cuál fue el sostén?"
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] ¡Bien, te llevó mucho tiempo! ¿que pasó?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7622 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_280c78fa:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Oh, sorry, I just had to find a different set of keys."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Oh, lo siento, solo tenía que encontrar un conjunto diferente de llaves."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Oh, lo siento, tenía que encontrar un conjunto diferente de llaves."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7625 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_d14b2eb5:
 msgid "[_paulina_s_normal_s_down_s_neutral_s_talk_displeased_] {i}Hmph{/i}. Well come on, we've wasted enough time here."
-msgstr "[_paulina_s_normal_s_down_s_neutral_s_talk_displeased_] {i}Hmph{/i}. Bueno, venid, hemos perdido bastante tiempo aquí."
+msgstr "[_paulina_s_normal_s_down_s_neutral_s_talk_displeased_] {i}Hmph{/i}. Bueno, hemos perdido bastante tiempo aquí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7628 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_26c2b08e:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] So, where exactly are these papers with the answers going to be, exactly?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Entonces, ¿dónde están exactamente estos documentos con las respuestas, exactamente?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Entonces, ¿dónde están estos documentos con las respuestas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7631 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_ef717f9d:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_displeased_] They're hidden in a safe locked up in Principal Ishiyama's office."
-msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_displeased_] Están ocultos en un seguro bloqueado en la oficina de Principal Ishiyama."
+msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_displeased_] Están ocultos en un lugar seguro y bloqueado de la oficina de Ishiyama."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7634 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_3_school_evening_1c18aa15:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] How do you know that?"
