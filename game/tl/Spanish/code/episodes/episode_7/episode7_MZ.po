@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-21 14:08\n"
+"PO-Revision-Date: 2023-11-27 11:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -6486,27 +6486,27 @@ msgstr "[_paulina_s_offscreen_s_nude_s_towards_s_angry_s_talk_happy_] Ven aquí.
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8207 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_5bd8696d:
 msgid "[_danny_s_p_s_offscreen_s_towards_wide_s_rise_s_talk_happy_] Whoa! Yes ma'am!"
-msgstr "[_danny_s_p_s_offscreen_s_towards_wide_s_rise_s_talk_happy_] ¡Vaya! ¡Sí ma'am!"
+msgstr "[_danny_s_p_s_offscreen_s_towards_wide_s_rise_s_talk_happy_] ¡Vaya! ¡Sí tíia!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8215 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_6ec22624:
 msgid "[_paulina_] {i}Ahhh!{/i}{p}Oh my goodness, you're like, {i}really{/i} big, you know that?"
-msgstr "[_paulina_] {i}Ahhh!{/i}{p}Oh mi bien, eres como {i}realmente grande{/i} ¿sabes eso?"
+msgstr "[_paulina_] {i}Ahhh!{/i}{p}Oh dios, la tienes {i}enorme{/i} ¿lo sabías?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8218 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_eea0086c:
 msgid "[_danny_] I... I am?"
-msgstr "[_danny_] I. .. ¿Soy?"
+msgstr "[_danny_]... ¿la tengo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8221 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_79ce6eb2:
 msgid "[_paulina_] Oh my gosh, yes...{p}...now hold onto me gently, just like that, okay?{p}Now push it in as far as you can!"
-msgstr "[_paulina_] Oh mi chispo, si...{p}...ahora manténme suavemente, así de bien?{p}¡Ahora pulsa todo lo que puedas!"
+msgstr "[_paulina_] Oh dios, só...{p}...ahora sigue haciéndolo suave {/p} ¿bien?{p} ¡Ahora muévete lo más rápido que pueda!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8224 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_7ba75d5b:
 msgid "[_danny_] I'll do whatever you want Paulina!"
-msgstr "[_danny_] ¡Haré lo que quieras Paulina!"
+msgstr "[_danny_] ¡Haré lo que me pides Paulina!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8227 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_10a3e54c:
 msgid "[_paulina_] Oh {u}SHIT!!{/u}"
-msgstr "[_paulina_] Oh {u}SHIT!!{/u}"
+msgstr "[_paulina_] Oh {u}¡¡MIERDA!!{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8230 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_2b5a2777:
 msgid "[_danny_] Wh-what! Paulina, are you okay?"
