@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-28 23:01\n"
+"PO-Revision-Date: 2023-11-30 16:30\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -7270,23 +7270,23 @@ msgstr "[_paulina_s_down_s_rise_s_talk_consternation_] {i}Hmmph{/i}... nunca me 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9164 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_b36cca26:
 msgid "[_danny_s_stare_s_neutral_s_talk_consternation_] {i}Riiiiight.{/i}{p}Well, I better get going to class now, so-"
-msgstr "[_danny_s_stare_s_neutral_s_talk_consternation_] {i}ahh.{/i}{p}Bueno, es mejor que vayas a clase, así-"
+msgstr "[_danny_s_stare_s_neutral_s_talk_consternation_] {i}ahh.{/i}{p}Bueno, es mejor que vaya a clase-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9171 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_bc31d32c:
 msgid "[_paulina_s_towards_s_angry_s_talk_consternation_] {u}Hold it{/u}, Fenton."
-msgstr "[_paulina_s_towards_s_angry_s_talk_consternation_] {u}manténgalo{/u}, Fentón."
+msgstr "[_paulina_s_towards_s_angry_s_talk_consternation_] {u}Un momento{/u}, Fenton."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9174 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_3a142077:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] Wh-what is it?"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] ¿De qué se trata?"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_distraught_] ¿Q-qué sucede?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9178 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_bb958544:
 msgid "[_desiree_] ({i}Annnndd{/i} here it comes...~)"
-msgstr "[_desiree_] ({i}Annnndd{/i} aquí llega...~)"
+msgstr "[_desiree_] ({i}yyyyyyy{/i} aquí llega...~)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9182 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_6eaec6e7:
 msgid "[_paulina_s_towards_s_angry_s_talk_consternation_] You're going to help me make sure Ghost Boy sees clearly on this. I'm not letting him get blinded by that cousin of yours."
-msgstr "[_paulina_s_towards_s_angry_s_talk_consternation_] Me vas a ayudar a asegurarme de que Ghost Boy vea claramente en esto. No le estoy dejando cegar por ese primo tuyo."
+msgstr "[_paulina_s_towards_s_angry_s_talk_consternation_] Me vas a ayudar a asegurarme de que el chico fantasma vea claramente esto. No voy a dejar que se ciegue con esa prima tuya."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9185 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_e8a4a2d9:
 msgid "[_danny_s_towards_s_sad_s_talk_consternation_] Okay, but, what about Star?"
@@ -7294,35 +7294,35 @@ msgstr "[_danny_s_towards_s_sad_s_talk_consternation_] Vale, pero ¿qué pasa co
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9188 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_f131c0fb:
 msgid "[_paulina_s_towards_s_angry_s_talk_displeased_] Don't worry about that! Star isn't even in the equation right now..."
-msgstr "[_paulina_s_towards_s_angry_s_talk_displeased_] ¡No te preocupes por eso! Star no está ni en la ecuación ahora mismo ..."
+msgstr "[_paulina_s_towards_s_angry_s_talk_displeased_] ¡No te preocupes por eso! Star no está en la ecuación ahora mismo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9191 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_0bc079fe:
 msgid "[_paulina_s_towards_s_rise_s_talk_displeased_] When the time comes, make sure your cousin is promptly distracted so I can get some proper \"alone\" time with Ghost Boy."
-msgstr "[_paulina_s_towards_s_rise_s_talk_displeased_] Cuando llegue el momento, asegúrese de que su primo se distrae rápidamente para que pueda obtener un tiempo \"solo\" apropiado con Ghost Boy."
+msgstr "[_paulina_s_towards_s_rise_s_talk_displeased_] Cuando llegue el momento, asegúrate de que tu prima se distrae para que yo pueda obtener un tiempo \"a solas\" con el chico fantasma."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9194 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_cf6a3856:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Paulina, do you really feel {u}threatened{/u} by Des that much?"
-msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Paulina, ¿realmente te sientes {u}amenazado{/u} por Des mucho?"
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Paulina, ¿Realmente te sientes muy {u}amenazada{/u} por Des?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9197 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_443b6407:
 msgid "[_paulina_s_towards_s_angry_s_talk_distraught_] O-of course not you idiot!"
-msgstr "[_paulina_s_towards_s_angry_s_talk_distraught_] ¡O-por supuesto que no idiotas!"
+msgstr "[_paulina_s_towards_s_angry_s_talk_distraught_] ¡P-por supuesto que no idiota!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9202 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_28c244d2:
 msgid "[_desiree_] (Liar.)"
-msgstr "[_desiree_] (Liar.)"
+msgstr "[_desiree_] (Mentirosa.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9206 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_a70218c3:
 msgid "[_paulina_s_towards_s_wondering_s_talk_happy_] I just happen to know that I'm the only one who sees the kind of nice, sweet kind of dead boy that he really is...~"
-msgstr "[_paulina_s_towards_s_wondering_s_talk_happy_] Solo sé que soy el único que ve el tipo de bonito, tipo dulce de chico muerto que realmente es...~"
+msgstr "[_paulina_s_towards_s_wondering_s_talk_happy_] Lo que sucede és que soy la única que ve lo bonito y dulce que és el chico fantasma...~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9209 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_845cb75f:
 msgid "[_danny_s_down_s_unhappy_s_talk_consternation_] R-really? Cause this all seems to be a bit backhanded, at least when you consider that-"
-msgstr "[_danny_s_down_s_unhappy_s_talk_consternation_] ¿Realmente? Porque todo esto parece estar un poco retrocedido, al menos cuando lo consideras así-"
+msgstr "[_danny_s_down_s_unhappy_s_talk_consternation_] ¿E-en serio? Porque todo esto parece estar un poco premeditado, al menos viniendo de ti-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9212 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_a0bee6dc:
 msgid "[_paulina_s_towards_wide_s_angry_s_talk_distraught_] Enough with the chit chat and philosophical character study! Just do what I'm asking here, Danny!"
-msgstr "[_paulina_s_towards_wide_s_angry_s_talk_distraught_] ¡Basta con el chat de chit y estudio de carácter filosófico! Just do what I'm asking here, Danny!"
+msgstr "[_paulina_s_towards_wide_s_angry_s_talk_distraught_] ¡Basta de cháchara y filosofía! ¡Haz lo que te digo, Danny!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9218 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_9c1fc834:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] Well, all that juvenile bickering aside, that went easier than I thought. Don't you think Des?"
