@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-30 17:48\n"
+"PO-Revision-Date: 2023-12-05 16:26\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -7482,11 +7482,11 @@ msgstr "[_desiree_] como desees."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9379 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_e8a2f88e:
 msgid "[_desiree_] ...and so...{p}...it is done."
-msgstr "[_desiree_] ...y así...{p}...será{/p} hecho."
+msgstr "[_desiree_] ...y así...{p}...será{/p}."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9382 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_0ea38fdf:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Sweet! I guess I'll head over to the Mall tomorrow to get some stuff for the party.{p}Wanna come?"
-msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] ¡fabuloso! Supongo que mañana me dirigiré al Mall para comprar algunas cosas para el partido. ¿{p}quieres venir{/p}?"
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] ¡fabuloso! Mañana dirigiré al centro comercial para comprar algunas cosas para la fiesta. ¿{p}quieres venir{/p}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9386 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_8f2aee0a:
 msgid "[_desiree_] I don't see why not. I wouldn't mind more time to stretch my tail..."
@@ -7510,31 +7510,31 @@ msgstr "[_danny_s_at_player_s_sad_s_consternation_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9404 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_aaa48704:
 msgid "[_desiree_] ...the other whores for the guests?"
-msgstr "[_desiree_] ...¿las otras putas para los invitados?"
+msgstr "[_desiree_] ...¿las putas para los invitados?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9407 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_bcff5922:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] {i}Oh! Uhh{/i}, yeah, no, we won't be getting any... any courtesans."
-msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] {i}Oh! Uhh{/i}, sí, no, no contrataremos ningún... ningún cortesano."
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] {i}¡Oh! Uhh{/i}, sí, no, no contrataremos ningún... ningún cortesano."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9411 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_6db3d0d3:
 msgid "[_desiree_] {u}Ridiculous!!{/u} How are the other men going to entertain themselves? If not that, then we'll require at least four barrels of delicious sun soaked wine and to hire out some local musicians to perform!"
-msgstr "[_desiree_] {u}¡¡ Ridículo!! {/u} ¿Cómo van a entretenerse los otros hombres? Si no es así, entonces necesitaremos al menos cuatro barricas de delicioso vino y contratar a algunos músicos locales para actuar!"
+msgstr "[_desiree_] {u}¡¡ Ridículo!! {/u} ¿Cómo van a entretenerse los hombres? ¡Si no es así, entonces necesitaremos al menos cuatro barricas de delicioso vino y contratar a algunos músicos locales para actuar!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9414 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_989223b1:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] ...so you know how the Casper Chill Formal wasn't what you were expecting for a ball type event?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ...¿pensabas que sería una fiesta del tipo del baile del instituto?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ...¿recuerdas que le baile del instituto no fue el tipo de fiesta que esperabas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9418 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_052604a4:
 msgid "[_desiree_] Oh, how could I possibly forget?"
-msgstr "[_desiree_] Oh, ¿cómo podría olvidarla?"
+msgstr "[_desiree_] Oh, ¿cómo podría olvidarlo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9421 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_0a718ad2:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Okay, so house parties are kind've like that, but... even less."
-msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Vale, así que las fiestas de casa son parecidas, pero... algo menos."
+msgstr "[_danny_s_towards_s_neutral_s_talk_happy_] Vale, las fiestas de casa son parecidas, pero... algo menos."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9425 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_e8b0c2eb:
 msgid "[_desiree_] Lesser than even {i}that{/i}?! Goodness, these social events you modern people partake in seem to forget the point of even having social gatherings!"
-msgstr "[_desiree_] ¡¿Menor que {i}qué {/i}?! ¡Dios, estos eventos sociales en los que participa la gente moderna parecen olvidar el aspecto de aprovechar en hacer relaciones sociales!"
+msgstr "[_desiree_] ¡¿Menos que {i}aquello{/i}?! ¡Dios, estos eventos sociales en los que participa la gente moderna parecen olvidar el aspecto de aprovechar y hacer relaciones sociales!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9428 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_4cd4d293:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Well hey, they can also definitely get pretty crazy, but I'm really not looking to host a crazy party at my house."
@@ -7542,39 +7542,39 @@ msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Bueno, también pueden hacerse b
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9431 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_bd30fb33:
 msgid "[_danny_s_down_s_sad_s_talk_displeased_] ...although, I worry we might already be past that point...{p}...more than half the school she said? Jeez..."
-msgstr "[_danny_s_down_s_sad_s_talk_displeased_] ...aunque, me preocupo que ya podríamos estar más allá de ese punto...{p}...más de la mitad de la escuela que dijo? Jeez..."
+msgstr "[_danny_s_down_s_sad_s_talk_displeased_] ...aunque, me preocupa que ya podamos haber pasado ese punto...{p}...¿dijo más de la mitad del instituto? Jeez..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9435 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_791b212d:
 msgid "[_desiree_] Regardless, I look forward to our day out of the house again tomorrow."
-msgstr "[_desiree_] Sin embargo, espero con impaciencia nuestro día para salir de casa de nuevo mañana."
+msgstr "[_desiree_] Tanto da, espero con impaciencia a mañana para salir fuera de la casa."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9438 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_be6ee5f3:
 msgid "[_danny_s_at_player_s_wondering_s_grin_] (It'll be a nice day, I'm sure, aside from the whole still looming threat of Ember's intent on taking over the town and all that.)"
-msgstr "[_danny_s_at_player_s_wondering_s_grin_] (Será un buen día, estoy seguro, aparte de toda la amenaza que aún se cierne sobre la intención de Ember de tomar la ciudad y todo eso.)"
+msgstr "[_danny_s_at_player_s_wondering_s_grin_] (Será un buen día, estoy seguro, aparte de toda la amenaza que aún se cierne sobre la ciudad por Ember.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9442 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_3f12deee:
 msgid "[_desiree_] Will that be all you require of me this evening Master?"
-msgstr "[_desiree_] ¿Será todo lo que me requieras esta tarde Maestro?"
+msgstr "[_desiree_] ¿Es todo lo que me requerías esta tarde Maestro?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9445 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_0d27a3ed:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] I think that's everything, yeah. Goodnight Desiree."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Creo que eso es todo, si. Deseamiento de Goodnight."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Creo que eso es todo, si. Buenas noches Desiree."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9449 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_ab09b930:
 msgid "[_desiree_] Goodnight Master."
-msgstr "[_desiree_] Maestro de la Buena Noche."
+msgstr "[_desiree_] Buenas noches maestro."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9474 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_4_home_hall_93f3c8c5:
 msgid "[_jack_s_offscreen_s_rise_s_talk_happy_] Oh, Danny! Is that you in the hall?"
-msgstr "[_jack_s_offscreen_s_rise_s_talk_happy_] Oh, ¡Danny! ¿Está usted en la sala?"
+msgstr "[_jack_s_offscreen_s_rise_s_talk_happy_] Oh, ¡Danny! ¿Estás en el pasillo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9476 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_4_home_hall_99a6dcc3:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Yeah Dad. What's up?"
-msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Yeah Dad. ¿Qué pasa?"
+msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Yeah Papá. ¿Qué pasa?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9489 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_4_home_hall_5f07e8b3:
 msgid "[_maddie_s_towards_s_wondering_s_talk_happy_] Kiddo, you won't believe it! We just received a special invite to enjoy a luxury cabin retreat this Saturday up North in the {b}Lake Eerie{/b} district!"
-msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] Kiddo, ¡no lo creerás! ¡Acabamos de recibir una invitación especial para disfrutar de un retiro de cabina de lujo este sábado en el norte en el distrito {b}Lake Eerie{/b}!"
+msgstr "[_maddie_s_towards_s_wondering_s_talk_happy_] chico, ¡no lo creerás! ¡Acabamos de recibir una invitación especial para disfrutar de un retiro de lujo este sábado en el norte, en el {b}Lago Eerie{/b}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9493 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_4_home_hall_6b9bebfe:
 msgid "[_jack_s_closed_s_idle_s_talk_happy_] They have lake fishing too! I'm gonna catch me a whopper!!"
