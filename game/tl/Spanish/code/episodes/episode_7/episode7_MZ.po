@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-09 15:50\n"
+"PO-Revision-Date: 2023-12-09 16:45\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -8986,47 +8986,47 @@ msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_amused_] no lo haré."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11340 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_ce085d5d:
 msgid "[_tucker_s_offscreen_s_closed_s_wondering_s_talk_happy_] SAM! {i}SAMMMM!!{/i} They have beer pong set up in the kitchen!! I'm gonna be unstoppable at this!!"
-msgstr "¡[_tucker_s_offscreen_s_closed_s_wondering_s_talk_happy_] SAM! {i}SAMMM!!{/i} Tienen un pong de cerveza instalado en la cocina!! ¡¡¡¡¡¡¡¡¡¡Estoy inparable en esto!!"
+msgstr "¡[_tucker_s_offscreen_s_closed_s_wondering_s_talk_happy_] ¡SAM! {i}SAMMM!!{/i} Tienen un grifo de cerveza instalado en la cocina!! ¡Voy a ser imparable en alcanzarlo!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11343 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_0e306f77:
 msgid "[_sam_s_co_s_beer_s_towards_s_confused_s_talk_displeased_] ...I better go make sure he doesn't break something in your house..."
-msgstr "[_sam_s_co_s_beer_s_towards_s_confused_s_talk_displeased_] ...Mejor me aseguro de que no rompa algo en tu casa..."
+msgstr "[_sam_s_co_s_beer_s_towards_s_confused_s_talk_displeased_] ...Mejor me aseguro de que no rompa nada en tu casa..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11346 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_0e4656b6:
 msgid "[_sam_s_co_s_beer_s_towards_s_sad_s_talk_happy_] Later, and... good luck."
-msgstr "[_sam_s_co_s_beer_s_towards_s_sad_s_talk_happy_] más tarde, y... buena suerte."
+msgstr "[_sam_s_co_s_beer_s_towards_s_sad_s_talk_happy_] hasta pronto, y... buena suerte."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11349 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_8ee5575f:
 msgid "[_danny_s_phantom_s_towards_s_sad_s_talk_happy_] Later Sam. Thanks."
-msgstr "[_danny_s_phantom_s_towards_s_sad_s_talk_happy_] después de Sam. Gracias."
+msgstr "[_danny_s_phantom_s_towards_s_sad_s_talk_happy_] Hasta pronto Sam. Gracias."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11376 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_05228555:
 msgid "[_dash_s_beer_s_closed_s_idle_s_talk_happy_] DUDE! He {i}actually{/i} came! {i}Faaar{/i} out!!"
-msgstr "¡[_dash_s_beer_s_closed_s_idle_s_talk_happy_] DUDE! ¡Él {i}en realidad{/i} ha llegado! ¡ {i}Faaar{/i} fuera!!"
+msgstr "¡[_dash_s_beer_s_closed_s_idle_s_talk_happy_] Tío! ¡Él y {i}en carne y hueso{/i} ha llegado! ¡¡ {i}venid{/i} todos!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11380 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_32ceecf4:
 msgid "[_dash_s_beer_s_towards_wide_s_idle_s_talk_amused_] Oh man, I'm like, I'm such a big fan of you, Mr. Inviso-Bill, sir!"
-msgstr "[_dash_s_beer_s_towards_wide_s_idle_s_talk_amused_] Oh hombre, soy como un gran fan de ti, señor Inviso-Bill, ¡Señor!"
+msgstr "[_dash_s_beer_s_towards_wide_s_idle_s_talk_amused_] Oh tio, soy gran fan de ti, señor Inviso-Bill, ¡Señor!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11384 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_e88656bf:
 msgid "[_danny_s_phantom_s_towards_s_sad_s_talk_happy_] {i}Uhh{/i}, thanks?{p}Y-yes, thank you! I appreciate every one of my, {i}uhm{/i}... fans."
-msgstr "[_danny_s_phantom_s_towards_s_sad_s_talk_happy_] {i}Uhh{/i}, ¿Gracias?{p}Sí, ¡gracias! Aprecio cada uno de mi, {i}uhm{/i}... fans."
+msgstr "[_danny_s_phantom_s_towards_s_sad_s_talk_happy_] {i}Uhh{/i}, ¿Gracias?{p}S-sí{/p}, ¡gracias! Aprecio cada uno de mis, {i}uhm{/i}... fans."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11388 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_9f397774:
 msgid "[_kwan_s_beer_s_towards_s_rise_s_talk_happy_] {i}HeyyY!{/i} {i}Woahh{/i}, you're like that guy who beats up the creepy molester ghosts, right?"
-msgstr "[_kwan_s_beer_s_towards_s_rise_s_talk_happy_] {i}¡HeyyyY!{/i} {i}Woahh{/i}, eres como ese tipo que pega a los fantasmas de molestas, ¿verdad?"
+msgstr "[_kwan_s_beer_s_towards_s_rise_s_talk_happy_] {i}¡HeyyyY!{/i} {i}Woahh{/i}, te pareces a ese tipo que pega a los fantasmas que molestan, ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11392 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_ea13a97b:
 msgid "[_danny_s_phantom_s_towards_s_neutral_s_talk_amused_] {i}Uhh{/i}, yeah, that's me.{p}More or less."
-msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_amused_] {i}Uhh{/i}, sí, yo soy.{p}más o menos."
+msgstr "[_danny_s_phantom_s_towards_s_neutral_s_talk_amused_] {i}Uhh{/i}, sí, yo soy.{p}más o menos{/p}."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11396 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_e58237ca:
 msgid "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] And how're you, {i}*Ahem*{/i}, \"gentlemen\" doing tonight?"
-msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] ¿Y cómo estás tú, {i}*Ahem*{/i}, \"Señores\" haciendo esta noche?"
+msgstr "[_danny_s_phantom_s_towards_s_wondering_s_talk_happy_] ¿Y cómo están, {i}*Ahem*{/i}, \"Señores\" esta noche?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11400 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_c2ba8f21:
 msgid "[_dash_s_talk_happy_s_beer_] Dude, grab a beer with us!"
-msgstr "[_dash_s_talk_happy_s_beer_] Dude, ¡toma una cerveza con nosotros!"
+msgstr "[_dash_s_talk_happy_s_beer_] tio, ¡toma una cerveza con nosotros!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11410 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_e16772ba:
 msgid "[_danny_s_phantom_s_beer_s_closed_happy_s_sad_s_talk_happy_] Oh, {i}uh{/i}, thank you!"
@@ -9034,75 +9034,75 @@ msgstr "[_danny_s_phantom_s_beer_s_closed_happy_s_sad_s_talk_happy_] Oh, {i}uh{/
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11414 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_912d0ade:
 msgid "[_dash_s_beer_s_towards_s_rise_s_talk_amused_] Man you SEEN the babes here tonight?! I'm dying over here!{p}Gotta be the sick mood lighting Fenturd has set up in this place..."
-msgstr "¡[_dash_s_beer_s_towards_s_rise_s_talk_amused_] ¡Man que has visto a las Bellezas aquí esta noche?! ¡Estoy muriendo aquí!{p}Gotta ser la iluminación de ánimo enferma Fenturd se ha instalado en este lugar..."
+msgstr "¡[_dash_s_beer_s_towards_s_rise_s_talk_amused_] ¡tio ¿has VISTO las Bellezas que hay aquí esta noche?! ¡Me va a dar algo aquí! {p} Debe de ser el aire enfermizo que Fenturd ha dejado pegado en este lugar..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11418 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_5568680d:
 msgid "[_kwan_s_beer_s_down_s_sad_s_talk_displeased_] Dude, do you think I have a chance with Star? She's seemed pretty distant lately..."
-msgstr "[_kwan_s_beer_s_down_s_sad_s_talk_displeased_] Dude, ¿crees que tengo una oportunidad con Star? She's parece bastante lejano últimamente..."
+msgstr "[_kwan_s_beer_s_down_s_sad_s_talk_displeased_] Tio, ¿crees que tengo una oportunidad con Star? Ella parece bastante distante últimamente..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11427 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_dac58ef3:
 msgid "[_dash_s_beer_s_towards_s_rise_s_talk_displeased_] Star? Kwan, that girl's crazy ya' know, and her and Paulina have a real love-hate relationship going on."
-msgstr "¿[_dash_s_beer_s_towards_s_rise_s_talk_displeased_] Star? Kwan, esa jirigida ya sabe, y su y Paulina tienen una verdadera relación de amor y odio en marcha."
+msgstr "¿[_dash_s_beer_s_towards_s_rise_s_talk_displeased_] ¿Star? Kwan, esa locura de chica, ella y Paulina tienen una relación de amor y odio."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11431 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_38ab09bc:
 msgid "[_dash_s_beer_s_towards_s_neutral_s_talk_distraught_] I'd just stay as far away from that as I could. They're {i}this{/i} close to just going all out war with each other."
-msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_distraught_] me quedaría tan lejos de eso como pudiera. Están {i}este{/i} cerca de salir de la guerra entre sí."
+msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_distraught_] me quedaría tan lejos de ellas como pudiera. Están {i}a punto{/i} de estallar en una guerra."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11435 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_e9049ef0:
 msgid "[_kwan_s_beer_s_towards_wide_s_rise_s_talk_happy_] Wait, so it's like \"Mean Girls\"? They're like Mean Girls?"
-msgstr "[_kwan_s_beer_s_towards_wide_s_rise_s_talk_happy_] Espera, así que es como \"Media Girls\"? ¿Son como Media Girls?"
+msgstr "[_kwan_s_beer_s_towards_wide_s_rise_s_talk_happy_] Espera, eso sonó a \"chicas malas\"? ¿Son chicas malas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11439 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_2ab4b716:
 msgid "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] Yeah, dude, exactly! Mean Girls, totally!!"
-msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] Sí, ¡dúde, exactamente! ¡¡¡¡¡Girls, en total!!!"
+msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] Sí, ¡tio, exacto! ¡¡totalmente chicas malas!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11443 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_e4cc5aec:
 msgid "[_dash_s_beer_s_towards_s_rise_s_talk_displeased_] Wait, how do you know about a chick flick like Mean Girls?!"
-msgstr "[_dash_s_beer_s_towards_s_rise_s_talk_displeased_] Espera, ¿cómo sabes sobre un chico como Mean Girls?!"
+msgstr "[_dash_s_beer_s_towards_s_rise_s_talk_displeased_] Espera, ¡¿cómo sabes tú sobre chicas malas?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11447 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_23254e97:
 msgid "[_kwan_s_beer_s_towards_s_sad_s_talk_happy_] It's a pretty good movie, dude!{p}{nw}"
-msgstr "[_kwan_s_beer_s_towards_s_sad_s_talk_happy_] Es una película bastante buena, dude!{p}{nw}"
+msgstr "[_kwan_s_beer_s_towards_s_sad_s_talk_happy_] Es una película bastante buena, tio!{p}{nw}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11451 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_89b3fcee:
 msgid "[_extend_] And how the heck do {i}you{/i} know about it??"
-msgstr "[_extend_] ¿Y cómo la heck do {i}usted {/i} lo sabe??"
+msgstr "[_extend_] ¿¿Y cómo la cojones sabes {i}tú {/i} eso??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11455 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_8b3cf0ab:
 msgid "[_danny_s_phantom_s_beer_s_stare_towards_s_neutral_s_talk_displeased_] Well while you two help each other discover your softer side, I'm gonna go see how everyone else is doing."
-msgstr "[_danny_s_phantom_s_beer_s_stare_towards_s_neutral_s_talk_displeased_] Pues bien, mientras dos se ayudan a descubrir su lado más suave, voy a ir a ver cómo todo el mundo está haciendo."
+msgstr "[_danny_s_phantom_s_beer_s_stare_towards_s_neutral_s_talk_displeased_] Bien, mientras os ayudáis a descubrir vuestro lado más tierno, voy a ir a ver cómo va a todo el mundo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11479 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_dfc03687:
 msgid "[_desiree_] Oh, hey Master..."
-msgstr "[_desiree_] Oh, hey Master..."
+msgstr "[_desiree_] Oh, hey Maestro..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11482 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_4c4f0e5e:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_rise_s_talk_happy_] Hey... what're you doing over here all on your own?"
-msgstr "[_danny_s_phantom_s_beer_s_towards_s_rise_s_talk_happy_] Hey ... ¿qué estás haciendo aquí todo por tu cuenta?"
+msgstr "[_danny_s_phantom_s_beer_s_towards_s_rise_s_talk_happy_] Hey... ¿qué estás haciendo aquí por tu cuenta?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11486 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_5399777a:
 msgid "[_desiree_] {i}Ohh{/i}, Jasmine is just in the bathroom with Paulina and Star. I'm still waiting on her to be polite."
-msgstr "[_desiree_] {i}Ohh{/i}, Jazmín está justo en el cuarto de baño con Paulina y Estrella. Todavía estoy esperando en ella para ser educada."
+msgstr "[_desiree_] {i}Ohh{/i}, Jasmine está en el cuarto de baño con Paulina y Star. Siendo educada, todavía estoy esperando a que salgan."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11489 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_23beb93c:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_wondering_s_talk_displeased_] Geez, what are they doing in there all together? Kinda a small space to be sharing with two other girls, no?"
-msgstr "[_danny_s_phantom_s_beer_s_towards_s_wondering_s_talk_displeased_] Geez, ¿qué están haciendo en todos los juntos? Kinda un pequeño espacio para compartir con otras dos chicas, ¿no?"
+msgstr "[_danny_s_phantom_s_beer_s_towards_s_wondering_s_talk_displeased_] Geez, ¿qué están haciendo todas juntas? puede que tener su pequeño espacio para compartir cosas entre chicas, ¿no crees?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11493 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_23c411cc:
 msgid "[_desiree_] Well, last I checked, they were bathing each other naked, making certain each of their bodies were properly soaked and sudsed up thoroughly..."
-msgstr "[_desiree_] Bueno, la última vez que revisé, se estaban bañando desnudos, haciendo que cada uno de sus cuerpos estuviese correctamente empapado y repentinamente meticulosamente..."
+msgstr "[_desiree_] Bueno, la última vez que revisé, se estaban bañando desnudas, dejando ciertas partes de su cuerpo adecuadamente empapadas y enjabonándose meticulosamente..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11496 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_b8bd0cf9:
 msgid "[_danny_s_phantom_s_beer_s_towards_wide_s_rise_s_talk_amused_] ...y-you're kidding, right?"
-msgstr "[_danny_s_phantom_s_beer_s_towards_wide_s_rise_s_talk_amused_] ...y-estás bromeando, ¿verdad?"
+msgstr "[_danny_s_phantom_s_beer_s_towards_wide_s_rise_s_talk_amused_] ...e-estás bromeando, ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11500 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_5bbdfa47:
 msgid "[_desiree_] Of course, you simple knuckle dragger! {i}*Chuckles*{/i} They're merely re-applying their dreadful hair and makeup a bit, like any young women their age... Jasmine is splashing some water on her face to stay more alert and attentive, I believe."
-msgstr "[_desiree_] Por supuesto, usted simple knuckle dragger! {i}*Chuckles * {/i} Simplemente están volviendo a aplicar su horrible cabello y maquillaje un poco, como cualquier joven mujer de su edad ... Jasmine está salpicando algo de agua en su cara para mantenerse más alerta y atenta, creo."
+msgstr "[_desiree_] Por supuesto, cavernícola! {i}*risas* {/i} Están peinando su horrible cabello y poniéndose maquillaje, como cualquier joven mujer de su edad... Jasmine se está mojando la cara con agua para mantenerse despierta, alerta y atenta, creo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11503 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_6d4d4425:
 msgid "[_danny_s_phantom_s_beer_s_closed_happy_s_sad_s_talk_happy_] {i}Phew!{/i} Okay, you- you actually may have had me going there for a second."
-msgstr "[_danny_s_phantom_s_beer_s_closed_happy_s_sad_s_talk_happy_] {i}¡Phew!{/i} Vale, tú- es posible que me hayas tenido yendo allí por un segundo."
+msgstr "[_danny_s_phantom_s_beer_s_closed_happy_s_sad_s_talk_happy_] {i}¡Phew!{/i} Vale, t-tú casi me haces ir allí por un segundo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11507 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_5971ab62:
 msgid "[_desiree_] ..."
@@ -9114,7 +9114,7 @@ msgstr "[_danny_s_phantom_s_beer_s_down_s_sad_s_smile_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11514 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_5ae3d8b3:
 msgid "[_desiree_] {i}*Ahem*{/i} ...so, when the girls do return, we shall have to start feigning our act of trying to seduce each other, remember?."
-msgstr "[_desiree_] {i}*Ahem * {/i} ... así que, cuando las niñas vuelvan, tendremos que empezar a fingir nuestro acto de tratar de seducirse, ¿recuerdan?."
+msgstr "[_desiree_] {i}*Ahem * {/i} ... entonces, cuando las chicas vuelvan, tendremos que empezar a fingir nuestro acto de intento de seducción, ¿recuerda?."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11517 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_32396c78:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_unhappy_s_talk_displeased_] Huh? Oh, yeah, right, that's the plan..."
@@ -9138,7 +9138,7 @@ msgstr "[_danny_s_phantom_s_beer_s_towards_s_neutral_s_talk_displeased_] I -"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11550 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_3c18e592:
 msgid "[_dash_s_beer_s_towards_wide_s_angry_s_talk_amused_] DUDE!!{p}DRINKING GAMES!!"
-msgstr "[_dash_s_beer_s_towards_wide_s_angry_s_talk_amused_] DUDE!!{p}¡JUEGOS DE BEBIDA!!"
+msgstr "[_dash_s_beer_s_towards_wide_s_angry_s_talk_amused_] ¡¡Tío!!{p}¡JUEGOS DE BEBER!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11555 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_1cce187b:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_rise_s_talk_displeased_] H-huh?"
@@ -9146,11 +9146,11 @@ msgstr "¿[_danny_s_phantom_s_beer_s_towards_s_rise_s_talk_displeased_] H-huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11560 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_3b02417b:
 msgid "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] Drinking games, buddy!! They reveal your most inner, personal secrets amongst your friends!"
-msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] ¡Juegos, amigos!! ¡Te revelan tus secretos personales más interiores entre tus amigos!"
+msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] ¡Juegos de beber, amigos!! ¡revelan sus secretos personales más profundas a sus amistades!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11565 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_3dba944e:
 msgid "[_kwan_s_beer_s_towards_s_neutral_s_talk_happy_] We're all gonna play truth or dare! You guys gonna join?"
-msgstr "[_kwan_s_beer_s_towards_s_neutral_s_talk_happy_] ¡Todos vamos a jugar a la verdad o atrevernos! ¿Ustedes van a unirse?"
+msgstr "[_kwan_s_beer_s_towards_s_neutral_s_talk_happy_] ¡vamos a jugar a la verdad o atrevimiento! ¿os apuntáis?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11571 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_9cb42abf:
 msgid "[_desiree_] I'm sure these juvenile festivities can wait until we're done speaking to-"
@@ -9162,39 +9162,39 @@ msgstr "[_star_s_offscreen_s_beer_s_at_player_s_angry_s_talk_happy_] ¿ALGUIEN D
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11594 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_4841fb8d:
 msgid "[_paulina_s_beer_s_towards_s_rise_s_talk_amused_] {i}Oooh{/i}, what are we playing? I {u}love{/u} games!!"
-msgstr "[_paulina_s_beer_s_towards_s_rise_s_talk_amused_] {i}Oooh {/i}, ¿qué estamos jugando? I {u}amor {/u} juegos!!"
+msgstr "[_paulina_s_beer_s_towards_s_rise_s_talk_amused_] {i}Oooh {/i}, ¿a qué estan jugando? ¡¡{u}amo los {/u} juegos!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11601 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_c4547857:
 msgid "[_kwan_s_beer_s_towards_s_angry_s_talk_amused_] Truth or dare!!"
-msgstr "[_kwan_s_beer_s_towards_s_angry_s_talk_amused_] la verdad o se atreve!!"
+msgstr "[_kwan_s_beer_s_towards_s_angry_s_talk_amused_] ¡¡verdad o atrevimiento!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11608 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_e177dfa1:
 msgid "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] Every round someone has to take a shot."
-msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] Cada ronda alguien tiene que tomar un tiro."
+msgstr "[_dash_s_beer_s_towards_s_neutral_s_talk_amused_] En cada ronda alguien hace algo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11615 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_d1435ae7:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_neutral_s_talk_distraught_] {i}Uhhh{/i}, hey, human friends, I'm not sure if I'm really in the mood to get blackout drunk playing some silly games."
-msgstr "[_danny_s_phantom_s_beer_s_towards_s_neutral_s_talk_distraught_] {i}Uhhh{/i}, hey, amigos humanos, no estoy seguro de si realmente estoy de ánimo para que el borracho pueda jugar algunos juegos tontos."
+msgstr "[_danny_s_phantom_s_beer_s_towards_s_neutral_s_talk_distraught_] {i}Uhhh{/i}, hey, amigos humanos, no estoy seguro de si realmente estoy de ánimo para desmayarme borracho jugando a unos juegos tontos."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11622 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_648d52b4:
 msgid "[_danny_s_phantom_s_beer_s_at_player_s_angry_s_clenchteeth_] (My plan kinda dictates I {u}don't{/u} get blackout drunk...)"
-msgstr "[_danny_s_phantom_s_beer_s_at_player_s_angry_s_clenchteeth_] (Mi plan kinda dicta I {u}don t t {/u} se encuentra borracho ...)"
+msgstr "[_danny_s_phantom_s_beer_s_at_player_s_angry_s_clenchteeth_] (Mi plan dicta {u}no {/u} te desmayes borracho...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11629 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_9d36da96:
 msgid "[_dash_s_beer_s_towards_s_sad_s_talk_happy_] No way dude! You totally gotta play! Along with your hot girlfriend!"
-msgstr "¡[_dash_s_beer_s_towards_s_sad_s_talk_happy_] no tienes nada que hacer! ¡Tú totalmente tienes que jugar! ¡Junto con tu amiga calurosa!"
+msgstr "¡[_dash_s_beer_s_towards_s_sad_s_talk_happy_] ¡no tienes nada que decir! ¡Tú tienes que jugar! ¡Junto con tu novia!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11636 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_690f4095:
 msgid "[_paulina_s_beer_s_towards_s_angry_s_talk_distraught_] She's {u}not{/u} his girlfriend!"
-msgstr "[_paulina_s_beer_s_towards_s_angry_s_talk_distraught_] ¡Ve {u}no{/u} a su amigo!"
+msgstr "[_paulina_s_beer_s_towards_s_angry_s_talk_distraught_] ¡Ella {u}no{/u} es su novia!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11643 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_46dfcdca:
 msgid "[_star_s_beer_s_towards_s_angry_s_talk_distraught_] Yeah, she's not his girl!"
-msgstr "[_star_s_beer_s_towards_s_angry_s_talk_distraught_] Sí, no es su chica!"
+msgstr "[_star_s_beer_s_towards_s_angry_s_talk_distraught_] Sí, no es su novia!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11651 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_5369fdb1:
 msgid "[_desiree_] {i}*Blushing*{/i} G-girlfriend? No, please, now whoever said that..."
-msgstr "[_desiree_] {i}*Blushing*{/i} G-girlfriend? No, por favor, ahora quien haya dicho eso..."
+msgstr "[_desiree_] {i}*Sonrojada*{/i} ¿N-novia? No, por favor, a quien haya dicho eso..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11659 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_f82cc235:
 msgid "[_desiree_] Although, it does sound like an {i}interesting{/i} proposition..."
@@ -9206,11 +9206,11 @@ msgstr "[_dash_s_beer_s_towards_s_idle_s_talk_amused_] ¡Los chicos de c'mon, no
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11673 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_0ff49e1a:
 msgid "[_dash_s_beer_s_towards_s_angry_s_talk_happy_] ...and especially since Fenton's paying for everything, we gotta drink all his booze while we can!"
-msgstr "[_dash_s_beer_s_towards_s_angry_s_talk_happy_] ...y especialmente desde que Fentón paga por todo, ¡tenemos que beber todo su booze mientras podemos!"
+msgstr "[_dash_s_beer_s_towards_s_angry_s_talk_happy_] ...y especialmente desde que Fentón paga por todo, ¡tenemos que beber todo su aguardiente mientras podamos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11681 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_c14df255:
 msgid "[_desiree_] {i}Hmmm{/i}... well, I suppose one round couldn't hurt, right?"
-msgstr "[_desiree_] {i}Hmmm{/i}... bueno, supongo que una ronda no pudo dañar, ¿verdad?"
+msgstr "[_desiree_] {i}Hmmm{/i}... bueno, supongo que una ronda no puede hacer daño, ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11688 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_c9798722:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_sad_s_talk_displeased_] Des..."
@@ -9218,47 +9218,47 @@ msgstr "[_danny_s_phantom_s_beer_s_towards_s_sad_s_talk_displeased_] Des..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11695 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_30381f91:
 msgid "[_paulina_s_beer_s_towards_s_wondering_s_talk_happy_] Come on Ghost Boy, it would be so much fun to really get to know each other! We have our {i}own{/i} little business to discuss soon."
-msgstr "[_paulina_s_beer_s_towards_s_wondering_s_talk_happy_] ¡Ven a Ghost Boy, sería muy divertido realmente llegar a conocerse! Tenemos nuestro {i}propio {/i} poco negocio para discutir pronto."
+msgstr "[_paulina_s_beer_s_towards_s_wondering_s_talk_happy_] ¡Vamos chico fantasma!, sería muy divertido llegar a conocerte! Tenemos nuestro {i}propio {/i} pequeño negocio que discutir pronto."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11702 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_3b076178:
 msgid "[_star_s_beer_s_towards_s_angry_s_talk_happy_] My turn first to ask questions!!"
-msgstr "[_star_s_beer_s_towards_s_angry_s_talk_happy_] Mi turno primero para hacer preguntas!!"
+msgstr "[_star_s_beer_s_towards_s_angry_s_talk_happy_] ¡¡Mi turno primero para hacer preguntas!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11709 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_2dd8f4ad:
 msgid "[_danny_s_phantom_s_beer_s_at_player_s_rise_s_grin_] (Well... I guess so... how bad could a couple drinking games get?)"
-msgstr "[_danny_s_phantom_s_beer_s_at_player_s_rise_s_grin_] (Bueno... Supongo que... ¿cuán mal podría llegar un par de juegos para beber?)"
+msgstr "[_danny_s_phantom_s_beer_s_at_player_s_rise_s_grin_] (Bueno... Supongo que... ¿cuánto mal podría llegar a hacer un juego para beber?)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11739 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_bca9ce54:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_distraught_] (Oh man... my head... where... where is everyone?)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_distraught_] (Oh hombre... mi cabeza... dónde... ¿dónde está todo?)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_distraught_] (Oh tio... mi cabeza... dónde... ¿dónde está todo el mundo?)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11741 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_3fd123a1:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_smile_] (Man... thank goodness I didn't turn back to normal while I was passed out! That would've been bad...)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_smile_] (Hombre ... ¡gracias a Dios no volví a la normalidad mientras me desmayé! Eso habría sido malo ...)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_smile_] (tio... ¡gracias a Dios no volví a la normalidad mientras me desmayé! Eso habría sido malo...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11743 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_2b60cad1:
 msgid "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_unhappy_s_displeased_] (I've got this gnarly headache, but... I kinda feel stone cold sober still? Which is crazy, cause I know everyone wanted me to do shots...)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_unhappy_s_displeased_] (Tengo este dolor de cabeza gnaliente, pero... ¿Me gusta la piedra fría aún? ¿Cuál es la locura, porque sé que todo el mundo quería que hiciera tiros...)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_unhappy_s_displeased_] (Tengo este dolor de cabeza, pero... ¿Me gusta el suelo frío aún? Valla locura, ahora sé por qué todo el mundo quería que participara...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11745 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_6069709e:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_displeased_] (Must be because the ghost half of me's not getting drunk... but the human half's still feeling the headache... oh well, it's getting better...)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_displeased_] (Debe ser porque la mitad fantasma de mí no se está embriagando... pero la mitad humana todavía siente la cabeza... bueno, está mejorando...)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_displeased_] (Debe ser porque la mitad fantasma de mí no se está borracha... pero a la mitad humana todavía le duele cabeza... bueno, está mejorando...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11747 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_d4411706:
 msgid "[_danny_s_phantom_s_arms_normal_s_stare_towards_s_unhappy_s_consternation_] ({i}Ugh{/i}... man, this place is a mess though... not many people still around it seems...)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_stare_towards_s_unhappy_s_consternation_] ({i}Ugh{/i}... hombre, este lugar es un lío aunque... no mucha gente todavía parece a su alrededor...)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_stare_towards_s_unhappy_s_consternation_] ({i}Ugh{/i}... tio, este lugar es un lío aunque... no parece haber mucha gente aquí...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11749 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_ba820bdb:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_consternation_] (Better try and find out where everybody who stuck around are currently at...)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_consternation_] (Better try and find out where everybody who stuck around are currently at ...)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_consternation_] (Es mejor que intente averiguar dónde están todos los que faltan...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11769 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_90d93a6d:
 msgid "[_sam_s_co_s_beer_s_towards_s_sad_s_talk_happy_] ...ya' know, y-you're alright Tucker! {i}*Hiccup*{/i} One day, you'll find a nice floozy schmuck who will wanna spend the rest of their life with you."
-msgstr "[_sam_s_co_s_beer_s_towards_s_sad_s_talk_happy_] ... a' sabe, y-estás muy bien Tucker! {i}*Hiccup*{/i} Un día, encontrarás un buen chicle que querrá pasar el resto de su vida contigo."
+msgstr "[_sam_s_co_s_beer_s_towards_s_sad_s_talk_happy_] ... ya sabws,t-tu estás muy bien Tucker! {i}*Hiccup*{/i} Un día, encontrarás un buen chicle que querrá pasar el resto de su vida contigo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11772 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_e4a08137:
 msgid "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] Y-you... you really mean that? Dang, Sam... you're a true friend... ya' know, if it wasn't for you and Danny, I'd probably wanna..."
-msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] Y-tú... ¿realmente quieres decir eso? Dang, Sam... eres un verdadero amigo... ya sabes, si no era para ti y Danny, probablemente querría..."
+msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] t-tú... ¿quieres decir? Dang, Sam... eres una verdadera amiga... ya sabes, si no fuera porque eres tú y Danny, yo probablemente querría..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11775 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_7a63bee5:
 msgid "[_tucker_s_beer_s_towards_s_sad_s_talk_displeased_] {i}Uhhh{/i}... I don't know! What was I even saying?"
@@ -9266,15 +9266,15 @@ msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_displeased_] {i}Uhh{/i}... ¡No l
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11778 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_c61be38a:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_amused_] I dunno, probably sumpin' smart though."
-msgstr "[_sam_s_co_s_towards_s_confused_s_talk_amused_] I dunno, probablemente resuma inteligente."
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_amused_] No sé, probablemente algo inteligente."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11781 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_e21ec517:
 msgid "[_tucker_s_beer_s_towards_s_wondering_s_talk_happy_] {i}Ohhh{/i}, {i}you{/i}. You're a pal, Ms. Manson."
-msgstr "[_tucker_s_beer_s_towards_s_wondering_s_talk_happy_] {i}Ohhh {/i}, {i}usted {/i}. Eres un pal, Sra. Manson."
+msgstr "[_tucker_s_beer_s_towards_s_wondering_s_talk_happy_] {i}Ohhh {/i}, {i}usted {/i}. Eres una camarada, Srta. Manson."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11790 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_e411aa3b:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_idle_s_talk_happy_] {i}Uhh{/i}, hey guys? Have you seen where Des and the other girls went?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_idle_s_talk_happy_] {i}Uhh{/i}, ¿hey chicos? ¿Has visto a dónde iban Des y las otras niñas?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_idle_s_talk_happy_] {i}Uhh{/i}, ¿hey chicos? ¿Habéis visto a dónde han ido Des y las otras chicas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11819 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_61fc8f90:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_amused_s_blush_] {i}Whoa!{/i} Sam!"
@@ -9282,39 +9282,39 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_amused_s_bl
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11822 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_25b7e59a:
 msgid "[_sam_s_co_s_beer_s_towards_s_wondering_s_talk_excited_s_blush_] {i}*Hiccup*{/i} Ohhh, yeah, sorry... I just wanted to do that, {i}*Hiccup*{/i} ...just so everyone could see."
-msgstr "[_sam_s_co_s_beer_s_towards_s_wondering_s_talk_excited_s_blush_] {i}*Hiccup*{/i} Ohhh, sí, lo siento... Solo quería hacer eso, {i}*Hiccup*{/i} ...solo para que todo el mundo pudiera ver."
+msgstr "[_sam_s_co_s_beer_s_towards_s_wondering_s_talk_excited_s_blush_] {i}*Hiccup*{/i} Ohhh, sí, lo siento... Solo quería hacerlo, {i}*Hiccup*{/i} ...solo para que todo el mundo lo pudiera ver."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11825 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_b06971cf:
 msgid "[_sam_s_co_s_beer_s_closed_s_angry_s_talk_excited_s_-blush_] You see that people?! I kissed Inviso-Bill first!!"
-msgstr "[_sam_s_co_s_beer_s_closed_s_angry_s_talk_excited_s_-blush_] ¿Ves a esa gente?! ¡¡¡¡Beso a Inviso-Bill primero!!"
+msgstr "[_sam_s_co_s_beer_s_closed_s_angry_s_talk_excited_s_-blush_] ¿Veis gente?! ¡¡¡¡Besé a Inviso-Bill la primera!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11829 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_5a41f9b8:
 msgid "[_tucker_s_beer_s_towards_s_talk_happy_] Woohoo! You go girl! Claim your territory!"
-msgstr "[_tucker_s_beer_s_towards_s_talk_happy_] ¡Woohoo! ¡Te vas chica! ¡Reclama tu territorio!"
+msgstr "[_tucker_s_beer_s_towards_s_talk_happy_] ¡Woohoo! ¡Lo hiciste chica! ¡Reclamaste tu territorio!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11833 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_a37c700b:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] Guys, c'mon, stop! I'm trying to keep a low profile on this one."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] chicos, c'mon, ¡parada! Estoy tratando de mantener un perfil bajo en este."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_happy_] chicos, vamos, ¡parad! Estoy tratando de mantener un perfil."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11837 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_c98931e0:
 msgid "[_tucker_s_beer_s_towards_s_sad_s_talk_displeased_] Kinda hard for that to happen, dude. You're a ghost hanging around a bunch of drunk High School Seniors."
-msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_displeased_] Kinda difícil para que eso suceda, dado. Eres un fantasma colgando alrededor de un montón de sensores de la escuela secundaria."
+msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_displeased_] algo difícil de que pase, tio. Eres un fantasma paseando entre un montón de sensores borrachos de instituto."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11841 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_34682127:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] I'll be back later guys, try to take it easy. Watch out for Sam, Tuck. Make sure she gets home safe."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Volveré más tarde a los chicos, trate de tomárselo fácilmente. Cuidado con Sam, Tuck. Asegúrese de que se vuelve a casa a salvo."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Volveré más tarde chicos, tratad de tomárlo con calma. Cuidad a Sam, Tuck. Asegúrate de que se vuelve a casa a salvo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11845 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_0c76a3e0:
 msgid "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] You betcha. Awesome party man."
-msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] Tú betcha. Impresionante hombre de la fiesta."
+msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] Misión cumplida. Epicentro de la fiesta."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11849 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_be338a5f:
 msgid "[_sam_s_co_s_towards_s_angry_s_talk_displeased_] {i}Nooooo{/i}, I don' wunna' go home {i}yeeet!!{/i}"
-msgstr "[_sam_s_co_s_towards_s_angry_s_talk_displeased_] {i}Nooooo{/i}, no me fui a casa {i}yeeet!!{/i}"
+msgstr "[_sam_s_co_s_towards_s_angry_s_talk_displeased_] {i}¡¡Nooooo{/i}, no quiero ir a casa {i}aunnnnn!!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11853 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_sam_tucker_drunk_5bcd7eae:
 msgid "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] {i}Ahhh{/i}, c'mon now miss lightweight, I can tell you've already reached your limit for the night. Let's get home, 'kay kiddo?"
-msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] {i}Ahhh{/i}, c'mon ahora olvida ligero, puedo decir que ya has alcanzado tu límite para la noche. Vamos a casa, 'kay kiddo?"
+msgstr "[_tucker_s_beer_s_towards_s_sad_s_talk_happy_] {i}Ahhh{/i}, vamos no te pongas pesada, puedo decir que ya has alcanzado tu límite para esta noche. Vamos a casa, ¿'vale chica?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11869 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_dash_kwan_drunk_ed2406f3:
 msgid "[_dash_s_beer_s_towards_wide_s_rise_s_talk_happy_] It's like, ya' know... if you think about it, like... if like aliens invaded, right? You think they'd have hot babes too?"
