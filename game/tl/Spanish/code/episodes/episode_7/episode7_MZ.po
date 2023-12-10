@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-10 22:01\n"
+"PO-Revision-Date: 2023-12-10 22:59\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -10186,39 +10186,39 @@ msgstr "[_danny_s_boxers_s_down_s_unhappy_s_talk_displeased_] No, yeah, está bi
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13053 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_46a6c5c2:
 msgid "[_maddie_s_towards_s_rise_s_talk_consternation_] We need to have a {u}serious{/u} talk about what you think is appropriate to do when your father and I aren't around to supervise you two!{p}I mean, just the pure, utter, lack of respect for our wishes, that you would think it was in {i}any{/i} way alright to-"
-msgstr "[_maddie_s_towards_s_rise_s_talk_consternation_] Tenemos que tener un {u}serio {/u} hablar de lo que usted piensa que es apropiado hacer cuando su padre y yo no estamos cerca de supervisarlos dos!{p}Quiero decir, sólo el puro, total, falta de respeto por nuestros deseos, que usted pensaría que fue en {i}cualquier {/i} manera de"
+msgstr "[_maddie_s_towards_s_rise_s_talk_consternation_] Tenemos que tener una {u}seria{/u} charla de lo que tú piensas que és apropiado hacer cuando tu padre y yo no estamos cerca para supervisaros! {p}Quiero decir{/p}, solo, la total falta de respeto por nuestros deseos, que tu podrías haber pensado en {i}cualquier {/i} elección de"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13057 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_e4ff55d8:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahhhh{/i}, Maddie, c'mon now! When things like this happen, we can't go crying over spilt milk. Boys will be boys after all, and Jazz was certainly no better."
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahhhh{/i}, ¡Maddie, c'mon ahora! Cuando cosas como esto suceden, no podemos llorar por la leche derramada. Después de todo, los chicos serán muchachos y el Jazz no ha sido ciertamente mejor."
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahhhh{/i}, ¡Maddie, ¡vamos! Cuando cosas como estas suceden, no podemos llorar por la leche derramada. Después de todo, los chicos son chicos y Jazz no ha sido mejor."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13061 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_7a98a464:
 msgid "[_maddie_s_away_s_angry_s_talk_displeased_] It was still {i}majorly{/i} irresponsible of him, Jack! He didn't tell us what he was planning, he both bought {i}and{/i} served alcohol when he's not of age, and he had... who {u}knows{/u} what else kind of \"tomfoolery\" occurring!"
-msgstr "[_maddie_s_away_s_angry_s_talk_displeased_] Todavía era {i}mayoritariamente{/i} irresponsable de él, ¡Jack! No nos dijo lo que estaba planeando, compró {i}y {/i} servía alcohol cuando no tenía edad, y lo tenía. . ¡quién {u}sabe{/u} qué otra clase de \"tomfoolery\" ocurre!"
+msgstr "[_maddie_s_away_s_angry_s_talk_displeased_] ¡Fue {i}mayoritariamente{/i} irresponsabilidad de él, Jack! No nos dijo lo que estaba planeando, compró {i}y {/i} sirvió alcohol cuando no tenía edad, y tuvo... ¡quién {u}sabe{/u} qué otra clase de \"triquiñuela\" ocurrió!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13065 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_82024390:
 msgid "[_maddie_s_away_s_sad_s_talk_consternation_] And not to mention that a lot of people could have been hurt! I mean, we can thank our lucky stripes there {i}weren't{/i} any serious injuries {i}this{/i} time, but-"
-msgstr "[_maddie_s_away_s_sad_s_talk_consternation_] Y por no mencionar que mucha gente podría haber resultado lastimada! Quiero decir, podemos dar las gracias a nuestras franjas de la suerte allí {i}han't{/i} cualquier daño grave {i}esto{/i} tiempo, per-"
+msgstr "[_maddie_s_away_s_sad_s_talk_consternation_] Y por no mencionar que mucha gente podría haber resultado lastimada! Quiero decir, podemos dar las gracias a nuestra suerte de no {i}haber{/i} salido dañados gravemente {i}esta{/i} vez, per-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13069 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_c1837801:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] {i}*Scoff*{/i} Oh, now how is {i}that{/i} being fair, Maddie? The boy didn't know we'd have a horrifically ghastly lake monster attacking the house!"
-msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] {i}*Canciones*{/i} Oh, ahora ¿cómo está siendo justa {i}que{/i}, Maddie? El muchacho no sabía que teníamos un monstruo del lago horrificamente atacando la casa!"
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] {i}*risas*{/i} Oh, ¿cómo está {i}esto{/i}siendo justo Maddie? El chico no sabía que tendríamos un monstruo del lago atacando la casa!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13073 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_29daf009:
 msgid "[_jack_s_closed_s_neutral_s_talk_happy_] Oh, that's right! You won't believe it, Danny! But your old man stopped a giant lake ghost right on our front steps!"
-msgstr "[_jack_s_closed_s_neutral_s_talk_happy_] ¡Oh, está bien! ¡No lo creerás, Danny! ¡Pero tu anciano detuvo a un fantasma gigante del lago justo en nuestros primeros pasos!"
+msgstr "[_jack_s_closed_s_neutral_s_talk_happy_] ¡Oh, está bien! ¡No lo creerás, Danny! ¡Pero tu viejo padre detuvo a un fantasma gigante del lago al principio!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13077 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_482e389a:
 msgid "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] You did, did you...?"
-msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] Tú lo hiciste...?"
+msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] ¿Tú lo hiciste...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13081 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_aa0be31e:
 msgid "[_maddie_s_towards_s_confused_s_talk_displeased_] Yes, well, you had apparently fallen asleep through the whole incident... Jazz said she couldn't find you, but when we looked, you were right here in bed."
-msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Sí, bien, al parecer usted se había quedado dormido durante todo el incidente. . Jazz dijo que no te encontraba, pero cuando miramos, estabas aquí en la cama."
+msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] Sí, bien, al parecer te quedaste dormido durante todo el incidente.. Jazz dijo que no te encontraba, pero cuando miramos, estabas aquí en la cama."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13085 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_094f0d48:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] We just figured we'd let you sleep the drink off and have this discussion in the morning."
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Acabamos de averiguar que te permitiremos dormir la bebida y discutir esta cuestión por la mañana."
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Nos figuramos que debes dormir y pasar la borrachera para discutir esto mañana."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13089 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_c351b801:
 msgid "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] Well, thanks, I do appreciate that."
@@ -10226,27 +10226,27 @@ msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] Bueno, gracias, lo aprec
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13093 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_4818b71f:
 msgid "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] I wanna say that I'm sorry you guys, I didn't think things would get so out of hand... it was only meant to be a couple of friends."
-msgstr "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] Quiero decir que siento que tus chicos, no pensé que las cosas se estarían tan fuera de mano. . Se suponía que solo iba a ser un par de amigos."
+msgstr "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] Quiero decir que lo siento, no pensé que las cosas se irían tanto de la mano. Se suponía que solo iban a ser un par de amigos."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13097 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_415a83a5:
 msgid "[_jack_s_towards_s_rise_s_talk_happy_] Champ, just make sure when you throw a party next time, you run it by us first okay?"
-msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Campamento, solo asegúrate de que cuando lances una fiesta la próxima vez, ¿la llevas a cabo por nosotros primero?"
+msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Campeón, solo asegúrate de que cuando hagas una fiesta la próxima vez, consulta antes con nosotros ¿ok?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13101 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_84af2489:
 msgid "[_maddie_s_towards_s_confused_s_talk_displeased_] {i}*Sigh*{/i} Why on Earth did you even feel the {u}need{/u} to throw one?? That just has never been your MO, so this whole thing has just completely surprised me!"
-msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] {i}*Sigh * {/i} ¿Por qué en la Tierra incluso sintió que el {u}necesita {/u} para lanzar uno?? ¡Eso no ha sido nunca su MO, así que todo este asunto me ha sorprendido completamente!"
+msgstr "[_maddie_s_towards_s_confused_s_talk_displeased_] {i}*Suspiro* {/i} ¿Por qué no sintió la {u}necesidad {/u} de consultarme?? ¡Eso no ha sido nunca tu FO-, todo este asunto me ha sorprendido completamente!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13105 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_13226f70:
 msgid "[_danny_s_boxers_s_at_player_s_rise_s_consternation_] (Better think fast on this one!)"
-msgstr "[_danny_s_boxers_s_at_player_s_rise_s_consternation_] (¡Mejor pensar rápido en este!)"
+msgstr "[_danny_s_boxers_s_at_player_s_rise_s_consternation_] (¡Mejor pensar rápido!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13109 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_fd92a3e5:
 msgid "[_danny_s_boxers_s_towards_s_rise_s_talk_consternation_] ...I just thought it might help me... make some new friends?"
-msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_consternation_] ...Acabo de pensar que podría ayudarme... hacer nuevos amigos?"
+msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_consternation_] ...Pensé que podría ayudarme... ¿a hacer nuevos amigos?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13113 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_a0b6f780:
 msgid "[_maddie_s_towards_s_sad_s_talk_displeased_] ...oh Danny, throwing big \"ragers\" isn't going to make you friends. It's going to make you freeloaders to have to deal with."
-msgstr "[_maddie_s_towards_s_sad_s_talk_displeased_] ...oh Danny, lanzar grandes \"furiosos\" no te harán amigos. Te va a hacer freeloaders para tener que lidiar."
+msgstr "[_maddie_s_towards_s_sad_s_talk_displeased_] ...oh Danny, hacer grandes \"fiestas\" no te dará amigos. Te va a traer grandes gorrones con los que lidiar."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13117 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_9b55b0d6:
 msgid "[_maddie_s_towards_s_sad_s_talk_happy_] And since when did you need more friends? Tucker and Sam have been great friends to you for years now."
@@ -10254,11 +10254,11 @@ msgstr "[_maddie_s_towards_s_sad_s_talk_happy_] ¿Y desde cuándo necesitaste m�
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13121 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_421977eb:
 msgid "[_danny_s_boxers_s_down_s_unhappy_s_talk_displeased_] I dunno, it just seemed like a good idea to broaden my horizons. It's my last year of school after all."
-msgstr "[_danny_s_boxers_s_down_s_unhappy_s_talk_displeased_] Dunno, me pareció una buena idea ampliar mis horizontes. Después de todo, es mi último año escolar."
+msgstr "[_danny_s_boxers_s_down_s_unhappy_s_talk_displeased_] me pareció una buena idea ampliar mis horizontes. Después de todo, es mi último año del instituto."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13125 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_4c83ad73:
 msgid "[_jack_s_towards_s_rise_s_talk_happy_] Well, you and Jasmine can broaden your cleaning horizons with some clean-up duty the rest of the day after this little stunt!"
-msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Bueno, tú y jazmín puedes ampliar tus horizontes de limpieza con algo de limpieza el resto del día después de este pequeño aturdimiento!"
+msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Bueno, ¡después de este jaleo tú y Jasmine podéis ampliar horizontes de limpieza limpiando el resto del día!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13129 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_b1e65f7b:
 msgid "[_danny_s_boxers_s_at_player_s_unhappy_s_consternation_] ..."
@@ -10270,23 +10270,23 @@ msgstr "[_maddie_s_towards_s_confused_s_displeased_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13137 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_19bee611:
 msgid "[_jack_s_towards_s_confused_s_talk_happy_] ...did that turn of phrase make any sense to you, gang?"
-msgstr "[_jack_s_towards_s_confused_s_talk_happy_] ...¿ese giro de la frase tiene algún sentido para ti, gang?"
+msgstr "[_jack_s_towards_s_confused_s_talk_happy_] ...¿ese juego de palabras tiene algún sentido para ti, ¿chaval?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13141 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_500deb06:
 msgid "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] ...{i}ehhh{/i}, I got the idea."
-msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] ...{i}ehhh{/i}, tuve la idea."
+msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] ...{i}ehhh{/i}, pillo la idea."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13145 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_0b7f33ac:
 msgid "[_maddie_s_away_s_sad_s_talk_happy_] Yeah more or less it came across."
-msgstr "[_maddie_s_away_s_sad_s_talk_happy_] Sí más o menos se encontró."
+msgstr "[_maddie_s_away_s_sad_s_talk_happy_] Sí, más o menos todo lo sucio."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13149 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_d1c9de2f:
 msgid "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] And again, I'm sorry I let you guys down."
-msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] Y otra vez, siento que te deje a chicles."
+msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] Y otra vez, siento haberos preocupado."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13153 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_c25f7818:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahhh{/i}, don't beat yourself up too much, sport. Nothing got set on fire, everything can be cleaned up and tidied and nobody got seriously hurt from that monster, so that's all that matters."
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahhh{/i}, no te derrotes demasiado, sport. Nada se puso en fuego, todo se puede limpiar y cansar y nadie se hizo gravemente daño de ese monstruo, así que eso es todo lo que importa."
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahhh{/i}, no seas tan duro contigo, campeón. Nada se quemó, todo se puede limpiar y secar y nadie se hizo gravemente daño por ese monstruo, eso es todo lo que importa."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13157 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_02d93226:
 msgid "[_jack_s_closed_s_sad_s_talk_displeased_] ...well, besides my clavicle..."
@@ -10294,15 +10294,15 @@ msgstr "[_jack_s_closed_s_sad_s_talk_displeased_] ...bueno, además de mi claví
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13161 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_c6564fc9:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] ...{i}oof{/i}, that still smarts. I think I'm going try to lie down with a new ice pack..."
-msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] ...{i}oof{/i}, eso sigue siendo inteligente. Creo que voy a intentar acostarme con un nuevo paquete de hielo..."
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] ...{i}oof{/i}, eso sigue doliendo. Creo que voy a ponerme otro paquete de hielo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13167 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_2c973181:
 msgid "[_maddie_s_towards_s_idle_s_talk_happy_] The cleaning supplies are at the bottom of the stairs, sweetie.{p}You and Jazz have all day to get things back to normal."
-msgstr "[_maddie_s_towards_s_idle_s_talk_happy_] Los suministros de limpieza están en el fondo de las escaleras, cariño.{p}You and Jazz have all day to get things back to normal."
+msgstr "[_maddie_s_towards_s_idle_s_talk_happy_] Los suministros de limpieza están en el fondo de las escaleras, cariño.{p} Tú y Jazz tenéis todo el día para dejar todo como estaba."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13170 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_777ad4b1:
 msgid "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] Okay, I'll be down to help clean up once I get dressed..."
-msgstr "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] Vale, estaré abajo para ayudar a limpiar una vez me vestigo..."
+msgstr "[_danny_s_boxers_s_towards_s_unhappy_s_talk_displeased_] Vale, estaré abajo para ayudar a limpiar una vez me vista..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13175 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_87ffa5e7:
 msgid "[_maddie_s_towards_s_idle_s_talk_happy_] Glad to hear it Danny.{p}And..."
@@ -10310,15 +10310,15 @@ msgstr "[_maddie_s_towards_s_idle_s_talk_happy_] encantado de oírlo Danny.{p}y.
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13178 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_8ceb1f6e:
 msgid "[_maddie_s_closed_s_sad_s_talk_happy_] ...I'm {i}very{/i} glad that you're okay."
-msgstr "[_maddie_s_closed_s_sad_s_talk_happy_] ...Estoy {i}muy{/i} contento de que estás bien."
+msgstr "[_maddie_s_closed_s_sad_s_talk_happy_] ...Estoy {i}muy{/i} contenta de que estás bien."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13181 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_cadb4d77:
 msgid "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] Thanks Mom. You too. So, I guess your retreat didn't turn out like you had hoped?"
-msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] Gracias mamá. También tú. Entonces, ¿supongo que tu retiro no salió como esperabas?"
+msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] Gracias mamá. También tú. Entonces, supongo que ¿tus vacaciones no salieron como esperabas?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13184 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_641690cb:
 msgid "[_maddie_s_towards_s_rise_s_talk_happy_] {i}Ohh{/i}, it was a nice enough day trip, your father and I like driving the RV together..."
-msgstr "[_maddie_s_towards_s_rise_s_talk_happy_] {i}Ohh{/i}, fue un viaje bastante agradable, tu padre y yo nos gusta conducir el RV juntos..."
+msgstr "[_maddie_s_towards_s_rise_s_talk_happy_] {i}Ohh{/i}, fue un viaje bastante agradable, a tu padre y a mí nos gusta conducir el RV juntos..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13187 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_d389671a:
 msgid "[_maddie_s_towards_s_angry_s_talk_displeased_] But I mean it this time, I am {u}done{/u} responding to mail-in surprise getaways or trips. Chances are..."
