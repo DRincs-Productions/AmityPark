@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-11 16:18\n"
+"PO-Revision-Date: 2023-12-19 16:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -10698,15 +10698,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ¡
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13723 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_bc00757e:
 msgid "[_tall_goon_] No can do, broski! We got orders from the boss lady to take care of her {i}and{/i} her little ghostly boyfriend... 'cha'..."
-msgstr "¡[_tall_goon_] No se puede hacer, bróski! Hemos recibido órdenes de la dama del jefe de cuidar de su {i}y{/i} de su pequeño chico fantasma... 'cha'..."
+msgstr "¡[_tall_goon_] ¡No puede ser bróski! ¡Hemos recibido órdenes de la dama del jefe de cuidar de ella {i}y{/i} de su pequeño novio fantasma... 'cha'..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13727 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_5abae422:
 msgid "[_short_goon_s_rage_s_talk_happy_] Heh, yeah, it's too bad, too! This babe sure has got a sweet little ass on her!!"
-msgstr "[_short_goon_s_rage_s_talk_happy_] ¡Ah, sí, también es malo! ¡Esta Belleza tiene un pequeño culo dulce en ella!!"
+msgstr "[_short_goon_s_rage_s_talk_happy_] ¡Ah, sí, ¡eso és una jodida! ¡¡Esta Belleza tiene un pequeño dulce y dulce culo!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13733 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_136b6910:
 msgid "[_sam_s_tied_s_s_towards_wide_s_s_angry_s_s_talk_distraught_s_g_smile_] Get your hands off of me, you perverts!"
-msgstr "[_sam_s_tied_s_s_towards_wide_s_s_angry_s_s_talk_distraught_s_g_smile_] ¡Quítate las manos de mí, pervierte!"
+msgstr "[_sam_s_tied_s_s_towards_wide_s_s_angry_s_s_talk_distraught_s_g_smile_] ¡Quitadme las manos de encima, pervertidos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13737 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_9fe5db03:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Sam, are you okay?"
@@ -10714,7 +10714,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Sam,
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13741 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_5d50f8cf:
 msgid "[_sam_s_tied_s_s_towards_s_s_unhappy_s_s_talk_displeased_s_g_displeased_] I'm fine, minus having to listen to these two morons argue the whole drive about how to drive a stick shift!"
-msgstr "[_sam_s_tied_s_s_towards_s_s_unhappy_s_s_talk_displeased_s_g_displeased_] Estoy bien, menos que tener que escuchar estas dos morones argumentar toda la unidad sobre cómo conducir un cambio de palo!"
+msgstr "[_sam_s_tied_s_s_towards_s_s_unhappy_s_s_talk_displeased_s_g_displeased_] Estoy bien, ¡no voy a tener que escuchar estas dos zopencos discutir todo el camino sobre cómo usar el cambio de marchas!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13746 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_e1eed115:
 msgid "[_tall_goon_] Morons, huh? That what we are, babe? Well we ain't the ones who just walked right into our perfectly devised trap-ola!{p}'Cha'..."
@@ -10758,11 +10758,11 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ¿D
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13813 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_5b15b6dd:
 msgid "[_tucker_s_fentonblaster_s_away_s_sad_s_talk_frown_] {i}*Ahem*{/i} A certain tech-wiz/lock specialist may or may not have yoinked it from your parents basement. {i}*Ahem*{/i}"
-msgstr "[_tucker_s_fentonblaster_s_away_s_sad_s_talk_frown_] {i}*Ahem*{/i} Un especialista en tecnología puede o no haberlo enlazado desde el sótano de tus padres. {i}*Ahem*{/i}"
+msgstr "[_tucker_s_fentonblaster_s_away_s_sad_s_talk_frown_] {i}*Ahem*{/i} Un especialista en tecnología puede sí o sí hacerlo desde el sótano de tus padres. {i}*Ahem*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13818 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_1f3412f7:
 msgid "[_tucker_s_fentonblaster_s_away_s_neutral_s_talk_happy_] Look, no time for the semantics right now! Rescue Sam! I'll hold off the others!"
-msgstr "[_tucker_s_fentonblaster_s_away_s_neutral_s_talk_happy_] ¡Mira, no hay tiempo para las semánticas ahora mismo! ¡Rescate a los demás!"
+msgstr "[_tucker_s_fentonblaster_s_away_s_neutral_s_talk_happy_] ¡Mira, ¡no hay tiempo para la semántica ahora¡ ¡rescata a Sam! ¡Yo agruparé al los demás!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13823 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_c0cb447f:
 msgid "[_tall_goon_s_talk_displeased_] Bah! It don't matter, we'll just take care of you both ourselves!"
@@ -10774,15 +10774,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] ¡
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13849 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_bc00757e:
 msgid "[_tall_goon_] No can do, broski! We got orders from the boss lady to take care of her {i}and{/i} her little ghostly boyfriend... 'cha'..."
-msgstr "¡[_tall_goon_] No se puede hacer, bróski! Hemos recibido órdenes de la dama del jefe de cuidar de su {i}y{/i} de su pequeño chico fantasma... 'cha'..."
+msgstr "¡[_tall_goon_] ¡No puede ser bróski! ¡Hemos recibido órdenes de la dama del jefe de cuidar de ella {i}y{/i} de su pequeño novio fantasma... 'cha'..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13853 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_5abae422:
 msgid "[_short_goon_s_rage_s_talk_happy_] Heh, yeah, it's too bad, too! This babe sure has got a sweet little ass on her!!"
-msgstr "[_short_goon_s_rage_s_talk_happy_] ¡Ah, sí, también es malo! ¡Esta Belleza tiene un pequeño culo dulce en ella!!"
+msgstr "[_short_goon_s_rage_s_talk_happy_] ¡Ah, sí, ¡eso és una jodida! ¡¡Esta Belleza tiene un pequeño dulce y dulce culo!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13859 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_136b6910:
 msgid "[_sam_s_tied_s_s_towards_wide_s_s_angry_s_s_talk_distraught_s_g_smile_] Get your hands off of me, you perverts!"
-msgstr "[_sam_s_tied_s_s_towards_wide_s_s_angry_s_s_talk_distraught_s_g_smile_] ¡Quítate las manos de mí, pervierte!"
+msgstr "[_sam_s_tied_s_s_towards_wide_s_s_angry_s_s_talk_distraught_s_g_smile_] ¡Quitadme las manos de encima, pervertidos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13863 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_9fe5db03:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Sam, are you okay?"
@@ -10790,15 +10790,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Sam,
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13867 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_5d50f8cf:
 msgid "[_sam_s_tied_s_s_towards_s_s_unhappy_s_s_talk_displeased_s_g_displeased_] I'm fine, minus having to listen to these two morons argue the whole drive about how to drive a stick shift!"
-msgstr "[_sam_s_tied_s_s_towards_s_s_unhappy_s_s_talk_displeased_s_g_displeased_] Estoy bien, menos que tener que escuchar estas dos morones argumentar toda la unidad sobre cómo conducir un cambio de palo!"
+msgstr "[_sam_s_tied_s_s_towards_s_s_unhappy_s_s_talk_displeased_s_g_displeased_] Estoy bien, ¡no voy a tener que escuchar estas dos zopencos discutir todo el camino sobre cómo usar el cambio de marchas!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13872 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_64745c78:
 msgid "[_tall_goon_] Morons, huh? Well, let's see what you think of us, now that we're gonna beat your pasty white boyfriend in front of you!! It's two against one after all."
-msgstr "[_tall_goon_] Morones, ¿eh? Bueno, vamos a ver lo que piensas de nosotros, ahora que estamos gonna batiendo a tu amigo blanco pasado delante de ti! Después de todo, son dos contra uno."
+msgstr "[_tall_goon_] Zopencos, ¿eh? Bueno, vas a ver que lo que piensas de nosotros, vamos a patear a tu pálido novio delante de ti! Porque somos dós contra uno."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13876 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_865e5949:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_] This doesn't look good. I hope I can take those guys on my own."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_] Esto no se ve bien. Espero poder tomar a esos chicos por mi cuenta."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_distraught_] Esto no se ve bien. Espero poder vencer a estos dos yo solo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13886 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_f21cc96b:
 msgid "[_tall_goon_s_talk_happy_] Heh, looks like you're screwed, Inviso-Dillweed!!"
