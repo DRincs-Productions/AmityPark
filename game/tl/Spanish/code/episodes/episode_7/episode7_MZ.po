@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-22 16:35\n"
+"PO-Revision-Date: 2023-12-22 17:32\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -11902,63 +11902,63 @@ msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15387 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_4b3568df:
 msgid "[_ember_s_towards_s_angry_s_talk_consternation_] Hey, screw you lady! You think I asked to move in or something??"
-msgstr "[_ember_s_towards_s_angry_s_talk_consternation_] ¡Oye, tornillo dama! ¿Crees que pedí moverme en o algo??"
+msgstr "[_ember_s_towards_s_angry_s_talk_consternation_] ¡Oye, ¡piérdete tia! ¿¿Crees que pedí mudarme o algo??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15391 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_d824ccbc:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] Whoa whoa! Calm down both of you! I didn't have a spare Thermos laying around, okay?"
-msgstr "¡[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] ¿Quién es quién? ¡Cálmate a los dos! No tenía un Thermos sobrante colocando alrededor, ¿no?"
+msgstr "¡[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] whoa, whoa! calmáos ambas! No tenía un Thermos sobrante, ¿vale?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15395 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_c4650027:
 msgid "[_ember_s_towards_s_angry_s_talk_amused_] It doesn't matter now, idiots, cause now that you've released me I can-"
-msgstr "[_ember_s_towards_s_angry_s_talk_amused_] No importa ahora, idiotas, causa ahora que me has liberado puedo-"
+msgstr "[_ember_s_towards_s_angry_s_talk_amused_] Que más dará ahora, idiotas, porque ahora que me has liberado puedo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15399 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_24fa0fbc:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] Desiree, care to explain to our new guest how the Fenton Thermos' \"Track-N-Release\" feature works?"
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Desea, ¿te preocupas de explicar a nuestro nuevo invitado cómo funciona la función \"Track-N-Release\" de Fenton Thermos?"
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Desiree, ¿te importaría explicar a nuestra nueva invitada cómo funciona el thermos Fenton?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15403 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_cf475a19:
 msgid "[_ember_s_towards_s_confused_s_talk_displeased_] Huh? The heck is he talking about?"
-msgstr "[_ember_s_towards_s_confused_s_talk_displeased_] ¿Huh? ¿De qué habla?"
+msgstr "[_ember_s_towards_s_confused_s_talk_displeased_] ¿Huh? ¿De qué coño habla?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15407 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_c7abe6b2:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_down_s_sad_s_talk_displeased_] White devilry, pretty much. His parents are both supernatural investigators and scientific minds. Our ghostly essences are essentially trapped in this container of his."
-msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_down_s_sad_s_talk_displeased_] Dulce Blanco, mucho. Sus padres son a la vez investigadores sobrenaturales y mentes científicas. Nuestras esencias fantasmas están esencialmente atrapadas en este contenedor suyo."
+msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_down_s_sad_s_talk_displeased_] Demonio blanco, más o menos. Sus padres son investigadores sobrenaturales y científicos. Nuestras esencias fantasmas están esencialmente atrapadas en este contenedor suyo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15411 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_5d9c3f6f:
 msgid "[_ember_s_towards_wide_s_sad_s_talk_distraught_] You... you mean...?"
-msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] Tú... quieres decir...?"
+msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] Tú... ¿quieres decir...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15415 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_33bd6675:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_displeased_] Congratulations, you're now imprisoned until his discretion deems you otherwise. Which, in my case at least, shant be any time soon."
-msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_displeased_] Enhorabuena, ahora estás prisionero hasta que su discreción lo considere de otra manera. Lo que, en mi caso, al menos, se desgarra en cualquier momento pronto."
+msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_displeased_] Enhorabuena, ahora estás prisionera hasta que su discreción lo considere de otra manera. Lo que, en mi caso, al menos, se cumplirá en algún momento temprano."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15419 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_5165c417:
 msgid "[_ember_s_towards_wide_s_angry_s_talk_distraught_] Are you freakin' kidding me?! Let me go, twerp! NOW!"
-msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¿Eres freakin' hijo?! ¡Permítanme, marcharte! ¡AHORA!"
+msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¿Me está tomando el pelo?! ¡Permítanme, marcharte! ¡AHORA!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15423 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_a65a6aa1:
 msgid "[_danny_s_towards_s_angry_s_talk_displeased_] After your little attempt to conquer the whole world into being your slaves?"
-msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] ¿Después de tu pequeño intento de conquistar el mundo entero en ser tus esclavos?"
+msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] ¿Después de tu pequeño intento de hacer el mundo entero tus esclavos?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15427 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_2413c2e0:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] Uhh... then I uh, I totally promise I won't try conquering the world again. For real."
-msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Uhh... entonces me uh, prometo que no intentaré conquistar el mundo de nuevo. Para reales."
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Uhh... entonces me uh, prometo que no intentaré conquistar el mundo de nuevo. En serio."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15431 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_72e7475c:
 msgid "[_danny_s_towards_s_angry_s_talk_distraught_] ...no. No, that wasn't- that wasn't an opportunity for you to audition your \"redemption\" arc. "
-msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ...no. No, eso no era una oportunidad para que escuches tu arco de \"redención\". "
+msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ...no. No, esto no és una oportunidad para juzgar tu \"redención\". "
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15435 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_9db27439:
 msgid "[_ember_s_towards_wide_s_angry_s_talk_distraught_] Aghhh! Fuck you, kid!"
-msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¡Aghhh! ¡Feliz, chico!"
+msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¡Aghhh! ¡Que te jodan, tio!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15439 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_8314ae67:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_wondering_s_talk_amused_] My, quite the foul tongue this one has. In my day, they'd have scalded your tongue clean off with a pair of hot iron rods for speaking to your master like that."
-msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_wondering_s_talk_amused_] Mi, la lengua bastante sucia que tiene esta lengua. En mi día, habrían escalado tu lengua con un par de barras de hierro caliente para hablar con tu maestro así."
+msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_wondering_s_talk_amused_] Dios, que lengua más sucia tiene. En mi época, te habrían frito tu lengua con un par de barras de hierro caliente por hablar con tu maestro así."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15443 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_fa1eabfc:
 msgid "[_ember_s_stare_wide_s_sad_s_talk_distraught_] \"Master\"?! He is NOT my master, you snakey bitch!!"
-msgstr "[_ember_s_stare_wide_s_sad_s_talk_distraught_] \"Maestro\"?! Él NO es mi amo, ¡perra clave!!"
+msgstr "[_ember_s_stare_wide_s_sad_s_talk_distraught_] ¡¿\"Maestro\"?! Él NO es mi maestro, ¡¡perra lagarta!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15447 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_20102623:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_amused_] I think you'll come to find rather quickly, that while in this little tube of his, he most certainly is."
