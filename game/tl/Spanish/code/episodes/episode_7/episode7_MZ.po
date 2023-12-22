@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-19 17:55\n"
+"PO-Revision-Date: 2023-12-22 15:35\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -11358,15 +11358,15 @@ msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Sí... lo siento."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14744 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_62f805a1:
 msgid "[_sam_s_co_s_closed_s_sad_s_talk_displeased_s_slight_blush_] This was totally just a \"needed to happen to save the world\" kinda thing, right?"
-msgstr "[_sam_s_co_s_closed_s_sad_s_talk_displeased_s_slight_blush_] Esto era totalmente y solo \"necesario para salvar al mundo\", ¿verdad?"
+msgstr "[_sam_s_co_s_closed_s_sad_s_talk_displeased_s_slight_blush_] Esto era solo \"necesario para salvar al mundo\", ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14747 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_ebacf40b:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Uhhmm, sure? Just one of those totally normal, world saving 69's, I suppose, yeah."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Uhhmm, ¿cierto? Sólo uno de esos totalmente normales, que ahorran 69, supongo, sí."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Uhhmm, ¿cierto? Uno de esos normales y naturales 69 que salvan el mundo, supongo, sí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14750 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_cb98337f:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_consternation_] So uh, things will just go back to normal now, right?"
-msgstr "[_sam_s_co_s_towards_s_confused_s_talk_consternation_] Entonces, las cosas volverán a la normalidad ahora, ¿verdad?"
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_consternation_] las cosas volverán a la normalidad ahora, ¿no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14753 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_114feb9c:
 msgid "[_danny_s_towards_wide_s_rise_s_talk_displeased_] Huh?"
@@ -11374,15 +11374,15 @@ msgstr "[_danny_s_towards_wide_s_rise_s_talk_displeased_] ¿Huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14756 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_4ce15371:
 msgid "[_sam_s_co_s_away_s_neutral_s_talk_consternation_] N-now you've got what you need... things can just... slip back to the way they were, huh?"
-msgstr "[_sam_s_co_s_away_s_neutral_s_talk_consternation_] N-ahora tienes lo que necesitas... las cosas pueden ajustarse... volver a la forma en que estaban, ¿eh?"
+msgstr "[_sam_s_co_s_away_s_neutral_s_talk_consternation_] A-ahora tienes lo que necesitas... las cosas pueden... volver a como estaban, ¿eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14759 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_4b8e532d:
 msgid "[_sam_s_co_s_towards_wide_s_sad_s_talk_distraught_] I mean, w-we're still friends, right?"
-msgstr "[_sam_s_co_s_towards_wide_s_sad_s_talk_distraught_] Quiero decir, si seguimos siendo amigos, ¿verdad?"
+msgstr "[_sam_s_co_s_towards_wide_s_sad_s_talk_distraught_] Quiero decir, s-seguimos siendo amigos, ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14762 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_a700043e:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Uh, yeah? Why wouldn't we...?"
-msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Uh, ¿verdad? ¿Por qué no...?"
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Uh, sí ¿Por qué no...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14765 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_aed5ecaf:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_displeased_] ...n-nothing, don't worry, I just was... that's good, is all, it's good!"
