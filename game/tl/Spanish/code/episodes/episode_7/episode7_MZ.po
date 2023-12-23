@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-22 17:32\n"
+"PO-Revision-Date: 2023-12-23 15:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -11962,7 +11962,7 @@ msgstr "[_ember_s_stare_wide_s_sad_s_talk_distraught_] ¡¿\"Maestro\"?! Él NO 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15447 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_20102623:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_amused_] I think you'll come to find rather quickly, that while in this little tube of his, he most certainly is."
-msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_amused_] creo que llegarás a encontrar rápidamente, que mientras está en este pequeño tubo de su es, sin duda lo está."
+msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_amused_] creo que llegarás a aceptar rápidamente, que mientras estés en este pequeño tubo de suyo, sin duda lo está."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15451 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_7ee283b3:
 msgid "[_ember_s_stare_s_angry_s_talk_consternation_] This is bullshit!"
@@ -11974,11 +11974,11 @@ msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Vale, bien, creo que tod
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15459 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_fa58b819:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry_s_talk_displeased_] Calm down? This one is like a terrible sand storm ripping up a beautiful palace!"
-msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry_s_talk_displeased_] ¿Cálmate? ¡Este es como una terrible tormenta de arena derribando un hermoso palacio!"
+msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry_s_talk_displeased_] ¿Calmarme? ¡Esta mujer és como que una terrible tormenta de arena derribando un hermoso palacio!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15463 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_bef79281:
 msgid "[_ember_s_stare_s_angry_s_talk_distraught_] What the hell do you expect lady? I just got taken prisoner!"
-msgstr "[_ember_s_stare_s_angry_s_talk_distraught_] ¿Qué infierno esperas dama? ¡Acabo de ser prisionero!"
+msgstr "[_ember_s_stare_s_angry_s_talk_distraught_] ¿Qué diablos esperas dama? ¡Acabo de ser prisionera!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15467 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_f21852cf:
 msgid "[_danny_s_closed_s_sad_s_talk_displeased_] Well, as I have explained to your fellow roommate Desiree in the past, this containment is for the sake of the people in this town as well as-"
