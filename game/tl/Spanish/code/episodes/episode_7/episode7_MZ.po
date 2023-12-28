@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-28 15:28\n"
+"PO-Revision-Date: 2023-12-28 16:57\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -13990,71 +13990,71 @@ msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¡He recibido una llamada de
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17653 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_512fc916:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_rise_one_s_talk_frown_] Wait a second, I haven't dismissed yo- {i}OW!!{/i}{p}People, please, the \"Kick Me\" sign taped to my backside is {u}not{/u} an invitation!!"
-msgstr "[_lancer_s_offscreen_s_towards_wide_s_rise_one_s_talk_frown_] Espera un segundo, no he despedido yo- {i}OW!! /i}{p}Personas, por favor, el cartel \"Expulso\" pulsado en mi parte trasera es {u}no{/u} una invitación!!"
+msgstr "[_lancer_s_offscreen_s_towards_wide_s_rise_one_s_talk_frown_] Espera un segundo, no te lo he permitido- {i}OW!!{/i} {p}por favor{/p}, ¡¡poned el cartel de \"Castigado\" para que tape mi culo, {u}no{/u} és una broma!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17675 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_c393337f:
 msgid "[_ember_s_disguised_s_jazz_s_closed_s_idle_s_talk_amused_] Oh man, did you see his face? ! I've wanted to do that for years!"
-msgstr "[_ember_s_disguised_s_jazz_s_closed_s_idle_s_talk_amused_] Oh hombre, ¿has visto su cara? ¡He querido hacerlo durante años!"
+msgstr "[_ember_s_disguised_s_jazz_s_closed_s_idle_s_talk_amused_] Oh tio, ¿has visto su cara? ¡He querido hacerlo durante años!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17678 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_49621228:
 msgid "[_danny_s_towards_s_angry_s_talk_distraught_] Ember, you nearly got us caught!"
-msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ¡Ember, casi nos has atrapado!"
+msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] ¡Ember, casi nos atrapan!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17681 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_0fcdc1ad:
 msgid "[_danny_s_towards_s_angry_s_talk_displeased_] I said you couldn't interact or mess with anyone!"
-msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] dije que no pudiste interactuar ni desarmar con nadie!"
+msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] ¡te dije que no podías interactuar ni tocar a nadie!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17684 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_48f936b0:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_amused_] Yeah, but you only wished for that at the {u}house.{/u}"
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_amused_] Sí, pero solo querías eso en la casa {u}.{/u}"
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_amused_] Sí, pero dijiste solo dentro de la {u}casa{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17687 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_0bca0ba7:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_] But I {i}asked{/i} you if we came here for {u}no{/u} funny business!!"
-msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] Pero yo {i}te preguntaba{/i} si vinimos aquí para {u}no{/u} negocio divertido!!"
+msgstr "[_danny_s_towards_s_rise_s_talk_distraught_] ¡¡Pero yo {i}te pregunté{/i} si {u}no{/u} querrías venir para hacer una travesura!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17690 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_cf4805dc:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_happy_] Well... you're not laughing so, maybe it's not funny business? I don't know man, I thought it was funny."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_happy_] Bueno... no te estás reyendo, ¿quizás no es un negocio divertido? No conozco al hombre, pensé que era divertido."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_happy_] Bueno... no te estás riendo, ¿quizás no fue una travesura divertida? No sé tio, pensé que sería divertido."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17693 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_9a5ccaf0:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] Ugh, look, just be more careful next time."
-msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Ugh, mire, solo tenga más cuidado la próxima vez."
+msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Ugh, mira, solo ten más cuidado la próxima vez."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17696 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_3118913c:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_displeased_] {i}Hrmph!{/i} Buzzkill Fenton over here."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_displeased_] {i}Hrmph!{/i} Buzzkill Fenton por aquí."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_displeased_] {i}Hrmph!{/i} Aguafiestas."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17699 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_96cfbe03:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] Alright... it {i}was{/i} pretty funny."
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Muy bien... {i}fue{/i} bastante divertido."
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Muy bien... {i}fue{/i} divertido."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17702 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_50f0980d:
 msgid "[_ember_s_disguised_s_jazz_s_closed_s_idle_s_talk_amused_] {i}Hah{/i}, I know, right?!"
-msgstr "[_ember_s_disguised_s_jazz_s_closed_s_idle_s_talk_amused_] {i}Hah{/i}, ¡lo sé, ¿verdad?!"
+msgstr "[_ember_s_disguised_s_jazz_s_closed_s_idle_s_talk_amused_] {i}Hah{/i}, ¡lo sabía!, ¡¿eh?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17705 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_9be2396a:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Come on, let's get out of here."
-msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Vamos, vamos a salir de aquí."
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Vamos, salgamos de aquí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17708 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_7707399c:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_confused_s_talk_happy_] Wait a minute, are you telling me you're {i}bailing{/i} on class?"
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_confused_s_talk_happy_] Espera un minuto, ¿me estás diciendo que eres {i}rescatando {/i} en clase?"
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_confused_s_talk_happy_] Espera un minuto, ¿me estás diciendo que estás {i}haciendo campanas {/i} en clase?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17711 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_f3e0b3b5:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_happy_] ...little rebel {i}you{/i} are! I never thought you had it in you!"
-msgstr "¡[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_happy_] ...pequeño rebel {i}tú{/i} lo son! ¡Nunca pensé que lo tenías en ti!"
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_happy_] ... ¡{i}tú{/i} eres un pequeño rebelde! ¡No lo pensaba pensé de ti!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17714 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_34f60b43:
 msgid "[_danny_s_towards_s_sad_s_talk_amused_] Yeah well, I don't really wanna stick around to see the nuclear explosion that will be Mr. Lancer pretty soon!"
-msgstr "[_danny_s_towards_s_sad_s_talk_amused_] Sí bien, no quiero quedarme para ver la explosión nuclear que será el Sr. Lancer muy pronto!"
+msgstr "[_danny_s_towards_s_sad_s_talk_amused_] ¡No quiero quedarme para ver la explosión nuclear que dará el Sr. Lancer!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17717 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_1b749257:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_happy_] {i}Hah!{/i} Fair enough, then let's get out of here."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_happy_] {i}¡Hah!{/i} Bien, entonces vamos a salir de aquí."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_happy_] {i}¡Hah!{/i} Bien, salgamos de aquí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17741 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_feeda47f:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_amused_] Shit... I gotta admit it, kid... you're sorta alright."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_amused_] mierda... Tengo que admitirlo, chico... estás sorta bien."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_amused_] mierda... Tengo que admitirlo, chico... me caes bien."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17744 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_56d1aa1b:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] Did I just hear a compliment?"
@@ -14062,39 +14062,39 @@ msgstr "[_danny_s_towards_s_rise_s_talk_amused_] ¿Acabo de escuchar un elogio?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17747 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_17e1942e:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_confused_s_talk_amused_] Woah, don't get ahead of yourself, I said you were alright, not great."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_confused_s_talk_amused_] Oye, no te vayas por delante, dije que estabas bien, no genial."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_confused_s_talk_amused_] Oye, no te adelantes, dije que me caes bien, no genial."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17750 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_748e713d:
 msgid "[_danny_s_closed_s_neutral_s_talk_amused_] Works for me!"
-msgstr "¡[_danny_s_closed_s_neutral_s_talk_amused_] funciona para mí!"
+msgstr "[_danny_s_closed_s_neutral_s_talk_amused_] ¡a mi me basta!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17753 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_4deae73d:
 msgid "[_ember_s_disguised_s_jazz_s_down_s_sad_s_talk_happy_] Man, it does feel nice, ya' know, not focusing on revenge for a change."
-msgstr "[_ember_s_disguised_s_jazz_s_down_s_sad_s_talk_happy_] Un hombre, se siente agradable, sé, no centrarse en la venganza por un cambio."
+msgstr "[_ember_s_disguised_s_jazz_s_down_s_sad_s_talk_happy_] Tio, se siente agradable, ya sabes, no estar centrada en la venganza por un rato."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17756 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_cef0c010:
 msgid "[_danny_s_towards_s_sad_s_talk_amused_] I imagine it's not the most rewarding experience to solely seek world domination, if I'm speaking candidly."
-msgstr "[_danny_s_towards_s_sad_s_talk_amused_] imagino que no es la experiencia más gratificante buscar únicamente la dominación mundial, si hablo con franqueza."
+msgstr "[_danny_s_towards_s_sad_s_talk_amused_] imagino que no és la experiencia más gratificante buscar únicamente la dominación mundial."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17759 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_3329c5d6:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_happy_] Well, I ended up in a coffee container with a green roommate and a dorky spaz of a landlord, so... I guess."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_happy_] Bueno, terminé en un recipiente de café con un compañero de habitación verde y una parrilla dorada de un dueño, así que... supongo."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_happy_] Bueno, terminé en un recipiente de café con una compañera de habitación verde y la casa de un propietario, así que... supongo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17762 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_0cdd6e25:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] I'm guessing that's not what you were imagining when planning your little world tour, huh?"
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Estoy adivinando que eso no es lo que estabas imaginando al planear tu pequeño tour mundial, ¿eh?"
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Adivino que eso no és lo que planeaste cuando imaginabas tu pequeño tour mundial, ¿eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17765 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_0baf4424:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_amused_] Naaa, ya think?"
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_amused_] Naaa, ¿crees?"
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_amused_] Naaa, ¿tú crees?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17767 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_309cb3ad:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_amused_] Anyway, I-"
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_amused_] De todos modos, Y-"
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_amused_] Tanto da, Yo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17786 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_e86dd972:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Ember? Is everything okay?"
-msgstr "¿[_danny_s_towards_s_sad_s_talk_happy_] Ember? ¿Está todo bien?"
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] ¿Ember? ¿Va todo bien?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17789 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_c700c596:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_displeased_] Yeah, I'm fine."
@@ -14102,7 +14102,7 @@ msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_displeased_] Sí, esto
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17792 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_7cc1222a:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] You need anything?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Necesita algo?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Necesitas algo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17795 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_792c2745:
 msgid "[_ember_s_disguised_s_jazz_s_down_s_sad_s_talk_displeased_] No, I'm okay."
@@ -14110,19 +14110,19 @@ msgstr "[_ember_s_disguised_s_jazz_s_down_s_sad_s_talk_displeased_] No, estoy bi
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17798 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_b0e16379:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_displeased_] Can we just head back now, please?"
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_displeased_] ¿Podemos volver ahora, por favor?"
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_rise_s_talk_displeased_] ¿Podemos volver por favor?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17801 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_fe320084:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Okay, sure, whatever you want."
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Vale, seguro de lo que quieras."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Vale, lo que quieras."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17821 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_b90d520c:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Ember, you seemed to be having fun... until you weren't.{p}Do you want to talk about someth-"
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Ember, parecías estar divirtiendo... hasta que fuiste.{p}¿Quieres hablar de algo-"
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Ember, parecías estar divirtiéndote... hasta que paraste.{p}¿Quieres hablar de algo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17824 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_de53c856:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_distraught_] No, just, let me be, please."
-msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_distraught_] No, por favor, déjenme que lo sea."
+msgstr "[_ember_s_disguised_s_jazz_s_towards_s_sad_s_talk_distraught_] No, por favor, déjame."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17827 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_fa3f3fdc:
 msgid "[_danny_s_down_s_unhappy_s_talk_distraught_] O-okay."
@@ -14130,47 +14130,47 @@ msgstr "[_danny_s_down_s_unhappy_s_talk_distraught_] O-okay."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17835 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_30_Park_Afternoon_a81ed46c:
 msgid "[_danny_s_at_player_s_unhappy_s_consternation_] (I wonder what changed her mood so suddenly? I should probably check up on her later.)"
-msgstr "[_danny_s_at_player_s_unhappy_s_consternation_] (Me pregunto qué cambió su estado de ánimo de manera tan repentina? Probablemente debería comprobar su más tarde.)"
+msgstr "[_danny_s_at_player_s_unhappy_s_consternation_] (Me pregunto qué cambió su estado de ánimo de manera tan repentina. Debería comprobarlo más tarde.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17858 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_888d5ab7:
 msgid "[_danny_s_towards_s_wondering_s_consternation_] (Huh? What's that sound? I can hear something faintly playing somewhere...)"
-msgstr "[_danny_s_towards_s_wondering_s_consternation_] (Huh? ¿Qué es ese sonido? I can hear something fainly playing where ...)"
+msgstr "[_danny_s_towards_s_wondering_s_consternation_] (Huh? ¿Qué es ese sonido? Puedo escuchar música desde algún sitio...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17860 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_cc276c7c:
 msgid "[_danny_s_at_player_s_neutral_s_displeased_] (I better go investigate before it wakes everyone up.)"
-msgstr "[_danny_s_at_player_s_neutral_s_displeased_] (Voy a investigar mejor antes de que despierte a todos.)"
+msgstr "[_danny_s_at_player_s_neutral_s_displeased_] (Voy a investigar mejor antes de que se despierten todos.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17873 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_176e161f:
 msgid "[_danny_s_towards_s_rise_s_consternation_] (It sounds like it's coming from... the {b}roof{/b}?)"
-msgstr "[_danny_s_towards_s_rise_s_consternation_] (¿Suena que viene de... el tejado de {b}{/b}?)"
+msgstr "[_danny_s_towards_s_rise_s_consternation_] (¿Suena que viene de... el {b}tejado{/b}?)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17875 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_87b273ca:
 msgid "[_danny_s_at_player_s_neutral_s_displeased_] (I'll have to go ghost to check it out.)"
-msgstr "[_danny_s_at_player_s_neutral_s_displeased_] (Voy a tener que ir fantasma para comprobarlo.)"
+msgstr "[_danny_s_at_player_s_neutral_s_displeased_] (Voy a tener que volverme un fantasma para comprobarlo.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17888 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_8012dd4a:
 msgid "[_ember_s_closed_s_sad_s_talk_displeased_] {i}♪ Ohhh, Embeeer, you will-{/i}"
-msgstr "[_ember_s_closed_s_sad_s_talk_displeased_] {i}ohhh, Embeeer, lo hará{/i}"
+msgstr "[_ember_s_closed_s_sad_s_talk_displeased_] {i}♪ Ohhh, Embeeer, tú-{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17893 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b35e75a5:
 msgid "[_ember_s_down_s_sad_s_talk_distraught_] {i}*Sigh* ...remember... ♫{/i}"
-msgstr "[_ember_s_down_s_sad_s_talk_distraught_] {i}*Sigh * ... recuerde ... ♫{/i}"
+msgstr "[_ember_s_down_s_sad_s_talk_distraught_] {i}*Suspiro * ... recuerda ... ♫{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17896 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_bdaad7dc:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Ember?"
-msgstr "¿[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Ember?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ¿Ember?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17899 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b601a24c:
 msgid "[_ember_s_towards_s_confused_s_talk_consternation_] Huh? Oh hey, didn't see you there."
-msgstr "[_ember_s_towards_s_confused_s_talk_consternation_] ¿Huh? Oh oh, no te veas allí."
+msgstr "[_ember_s_towards_s_confused_s_talk_consternation_] ¿Huh? Oh oh, no te ví."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17902 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_396c45d9:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] What're you doing up so late?{p}...and on the tip-top most part of my house?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] ¿Qué estás haciendo tan tarde?{p}...y en la parte más alta de mi casa?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] ¿Qué estás haciendo tan tarde? ¿{p}...y en la parte más alta de mi casa{/p}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17905 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_8933d929:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] I'm dead, genius, there's not really a curfew for ghosts."
-msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Estoy muerto, genio, no hay toque de queda para fantasmas."
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Estoy muerta, genio, no hay toque de queda para fantasmas."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17908 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b2148b47:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] I guess that's true."
@@ -14182,27 +14182,27 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] ...
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17916 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_9b3c8c0d:
 msgid "[_ember_s_down_s_sad_s_talk_displeased_] Just practicing my singing a little. Sorry if I'm being noisy, I just... I don't know..."
-msgstr "[_ember_s_down_s_sad_s_talk_displeased_] Justo practicando mi canto un poco. Lo siento si estoy siendo ruidoso, yo sólo ... No sé ..."
+msgstr "[_ember_s_down_s_sad_s_talk_displeased_] Practicando mi canto un poco. Lo siento si estoy siendo ruidosa, yo sólo... No sé..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17920 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_940e6454:
 msgid "[_ember_s_away_s_sad_s_talk_displeased_] It's not like any of this matters anymore..."
-msgstr "[_ember_s_away_s_sad_s_talk_displeased_] Ya no es como nada de esto importa..."
+msgstr "[_ember_s_away_s_sad_s_talk_displeased_] Es como si nada de esto importara..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17923 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_80434fff:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] What doesn't?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ¿Qué no?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ¿Por qué no?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17926 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a49eaa99:
 msgid "[_ember_s_towards_s_sad_s_talk_consternation_] All of 'this', ya' know? I don't know, it all just... it used to be a lot clearer."
-msgstr "[_ember_s_towards_s_sad_s_talk_consternation_] Todo 'esto', ¿verdad? No lo sé, todo justo... solía ser mucho más claro."
+msgstr "[_ember_s_towards_s_sad_s_talk_consternation_] Todo 'esto', ¿ya sabes? No lo sé, todo solo... solía ser mucho más claro."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17929 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_d54df815:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_self_s_sad_s_talk_happy_] Yeah, I get that."
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_self_s_sad_s_talk_happy_] Sí, lo recibo."
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_self_s_sad_s_talk_happy_] Sí, lo entiendo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17932 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_ca234f28:
 msgid "[_ember_s_towards_s_confused_s_talk_displeased_] Do you?"
-msgstr "[_ember_s_towards_s_confused_s_talk_displeased_] ¿Usted?"
+msgstr "[_ember_s_towards_s_confused_s_talk_displeased_] ¿lo entiendes?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17935 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_ceca3675:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_] In a way, I guess... life was so much easier and less confusing before I became half-ghost."
@@ -14214,19 +14214,19 @@ msgstr "[_ember_s_down_s_idle_s_talk_displeased_] Hmm... Supongo que"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17941 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_aa53c0ef:
 msgid "[_danny_s_phantom_s_arms_normal_s_up_wide_s_neutral_s_talk_happy_] ...a lot of stars out tonight, huh?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_up_wide_s_neutral_s_talk_happy_] ...un montón de estrellas esta noche, ¿eh?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_up_wide_s_neutral_s_talk_happy_] ...hay muchas estrellas esta noche, ¿eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17944 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a5e05f73:
 msgid "[_ember_s_towards_s_confused_s_talk_amused_] They're always out, doofus... but yeah. It's really pretty tonight."
-msgstr "[_ember_s_towards_s_confused_s_talk_amused_] Siempre están fuera, doofus ... pero sí. Es muy bonito esta noche."
+msgstr "[_ember_s_towards_s_confused_s_talk_amused_] Siempre están ahi, ceporro... pero sí. Es muy bonita esta noche."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17956 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_4ebbb9a6:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] Ember?"
-msgstr "¿[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] Ember?"
+msgstr "¿[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] ¿Ember?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17959 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_43ff9b38:
 msgid "[_ember_s_towards_s_idle_s_talk_happy_] Yeah?"
-msgstr "[_ember_s_towards_s_idle_s_talk_happy_] Sí?"
+msgstr "[_ember_s_towards_s_idle_s_talk_happy_] ¿Sí?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17962 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_da6677f9:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...about that song you sing."
@@ -14234,15 +14234,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...s
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17965 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a1922a9c:
 msgid "[_ember_s_towards_s_confused_s_talk_happy_] What about it?"
-msgstr "[_ember_s_towards_s_confused_s_talk_happy_] ¿Qué pasa con esto?"
+msgstr "[_ember_s_towards_s_confused_s_talk_happy_] ¿Qué pasa?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17968 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_9313c2a0:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] It's about you?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] Se trata de ti?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ¿Se trata de ti?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17971 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b1a95b4d:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] Uhh, yeah, sorta has my name and everything in it."
-msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Uhh, sí, sorta tiene mi nombre y todo en él."
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Uhh, sí, tiene mi nombre y todo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17974 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_487f7a06:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased_] You never did tell me what happened to you."
@@ -14250,23 +14250,23 @@ msgstr "R[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_displeased
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17977 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_e6151a7f:
 msgid "[_ember_s_down_s_sad_s_talk_displeased_] ...yeah, cause I haven't {i}wanted{/i} to tell you... look, why do you care so much?"
-msgstr "[_ember_s_down_s_sad_s_talk_displeased_] ...sí, porque no tengo {i}quería{/i} decirte... mira, ¿por qué te importa tanto?"
+msgstr "[_ember_s_down_s_sad_s_talk_displeased_] ...sí, porque no he {i}querido{/i} decirtelo... mira, ¿por qué te importa tanto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17980 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_adb13696:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] It's obviously bothering you."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Obviamente, te está molestando."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_neutral_s_talk_displeased_] Obviamente, te está atormentando."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17983 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_cf5c11e2:
 msgid "[_ember_s_towards_s_angry_s_talk_consternation_] That doesn't mean I want to share it!"
-msgstr "[_ember_s_towards_s_angry_s_talk_consternation_] ¡Eso no significa que quiero compartirlo!"
+msgstr "[_ember_s_towards_s_angry_s_talk_consternation_] ¡Eso no significa que quiera compartirlo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17986 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_de9990a5:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Ember... it's okay to be upset about whatever happened."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Ember... está bien molestarse por lo que pasó."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Ember... está bien estar atormentada por lo que te pasara."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17989 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_51b0ac31:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] It's driven you down a clearly bad place, and I just thought... maybe you shouldn't have to hold the weight of it all."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Te ha llevado a un lugar claramente malo, y yo solo pensé... tal vez no debas tener que sostener el peso de todo."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Te ha llevado por mal camino, y yo solo pensé... tal vez no debas tener que sostener su peso tú sola."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17992 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_6d3955da:
 msgid "[_ember_s_closed_s_sad_s_displeased_] ..."
@@ -14278,27 +14278,27 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_consternation_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17997 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_8f81bab9:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...it's alright, I'll just go back to bed. You can stay up here, if you want some more time alon-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...está bien, solo volveré a la cama. Puedes quedarte aquí, si quieres algo más de tiempo solamente-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...está bien, volveré a la cama. Puedes quedarte aquí, si quieres algo más de tiempo-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18000 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_05e7034c:
 msgid "[_ember_s_towards_s_sad_s_talk_displeased_] There was this guy.{p}And we were... well, we were totally head over heels for each other."
-msgstr "[_ember_s_towards_s_sad_s_talk_displeased_] Había este chico.{p}Y estábamos... bueno, estábamos totalmente a la cabeza unos para otros."
+msgstr "[_ember_s_towards_s_sad_s_talk_displeased_] Estaba ese chico.{p}Y {/p} estábamos... bueno, éramos uña y carne."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18003 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_69f77773:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] Yeah, okay. Sounds good so far. And?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] Sí, está bien. Suena bien hasta ahora. ¿Y?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_wondering_s_talk_happy_] Sí, está bien. Suena bien de momento. ¿Y?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18006 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_d38687e6:
 msgid "[_ember_s_down_s_sad_s_talk_displeased_] Well, we dated for a while and I convinced myself that he's, ya' know... \"the one\"."
-msgstr "[_ember_s_down_s_sad_s_talk_displeased_] Bueno, nos fechamos un rato y me convencí de que él es, ya' sabe... \"uno\"."
+msgstr "[_ember_s_down_s_sad_s_talk_displeased_] Bueno, tuvimos unas citas y me convencí de que él es, ya sabes... \"el único\"."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18009 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_2f29f483:
 msgid "[_ember_s_away_s_sad_s_talk_distraught_] Stupid ol' Ember Mc\"Lame\" has finally convinced herself that she's ready to sleep with him, to take that next step..."
-msgstr "[_ember_s_away_s_sad_s_talk_distraught_] Ember Mc\"Lame del joven estúpido finalmente se ha convencido de que está lista para dormir con él, para dar ese siguiente paso..."
+msgstr "[_ember_s_away_s_sad_s_talk_distraught_] la estúpida Ember Mc\"Lame\" se convenció finalmente a ella misma de que estaba preparada para acostarse con él, para dar ese siguiente paso..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18012 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_d9f8c069:
 msgid "[_ember_s_down_s_sad_s_talk_distraught_] ...and then the next thing I know there's nothing."
-msgstr "[_ember_s_down_s_sad_s_talk_distraught_] ...y entonces lo siguiente que sé que no hay nada."
+msgstr "[_ember_s_down_s_sad_s_talk_distraught_] ...y entonces lo siguiente que sé és que no hay nada."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18015 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_db42a809:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] Nothing? What do you mean?"
@@ -14306,15 +14306,15 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_displeased_] ¿N
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18018 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_033308b1:
 msgid "[_ember_s_towards_s_idle_s_talk_distraught_] Not a phone call, not a peep from my sweet \"Prince Charming\"."
-msgstr "[_ember_s_towards_s_idle_s_talk_distraught_] No es una llamada telefónica, no es un toque de mi dulce \"Príncipe Charming\"."
+msgstr "[_ember_s_towards_s_idle_s_talk_distraught_] Ninguna llamada telefónica, ningún toque de mi dulce \"Príncipe encantador\"."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18021 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_c0ddb574:
 msgid "[_ember_s_towards_s_angry_s_talk_distraught_] Finally, I spot him hanging out with my friend at the park, and he just looks at me and totally ghosts me. Walks away with her instead."
-msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] Por último, lo veo colgando con mi amigo en el parque, y él simplemente me mira y me fantasma completamente. Camina con ella en su lugar."
+msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] Por último, lo veo liado con mi amiga en el parque, y él me mira como si fuese un fantasma. Caminando con ella en mi lugar."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18024 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_ac02c274:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Jeez, some friend you had!"
-msgstr "¡[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Jeez, un amigo que tenías!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Jeez, ¡una amiga que tenías!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18027 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_25d62a0f:
 msgid "[_ember_s_down_s_angry_s_talk_distraught_] {i}Pfft{/i}, yeah, you can say that again."
@@ -14322,35 +14322,35 @@ msgstr "[_ember_s_down_s_angry_s_talk_distraught_] {i}Pfft{/i}, sí, puedes deci
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18029 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_95f36cf5:
 msgid "[_ember_s_towards_s_idle_s_talk_distraught_] Anyway, he finally calls me a whole month later. Says to meet him outside of Amity Park on my own and that he needs my help with something important..."
-msgstr "[_ember_s_towards_s_idle_s_talk_distraught_] De todos modos, finalmente me llama todo un mes más tarde. Dice para conocerlo fuera del Parque Amity por mi cuenta y que necesita mi ayuda con algo importante..."
+msgstr "[_ember_s_towards_s_idle_s_talk_distraught_] De todos modos, finalmente me llama mes más tarde. Dice para verme fuera de Amity Park y que necesita mi ayuda con algo importante..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18032 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_ce651baf:
 msgid "[_ember_s_down_s_idle_s_talk_distraught_] And being the girl that always wanted to hope for the best, Ember McClain took a three-hour bus trip to go see him, and when she got there..."
-msgstr "[_ember_s_down_s_idle_s_talk_distraught_] Y siendo la chica que siempre quería esperar lo mejor, Ember McClain hizo un viaje en autobús de tres horas para verlo, y cuando llegó allí..."
+msgstr "[_ember_s_down_s_idle_s_talk_distraught_] Y siendo la chica que siempre quise ser, Ember McClain hizo un viaje en autobús de tres horas para verlo, y cuando llegó allí..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18035 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a5855686:
 msgid "[_ember_s_closed_s_angry_s_talk_distraught_] ...he called the motel I was at to let me know it was all a funny, whacky joke the two of them wanted to pull on me."
-msgstr "[_ember_s_closed_s_angry_s_talk_distraught_] ... e llamó al motel en el que estaba para hacerme saber que todo era divertido, una broma descabellada de los dos querían tirarme sobre mí."
+msgstr "[_ember_s_closed_s_angry_s_talk_distraught_] ... el llamó al motel en el que estaba para hacerme saber que era divertido, una broma descabellada de los dos querían hacerme."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18038 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_76a0c281:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] What? Are you serious?! That's awful!"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] ¿Qué? ¿Es usted serio?! ¡Eso es horrible!"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] ¿Qué? ¡¿En serio?! ¡Eso es horrible!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18041 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_859b5586:
 msgid "[_ember_s_towards_s_sad_s_talk_distraught_] Yeah, that seemed to \"just be life\", the way I saw it.{p}Anyway, I manage to get home the same day... and I'm just so physically and mentally exhuasted, I collapse on the couch."
-msgstr "[_ember_s_towards_s_sad_s_talk_distraught_] Sí, eso parecía \"sólo ser vida\", como lo veí.{p}De todos modos, me las arreglé para llegar a casa el mismo día. , y estoy tan física y mentalmente exhuastado, me derrumbo en el sofá."
+msgstr "[_ember_s_towards_s_sad_s_talk_distraught_] Sí, eso parecía \"ser la vida\", como la vi. {p}De todos modos{/p}, me las arreglé para llegar a casa el mismo día... y estaba tan física y mentalmente exhausta que me derrumbé en el sofá."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18044 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_f17f82d8:
 msgid "[_ember_s_down_s_sad_s_talk_distraught_] ...but what I didn't know was that Dad blacked out after drinking too much and fell asleep in his recliner...{p}...after dropping his lit cigarette on the carpet."
-msgstr "[_ember_s_down_s_sad_s_talk_distraught_] ...pero lo que no sabía fue que el papá se escapó después de beber demasiado y se quedó dormido en su recliner. .{p}...después de caer su cigarrillo encendido en la alfombra."
+msgstr "[_ember_s_down_s_sad_s_talk_distraught_] ...pero lo que no sabía fue que papá se durmió después de beber demasiado y se quedó dormido en su mecedora. .{p}...después{/p} de caerle su cigarrillo encendido en la alfombra."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18047 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b1c635a3:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_distraught_] Your house went up in flames...?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_distraught_] Tu casa subió en llamas ...?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_distraught_] ¿Tu casa se incendió...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18050 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_70b12674:
 msgid "[_ember_s_away_s_sad_s_talk_distraught_] Yeah, with {i}me{/i} inside it."
-msgstr "[_ember_s_away_s_sad_s_talk_distraught_] Sí, con {i}me{/i} dentro de él."
+msgstr "[_ember_s_away_s_sad_s_talk_distraught_] Sí, con {i}migo{/i} dentro."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18053 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_6dc90e7e:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] But your Dad! Didn't he-"
@@ -14358,7 +14358,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraug
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18056 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_8914be50:
 msgid "[_ember_s_towards_s_angry_s_talk_displeased_] Oh no, he woke up alright. Smoke woke his dumb ass up."
-msgstr "[_ember_s_towards_s_angry_s_talk_displeased_] Oh no, se despertó bien. El humo despertó su culo tonto."
+msgstr "[_ember_s_towards_s_angry_s_talk_displeased_] Oh no, se despertó bien. El humo despertó su tonto culo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18059 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_f49eae94:
 msgid "[_ember_s_down_s_angry_s_talk_distraught_] ...but he left me there."
@@ -14366,7 +14366,7 @@ msgstr "[_ember_s_down_s_angry_s_talk_distraught_] ...pero me dejó allí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18062 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a058f7e9:
 msgid "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_unhappy_s_talk_distraught_] ...Ember. Jeez. I'm so-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_unhappy_s_talk_distraught_] ...Ember. Jeez. I'm so-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_closed_sad_s_unhappy_s_talk_distraught_] ...Ember. Estoy muy-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18065 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a6cdbcf4:
 msgid "[_ember_s_towards_wide_s_sad_s_talk_distraught_] Don't."
@@ -14374,39 +14374,39 @@ msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] no."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18068 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b6db8279:
 msgid "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_distraught_] I can't help it, I just feel so sorry-"
-msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_distraught_] No puedo ayudarlo, me siento tan disculpado-"
+msgstr "[_danny_s_phantom_s_arms_normal_s_down_s_sad_s_talk_distraught_] No puedo ayudarte, solo lo siento-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18071 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_a5115cc4:
 msgid "[_ember_s_towards_s_angry_s_talk_distraught_] {i}Gahh!{/i} Well stop! Stop feeling sorry for me! I don't need a pity party from anybody, especially from you!!"
-msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] {i}¡Gahh!{/i} ¡Bien parado! ¡Deja de sentirme triste! ¡No necesito una fiesta de lástima de nadie, especialmente de ti!!"
+msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] {i}¡Gahh!{/i} ¡Para! ¡Deja de estar triste por mí! ¡¡No necesito una fiesta de lástima de nadie, ni especialmente de ti!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18074 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_6569fe93:
 msgid "[_ember_s_down_s_angry_s_talk_distraught_] Why should I have to be forgotten?! I didn't do anything wrong! I didn't ask to be born into my shitty, loser life!!"
-msgstr "[_ember_s_down_s_angry_s_talk_distraught_] ¿Por qué habría que olvidarme?! ¡No hice nada mal! No pedí nacer en mi vida mierda y perdedora!!"
+msgstr "[_ember_s_down_s_angry_s_talk_distraught_] ¡¿Por qué debería de olvidarlo?! ¡No hice nada mal! No pedí nacer en una vida de mierda como perdedora!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18077 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_c9708175:
 msgid "[_ember_s_towards_s_angry_s_talk_distraught_] Coming back as a ghost... it gave me another perspective. That I could use this new opportunity to make sure I'd never be forgotten again..."
-msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] Volviendo como fantasma... me dio otra perspectiva. Que podría aprovechar esta nueva oportunidad para asegurarme de que nunca más me olvidaría..."
+msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] Volviéndome fantasma... me dio otra perspectiva. Podría aprovechar esta nueva oportunidad para asegurarme de que nunca más fuese olvidada..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18080 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_58d41cc9:
 msgid "[_ember_s_towards_wide_s_angry_s_talk_distraught_] I swore that no one would ever forget my name again!"
-msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] juré que nadie se olvidaría de mi nombre de nuevo!"
+msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¡juré que nadie se olvidaría de mi nombre de nuevo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18083 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_f1a666e7:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Look, you don't always have to try to keep things like this inside yourself! What happened to you was awful... and it's okay. Nobody blames you for feeling mad."
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Mira, no siempre tienes que intentar mantener cosas como esta dentro de ti mismo! Lo que te pasó fue terrible. , y está bien. Nadie te culpa de sentirse loco."
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_] Mira, no siempre tienes que intentar mantener cosas como esta dentro de ti! Lo que te pasó fue terrible... y ya está. Nadie te culpa de sentirse mal."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18086 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_54232c84:
 msgid "[_ember_s_down_s_angry_s_talk_distraught_] You don't...! You...!"
-msgstr "[_ember_s_down_s_angry_s_talk_distraught_] Usted no ...! ¡Usted ...!"
+msgstr "[_ember_s_down_s_angry_s_talk_distraught_] ¡tú no...! ¡tú...!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18091 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_75520a0b:
 msgid "[_ember_s_towards_wide_s_angry_s_talk_distraught_] Why?! Why did you need to bring it all back to me?!"
-msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¿Por qué?! ¿Por qué necesitaste traerlo todo de vuelta a mí?!"
+msgstr "[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¿Por qué?! ¡¿Por qué necesitas hacerme recordarlo todo?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18094 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_079d6be5:
 msgid "[_ember_s_towards_wide_s_sad_s_talk_distraught_] Why damn you? {i}WHY!{/i}"
-msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] ¿Por qué maldita tú? ¡ {i}POR QUI!{/i}"
+msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] ¿Por qué cojones tú? {i}¡¿POR QUÉ?!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18097 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_19a5cfde:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Ember, it's alright..."
@@ -14414,7 +14414,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] Ember, es
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18100 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_45f04e06:
 msgid "[_ember_s_towards_s_angry_s_talk_distraught_] No, it's not! It's not okay! This shouldn't be my life!"
-msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] No, ¡no! ¡No está bien! ¡Esto no debería ser mi vida!"
+msgstr "[_ember_s_towards_s_angry_s_talk_distraught_] No, ¡no! ¡No está bien! ¡Esta no debería ser mi vida!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18103 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_926b79b9:
 msgid "[_ember_s_down_s_sad_s_talk_distraught_] My life should be..."
@@ -14438,7 +14438,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_amused_s_blush_]
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18154 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_02e15919:
 msgid "[_ember_s_away_s_sad_s_talk_distraught_] I... I need to go."
-msgstr "[_ember_s_away_s_sad_s_talk_distraught_] I. .. Tengo que ir."
+msgstr "[_ember_s_away_s_sad_s_talk_distraught_] yo... Tengo que irme."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18157 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_44f415b6:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_distraught_] Ember, wait!"
@@ -14446,43 +14446,43 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_distraught_]
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18163 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_48bad317:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_self_s_rise_s_talk_displeased_] Oh man... what the hell just happened?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_self_s_rise_s_talk_displeased_] Oh hombre... ¿qué infierno acaba de pasar?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_self_s_rise_s_talk_displeased_] Oh tio... ¿qué demonios acaba de pasar?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18165 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_42713d2d:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_talk_displeased_] Why does it always go down {i}this{/i} road?"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_talk_displeased_] ¿Por qué siempre baja {i}este camino {/i}?"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_wondering_s_talk_displeased_] ¿Por qué siempre acaba de {i}esta{/i} forma?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18190 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_5_House_Morning_ac1279db:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Man... last night was weird... I had probably better give Ember some more space after... whatever even happened."
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] El hombre... anoche fue extraño... Probablemente hubiera dado a Ember más espacio después... pase lo que pase."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] tio... anoche fue extraño... Debería haber dado a Ember más tiempo... pasara lo que pasara."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18192 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_5_House_Morning_a9a984df:
 msgid "[_danny_s_at_player_s_rise_s_talk_amused_] Never can tell what's going on in any of these girls' heads..."
-msgstr "[_danny_s_at_player_s_rise_s_talk_amused_] Nunca puedes saber lo que está pasando en la cabeza de ninguna de estas chicas..."
+msgstr "[_danny_s_at_player_s_rise_s_talk_amused_] Nunca puedes saber lo que está pasando en la cabeza de una de estas chicas..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18217 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_9c473068:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_distraught_] Huh? Hello? Something going on? Who's-"
-msgstr "¿[_danny_s_towards_wide_s_wondering_s_talk_distraught_] Huh? ¿Hola? ¿Algo está pasando? ¿Quién -"
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_distraught_] Huh? ¿Hola? ¿Está pasando algo? ¿Quién -"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18225 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_559112df:
 msgid "[_ember_s_towards_s_sad_s_talk_amused_] Hey, {i}sshhh{/i}, quiet... it's me."
-msgstr "[_ember_s_towards_s_sad_s_talk_amused_] Hey, {i}sshhh{/i}, quiete... soy yo."
+msgstr "[_ember_s_towards_s_sad_s_talk_amused_] Hey, {i}sshhh{/i}, calla... soy yo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18228 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_79bc884e:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] E-Ember, is everything okay?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] E-Ember, ¿está todo bien?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] E-Ember, ¿va todo bien?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18231 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_69d3f8aa:
 msgid "[_ember_s_down_s_sad_s_talk_happy_] Yeah, I just... I wanted... I'd like to sit with you and... talk."
-msgstr "[_ember_s_down_s_sad_s_talk_happy_] Sí, lo justo... yo quería... Me gustaría sentarme contigo y... hablar."
+msgstr "[_ember_s_down_s_sad_s_talk_happy_] Sí, solo... yo quería... Me gustaría sentarme contigo y... hablar."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18234 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_2f7dd71f:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] What about? Sorry if I sound tired... I sorta am."
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] ¿Qué pasa? Lo siento si me suena cansado ... I sorta am."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] ¿Qué pasa ahora? Lo siento si suena a cansado de aguantarte... Estoy."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18237 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_1f4a4dc4:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] Yeah, I know, I've just been thinking a lot is all."
-msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Sí, lo sé, acabo de pensar que mucho es todo."
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Sí, lo sé, he estado pensando mucho sobre todo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18240 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_1bd19cad:
 msgid "[_danny_s_towards_s_wondering_s_talk_displeased_] What about?"
@@ -14490,19 +14490,19 @@ msgstr "[_danny_s_towards_s_wondering_s_talk_displeased_] ¿Qué pasa?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18243 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_29f1f22f:
 msgid "[_ember_s_down_s_sad_s_talk_displeased_] If it's alright with you, I'd like to change things... between us."
-msgstr "[_ember_s_down_s_sad_s_talk_displeased_] Si está bien contigo, me gustaría cambiar las cosas ... entre nosotros."
+msgstr "[_ember_s_down_s_sad_s_talk_displeased_] Si te parece bien, me gustaría cambiar las cosas... entre nosotros."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18246 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_4d4ff809:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] How so? Did you wanna talk more about your-"
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] ¿Cómo? ¿Quieres hablar más de tu-"
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] ¿Cómo? ¿Quieres hablar más de ti-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18249 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_cc9c82a3:
 msgid "[_ember_s_towards_wide_s_sad_s_talk_distraught_] No, not at all. That's not it.{p}For now, I'd just... I'd rather not."
-msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] No, no es en absoluto. Eso no es todo.{p}Por ahora, me pondría... preferiría que no."
+msgstr "[_ember_s_towards_wide_s_sad_s_talk_distraught_] No, no es en absoluto. No és eso. {p}Por ahora{/p}, me gustaría solo... preferiría que no."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18252 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_fa088ddc:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Oh, sorry. Okay, then what is it?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] Oh, lo sentimos. Vale, ¿qué es?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] Oh, lo siento. Vale, ¿qué es?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18255 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_404b65e1:
 msgid "[_ember_s_down_s_sad_s_talk_displeased_] ...I still don't trust you."
@@ -14510,7 +14510,7 @@ msgstr "[_ember_s_down_s_sad_s_talk_displeased_] ...Todavía no confío en ti."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18258 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_4971163c:
 msgid "[_danny_s_towards_s_unhappy_s_talk_displeased_] Okay... sure, I guess that's fair, ultimately."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] Vale... seguro, supongo que eso es justo, en última instancia."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] Vale... seguro, supongo que eso está bastante claro."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18261 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_a92b990f:
 msgid "[_ember_s_down_s_sad_s_talk_displeased_] ...and I can't tell you everything I know."
@@ -14518,7 +14518,7 @@ msgstr "[_ember_s_down_s_sad_s_talk_displeased_] ...y no puedo decirte todo lo q
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18264 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_de0850c2:
 msgid "[_danny_s_towards_s_sad_s_talk_amused_] Alright, I'm still following you."
-msgstr "[_danny_s_towards_s_sad_s_talk_amused_] Bien, todavía te sigo."
+msgstr "[_danny_s_towards_s_sad_s_talk_amused_] Bien, te escucho."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18267 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_b2b1af4c:
 msgid "[_ember_s_down_s_confused_s_talk_amused_] ...and I don't really understand fully everything I'm feeling at the moment."
@@ -14526,7 +14526,7 @@ msgstr "[_ember_s_down_s_confused_s_talk_amused_] ...y no entiendo completamente
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18270 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_3b71d20e:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] Sounds typical for a teenager, same as me... so, what's changed exactly?"
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Suena típico para un adolescente, igual que yo... entonces, ¿qué ha cambiado exactamente?"
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Suena típico para una jovenzuela, igual que yo... entonces, ¿qué ha cambiado?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18273 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_66c8cf77:
 msgid "[_ember_s_towards_s_rise_s_talk_bite_] {u}This.{/u}"
@@ -14538,39 +14538,39 @@ msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] ¡Vaya!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18294 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_33910a00:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_s_blush_] E-Ember, what are you-"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_s_blush_] E-Ember, qué eres tú-"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_s_blush_] E-Ember, ¿qué estás-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18297 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_09ef8a40:
 msgid "[_ember_s_human_nude_s_down_s_sad_s_talk_amused_] I don't know where any of this is going, I don't even know if this is the right call."
-msgstr "[_ember_s_human_nude_s_down_s_sad_s_talk_amused_] No sé de dónde va nada de esto, ni siquiera sé si esta es la llamada correcta."
+msgstr "[_ember_s_human_nude_s_down_s_sad_s_talk_amused_] No sé de a dónde va todo esto, ni siquiera sé si esta és las forma correcta de llamarlo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18300 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_31c16ec3:
 msgid "[_ember_s_human_nude_s_towards_s_rise_s_talk_amused_] But I think I want it, and I think... I think there's something different about you."
-msgstr "[_ember_s_human_nude_s_towards_s_rise_s_talk_amused_] Pero creo que lo quiero, y pienso... creo que hay algo diferente sobre ti."
+msgstr "[_ember_s_human_nude_s_towards_s_rise_s_talk_amused_] Pero creo que lo quiero, y pienso... creo que hay algo diferente en ti."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18303 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_3660997e:
 msgid "[_danny_s_towards_s_unhappy_s_talk_happy_s_-blush_] Ember, c'mon... you don't have to do this if you're not ready. You even said you wanted to wait until you felt that you could trust-"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_happy_s_-blush_] Ember, c'mon... no tienes que hacer esto si no estás listo. Incluso ha dicho que quería esperar hasta que sintiera que podía confiar."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_happy_s_-blush_] Ember, vamos... no tienes que hacer esto si no estás lista. Incluso has dicho que querías esperar hasta que sintieras que podías confiar"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18306 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_a2f0cafb:
 msgid "[_ember_s_human_nude_s_towards_s_confused_s_talk_displeased_] Yeah, and what good did that do? I gambled, and I lost. Knowing you as much as I do, kid... you seem like you're good enough."
-msgstr "[_ember_s_human_nude_s_towards_s_confused_s_talk_displeased_] Sí, ¿y qué bien hizo eso? Jugué y perdí. Conociéndole tanto como yo, chico... parece que eres lo suficientemente bueno."
+msgstr "[_ember_s_human_nude_s_towards_s_confused_s_talk_displeased_] Sí, ¿y qué bien hizo eso? Jugué y perdí. Conociéndole tanto como te conozco, chico... parece que eres lo suficientemente bueno."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18309 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_0c1fd2ee:
 msgid "[_ember_s_human_nude_s_towards_s_sad_s_talk_bite_] I'm down to do this with a good guy...~"
-msgstr "[_ember_s_human_nude_s_towards_s_sad_s_talk_bite_] Estoy para hacer esto con un buen tipo...~"
+msgstr "[_ember_s_human_nude_s_towards_s_sad_s_talk_bite_] Me ablando para hacer esto con un buen tipo...~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18312 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_3caa0658:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Are you sure that's-"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Está seguro de que?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Está segura de que-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18315 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_32_Danny_Bedroom_Evening_f8b3c474:
 msgid "[_ember_s_human_nude_s_towards_s_angry_s_talk_bite_] Shh, come here. I'll show you how sure I am..."
-msgstr "[_ember_s_human_nude_s_towards_s_angry_s_talk_bite_] Shh, ven aquí. Te mostraré lo seguro que estoy yo..."
+msgstr "[_ember_s_human_nude_s_towards_s_angry_s_talk_bite_] Shh, ven aquí. Te mostraré lo segura que estoy yo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18333 #-#-# translate crowdin A_Nightmare_Called_Ember_ember_cowgirl_scene_ee27e195:
 msgid "[_ember_] Oh fuck! Desy was right! You {i}are{/i} big!"
-msgstr "[_ember_] ¡Ay joder! ¡Desy tenía razón! Usted {i}es {/i} grande!"
+msgstr "[_ember_] ¡Ay joder! ¡Desy tenía razón! La {i}tienes {/i} enorme!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18336 #-#-# translate crowdin A_Nightmare_Called_Ember_ember_cowgirl_scene_1eb177f0:
 msgid "[_danny_] Ahh! You girls have been talking about my dick?"
@@ -14722,27 +14722,27 @@ msgstr "[_danny_] ¡¡Lo siento!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18560 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_df8ee2e4:
 msgid "[_danny_s_at_player_s_sad_s_talk_displeased_] Well, that certainly sucked."
-msgstr "[_danny_s_at_player_s_sad_s_talk_displeased_] Bueno, sin duda ha chupado."
+msgstr "[_danny_s_at_player_s_sad_s_talk_displeased_] Bueno, sin duda ha sido una putada."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18562 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_b06b138d:
 msgid "[_danny_s_ahegao_s_unhappy_s_bite_s_blush_] (But damnnnnn, even I have to admit she is damn hot.)"
-msgstr "[_danny_s_ahegao_s_unhappy_s_bite_s_blush_] (Pero damnnnnnn, incluso tengo que admitir que está maldita calor.)"
+msgstr "[_danny_s_ahegao_s_unhappy_s_bite_s_blush_] (Pero damnnnnnn, tengo que admitir que está como un tren.)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18572 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_97e7e9bc:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] Well, well, well..."
-msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Bueno, bien..."
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Bien, bien, bien..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18575 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_5e967067:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] Ember! Uh, hey, good morning... how're you doing...?"
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¡Ember! Uh, hey, buena mañana... ¿cómo estás haciendo...?"
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¡Ember! Uh, hey, buenos días... ¿cómo estás...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18578 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_f8d6f41f:
 msgid "[_ember_s_towards_s_idle_s_talk_amused_] {i}*Chuckling*{/i}"
-msgstr "[_ember_s_towards_s_idle_s_talk_amused_] {i}*Chuckling*{/i}"
+msgstr "[_ember_s_towards_s_idle_s_talk_amused_] {i}*Risas*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18581 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_4b29dda2:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Uhmm... watched that little incident go down, did you?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] Uhmm... miró cómo bajaba ese pequeño incidente, ¿verdad?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] Uhmm... viste este pequeño incidente, ¿verdad?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18584 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_bfa1411a:
 msgid "[_ember_s_towards_s_idle_s_talk_happy_] I did indeed."
@@ -14750,27 +14750,27 @@ msgstr "[_ember_s_towards_s_idle_s_talk_happy_] Yo sí."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18587 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_87463efc:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] I... I..."
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] I. .. I. .."
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] yo... yo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18590 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_b399bc7b:
 msgid "[_ember_s_towards_s_confused_s_talk_amused_] No need to explain... I can hardly blame you getting flustered, with a cutie mc-booty like her flashing the goods..."
-msgstr "[_ember_s_towards_s_confused_s_talk_amused_] No hay necesidad de explicar... difícilmente puedo culpar a que te arruines, con un mc-booty cutie como ella parpadeando los bienes..."
+msgstr "[_ember_s_towards_s_confused_s_talk_amused_] No hay necesidad de dar explicaciones... difícilmente puedo culparte de que te frustres, con un pibón como ella merodeando cerca de ti..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18593 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_2beea82e:
 msgid "[_danny_s_towards_s_unhappy_s_talk_displeased_] N-no, it's not like that! I- wait-{p}...what? You're not mad?"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] ¡N-no, no es así! Yo- espero-{p}...¿Qué? ¿No estás loco?"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] ¡N-no, no és eso! Yo- espera-{p}...¿Qué?{/p} ¿No estás loca?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18596 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_c05563fd:
 msgid "[_ember_s_towards_s_confused_s_talk_displeased_] Why would I be mad?"
-msgstr "[_ember_s_towards_s_confused_s_talk_displeased_] ¿Por qué estaría loco?"
+msgstr "[_ember_s_towards_s_confused_s_talk_displeased_] ¿Por qué estaría loca?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18599 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_b4ac2187:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] It's not like we're together or anything. I don't give a shit, man. It's a new age we live in, who really cares about \"labels\"?"
-msgstr "[_ember_s_towards_s_rise_s_talk_amused_] No es como estamos juntos ni nada. No le doy una mierda, hombre. Es una nueva era en la que vivimos, ¿a quién realmente le importan las \"etiquetas\"?"
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] No és que estemos liados o nada parecido. No le ni una mierda de importáncia, tio. Vivimos en una nueva era, ¿a quién le importan las \"etiquetas\"?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18602 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_268e8ef4:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] R-right, sure..."
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] R-derecho, seguro..."
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] C-cierto, seguro..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18605 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_a0346f7e:
 msgid "[_ember_s_towards_s_rise_s_talk_bite_] In fact, if you're really interested... I think I have {u}just{/u} the plan to help you speed things along with little miss redhead..."
