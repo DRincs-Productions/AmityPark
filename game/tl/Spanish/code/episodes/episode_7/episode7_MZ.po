@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-27 18:29\n"
+"PO-Revision-Date: 2023-12-28 15:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -13970,23 +13970,23 @@ msgstr "[_lancer_s_pantsless_s_shocked_s_towards_wide_s_angry_s_talk_frown_s_blu
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17641 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_45793c09:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_angry_s_talk_frown_] Dorian Gray!! My blasted shoelaces!!"
-msgstr "[_lancer_s_offscreen_s_towards_wide_s_angry_s_talk_frown_] Dorian Gray!! ¡Mis zapatos de zapatos!"
+msgstr "[_lancer_s_offscreen_s_towards_wide_s_angry_s_talk_frown_] ¡¡Dorian Gray!! ¡Mis zapatos!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17643 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_fd7b67dc:
 msgid "[_danny_s_at_player_s_angry_s_clenchteeth_] (Oh crap! Ember, what the hell are you doing?)"
-msgstr "[_danny_s_at_player_s_angry_s_clenchteeth_] (¡Oh porquería! Ember, what the hell are you doing?)"
+msgstr "[_danny_s_at_player_s_angry_s_clenchteeth_] (¡Oh mierda! ¡Ember, ¿qué demonios estás haciendo?)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17645 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_e2cba17f:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] Uhhmmm, gee, that's too bad, but uh, sorry, I've gotta go Mr. Lancer!"
-msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] Uhhmmm, gee, eso es demasiado malo, pero uh, lo siento, ¡tengo que ir señor Lancer!"
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] Uhhmmm, gee, esto no está bien, pero uh, lo siento, ¡tengo que irme señor Lancer!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17648 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_7248f5bf:
 msgid "[_lancer_s_offscreen_s_towards_s_angry_s_talk_frown_] {i}*Splutter*{/i} Where do you think you're running off to, Mr. Fenton?"
-msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_frown_] {i}*Splutter*{/i} ¿A dónde crees que estás corriendo, Sr. Fenton?"
+msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_frown_] {i}*Refunfuñando*{/i} ¿A dónde cree que va corriendo, Sr. Fenton?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17650 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_6b871b90:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] Got an emergency call! Cat got diagnosed with Coronavirus! Have to go!"
-msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¡Has recibido una llamada de emergencia! ¡Gat ha sido diagnosticado con Coronavirus! ¡Vaya!"
+msgstr "[_danny_s_towards_s_sad_s_talk_distraught_] ¡He recibido una llamada de emergencia! ¡El gato ha sido diagnosticado con Coronavirus! ¡Vaya!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17653 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_512fc916:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_rise_one_s_talk_frown_] Wait a second, I haven't dismissed yo- {i}OW!!{/i}{p}People, please, the \"Kick Me\" sign taped to my backside is {u}not{/u} an invitation!!"
