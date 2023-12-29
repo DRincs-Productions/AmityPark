@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-28 18:01\n"
+"PO-Revision-Date: 2023-12-29 13:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -419,11 +419,11 @@ msgstr "[_penelope_s_arms_up_s_towards_s_sad_s_talk_displeased_] Danny... Jazz v
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:551 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_8e7fe660:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_distraught_] She felt that you, her brother, were not being completely being honest with her about your {b}personal life{/b} lately..."
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_distraught_] Ella sintió que tú, su hermano no estaba siendo completamente honesto con ella acerca de tu vida {b}personal{/b} últimamente..."
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_distraught_] Ella sintió que tú, su hermano, no fuiste completamente honesto con ella acerca de tu vida {b}personal{/b} recientemente..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:555 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_33f34835:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_distraught_] Jazz? What the heck, why?!"
-msgstr "[_danny_s_towards_wide_s_angry_s_talk_distraught_] Jazz? ¡Qué diablos, por qué?!"
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_distraught_] ¿Jazz? ¡Qué diablos!, ¿por qué?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:559 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_b83c9eef:
 msgid "[_jazz_s_towards_wide_s_angry_s_talk_displeased_] Danny, you don't need to react like this!"
@@ -431,19 +431,19 @@ msgstr "[_jazz_s_towards_wide_s_angry_s_talk_displeased_] Danny, ¡no necesitas 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:563 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_866a72f3:
 msgid "[_danny_s_towards_s_angry_s_talk_displeased_] Well why are you so worried about my own busine-"
-msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] Bueno, ¿por qué estás tan preocupado por mi propia felicidad-"
+msgstr "[_danny_s_towards_s_angry_s_talk_displeased_] Bueno, ¿por qué estás tan preocupada por mi felicidad-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:567 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_d1e8efc6:
 msgid "[_penelope_s_arms_up_s_towards_s_unhappy_s_talk_displeased_] {i}Ah, ah!{/i} Let's put a pin in that."
-msgstr "[_penelope_s_arms_up_s_towards_s_unhappy_s_talk_displeased_] {i}Ah, ah!{/i} Pongamos un pin en eso."
+msgstr "[_penelope_s_arms_up_s_towards_s_unhappy_s_talk_displeased_] {i}Ah, ah!{/i} Pongamos un pie en eso."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:579 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_f12c824e:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Now, before we get started, can I have Bertrand get either of you anything?"
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Ahora, antes de empezar, ¿puedo tener a Bertrand ya sea de ti?"
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Ahora, antes de empezar, ¿Queréis que Bertrand os traiga algo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:583 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_3c28f5d3:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_] Bertrand? Who's Ber-?"
-msgstr "¿[_danny_s_towards_s_rise_s_talk_distraught_] Bertrand? ¿Quién es Ber-?"
+msgstr "¿[_danny_s_towards_s_rise_s_talk_distraught_] ¿Bertrand? ¿Quién es Ber-?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:598 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_da7ac5bd:
 msgid "[_danny_jazz_] {i}GAH!{/i}"
@@ -451,39 +451,39 @@ msgstr "[_danny_jazz_] {i}GAH!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:603 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_3afe6ad3:
 msgid "[_bertrand_s_arms_down_s_towards_s_talk_] Right here, boyo."
-msgstr "[_bertrand_s_arms_down_s_towards_s_talk_] Justo aquí, boyo."
+msgstr "[_bertrand_s_arms_down_s_towards_s_talk_] Aquí, pollo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:608 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_586a6621:
 msgid "[_penelope_s_arms_up_s_towards_s_idle_s_talk_happy_] Bertrand is my personal assistant, and he's helping me settle into the Casper High faculty here!"
-msgstr "[_penelope_s_arms_up_s_towards_s_idle_s_talk_happy_] Bertrand es mi asistente personal, ¡y me está ayudando a instalarme en la alta facultad de Casper aquí!"
+msgstr "[_penelope_s_arms_up_s_towards_s_idle_s_talk_happy_] Bertrand es mi asistente personal, ¡y me está ayudando a instalarme en la alta facultad de Casper!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:613 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_00f89925:
 msgid "[_jazz_s_standard_s_towards_s_rise_s_talk_consternation_] W-where did you come from?"
-msgstr "[_jazz_s_standard_s_towards_s_rise_s_talk_consternation_] ¿De dónde has venido?"
+msgstr "[_jazz_s_standard_s_towards_s_rise_s_talk_consternation_] ¿De dónde has salido?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:618 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_62bf5cf1:
 msgid "[_bertrand_s_arms_up_s_towards_s_talk_] I've been here this whole time, sister."
-msgstr "[_bertrand_s_arms_up_s_towards_s_talk_] He estado aquí todo el tiempo, hermana."
+msgstr "[_bertrand_s_arms_up_s_towards_s_talk_] He estado aquí todo el tiempo, chica."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:623 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_694cbf98:
 msgid "[_jazz_s_towards_s_neutral_s_talk_consternation_] But I didn't see...?"
-msgstr "[_jazz_s_towards_s_neutral_s_talk_consternation_] ¿Pero no ve...?"
+msgstr "[_jazz_s_towards_s_neutral_s_talk_consternation_] ¿Pero no te ví...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:627 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_42878841:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_amused_] Poor Bertrand here tends to blend into the background rather easily I'm afraid. It's quite the gift, isn't that right Bertrand?"
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_amused_] Pobre Bertrand aquí tiende a fundirse en el fondo bastante fácilmente. Es bastante el regalo, ¿no es así Bertrand derecho?"
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_amused_] Pobre Bertrand, se tiende a confundirse en el fondo bastante fácilmente. Es como otro mueble, ¿no és así Bertrand?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:632 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_28466fa5:
 msgid "[_bertrand_s_arms_down_s_towards_s_talk_] ...sure, I suppose so."
-msgstr "[_bertrand_s_arms_down_s_towards_s_talk_] ...seguro, supongo."
+msgstr "[_bertrand_s_arms_down_s_towards_s_talk_] ...supongo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:639 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_7bdc9da1:
 msgid "[_bertrand_s_arms_up_s_towards_s_talk_] I took the liberty of making {i}two{/i} cups of chamomile tea already, so... enjoy, I suppose."
-msgstr "[_bertrand_s_arms_up_s_towards_s_talk_] ya me tomé la libertad de hacer tazas {i}dos{/i} de té de camomile, así que... disfruta, supongo."
+msgstr "[_bertrand_s_arms_up_s_towards_s_talk_] ya me tomé la libertad de preparar {i}dos{/i} tazas de manzanilla... disfrutad."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:644 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_bd5d41fd:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] {i}Uhh{/i}, thanks and all, but do you actually have some coffee or anything?"
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] {i}Uhh{/i}, gracias y todo, pero ¿realmente tienes algo de café o algo?"
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] {i}Uhh{/i}, gracias, pero ¿tienes café o algo del estilo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:649 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_c476edb5:
 msgid "[_bertrand_s_arms_down_s_glare_s_talk_] ...no."
@@ -491,15 +491,15 @@ msgstr "[_bertrand_s_arms_down_s_glare_s_talk_] ...no."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:654 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_2674dbe2:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Oh. Well. thought I'd ask."
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Oh. Bien. Pensé que me preguntaría."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Oh. Bueno, me lo pensaré."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:659 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_90b75298:
 msgid "[_bertrand_s_arms_up_s_towards_s_talk_] I {i}suppose{/i} I could be inclined to put on a fresh pot, if Miss Spectra was interested in something like tha-"
-msgstr "[_bertrand_s_arms_up_s_towards_s_talk_] I {i}suppose{/i} Podría ser inclinado a poner un pozo fresco, si Miss Spectra estuviera interesado en algo como está-"
+msgstr "[_bertrand_s_arms_up_s_towards_s_talk_] I {i}supongo{/i} Podría ser adecuado traer algo fresco, si Miss Spectra estuviera interesada-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:664 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_157c5b6b:
 msgid "[_penelope_s_towards_s_neutral_s_talk_displeased_] No, Bertrand, that's not necessary, thank you."
-msgstr "[_penelope_s_towards_s_neutral_s_talk_displeased_] No, Bertrand, eso no es necesario, gracias."
+msgstr "[_penelope_s_towards_s_neutral_s_talk_displeased_] No, Bertrand, eso no és necesario, gracias."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:669 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_349c6877:
 msgid "[_bertrand_s_arms_down_s_towards_s_talk_] ...of course."
@@ -507,19 +507,19 @@ msgstr "[_bertrand_s_arms_down_s_towards_s_talk_] ...por supuesto."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:681 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_5daab7d4:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_amused_] Now, let's get back to things. I think we can get to the root of some of your issues working together like this!"
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_amused_] Ahora, volvamos a las cosas. ¡Creo que podemos llegar a la raíz de algunos de tus problemas trabajando juntos así!"
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_amused_] Ahora, volvamos al asunto. ¡Creo que podemos llegar a la raíz de tus problemas trabajando juntos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:691 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_e57dad14:
 msgid "[_penelope_s_arms_up_s_towards_s_sad_s_talk_displeased_] Now Jasmine, would you like to begin explaining to Danny what the issue is you're having with his recent behavior?"
-msgstr "[_penelope_s_arms_up_s_towards_s_sad_s_talk_displeased_] Ahora Jazmín, ¿te gustaría empezar a explicar a Danny lo que el problema está teniendo con su comportamiento reciente?"
+msgstr "[_penelope_s_arms_up_s_towards_s_sad_s_talk_displeased_] Ahora Jasmine, ¿te gustaría empezar a explicar a Danny el problema que vives con su comportamiento reciente?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:695 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_5484535b:
 msgid "[_jazz_s_standard_arms_behind_s_down_s_rise_s_talk_consternation_] Well... I just feel like it sorta comes down to having more trust."
-msgstr "[_jazz_s_standard_arms_behind_s_down_s_rise_s_talk_consternation_] Bueno... Solo siento que sorta se reduce a tener más confianza."
+msgstr "[_jazz_s_standard_arms_behind_s_down_s_rise_s_talk_consternation_] Bueno... Solo siento que se reduce la confianza."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:699 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_64a05f5c:
 msgid "[_penelope_s_towards_s_confused_s_talk_displeased_] You don't think you can trust Danny, is that it?"
-msgstr "[_penelope_s_towards_s_confused_s_talk_displeased_] No crees que puedas confiar en Danny, ¿es eso?"
+msgstr "[_penelope_s_towards_s_confused_s_talk_displeased_] Crees que no puedes confiar en Danny, ¿es eso?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:703 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_94aaffe7:
 msgid "[_jazz_s_standard_s_away_s_rise_s_talk_distraught_] N-no! That's not it, I {i}do{/i} trust him!"
@@ -527,11 +527,11 @@ msgstr "¡[_jazz_s_standard_s_away_s_rise_s_talk_distraught_] N-no! Eso no es as
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:707 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_caf3b243:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Just not enough to talk to me directly about this without going to some school councilor first?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] No es suficiente para hablar directamente sobre esto sin ir primero a algún consejero de la escuela?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿No es mejor hablar directamente conmigo sin ir primero a algún consejero de la escuela?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:711 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_1276d952:
 msgid "[_jazz_s_towards_s_angry_s_talk_consternation_] Danny, would you even bother talking to me about... whatever it potentially is anyway?"
-msgstr "[_jazz_s_towards_s_angry_s_talk_consternation_] Danny, ¿te molestarías en hablar conmigo... sea lo que sea potencialmente de todos modos?"
+msgstr "[_jazz_s_towards_s_angry_s_talk_consternation_] Danny, ¿te molestarías en hablar conmigo... sea lo que potencialmente sea?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:715 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_6c121f8b:
 msgid "[_jazz_s_standard_s_towards_s_rise_s_talk_displeased_] ...or just brush it off and try to ignore it like you usually do?"
@@ -539,31 +539,31 @@ msgstr "[_jazz_s_standard_s_towards_s_rise_s_talk_displeased_] ...o simplemente 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:719 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_1deea621:
 msgid "[_danny_s_towards_wide_s_idle_s_talk_distraught_] I don't... n-no, I wouldn't do that, necessarily!{p}{nw}"
-msgstr "[_danny_s_towards_wide_s_idle_s_talk_distraught_] Yo no ... n-no, yo no haría eso, necesariamente!{p}{nw}"
+msgstr "[_danny_s_towards_wide_s_idle_s_talk_distraught_] Yo no... n-no, yo no haría eso necesariamente!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:724 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_0d19c2d9:
 msgid "[_extend_] I've just been... more stressed as of late!"
-msgstr "[_extend_] Acabo de ser... ¡más estresado últimamente!"
+msgstr "[_extend_] Estoy... ¡estresado últimamente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:728 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_c272a01a:
 msgid "[_jazz_s_towards_s_sad_s_talk_displeased_] Of course you are! I've seen how you've been acting different recently, doofus!"
-msgstr "[_jazz_s_towards_s_sad_s_talk_displeased_] ¡Por supuesto que eres! ¡He visto cómo has estado actuando de forma diferente recientemente, doofus!"
+msgstr "[_jazz_s_towards_s_sad_s_talk_displeased_] ¡Por supuesto! ¡He visto cómo has estado actuando de forma diferente, tarugo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:732 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_4f1488c7:
 msgid "[_jazz_s_standard_arms_crossed_s_towards_s_angry_s_talk_distraught_] I'm not blind ya know! But you won't tell me about what! I don't know why-"
-msgstr "[_jazz_s_standard_arms_crossed_s_towards_s_angry_s_talk_distraught_] ¡No soy ciego ya sabe! ¡Pero no me dirás de qué! No sé porqué-"
+msgstr "[_jazz_s_standard_arms_crossed_s_towards_s_angry_s_talk_distraught_] ¡No soy ciega, sabes! ¡Pero no me dices de qué se trata! No sé por qué-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:736 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_d2731e44:
 msgid "[_penelope_s_arms_up_s_towards_s_unhappy_s_talk_distraught_] Now now, Jazz, we don't just want to brazenly lash out at our family and friends like this!"
-msgstr "[_penelope_s_arms_up_s_towards_s_unhappy_s_talk_distraught_] Ahora bien, ¡Jazz, no solo queremos aplastar brazmente a nuestra familia y amigos como esto!"
+msgstr "[_penelope_s_arms_up_s_towards_s_unhappy_s_talk_distraught_] Ahora, ¡Jazz, no queremos arremeter descaradamente nuestra familia y amigos como esto!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:740 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_7a613280:
 msgid "[_penelope_s_arms_up_s_towards_s_idle_s_talk_displeased_] I think, to get to the root of this problem, we have to do a little look back, and see where things might have changed."
-msgstr "[_penelope_s_arms_up_s_towards_s_idle_s_talk_displeased_] creo, para llegar a la raíz de este problema, tenemos que mirar hacia atrás, y ver donde las cosas podrían haber cambiado."
+msgstr "[_penelope_s_arms_up_s_towards_s_idle_s_talk_displeased_] creo que, para llegar a la raíz de este problema, tenemos que mirar hacia atrás, y ver donde las cosas podrían haber cambiado."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:744 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_5286e8a1:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_displeased_] As siblings, were you two closer than you are now when you were both younger?"
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_displeased_] Como hermanos, ¿estabas dos más cerca de ti ahora cuando ambos eran jóvenes?"
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_displeased_] Como hermanos, ¿estaban los dos más juntos cuando eran jóvenes?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:751 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_0dac6070:
 msgid "[_danny_jazz_] . . ."
@@ -579,7 +579,7 @@ msgstr "[_jazz_s_standard_arms_behind_s_closed_s_sad_s_consternation_] {i}Mmhmm{
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:763 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_42a8c8e5:
 msgid "[_penelope_s_towards_s_rise_s_talk_happy_] Now what might have gone wrong along the way then, I wonder?"
-msgstr "[_penelope_s_towards_s_rise_s_talk_happy_] Ahora ¿qué podría haber ido mal por el camino entonces, me pregunto?"
+msgstr "[_penelope_s_towards_s_rise_s_talk_happy_] Ahora ¿qué podría haber ido mal?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:767 #-#-# translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_bdad2503:
 msgid "[_penelope_s_arms_up_s_towards2_s_neutral_s_talk_displeased_] Social pressures, lifestyle differences between each other, the simple passage of time..."
