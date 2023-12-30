@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-29 14:59\n"
+"PO-Revision-Date: 2023-12-30 10:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -827,27 +827,27 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Estoy seguro de lo será, pero es
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1050 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_109fe189:
 msgid "[_jazz_s_towards_s_angry_s_talk_consternation_] But I haven't even seen \"Black Tower\" 1 or 2!!"
-msgstr "[_jazz_s_towards_s_angry_s_talk_consternation_] Pero ni siquiera he visto \"Torre Negra\" 1 o 2!!"
+msgstr "[_jazz_s_towards_s_angry_s_talk_consternation_] Pero si ni siquiera he visto \"Torre Negra\" 1 o 2!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1053 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_1601772f:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Jazz, c'mon, it's at least something to pass the time!"
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Jazz, c'mon, ¡es al menos algo que pasar el tiempo!"
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Jazz, vamos, ¡es al menos algo con lo que pasar el tiempo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1056 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_8967ebfb:
 msgid "[_jazz_s_standard_s_towards_s_angry_s_talk_consternation_] {i}Urgh!{/i} Fine!{p}{nw}"
-msgstr "[_jazz_s_standard_s_towards_s_angry_s_talk_consternation_] {i}Urgh!{/i} Fine!{p}{nw}"
+msgstr "[_jazz_s_standard_s_towards_s_angry_s_talk_consternation_] {i}Urgh!{/i} ¡vale!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1060 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_75d2869b:
 msgid "[_extend_] We're supposed to be bonding and you're dragging me into what looks like a total CGI schlock-fest, dude."
-msgstr "[_extend_] Se supone que estamos uniendo y me arrastran en lo que parece un schlock-fest CGI total, dude."
+msgstr "[_extend_] Se supone que nos estamos acercando uno a otra y me arrastras a lo que parece una película horrenda, tio."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1063 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_77c90e48:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] I can't think of anything more likely to bring us together!"
-msgstr "¡[_danny_s_towards_s_rise_s_talk_amused_] no puedo pensar en nada más probable que nos juntenos!"
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] ¡no puedo pensar en nada más mejor que nos acerque!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1066 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_2e2c8942:
 msgid "[_jazz_s_towards_s_neutral_s_talk_displeased_] {i}Tsch{/i}, we'll see..."
-msgstr "[_jazz_s_towards_s_neutral_s_talk_displeased_] {i}Tsch{/i}, veremos..."
+msgstr "[_jazz_s_towards_s_neutral_s_talk_displeased_] {i}Tsch{/i}, ya veremos..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1079 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_793abf00:
 msgid "[_danny_s_towards_s_idle_s_talk_happy_] Two tickets to see \"Black Tower 3\", please."
@@ -855,15 +855,15 @@ msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Dos entradas para ver \"Torre Ne
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1084 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_0dbdd401:
 msgid "Employee A? [special_delimiter] Of course sir, enjoy the movie..."
-msgstr "¿Empleado A? [special_delimiter] Por supuesto señor, disfruta de los humores..."
+msgstr "¿Empleado A? [special_delimiter] Por supuesto señor, disfrute de la película..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1088 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_45f57d05:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] ...say, do I know you from somewhere?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ...digo, ¿te conozco de alguna parte?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ...m, ¿te conozco de alguna parte?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1093 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_f0834393:
 msgid "Employee A? [special_delimiter] {i}Uhm{/i}, you know, I wouldn't think so. But I get around, so it's possible I suppose."
-msgstr "¿Empleado A? [special_delimiter] {i}Uhm{/i}, ya sabes, no lo creía. Pero me queda mucho por hacer, así que supongo que es posible."
+msgstr "¿Empleado A? [special_delimiter] {i}Uhm{/i}, sabes, no lo creo. Pero supongo que es posible."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1096 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_c58891dc:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] Huh..."
@@ -871,7 +871,7 @@ msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] Huh..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1101 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_9f3934de:
 msgid "Employee A? [special_delimiter] I do have a sort of distinctive face, at least I've been told."
-msgstr "¿Empleado A? [special_delimiter] Tengo una especie de cara distintiva, al menos me he contado."
+msgstr "¿Empleado A? [special_delimiter] Tengo una cara distintiva, o al menos eso me dicen."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1105 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_99872136:
 msgid "[_danny_s_down_s_sad_s_consternation_] {i}Hmmm{/i}..."
@@ -879,7 +879,7 @@ msgstr "[_danny_s_down_s_sad_s_consternation_] {i}Hmm{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1110 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_c78e56cf:
 msgid "Employee A? [special_delimiter] Are you into aerobic exercise by chance? I attend a class every Tuesday. Great workout!"
-msgstr "¿Empleado A? [special_delimiter] ¿Estás en ejercicio aeróbico por casualidad? Cada martes asisto a una clase. ¡Buen entrenamiento!"
+msgstr "¿Empleado A? [special_delimiter] ¿Haces ejercicio aeróbico por casualidad? Cada martes asisto a una clase. ¡Es un buen entrenamiento!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1114 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_c7e787ff:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] ...nah, you know what, I must have been thinking of someone else."
@@ -887,11 +887,11 @@ msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] ...nah, sabes qué, debo ha
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1119 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_e5c7f507:
 msgid "Employee A? [special_delimiter] Oh {i}phew!{/i}"
-msgstr "¿Empleado A? [special_delimiter] Oh {i}phew!{/i}"
+msgstr "¿Empleado A? [special_delimiter] Oh {i}¡phew!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1123 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_7f86a7d1:
 msgid "Employee A? [special_delimiter] I mean, oh, okay then."
-msgstr "¿Empleado A? [special_delimiter] Quiero decir, oh, oh entonces."
+msgstr "¿Empleado A? [special_delimiter] Quiero decir, oh, ok."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1126 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_cd21f886:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] Alright, well anyway, thanks."
@@ -899,27 +899,27 @@ msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] Bien, de todos modos, graci
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1131 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_cc3e7238:
 msgid "Employee A? [special_delimiter] Yes, yes, enjoy the movie!"
-msgstr "¿Empleado A? [special_delimiter] Sí, ¡disfruta de los movimientos!"
+msgstr "¿Empleado A? [special_delimiter] Sí, ¡disfruta de la película!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1143 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_fea66ca1:
 msgid "[_bertrand_] {i}Hmmmm....{/i}, yes, enjoy it, you two... I'm sure you'll find it {i}very{/i} titillating."
-msgstr "[_bertrand_] {i}Hmmmm..{/i}, sí, disfrútalo, tú dos... Estoy seguro de que lo encontrarás {i}muy{/i} tillando."
+msgstr "[_bertrand_] {i}Hmmmm..{/i}, sí, disfrutad, los dos... Estoy seguro de que lo encontraréis {i}muy{/i} excitante."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1166 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_0deb68fe:
 msgid "[_danny_] Crazy how we're the only ones in the theater, right?"
-msgstr "[_danny_] Loco cómo somos los únicos en el teatro, ¿verdad?"
+msgstr "[_danny_] Que locura, parece una sesión donde estemos solos en el tetro, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1170 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_e269dc54:
 msgid "[_jazz_] L-like I said, nobody's interested in seeing this stupid, totally not scary movie."
-msgstr "[_jazz_] Al igual que dije, nadie está interesado en ver esta película estúpida, totalmente no aterradora."
+msgstr "[_jazz_] C-creo, ya te dije que nadie estaría interesado en ver esta película estúpida y sin contenido de terror."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1174 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_86827edf:
 msgid "[_danny_] Jazz... you alright? You seem kinda on edge."
-msgstr "[_danny_] Jazz... ¿vales? Pareces bonito."
+msgstr "[_danny_] Jazz... ¿estás bien? Pareces un poco nerviosa."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1178 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_3d07643a:
 msgid "[_jazz_] I'm fine, it's nothing! I'm just-"
-msgstr "[_jazz_] estoy bien, ¡no es nada! Estoy justo-"
+msgstr "[_jazz_] estoy bien, ¡no es nada! Estoy solo-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1194 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
@@ -931,35 +931,35 @@ msgstr "[_jazz_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1200 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d51a0dd6:
 msgid "[_danny_] Little bit scared there, huh?"
-msgstr "[_danny_] un poco asustado allí, ¿eh?"
+msgstr "[_danny_] un poco asustada, ¿eh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1204 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_583b7ddf:
 msgid "[_jazz_] Don't be ridiculous, this movie is pandering garbage."
-msgstr "[_jazz_] No seas ridículo, esta película es un pedazo de basura."
+msgstr "[_jazz_] No seas ridículo, esta película es un pedazo de mierda."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1208 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_cbde53b3:
 msgid "[_danny_] {i}*Chuckles*{/i} C'mon sis, there's nothing to be scared of, it's just a-"
-msgstr "[_danny_] {i}*Suerte*{/i} Sis de C'mon, no hay nada de lo que temer, es solo a-"
+msgstr "[_danny_] {i}*risas*{/i} hermanita vamos, no hay nada que temer, és solo una-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1212 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_dc6b4213:
 msgid "[_danny_] Wait... the ghost is gone, but now...{p}{nw}"
-msgstr "[_danny_] Espere... el fantasma ha desaparecido, pero ahora...{p}{nw}"
+msgstr "[_danny_] Espera... el fantasma ha desaparecido, pero ahora...{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1215 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_a88ec78a:
 msgid "[_extend_] ...what are the two of them about to-"
-msgstr "[_extend_] ...¿a qué se refieren dos de ellos?"
+msgstr "[_extend_] ...¿a qué se refieren los dos sobre-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1219 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_7aa5b719:
 msgid "[_danny_] HOLY SMOKES!"
-msgstr "¡[_danny_] HOLY SMOKES!"
+msgstr "¡[_danny_] ¡SANTA BIBLIA!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1225 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d392b100:
 msgid "[_jazz_] N-no way!"
-msgstr "¡[_jazz_] N-n-way!"
+msgstr "[_jazz_] ¡J-Joder!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1229 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_32cf6479:
 msgid "[_danny_] No, this isn't- are they actually going to show them... w-what?!"
-msgstr "[_danny_] No, esto no- ¿van a mostrarlos... ¿con qué?!"
+msgstr "[_danny_] No, esto no- ¿van a mostrarlo?... ¿q-qué?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1233 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_7e32140d:
 msgid "[_jazz_] G-good going doofus! Is {i}this{/i} why you picked this film?!"
@@ -1039,11 +1039,11 @@ msgstr "[_danny_] {i}...!{i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1384 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_edcdf53a:
 msgid "\"Jazz On Screen\" [special_delimiter] Do you like games Danny? {i}I{i} certainly do...~"
-msgstr "\"Jazz on Screen\" [special_delimiter] ¿Te gustan los juegos Danny? {i}I{i} ciertamente lo hace...~"
+msgstr "\"Jazz on Screen\" [special_delimiter] ¿Te gustan los juegos Danny? {i}yo{i}...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1389 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_5e191f07:
 msgid "[_danny_] Ga-games...? Y-yeah, I'm... I like games..."
-msgstr "[_danny_] Ga-games...? Y-sí, yeah, ym... Me gustan los juegos..."
+msgstr "[_danny_] Ga-games...? Y-sí, yeah, me... Me gustan los juegos..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1395 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_b9e3fa5f:
 msgid "\"Jazz On Screen\" [special_delimiter] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
