@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-12-30 11:59\n"
+"PO-Revision-Date: 2024-01-01 20:30\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -1455,15 +1455,15 @@ msgstr "[_bootrand_s_arms_down_s_towards_s_talk_] Oh no, por favor, ¡sí, haz l
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1930 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_7a997779:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Yeah, sorry, it's just we're here in public, and somebody might see, so I usually just find a pillar or-"
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Sí, lo siento, solo estamos aquí en público, y alguien podría ver, así que normalmente solo encuentro un pilar o -"
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Sí, lo siento, estamos aquí en público, y alguien podría ver, a ver si encuentro un pilar o -"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1933 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_cb8a49aa:
 msgid "[_bootrand_s_arms_down_s_towards_s_talk_] No, no, I totally get that, take your time, I'll still be here!"
-msgstr "[_bootrand_s_arms_down_s_towards_s_talk_] No, no, lo obtengo completamente, ¡me tomaré tu tiempo, seguiré aquí!"
+msgstr "[_bootrand_s_arms_down_s_towards_s_talk_] No, no, estoy completamente de acuerdo, ¡seguiré aquí!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1936 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_1e2859a9:
 msgid "[_danny_s_towards_s_angry_s_talk_happy_] Okay, perfect, I'll just be right back!"
-msgstr "[_danny_s_towards_s_angry_s_talk_happy_] Vale, perfecto, ¡estaré de vuelta!"
+msgstr "[_danny_s_towards_s_angry_s_talk_happy_] Vale, perfecto, ¡enseguida vuelvo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1943 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_ca7be347:
 msgid "[_bootrand_s_arms_up_s_towards_s_displeased_] . . ."
@@ -1471,19 +1471,19 @@ msgstr "[_bootrand_s_arms_up_s_towards_s_displeased_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1948 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_fc196e9a:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_happy_] {size=-2}I'm going ghost!!{/size}"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_happy_] {size=-2}Voy a hacer un fantasma!!{/size}"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_talk_happy_] {size=-2}Voy a ser fantasma!!{/size}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1950 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_b737da71:
 msgid "[_bootrand_] . . .{p} {i}*Coughs*{/i}"
-msgstr "[_bootrand_] ...{p} {i}*Cados * {/i}"
+msgstr "[_bootrand_] ...{p} {i}*tosidos* {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1958 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_dc306af2:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Okay, sorry, I'm ready now!{p}{nw}"
-msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Vale, lo siento, ¡ya estoy listo!{p}{nw}"
+msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Vale, ¡ya estoy listo!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1962 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_3aeea34a:
 msgid "[_extend_] Thanks again for that."
-msgstr "[_extend_] Gracias de nuevo por ello."
+msgstr "[_extend_] Gracias de nuevo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1965 #-#-# translate crowdin Episode_8_stage_90_mall_bootrand_appears_c805abc6:
 msgid "[_bootrand_s_arms_down_s_towards_s_talk_] Not at all, young man, not at all!"
