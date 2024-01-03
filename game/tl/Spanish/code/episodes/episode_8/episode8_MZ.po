@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-01 21:33\n"
+"PO-Revision-Date: 2024-01-03 10:27\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -1851,7 +1851,7 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] {i}¡Phew!{/i} ¡No puedo cree
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2447 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_62a991c0:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Hey, thanks girls, for getting out out of there fast!"
-msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Hey, gracias chicas, ¡por salir rápido de allí!"
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Hey, ¡gracias chicas por salir rápido de allí!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2461 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_09089af1:
 msgid "[_ember_s_ghost_s_towards_s_idle_s_talk_happy_] Gotta say, and I hope I'm not the only one thinking this...{p}{nw}"
@@ -1915,23 +1915,23 @@ msgstr "[_desiree_] Aunque puede que no nos sea detectable ahora, todavía sient
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2529 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_d17acbee:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] Oh, well... I suppose I could handle this ahead of time then, right?"
-msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Oh, bien... Supongo que podría manejar esto antes de tiempo entonces, ¿verdad?"
+msgstr "[_danny_s_towards_s_rise_s_talk_amused_] Oh, bien... Supongo que podría manejar esto antes de que valla a más, ¿no?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2532 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_5c06d576:
 msgid "[_ember_s_ghost_s_towards_s_confused_s_talk_consternation_] The heck are you talking 'bout?"
-msgstr "[_ember_s_ghost_s_towards_s_confused_s_talk_consternation_] La heck ¿estás hablando ' combate?"
+msgstr "[_ember_s_ghost_s_towards_s_confused_s_talk_consternation_] ¿de qué coño estás hablando ' combate?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2536 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_890a93f5:
 msgid "[_danny_s_towards_s_angry_s_talk_amused_] I'll just {b}wish{/b} for it to be captured now! Like how I did with you and Des already!"
-msgstr "[_danny_s_towards_s_angry_s_talk_amused_] ¡Solo quiero {b}deseo{/b} que sea capturado ahora! ¡Como lo hice contigo y Des!"
+msgstr "[_danny_s_towards_s_angry_s_talk_amused_] ¡Solo {b}deseo{/b} capturarlo ya! ¡Como lo hice contigo y Des!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2540 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_2094c2fb:
 msgid "[_ember_s_ghost_s_towards_s_angry_s_talk_consternation_] Oh great, {i}another{/i} annoying roommate to deal with?{p}{nw}"
-msgstr "[_ember_s_ghost_s_towards_s_angry_s_talk_consternation_] ¿Oh grande, {i}otro{/i} compañero de habitación molesto para tratar?{p}{nw}"
+msgstr "[_ember_s_ghost_s_towards_s_angry_s_talk_consternation_] Oh genial, ¿{i}otro{/i} compañero de habitación molesto?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2545 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_b49fe841:
 msgid "[_extend_] Gag me with a fucking spoon..."
-msgstr "[_extend_] Agáñame con una cuchara de mierda..."
+msgstr "[_extend_] Cúbreme con otra cuchara de mierda..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2550 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_858250dc:
 msgid "[_desiree_] I am most sorry Master, but I do not believe that this can be attained."
@@ -1943,19 +1943,19 @@ msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_displeased_] Huh? ¿Por qué no?
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2559 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_35dbd16d:
 msgid "[_desiree_] The crux of my magic influence comes from the granting of one's {i}own{/i} desires."
-msgstr "[_desiree_] El quid de mi influencia mágica proviene de la concesión de los deseos de uno {i}propios {/i}."
+msgstr "[_desiree_] El quid de mi influencia mágica proviene de la concesión de los deseos {i}propios {/i}."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2564 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_aedf74bf:
 msgid "[_desiree_] Whereby the asker of the wish has something that {i}they{/i} have wanted in their hearts come to life."
-msgstr "[_desiree_] Donde el demandante del deseo tiene algo que {i}han querido{/i} en sus corazones han cobrado vida."
+msgstr "[_desiree_] Donde los demandantes del deseo tienen algo que {i}ellos{/i} han querido desde sus corazones que tome vida."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2568 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_2b1297b4:
 msgid "[_ember_s_ghost_s_away_s_rise_s_talk_consternation_] With just a {i}little{/i} dash of chaotic irony added to their wishes, right Des?"
-msgstr "[_ember_s_ghost_s_away_s_rise_s_talk_consternation_] Con sólo una pizca de {i}poco {/i} de ironía caótica añadida a sus deseos, ¿verdad Des?"
+msgstr "[_ember_s_ghost_s_away_s_rise_s_talk_consternation_] Con una {i}pizca {/i} de ironía caótica añadida a sus deseos, ¿verdad Des?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2573 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_952c89b4:
 msgid "[_desiree_] {i}*Chuckles*{/i} Well... certainly not {i}all{/i} the time, but... yes."
-msgstr "[_desiree_] {i}*Chuckles * {/i} Bueno ... ciertamente no {i}todos {/i} el tiempo, pero ... sí."
+msgstr "[_desiree_] {i}*Risas* {/i} Bueno... ciertamente no {i}todo {/i} el tiempo, pero... sí."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2578 #-#-# translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_f4249c73:
 msgid "[_desiree_] {i}*Ahem*{/i} Regardless, if you were to ask for a capture of this particular spirit now, when they would not wish for their own capture..."
