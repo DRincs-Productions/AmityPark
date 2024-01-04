@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-04 12:49\n"
+"PO-Revision-Date: 2024-01-04 14:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -2599,15 +2599,15 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_s_consternation_] (¿Supongo qu
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3281 #-#-# translate crowdin Episode_8_stage_155_map_hint_5fdc22c8:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_sad_s_consternation_] (Could this day get any weirder?)"
-msgstr "[_danny_s_f_s_offscreen_s_closed_s_sad_s_consternation_] (¿Podría este día tener algún weirder?)"
+msgstr "[_danny_s_f_s_offscreen_s_closed_s_sad_s_consternation_] (¿Podría pasar hoy algo raro?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3283 #-#-# translate crowdin Episode_8_stage_155_map_hint_b42f2a45:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_neutral_s_distraught_] (No, don't answer that. Please.)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_neutral_s_distraught_] (No, no responda eso. Por favor.)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_neutral_s_distraught_] (No, no respondas eso. Por favor.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3302 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_3a58b2fb:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] Hi, excuse me, I was {i}uhh{/i}, sorta looking to buy something that-"
-msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Hola, discúlpeme, yo estaba {i}uhh{/i}, sorta buscando comprar algo que-"
+msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Hola, discúlpeme, yo estaba {i}uhh{/i}, buscando comprar algo que-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3305 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_d3cb73f7:
 msgid "[_sales_lady_s_towards_down_s_wondering_s_talk_happy_] Oh! Danny Fenton, right?"
@@ -2615,11 +2615,11 @@ msgstr "[_sales_lady_s_towards_down_s_wondering_s_talk_happy_] Oh! Danny Fenton,
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3308 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_480f9cc5:
 msgid "[_danny_s_towards_wide_s_rise_s_talk_consternation_] {i}Uhh, yeah?{/i} How did you-"
-msgstr "[_danny_s_towards_wide_s_rise_s_talk_consternation_] {i}Uhh, yeah? {/i}"
+msgstr "[_danny_s_towards_wide_s_rise_s_talk_consternation_] {i}Uhh, yeah? {/i} ¿cómo lo-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3311 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_980835f2:
 msgid "[_sales_lady_s_towards_down_s_idle__s_talk_happy_] There's a special item that's been reserved just for you!"
-msgstr "[_sales_lady_s_towards_down_s_idle__s_talk_happy_] Hay un artículo especial que está reservado solo para ti!"
+msgstr "[_sales_lady_s_towards_down_s_idle__s_talk_happy_] Hay un artículo especial que está reservado para ti!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3314 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_2f81e83b:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] Huh? What item? I didn't reserve any anything."
@@ -2627,7 +2627,7 @@ msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] ¿Huh? ¿Qué artículo?
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3317 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_e3b1713a:
 msgid "[_sales_lady_s_towards_down_s_wondering_s_talk_happy_] Some special wear for a very special lady, I understand!"
-msgstr "[_sales_lady_s_towards_down_s_wondering_s_talk_happy_] ¡Un poco de ropa especial para una dama muy especial, lo entiendo!"
+msgstr "[_sales_lady_s_towards_down_s_wondering_s_talk_happy_] ¡Un poco de ropa para una dama muy especial, lo entiendo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3320 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_83766132:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] W-who placed the order?"
@@ -2639,19 +2639,19 @@ msgstr "[_sales_lady_s_at_player_s_wondering_s_talk_happy_] {i}Oooh{/i}, lo sien
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3326 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_6e6b4aff:
 msgid "[_danny_s_at_player_s_angry_s_distraught_] (But you're willing to openly talk about who I'm buying it for? Sorta tacky...)"
-msgstr "[_danny_s_at_player_s_angry_s_distraught_] (Pero usted está dispuesto a hablar abiertamente acerca de quién lo estoy comprando? Sorta tacky ...)"
+msgstr "[_danny_s_at_player_s_angry_s_distraught_] (estoy dispuesto a hablar abiertamente acerca de para quién lo estoy comprando?...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3329 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_1ca9e19f:
 msgid "[_sales_lady_s_towards_s_wondering_s_talk_happy_] Anyway, it's been reserved for you, but not paid, {i}soooo{/i}..."
-msgstr "[_sales_lady_s_towards_s_wondering_s_talk_happy_] De todos modos, ha sido reservado para ti, pero no pagado, {i}soooo{/i}..."
+msgstr "[_sales_lady_s_towards_s_wondering_s_talk_happy_] Ha sido reservado para ti, pero no pagado, {i}ademaaaaas{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3332 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_348d5efa:
 msgid "[_danny_s_closed_s_unhappy_s_clenchteeth_] (What?! Cheapskates!)"
-msgstr "[_danny_s_closed_s_unhappy_s_clenchteeth_] (¿Qué?! ¡Cheapskates!)"
+msgstr "[_danny_s_closed_s_unhappy_s_clenchteeth_] (¿Qué?! ¡Tacaño!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3335 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_650d2f69:
 msgid "[_sales_lady_s_towards_s_idle__s_talk_happy_] I'll keep it behind the counter for now, so just let me know when you'd like to pay for it!"
-msgstr "[_sales_lady_s_towards_s_idle__s_talk_happy_] Lo mantendré detrás del mostrador por ahora, ¡así que hazme saber cuándo te gustaría pagar por ello!"
+msgstr "[_sales_lady_s_towards_s_idle__s_talk_happy_] Lo mantendré detrás del mostrador por ahora, ¡hazme saber cuándo te gustaría comprarlo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3338 #-#-# translate crowdin Episode_8_stage_160_mall_abyss_special_reservation_ba006025:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] Okay, {i}um{/i}, thanks..."
@@ -2659,43 +2659,43 @@ msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Vale, {i}um{/i}, gracias
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3353 #-#-# translate crowdin Episode_8_stage_165_mall_abyss_buy_package_0f81d8b4:
 msgid "[_sales_lady_s_at_player_s_wondering_s_talk_happy_] That'll be one hundred twenty dollars for the special item for your lady friend, Sir."
-msgstr "[_sales_lady_s_at_player_s_wondering_s_talk_happy_] Eso será cien veinte dólares para el artículo especial de tu amiga, señor."
+msgstr "[_sales_lady_s_at_player_s_wondering_s_talk_happy_] Serán ciento veinte dólares por el artículo especial de tu amiga, señor."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3356 #-#-# translate crowdin Episode_8_stage_165_mall_abyss_buy_package_97d61d8c:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_idle_s_talk_happy_] Here you go..."
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_idle_s_talk_happy_] Aquí vas..."
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_idle_s_talk_happy_] Aquí van..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3362 #-#-# translate crowdin Episode_8_stage_165_mall_abyss_buy_package_dec1ffff:
 msgid "[_danny_s_f_s_offscreen_s_towards_wide_s_sad_s_talk_displeased_] It's how much!?"
-msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_sad_s_talk_displeased_] ¡Es cuánto!?"
+msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_sad_s_talk_displeased_] ¡¿cuánto!?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3364 #-#-# translate crowdin Episode_8_stage_165_mall_abyss_buy_package_c1774cd6:
 msgid "[_sales_lady_s_at_player_s_neutral_s_talk_frown_] One hundred twenty , Sir."
-msgstr "[_sales_lady_s_at_player_s_neutral_s_talk_frown_] Cien veinte, señor."
+msgstr "[_sales_lady_s_at_player_s_neutral_s_talk_frown_] Ciento veinte, señor."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3367 #-#-# translate crowdin Episode_8_stage_165_mall_abyss_buy_package_fc74de44:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_consternation_] I'll have to come back."
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_consternation_] Tendré que volver."
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_consternation_] Volveré otro día."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3369 #-#-# translate crowdin Episode_8_stage_165_mall_abyss_buy_package_d6da9aba:
 msgid "[_sales_lady_s_at_player_s_neutral_s_talk_happy_] Very well, it'll be here until you can pay for it."
-msgstr "[_sales_lady_s_at_player_s_neutral_s_talk_happy_] Muy bien, estará aquí hasta que puedas pagar por ello."
+msgstr "[_sales_lady_s_at_player_s_neutral_s_talk_happy_] Muy bien, estará aquí hasta que puedas pagarlo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3383 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_64aa4f53:
 msgid "[_danny_s_at_player_s_sad_s_displeased_] (Well, here goes nothing with giving Jazz this gift I suppose.)"
-msgstr "[_danny_s_at_player_s_sad_s_displeased_] (Bueno, aquí no hace nada con dar a Jazz este regalo que supongo.)"
+msgstr "[_danny_s_at_player_s_sad_s_displeased_] (Bueno, supongo que no pasará nada dando este regalo a Jazz.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3385 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_6b3d6029:
 msgid "[_danny_s_closed_s_unhappy_s_consternation_] (With any luck she won't just call me a pervert and hit me over the head.)"
-msgstr "[_danny_s_closed_s_unhappy_s_consternation_] (Con cualquier suerte ella no sólo me llama pervertido y me golpea sobre la cabeza.)"
+msgstr "[_danny_s_closed_s_unhappy_s_consternation_] (Con algo de suerte ella no me llamará pervertido y me golpeará en la cabeza.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3400 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_e9c63576:
 msgid "[_jazz_s_towards_s_sad_s_talk_displeased_] Oh, h-hey..."
-msgstr "[_jazz_s_towards_s_sad_s_talk_displeased_] Oh, h-hey..."
+msgstr "[_jazz_s_towards_s_sad_s_talk_displeased_] Oh, h-hola..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3403 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_162659ba:
 msgid "[_danny_s_towards_s_sad_s_talk_consternation_s_blush_] Hi..."
-msgstr "[_danny_s_towards_s_sad_s_talk_consternation_s_blush_] Hi..."
+msgstr "[_danny_s_towards_s_sad_s_talk_consternation_s_blush_] Hola..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3406 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_e4e28e62:
 msgid "[_jazz_s_closed_s_sad_s_consternation_s_-blush_] . . ."
@@ -2703,15 +2703,15 @@ msgstr "[_jazz_s_closed_s_sad_s_consternation_s_-blush_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3409 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_53fd4d85:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_s_-blush_] ...so, {i}*Ahem*{/i}, I went and I got you a present."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_s_-blush_] ...así, {i}*Ahem*{/i}, fui y te obtuve un regalo."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_s_-blush_] ...así, {i}*Ahem*{/i}, te traigo un regalo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3412 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_b16c5bd7:
 msgid "[_jazz_s_standard_arms_down_s_towards_s_rise_s_talk_happy_] Oh {i}uh{/i}, thank you, yeah... I got you one too."
-msgstr "[_jazz_s_standard_arms_down_s_towards_s_rise_s_talk_happy_] Oh {i}uh{/i}, gracias, sí... Yo también te tengo uno."
+msgstr "[_jazz_s_standard_arms_down_s_towards_s_rise_s_talk_happy_] Oh {i}uh{/i}, gracias, sí... Yo también tengo uno para ti."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3415 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_6560d664:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Okay, so... here you go..."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Vale, así que... aquí vas..."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Vale, así que... aquí tienes..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3418 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_e9703b7f:
 msgid "[_jazz_s_closed_s_wondering_s_smile_] . . ."
@@ -2719,11 +2719,11 @@ msgstr "[_jazz_s_closed_s_wondering_s_smile_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3428 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_b9d396da:
 msgid "[_jazz_s_towards_wide_s_confused_s_talk_consternation_] Is this-"
-msgstr "[_jazz_s_towards_wide_s_confused_s_talk_consternation_] es esto-"
+msgstr "[_jazz_s_towards_wide_s_confused_s_talk_consternation_] és esto-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3431 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_d24321bd:
 msgid "[_danny_s_towards_s_unhappy_s_talk_displeased_] Do you not like it?{p}{nw}"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] ¿No te gusta?{p}{nw}"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] ¿te gusta?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3435 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_a1d52a42:
 msgid "[_extend_] Of course, it's weird..."
@@ -2731,23 +2731,23 @@ msgstr "[_extend_] Por supuesto, es extraño..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3438 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_338596d5:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] I mean... Miss Spectra keeps insisting I, y'know, see you as a {i}woman{/i} more, but-"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] quiero decir... Séa Spectra sigue insistiendo yo, y sé, verte como una mujer {i}{/i} más, pero-"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] quiero decir... Miss Spectra sigue insistiendo, ya sabes, en que te vea como una {i}mujer {/i} más, pero-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3441 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_d349bc29:
 msgid "[_jazz_s_towards_s_sad_s_talk_happy_s_blush_] N-no, it's fine! It's nothing bad, it's just... I mean..."
-msgstr "[_jazz_s_towards_s_sad_s_talk_happy_s_blush_] N-no, ¡está bien! No es nada malo, es justo... quiero decir..."
+msgstr "[_jazz_s_towards_s_sad_s_talk_happy_s_blush_] N-no, ¡está bien! No es nada malo, es solo... quiero decir..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3444 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_8dacc1e2:
 msgid "[_jazz_s_standard_s_towards_s_rise_s_talk_displeased_s_blush_] You know, it's just a bit shocking is all, you know."
-msgstr "[_jazz_s_standard_s_towards_s_rise_s_talk_displeased_s_blush_] Sabes, es sólo un poco chocante es todo, ya sabes."
+msgstr "[_jazz_s_standard_s_towards_s_rise_s_talk_displeased_s_blush_] Sabes, es sólo un poco chocante todo, ya sabes."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3447 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_277d1557:
 msgid "[_danny_s_towards_s_unhappy_s_displeased_s_blush_] R-right..."
-msgstr "[_danny_s_towards_s_unhappy_s_displeased_s_blush_] R-derecha..."
+msgstr "[_danny_s_towards_s_unhappy_s_displeased_s_blush_] C-cierto..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3450 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_248a49d8:
 msgid "[_jazz_s_closed_s_sad_s_displeased_s_-blush_] (I can't believe Danny just bought me lingerie... and {i}expensive{/i} lingerie at that from the looks of it!)"
-msgstr "[_jazz_s_closed_s_sad_s_displeased_s_-blush_] (no puedo creer que Danny me haya comprado lingerie... y {i}costoso{/i} ¡¡¡de su apariencia!)"
+msgstr "[_jazz_s_closed_s_sad_s_displeased_s_-blush_] (no puedo creer que Danny me haya comprado lencería... y de apariencia {i}cara/i}!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3453 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_6f5e547d:
 msgid "[_jazz_s_standard_arms_down_s_towards_s_sad_s_talk_happy_] Anyway, thank you."
@@ -2755,11 +2755,11 @@ msgstr "[_jazz_s_standard_arms_down_s_towards_s_sad_s_talk_happy_] De todos modo
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3456 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_07d226c9:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] S-sure thing, you're welcome."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] S-sure thing, you welcome"
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] S-eguro, de nada."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3459 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_ce883496:
 msgid "[_jazz_s_towards_s_sad_s_talk_happy_] I {i}uhm{/i}... I guess I can give you mine now..."
-msgstr "[_jazz_s_towards_s_sad_s_talk_happy_] I {i}uhm{/i}... Supongo que puedo darte la mina ahora..."
+msgstr "[_jazz_s_towards_s_sad_s_talk_happy_] yo {i}uhm{/i}... Supongo que puedo darte el mio ahora..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3462 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_1b856b27:
 msgid "[_danny_s_towards_s_idle_s_smile_] . . ."
@@ -2775,35 +2775,35 @@ msgstr "[_jazz_s_standard_s_towards_wide_s_angry_s_talk_displeased_s_blush_] ¡A
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3480 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_515b9c39:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_s_blush_] Jazz... what. W-what are th- {i}uhh{/i}, w-why are you giving me your-"
-msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_s_blush_] Jazz ... qué. W-what are th- {i}uhh {/i}, w-why are you dándome your-"
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_s_blush_] Jazz... qué. ¿Q-que estás- {i}uhh {/i}, p-por qué me estás dando tu-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3483 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_154f53b6:
 msgid "[_jazz_s_towards_wide_s_sad_s_talk_consternation_s_blush_] Miss Spectra recommended I give you something you could use \"practically\" that you couldn't just buy, so-"
-msgstr "[_jazz_s_towards_wide_s_sad_s_talk_consternation_s_blush_] Miss Spectra recomendó que te dé algo que podría usar \"prácticamente\" que no pudiste comprar, así que"
+msgstr "[_jazz_s_towards_wide_s_sad_s_talk_consternation_s_blush_] Miss Spectra me recomendó darte algo que pudieras usar y \"prácticamente\" no se pudiera comprar, así que"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3486 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_154af20c:
 msgid "[_jazz_s_closed_s_sad_s_distraught_s_blush_] (I can't believe I actually listened to her advice, this is so freaking embarrassing.)"
-msgstr "[_jazz_s_closed_s_sad_s_distraught_s_blush_] (no puedo creer que en realidad haya escuchado su consejo, esto es tan asombroso vergonzoso.)"
+msgstr "[_jazz_s_closed_s_sad_s_distraught_s_blush_] (no puedo creer que hecho caso a sus consejos, esto es muy vergonzoso.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3489 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_cc83fe5c:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Well {i}umm{/i}... t-thanks!"
-msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Bueno {i}umm{/i}... ¡t-thanks!"
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Bueno {i}umm{/i}... ¡g-gracias!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3492 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_c22019ae:
 msgid "[_jazz_s_towards_s_sad_s_talk_distraught_s_blush_] Y-yeah, you too, I'm just gonna- I'm gonna put these away now..."
-msgstr "[_jazz_s_towards_s_sad_s_talk_distraught_s_blush_] Y-sí, tú también, yo solo soy gonna- ahora voy a dejarlos..."
+msgstr "[_jazz_s_towards_s_sad_s_talk_distraught_s_blush_] S-sí, a tí también, yo solo voy- voy a dejarlo en un cajón..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3495 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_b27f556a:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Okay then, yeah, see you lat-"
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Vale, sí, verte tarde"
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Vale, sí, te veo más tarde"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3502 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_cec58025:
 msgid "[_danny_s_at_player_s_unhappy_s_consternation_] (Most awkward sibling chat. Ever.)"
-msgstr "[_danny_s_at_player_s_unhappy_s_consternation_] (El chat hermano más incómodo. Ever.)"
+msgstr "[_danny_s_at_player_s_unhappy_s_consternation_] (el chat de hermanos más incómodo que he tenido nunca.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3514 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_2c1fb454:
 msgid "[_danny_s_at_player_s_unhappy_s_distraught_] (I don't even know why I'm listening to Miss Spectra! Me and Jazz didn't have the {i}greatest{/i} relationship before, but now it's all... {i}beyond{/i} weird.)"
-msgstr "[_danny_s_at_player_s_unhappy_s_distraught_] (¡Ni siquiera sé por qué estoy escuchando a Miss Spectra! Yo y Jazz no tenían la relación {i}más grande {/i} antes, pero ahora es todo ... {i}más allá de {/i} extraño.)"
+msgstr "[_danny_s_at_player_s_unhappy_s_distraught_] (¡Ni siquiera sé por qué estoy escuchando a Miss Spectra! Yo y Jazz no teníamos la relación {i}más grande {/i} antes, pero ahora esto se va... {i}más allá{/i} de lo extraño.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3518 #-#-# translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_fd260984:
 msgid "[_danny_s_down_s_rise_s_consternation_] . . ."
@@ -2823,15 +2823,15 @@ msgstr "[_danny_s_ahegao_s_rise_s_bite_s_blush_] ({i}Realmente{/i} agradable...)
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3548 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_2795cc3c:
 msgid "[_jazz_s_at_player_s_confused_s_displeased_] (I can't believe I actually gave that doofus my panties!)"
-msgstr "[_jazz_s_at_player_s_confused_s_displeased_] (¡No puedo creer que realmente le dé a ese doofus mis bragas!)"
+msgstr "[_jazz_s_at_player_s_confused_s_displeased_] (¡No puedo creer que realmente le diera a ese ceporro mis bragas!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3550 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_b5339bf5:
 msgid "[_jazz_s_standard_arms_behind_s_down_s_sad_s_distraught_] (I mean, this just feels like it's going too far, even if it's supposed to \"bring us together more\"!)"
-msgstr "[_jazz_s_standard_arms_behind_s_down_s_sad_s_distraught_] (Quiero decir, esto sólo se siente como si fuera demasiado lejos, incluso si se supone que \"nos juntamos más\"!)"
+msgstr "[_jazz_s_standard_arms_behind_s_down_s_sad_s_distraught_] (Quiero decir, siento como todo esto se fuese demasiado lejos, incluso si se supone que \"nos acercará más\"!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3552 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_df5027e5:
 msgid "[_jazz_s_towards_s_sad_s_consternation_] (We can have a more {i}normal{/i} brother-sister relationship, can't we...?)"
-msgstr "[_jazz_s_towards_s_sad_s_consternation_] (Podemos tener una relación de hermano mayor {i}normal {/i}, ¿no podemos ...?)"
+msgstr "[_jazz_s_towards_s_sad_s_consternation_] (Podemos tener una relación más {i}normal{/i}de hermano y hermana, ¿no podemos...?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3554 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_28aa27fe:
 msgid "[_jazz_s_standard_arms_crossed_s_at_player_s_rise_s_displeased_] (Of course we can! Of course.)"
@@ -2843,31 +2843,31 @@ msgstr "[_jazz_s_towards_s_idle_s_displeased_] (Mañana, voy a hablar con Danny 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3558 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_27486e62:
 msgid "[_jazz_s_at_player_s_neutral_s_consternation_] (Her advice is just... a little bit off-putting.)"
-msgstr "[_jazz_s_at_player_s_neutral_s_consternation_] (Su consejo es justo... un poco off-putting.)"
+msgstr "[_jazz_s_at_player_s_neutral_s_consternation_] (Sus consejos son... un poco excéntricos.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3562 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_1e79bcc2:
 msgid "[_jazz_s_towards_s_neutral_s_displeased_] (Where did he even find this thing? It looks custom made... he really bought this for me?)"
-msgstr "[_jazz_s_towards_s_neutral_s_displeased_] (¿Dónde encontró esta cosa? Parece hecha a medida... realmente lo compró?)"
+msgstr "[_jazz_s_towards_s_neutral_s_displeased_] (¿Dónde encontró esta cosa? Parece hecha a medida... ¿realmente la compró?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3564 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_d6352601:
 msgid "[_jazz_s_at_player_s_rise_s_smile_] (...I guess I should at least try it on, see if I'd... make it work or not.)"
-msgstr "[_jazz_s_at_player_s_rise_s_smile_] (...Supongo que debería al menos probarlo, compruebe si lo hago... hacer que funcione o no.)"
+msgstr "[_jazz_s_at_player_s_rise_s_smile_] (...Supongo que debería al menos probarlo, comprobar si me va bien o no.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3566 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_3d0342bb:
 msgid "[_jazz_s_at_player_s_idle_s_grin_] (Maybe I'll get to wear it one day for some lucky guy...)"
-msgstr "[_jazz_s_at_player_s_idle_s_grin_] (Tal vez lo pondré algún día para algún tipo de suerte...)"
+msgstr "[_jazz_s_at_player_s_idle_s_grin_] (Tal vez me lo pondré algún día para algún chico...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3568 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_f282f0c2:
 msgid "[_jazz_s_closed_s_sad_s_consternation_] (As if. My luck in the dating game? Abysmal.)"
-msgstr "[_jazz_s_closed_s_sad_s_consternation_] (Como si. ¿Mi suerte en el juego de citas? Abismal.)"
+msgstr "[_jazz_s_closed_s_sad_s_consternation_] (Como si mi suerte en las citas fuera exitoso.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3582 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_da7b6faf:
 msgid "[_jazz_] ({i}Hmm{/i}... it's definitely not terrible... hugs me pretty well.)"
-msgstr "[_jazz_] ({i}Hmm{/i}... definitivamente no es terrible... me agota bastante bien.)"
+msgstr "[_jazz_] ({i}Hmm{/i}... definitivamente no está mal... me encaja bastante bien.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3585 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_9873812d:
 msgid "[_jazz_] (Maybe a little {i}too{/i} well. Makes my butt look really big...)"
-msgstr "[_jazz_] (Tal vez un poco {i}también {/i} bien. Hace que mi culo sea realmente grande ...)"
+msgstr "[_jazz_] (Tal vez {i}demasiado {/i} bien. Hace que mi culo sea realmente grande...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3588 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_7538ee12:
 msgid "[_jazz_] (I guess people like that though, right? I don't know, to me it feels-)"
@@ -2899,11 +2899,11 @@ msgstr "[_extend_] Danny, Danny, {i}Danny...~{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3625 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_92b6d677:
 msgid "[_jazz_] I don't know what it is all of a sudden..."
-msgstr "[_jazz_] No sé lo que es de repentina..."
+msgstr "[_jazz_] No sé lo que ha pasado de forma repentina..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3628 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_0704f010:
 msgid "[_jazz_] But... everything Miss Spectra has been saying just makes sooooo much more sense to me now..."
-msgstr "[_jazz_] Pero ... todo lo que Miss Spectra ha estado diciendo simplemente hace que sooooo tenga mucho más sentido para mí ahora ..."
+msgstr "[_jazz_] Pero... todo lo que Miss Spectra ha estado diciendo hace que tooooodo tenga mucho más sentido para mí ahora..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3631 #-#-# translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_1e34f153:
 msgid "[_jazz_] {i}*Giggles*{/i}"
@@ -2911,7 +2911,7 @@ msgstr "[_jazz_] {i}*Giggles*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3650 #-#-# translate crowdin Episode_8_stage_180_home_danny_bedroom_morning_waking_up_b71cd0c2:
 msgid "[_danny_s_closed_s_sad_s_talk_displeased_] {i}*Yawn*{/i}{p}{nw}"
-msgstr "[_danny_s_closed_s_sad_s_talk_displeased_] {i}*Amanecer*{/i}{p}{nw}"
+msgstr "[_danny_s_closed_s_sad_s_talk_displeased_] {i}*bostezo*{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3653 #-#-# translate crowdin Episode_8_stage_180_home_danny_bedroom_morning_waking_up_c006b87b:
 msgid "[_extend_] Well, these last couple days have certainly been plenty weird."
@@ -2919,7 +2919,7 @@ msgstr "[_extend_] Bueno, estos últimos días sin duda han sido bastante raros.
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3655 #-#-# translate crowdin Episode_8_stage_180_home_danny_bedroom_morning_waking_up_720b72fb:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Maybe with any luck, things at the school have sort of relaxed themselves a bit."
-msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Tal vez con alguna suerte, las cosas en la escuela se han relajado un poco."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Tal vez con alguna suerte, las cosas en la escuela se hayan relajado un poco."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3657 #-#-# translate crowdin Episode_8_stage_180_home_danny_bedroom_morning_waking_up_672ea349:
 msgid "[_danny_s_at_player_s_rise_s_talk_displeased_] And hopefully things can get a little less strained between me and Jazz."
@@ -2927,11 +2927,11 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_displeased_] Y esperemos que las cosas
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3659 #-#-# translate crowdin Episode_8_stage_180_home_danny_bedroom_morning_waking_up_a7f83108:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Speaking of, let's see what she's up to in the kitchen. I think I smell something good!"
-msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Hablando, veamos lo que ella tiene en la cocina. ¡Creo que ole algo bueno!"
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Hablando, veamos lo que ella tiene en la cocina. ¡Creo que huele bien!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3679 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_d5837b9d:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Hey now, what's that delicious smel- {i}WHOA NELLY!!{/i}"
-msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Hola ahora, lo que es ese delicioso olor- {i}WHOA NELY!!{/i}"
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Hola, ¿qué és ese delicioso olor?- {i}WHOA!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3692 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_85459689:
 msgid "[_danny_s_towards_wide_s_sad_s_talk_distraught_s_blush_] {i}J-J-JAZZ?!?{/i}"
@@ -2939,11 +2939,11 @@ msgstr "[_danny_s_towards_wide_s_sad_s_talk_distraught_s_blush_] {i}J-J-JAZZ?!?{
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3701 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_e5a39818:
 msgid "[_jazz_s_towards_s_rise_s_talk_happy_] {i}Daaanny!{/i} I'm {i}soooo{/i} glad you're finally down! I baked you some delicious goodies this morning!"
-msgstr "[_jazz_s_towards_s_rise_s_talk_happy_] {i}Daaanny!{/i} ¡Estoy {i}soooo{/i} felices de que finalmente estés caído! ¡Te he horneado algunos productos deliciosos esta mañana!"
+msgstr "[_jazz_s_towards_s_rise_s_talk_happy_] {i}Daaanny!{/i} ¡Estoy {i}muuuuy{/i} feliz de que finalmente estés despierto! ¡Te he horneado algunas delicias esta mañana!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3704 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_96f74fa0:
 msgid "[_danny_s_towards_wide_s_rise_s_talk_displeased_s_blush_] Jazz you're... you're...!"
-msgstr "[_danny_s_towards_wide_s_rise_s_talk_displeased_s_blush_] Jazz que tú... tú...!"
+msgstr "[_danny_s_towards_wide_s_rise_s_talk_displeased_s_blush_] Jazz tú estás... tú estás...!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3707 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_a4e80c5a:
 msgid "[_jazz_s_towards_s_sad_s_talk_happy_] Cooking? I know, it's usually not my style, but I just figured..."
@@ -2951,15 +2951,15 @@ msgstr "[_jazz_s_towards_s_sad_s_talk_happy_] ¿Cocina? Lo sé, por lo general n
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3710 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_716a7985:
 msgid "[_jazz_s_towards_s_rise_s_talk_amused_] Why not treat my little brother to an extra special kind of morning, right?"
-msgstr "[_jazz_s_towards_s_rise_s_talk_amused_] ¿Por qué no tratar a mi hermano pequeño a un extra especial de mañana, ¿verdad?"
+msgstr "[_jazz_s_towards_s_rise_s_talk_amused_] ¿Por qué no tratar a mi hermano pequeño con un extra especial por la mañana, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3713 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_e8213c3a:
 msgid "[_danny_s_towards_s_wondering_s_talk_displeased_s_blush_] I- that's not what I... I mean-"
-msgstr "[_danny_s_towards_s_wondering_s_talk_displeased_s_blush_] I- eso no es lo que yo... Quiero decir-"
+msgstr "[_danny_s_towards_s_wondering_s_talk_displeased_s_blush_] yo- eso no es lo que yo... Quiero decir-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3716 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_2f95fba7:
 msgid "[_jazz_s_apron_s_towards_s_idle_s_talk_happy_] Sit, sit, chow down! I wanna know what you think!"
-msgstr "[_jazz_s_apron_s_towards_s_idle_s_talk_happy_] ¡Siéntate, siéntate, choca! ¡Quiero saber lo que piensas!"
+msgstr "[_jazz_s_apron_s_towards_s_idle_s_talk_happy_] ¡Siéntate, siéntate,! ¡Quiero saber lo que piensas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3719 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_fc3e93ba:
 msgid "[_danny_s_at_player_s_wondering_s_displeased_s_blush_] . . ."
@@ -2967,7 +2967,7 @@ msgstr "[_danny_s_at_player_s_wondering_s_displeased_s_blush_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3726 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_413c0c65:
 msgid "[_danny_] Jazz, would you... would you mind explaining what it is you're wearing?"
-msgstr "[_danny_] Jazz, ¿podrías... te importaría explicar lo que está usando?"
+msgstr "[_danny_] Jazz, ¿podrías... te importaría explicar lo que llevas puesto?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3730 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_d37c1a80:
 msgid "[_danny_] ...more precisely, why it is you're not wearing {i}anything{/i} else?"
@@ -2975,35 +2975,35 @@ msgstr "[_danny_] ...con más precisión, ¿por qué no llevas {i}nada{/i} más?
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3734 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_afa1fd65:
 msgid "[_jazz_] {i}Hahah!{/i} Okay, okay, I get it! Yeah, it's probably a big change to see, right?"
-msgstr "[_jazz_] {i}¡Jajaja!{/i} Vale, ¡está bien! Sí, probablemente es un gran cambio ver, ¿verdad?"
+msgstr "[_jazz_] {i}¡Jajaja!{/i} Vale, ¡está bien! Sí, probablemente es un gran cambio, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3738 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_128be09d:
 msgid "[_jazz_] Well I just was thinking about it more and more, and honestly? Miss Spectra was {i}soooo{/i} right to try counseling us!"
-msgstr "[_jazz_] Pues yo sólo estaba pensando en ello cada vez más, y honestamente? Miss Spectra was {i}soooo {/i} right to try counseling us!"
+msgstr "[_jazz_] Pues yo sólo estaba pensaba en ello cada vez más, y honestamente? Miss Spectra tenía {i}muuuuucha {/i} razón intentando conciliarnos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3742 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_1750dda4:
 msgid "[_jazz_] Last night? I tried on the lingerie you bought me, and I just felt {i}AMAZING!!{/i}"
-msgstr "[_jazz_] ¿Anoche? Probé en la lencería que me compraste, y me acabo de sentir {i}INCREÍBLE!! {/i}"
+msgstr "[_jazz_] ¿Anoche? Probé en la lencería que me compraste, y me quedaba {i}INCREÍBLE!! {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3746 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_381fe5ba:
 msgid "[_jazz_] It was so incredible knowing that {i}you{/i} were the one who bought it for me... it was so exciting!"
-msgstr "[_jazz_] Era tan increíble saber que {i}tú{/i} fue el que me lo compró... ¡Fue tan emocionante!"
+msgstr "[_jazz_] Era tan increíble saber que {i}tú{/i} fuiste quien me la compró... ¡Fue tan emocionante!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3750 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_75485dc9:
 msgid "[_jazz_] I just feel so empowered all of a sudden! Like I can live my life however I want, with no shame or regret, you know?"
-msgstr "[_jazz_] ¡Me siento tan empoderado de repentina! Como puedo vivir mi vida como quiera, sin vergüenza o lamento, ¿sabes?"
+msgstr "[_jazz_] ¡Me siento tan empoderada de repente! Como que puedo vivir mi vida como quiera, sin vergüenza o lamento, ¿sabes?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3754 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_55fef0f6:
 msgid "[_danny_] Seriously? What, you try on some skimpy clothes, and all of a sudden you're an overnight flower child?"
-msgstr "[_danny_] ¿Seriosamente? ¿Qué intentas con algo de ropa descabellada y de repente eres un niño de flores de la noche a la mañana?"
+msgstr "[_danny_] ¿en serio? ¿Quieres decir que con algo de ropa descabellada de repente pasas a ser una flor de la noche a la mañana?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3758 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_e0a58a29:
 msgid "[_jazz_] Oh c'mon, don't tease. I'm just finally open to being a lot more...{p}{nw}"
-msgstr "[_jazz_] Oh c'mon, no te preocupes. Finalmente estoy abierto a ser mucho más...{p}{nw}"
+msgstr "[_jazz_] Oh vamos, no te preocupes. Finalmente estoy abierta a ser mucho más...{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3762 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_9c517c5b:
 msgid "[_extend_] ...open!"
-msgstr "[_extend_] ...¡Abierto!"
+msgstr "[_extend_] ...¡Abierta!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3766 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_11a1f770:
 msgid "[_jazz_] You gotta try this banana bread I made, I think you'll just fall in love with it...~"
@@ -3011,7 +3011,7 @@ msgstr "[_jazz_] Tienes que probar este pan de plátano que hice, creo que te en
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3770 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_a03aa48c:
 msgid "[_danny_] {i}Uhh{/i}, maybe later... say, you aren't seriously gonna go to school like that or anything, right...?"
-msgstr "[_danny_] {i}Uhh{/i}, tal vez más tarde... decir, no vas seriamente a la escuela como eso o nada, ¿verdad...?"
+msgstr "[_danny_] {i}Uhh{/i}, tal vez más tarde... digo, no irás en serio a la escuela con nada de eso, ¿verdad...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3774 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_31113ab7:
 msgid "[_jazz_] {i}Mmmm...{/i}{p}{nw}"
@@ -3019,7 +3019,7 @@ msgstr "[_jazz_] {i}Mmm...{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3778 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_9b7ccffd:
 msgid "[_extend_] I dunno!"
-msgstr "[_extend_] I dunno!"
+msgstr "[_extend_] yo no sé!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3782 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_903d8b81:
 msgid "[_danny_] Jazz!!"
@@ -3027,23 +3027,23 @@ msgstr "[_danny_] Jazz!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3786 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_5dad9bec:
 msgid "[_jazz_] Oh goodness, of course not, silly! I have just the right outfit for school, don't worry!"
-msgstr "[_jazz_] ¡Oh bondad, por supuesto, no! ¡Tengo el atuendo adecuado para la escuela, no te preocupes!"
+msgstr "[_jazz_] ¡Oh dios, por supuesto que no, idiota! ¡Tengo un atuendo adecuado para la escuela, no te preocupes!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3790 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_49f81fe4:
 msgid "[_danny_] Thank goodness... bad enough thinking you'd just start walking around like that here!"
-msgstr "[_danny_] Gracias a la bien... ¡suficientemente malo pensando que empezarías a caminar como está!"
+msgstr "[_danny_] Gracias a dios... ¡pensé que podrías comenzar a andar por todas partes así!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3794 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_3717094d:
 msgid "[_danny_] I mean, what if Mom or Dad caught you like that?!"
-msgstr "[_danny_] Quiero decir, ¿qué pasa si mamá o papá te atrajo así?!"
+msgstr "[_danny_] Quiero decir, ¿qué pasará si mamá o papá te ven así?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3798 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_f5dc2b70:
 msgid "[_jazz_] Well, I {i}could{/i} just promise to only walk around the house like this... when it's just the two of us alone...~"
-msgstr "[_jazz_] Bueno, yo {i}podría{/i} solo prometer caminar por la casa como esta... cuando solo somos los dos...~"
+msgstr "[_jazz_] Bueno, yo {i}podría{/i} solo prometer anda por casa así... cuando estamos solo los dos...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3802 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_7e534b57:
 msgid "[_danny_] Oh, w-what's that?! I think that's the bus calling!! G-gotta go!!"
-msgstr "[_danny_] ¡Oh, ¿qué es eso?! ¡¡¡¡Creo que es la llamada de autobús!! ¡¡¡¡G-gotta ir!!"
+msgstr "[_danny_] ¡Oh, ¿qué és eso?! ¡¡Creo que es la llamada de autobús!! ¡¡Me tengo que irr!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3812 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_6eb012d3:
 msgid "[_jazz_] Danny wait! Danny! You didn't eat anything I made{p}{nw}"
@@ -3051,7 +3051,7 @@ msgstr "[_jazz_] ¡Danny espera! ¡Danny! No comiste nada que hice{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3815 #-#-# translate crowdin Episode_8_stage_185_home_kitchen_morning_breakfast_surprise_9119e500:
 msgid "[_extend_] ...and we don't even {i}have{/i} a bus route!!"
-msgstr "[_extend_] ...y ni siquiera {i}tiene{/i} una ruta de autobús!!"
+msgstr "[_extend_] ...y tampoco {i}hay{/i} una línea de autobús!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3836 #-#-# translate crowdin Episode_8_stage_190_school_entrance_morning_reflection_46e28009:
 msgid "[_danny_s_at_player_s_rise_s_displeased_] (Oh boy... what a world we're living in today...)"
