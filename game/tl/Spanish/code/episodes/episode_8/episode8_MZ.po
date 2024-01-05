@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-05 11:40\n"
+"PO-Revision-Date: 2024-01-05 13:07\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -3631,31 +3631,31 @@ msgstr "[_penelope_s_arms_down_s_towards_s_idle_s_talk_happy_] ¡Absolutamente! 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4601 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_dda7bad1:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] I would {i}never{/i} want to betray that trust or cross that professional boundary..."
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] I would {i}nunca{/i} want to tray, that trust or cross that professional linary..."
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Yo {i}nunca{/i} podría delatarte o saltarme las normas profesionales..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4604 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_0a5a85ac:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Oh thank God... that's a relief."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Oh gracias a Dios... eso es un alivio."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Oh gracias a Dios... eso és un alivio."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4607 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_7d965f87:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_displeased_] Now then... our repugnant little green friend...? Is that the ghost causing all the problems as of late?"
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_displeased_] Ahora entonces... nuestro repugnante amigo verde...? ¿Es ese el fantasma que está causando todos los problemas desde hace poco?"
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_displeased_] Ahora entonces... ¿nuestro repugnante amigo verde...? ¿Es ese el fantasma que está causando todos los problemas desde hace poco?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4610 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_aaf57de6:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] You know about it? Like the way everyone is acting?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Lo sabes? ¿Como la forma en que todos están actuando?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Lo sabías? ¿la forma en que todos están actuando?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4613 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_f5993d88:
 msgid "[_penelope_s_arms_down_s_towards_s_confused_s_talk_displeased_] Well certainly! Half the students I'm meeting with are coming back for follow ups in the skimpiest of apparel!"
-msgstr "[_penelope_s_arms_down_s_towards_s_confused_s_talk_displeased_] ¡Bien seguramente! ¡Los estudiantes con los que me encuentro regresan para seguirlos con la prenda más skimpiante!"
+msgstr "[_penelope_s_arms_down_s_towards_s_confused_s_talk_displeased_] ¡ciertamente! ¡La mitad de estudiantes con los que me entrevisto vuelven cada vez con menos ropa puesta!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4616 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_3aafcb78:
 msgid "[_penelope_s_arms_up_s_towards_s_confused_s_talk_displeased_] I mean I know a number of my methods of helping connect with others can be... a bit progressive, at times..."
-msgstr "[_penelope_s_arms_up_s_towards_s_confused_s_talk_displeased_] Quiero decir que conozco varios de mis métodos para ayudar a conectar con otros puede ser... un poco progresivo, a veces..."
+msgstr "[_penelope_s_arms_up_s_towards_s_confused_s_talk_displeased_] Quiero decir que sé que algunos de mis métodos para ayudar a conectar con otros puede ser... un poco progresivo, a veces..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4619 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_fcedaa94:
 msgid "[_penelope_s_arms_up_s_towards_s_angry_s_talk_distraught_] ...but I could {i}never{/i} have expected any of what's been happening as of late to occur!"
-msgstr "[_penelope_s_arms_up_s_towards_s_angry_s_talk_distraught_] ...pero pude {i}nunca{/i} haber esperado que ocurra algo de lo que ha estado sucediendo desde tarde!"
+msgstr "[_penelope_s_arms_up_s_towards_s_angry_s_talk_distraught_] ...pero {i}nunca{/i} pensé que podría suceder lo que ha estado sucediendo últimamente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4622 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_b2ae307c:
 msgid "[_penelope_s_arms_down_s_down_s_unhappy_s_talk_distraught_] I was really starting to worry that my teachings were doing more harm than good on the students..."
