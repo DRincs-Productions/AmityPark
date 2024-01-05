@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-04 14:13\n"
+"PO-Revision-Date: 2024-01-05 10:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -3055,11 +3055,11 @@ msgstr "[_extend_] ...y tampoco {i}hay{/i} una línea de autobús!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3836 #-#-# translate crowdin Episode_8_stage_190_school_entrance_morning_reflection_46e28009:
 msgid "[_danny_s_at_player_s_rise_s_displeased_] (Oh boy... what a world we're living in today...)"
-msgstr "[_danny_s_at_player_s_rise_s_displeased_] (Oh chico... en qué mundo vivimos hoy...)"
+msgstr "[_danny_s_at_player_s_rise_s_displeased_] (Oh tio... en qué mundo vivimos hoy...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3838 #-#-# translate crowdin Episode_8_stage_190_school_entrance_morning_reflection_677064af:
 msgid "[_danny_s_towards_s_unhappy_s_consternation_] (How can things get even crazier than this?)"
-msgstr "[_danny_s_towards_s_unhappy_s_consternation_] (¿Cómo pueden las cosas incluso más locos que esto?)"
+msgstr "[_danny_s_towards_s_unhappy_s_consternation_] (¿Cómo pueden haberse vuelto las cosas tan locas?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3840 #-#-# translate crowdin Episode_8_stage_190_school_entrance_morning_reflection_5238cf14:
 msgid "[_danny_s_at_player_s_rise_s_distraught_] (...he asked, rhetorically...){p}{nw}"
