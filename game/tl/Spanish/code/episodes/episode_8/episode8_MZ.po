@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-05 13:07\n"
+"PO-Revision-Date: 2024-01-06 21:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -3663,11 +3663,11 @@ msgstr "[_penelope_s_arms_down_s_down_s_unhappy_s_talk_distraught_] Estaba empez
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4625 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_4894111f:
 msgid "[_danny_s_towards_s_unhappy_s_talk_displeased_] Don't blame yourself Penelope, I think our creepy friend is the one behind all the weird stuff lately..."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] No te culpas a ti mismo Penelope, creo que nuestro amigo espeluznante es el que está detrás de todas las cosas extrañas últimamente..."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_displeased_] No te culpas a ti misma Penélope, creo que nuestro espeluznante amigo es el que está detrás de todas las cosas extrañas..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4628 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_974af253:
 msgid "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Well, I guess I have to ask, is there anything we can do to stop the over the top sexual revolution happening...?"
-msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Bueno, supongo que tengo que preguntarme, ¿hay algo que podamos hacer para impedir que la revolución sexual por encima de la cima suceda...?"
+msgstr "[_penelope_s_arms_up_s_towards_s_rise_s_talk_happy_] Bueno, supongo que tengo que preguntarme, ¿hay algo que podamos hacer para impedir que la radical revolución sexual suceda...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4631 #-#-# translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_4e4a6a52:
 msgid "[_penelope_s_arms_down_s_towards_s_neutral_s_talk_displeased_] Because, of course, something so raw as all this flagrant sexual energy just isn't healthy for developing minds! It's simply too graphic!"
