@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-06 23:49\n"
+"PO-Revision-Date: 2024-01-07 22:07\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -4497,27 +4497,27 @@ msgstr "[_star_s_talk_pleased_s_sad_] Esto es como {i}mucho {/i} más divertido 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6077 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_d7dfc399:
 msgid "[_paulina_s_talk_amused_s_rise_] I know, this is even better than when we were listening to all that rock music!"
-msgstr "[_paulina_s_talk_amused_s_rise_] lo sé, ¡esto es incluso mejor que cuando estábamos escuchando toda esa música rock!"
+msgstr "[_paulina_s_talk_amused_s_rise_] lo sé, ¡esto es incluso mejor que cuando estábamos escuchando aquella música rock!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6081 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_a5d44bd9:
 msgid "[_star_s_talk_happy_2_s_sad_] Yeah, totally!"
-msgstr "[_star_s_talk_happy_2_s_sad_] Sí, ¡total!"
+msgstr "[_star_s_talk_happy_2_s_sad_] Sí, ¡totalmente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6086 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_098a10b5:
 msgid "[_danny_s_closed_s_rise_one_s_frown_s_blush_] (Don't pop a boner, don't pop a boner, DON'T POP A BONER!!)"
-msgstr "[_danny_s_closed_s_rise_one_s_frown_s_blush_] (Don't pop a boner, don't pop a boner, DON ' T POP A BONER!!)"
+msgstr "[_danny_s_closed_s_rise_one_s_frown_s_blush_] (No te pongas burro, no te pongas burro, no te pongas burro, NO TE PONGAS BURRO!!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6089 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_24018ec7:
 msgid "[_danny_s_towards_s_rise_one_s_talk_frown_s_-blush_] Okay, but like, what are you doing... {i}here{/i}, exactly?"
-msgstr "[_danny_s_towards_s_rise_one_s_talk_frown_s_-blush_] Vale, pero me gusta, ¿qué estás haciendo... {i}aquí{/i}, exactamente?"
+msgstr "[_danny_s_towards_s_rise_one_s_talk_frown_s_-blush_] Vale, pero, ¿qué estáis haciendo... {i}aquí{/i}, exactamente?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6093 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_4c8a00c8:
 msgid "[_sam_s_talk_tong_s_sad_] Oh, well we were gonna go inside the school for a little private photoshoot...~"
-msgstr "[_sam_s_talk_tong_s_sad_] Oh, bueno, estábamos yendo dentro de la escuela para un poco privado de fotoshoot...~"
+msgstr "[_sam_s_talk_tong_s_sad_] Oh, bueno, estábamos yendo dentro de la escuela para una sesión de fotos privada...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6096 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_7a7341a5:
 msgid "[_sam_s_talk_happy_2_s_neutral_] I stole the spare key from Lancer the other day so we could get in!"
-msgstr "[_sam_s_talk_happy_2_s_neutral_] Me robé la llave de recambio a Lancer el otro día ¡así que podríamos entrar!"
+msgstr "[_sam_s_talk_happy_2_s_neutral_] Robé la llave de recambio a Lancer el otro día ¡así que podemos entrar!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6100 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_98e0e429:
 msgid "[_danny_s_towards_s_rise_one_s_smile_] (Perfect!)"
@@ -4525,27 +4525,27 @@ msgstr "[_danny_s_towards_s_rise_one_s_smile_] (¡Perfecto!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6104 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_50954b71:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Oh, sweet, that's great! My friends and I actually need to-"
-msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] ¡Oh, dulce, eso es genial! Mis amigos y yo realmente necesitamos -"
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] ¡Oh, encanto, eso es genial! Mis amigas y yo necesitamos -"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6116 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_7d3a16e0:
 msgid "[_bertrand_] Well, well, wellington..."
-msgstr "[_bertrand_] Bueno, bueno, bien..."
+msgstr "[_bertrand_] Bueno, bueno, bueno..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6122 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_7eb26204:
 msgid "[_bertrand_] Presumably figured out my Mistress' identity, have we?"
-msgstr "[_bertrand_] Presumiblemente figuró la identidad de mi Mistress, ¿verdad?"
+msgstr "[_bertrand_] Presumiblemente descubriste la identidad de mi Mr, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6126 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_e2a4a621:
 msgid "[_danny_s_down_s_angry_s_talk_frown_2_] I should have figured that nasty glob of phlegm was you... {i}Bertrand!{/i}"
-msgstr "[_danny_s_down_s_angry_s_talk_frown_2_] Debería haber encontrado ese desagradable glob de phlegm era... ¡ {i}Bertrand!{/i}"
+msgstr "[_danny_s_down_s_angry_s_talk_frown_2_] Debería haberme figurado que este desagradable globo de flema era tuyo... ¡ {i}Bertrand!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6132 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_27f1bd1a:
 msgid "[_bertrand_] {i}Oh ho ho!!{/i} Very good Danny! We love some quality fighting words to start a duel!"
-msgstr "[_bertrand_] {i}Oh ho!!{/i} ¡Muy buen Danny! ¡Nos encantan algunas palabras de lucha de calidad para comenzar un duelo!"
+msgstr "[_bertrand_] {i}¡¡Oh ho ho!!{/i} ¡Muy buen Danny! ¡Nos encantan unas palabras de buena calidad para comenzar un duelo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6136 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_37432387:
 msgid "[_bertrand_] Seems you aren't as stupid as I initially thought!"
-msgstr "[_bertrand_] Parece que no eres tan estúpido como pensé inicialmente!"
+msgstr "[_bertrand_] Parece que no eres tan estúpido como pensé!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6140 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_46005662:
 msgid "[_danny_s_down_wide_s_angry_s_talk_frown_] I'm going to stop her!"
@@ -4553,7 +4553,7 @@ msgstr "[_danny_s_down_wide_s_angry_s_talk_frown_] ¡Voy a detenerla!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6147 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_23a5411a:
 msgid "[_bootrand_] {i}Ha!{/i} I'm afraid you're going to have to get through ME first!"
-msgstr "[_bootrand_] {i}Ha!{/i} ¡Me temo que primero tendrás que superar ME!"
+msgstr "[_bootrand_] {i}Ha!{/i} ¡Me temo que primero tendrás que vencerme a mí!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6152 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_61158b9f:
 msgid "[_star_s_talk_frown_s_confused_2_] Wait, what exactly is going on here exactly?"
