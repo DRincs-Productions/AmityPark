@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-07 22:07\n"
+"PO-Revision-Date: 2024-01-07 23:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -4565,23 +4565,23 @@ msgstr "[_paulina_s_talk_frown_s_sad_] ...{i}ewww{/i}, ¿es eso como un fantasma
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6160 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_c2be4489:
 msgid "[_star_s_closed_s_talk_frown_s_sad_] Like, OMG!!{p}I mean... {i}Woof! Woof!{/i}"
-msgstr "[_star_s_closed_s_talk_frown_s_sad_] Me gusta, ¡OG!!{p}quiero decir... ¡ {i}Madura! ¡Madre!{/i}"
+msgstr "[_star_s_closed_s_talk_frown_s_sad_] como, ¡OH DIOS MIO!!{p}quiero decir... ¡ {i}¡joder! ¡joder!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6164 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_ec2b7dfe:
 msgid "[_danny_s_towards_s_rise_one_s_frown_] (Oh man! If I go ghost right now, Star and Paulina will find out I'm Inviso-Bill!)"
-msgstr "[_danny_s_towards_s_rise_one_s_frown_] (¡Oh hombre! Si voy fantasma ahora mismo, Star y Paulina descubrirán que soy Inviso-Bill!)"
+msgstr "[_danny_s_towards_s_rise_one_s_frown_] (¡Oh tio! Si me convierto en fantasma ahora mismo, Star y Paulina descubrirán que soy Inviso-Bill!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6170 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_22c0cd14:
 msgid "[_bootrand_] Oh I see! You must be his little friends!"
-msgstr "[_bootrand_] ¡Oh voy! ¡Debes ser sus pequeños amigos!"
+msgstr "[_bootrand_] ¡Oh ya veo! ¡Debéis ser sus pequeñas amigas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6176 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_8c61c979:
 msgid "[_bootrand_] Oh, and you all look certainly ready to party! Perfect!"
-msgstr "[_bootrand_] Oh, ¡y sin duda todos estáis listos para la fiesta! ¡Perfecto!"
+msgstr "[_bootrand_] Oh, ¡y sin duda todas estáis listas para la fiesta! ¡Perfecto!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6182 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_23a6ca80:
 msgid "[_bootrand_] {i}*Whistles*{/i} This way, boys!"
-msgstr "[_bootrand_] {i}*Whistles * {/i} ¡De esta manera, chicos!"
+msgstr "[_bootrand_] {i}*silvidos* {/i} ¡Por aquí, chicos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6193 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_7a9d6110:
 msgid "[_paulina_star_] {i}Ahhh!!{/i}"
@@ -4589,39 +4589,39 @@ msgstr "[_paulina_star_] {i}Ahhh!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6196 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_78ad8b1c:
 msgid "[_sam_] G-get away from us!! Girls, run!!"
-msgstr "[_sam_] G-evita de nosotros!! Girls, corre!!"
+msgstr "[_sam_] Apártate de nosotras!! ¡¡chicas, corred!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6204 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_48eaccd7:
 msgid "[_bootrand_] Better get running, fellas, all the fun is getting away!"
-msgstr "[_bootrand_] ¡Mejor correr, fellas, toda la diversión está saliendo!"
+msgstr "[_bootrand_] ¡Mejor corráis, fellas, toda la diversión se escapa!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6208 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_e4316a02:
 msgid "[_danny_s_towards_wide_s_rise_one_s_talk_frown_] S-stay away from them!"
-msgstr "[_danny_s_towards_wide_s_rise_one_s_talk_frown_] ¡S-stay lejos de ellos!"
+msgstr "[_danny_s_towards_wide_s_rise_one_s_talk_frown_] ¡A-aléjate de ellas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6214 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_023b0134:
 msgid "[_bertrand_] {i}Ahhaha!!{/i} Now {i}this{/i} is going to be fun!"
-msgstr "[_bertrand_] {i}Ahha!!{/i} ¡Ahora {i}este{/i} va a ser divertido!"
+msgstr "[_bertrand_] {i}¡¡Ahhaha!!{/i} ¡Ahora {i}esto{/i} va a ser divertido!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6218 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_b233f8ba:
 msgid "[_ember_s_angry_s_talk_displeased_] Danny! You deal with the old creepy fart face! Me and Desiree got these amateur freaks!"
-msgstr "¡[_ember_s_angry_s_talk_displeased_] ¡Genial! ¡Te enfrentas a la antigua baraja espeluznante! ¡Yo y deseamos que estos falso amateurs!"
+msgstr "[_ember_s_angry_s_talk_displeased_] ¡Dannyl! ¡Te enfrentas al viejo cara de pedo! ¡Yo y Desiree sabemos de quién se trata!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6223 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_9163926c:
 msgid "[_danny_s_towards_wide_s_rise_one_s_talk_frown_2_] B-but if I transform, Star and Paulina'll find out that-"
-msgstr "[_danny_s_towards_wide_s_rise_one_s_talk_frown_2_] B-but si transformo, Star y Paulina averiguarán eso-"
+msgstr "[_danny_s_towards_wide_s_rise_one_s_talk_frown_2_] P-pero si me transformo, Star y Paulina averiguarán eso-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6227 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_fbc23a02:
 msgid "[_desiree_s_talk_frown_s_upset_] Master, now is not the time to debate! You must save them!"
-msgstr "[_desiree_s_talk_frown_s_upset_] Maestro, ¡ahora no es el momento de debatir! ¡Usted debe salvarlos!"
+msgstr "[_desiree_s_talk_frown_s_upset_] Maestro, ¡ahora no es el momento de debatir! ¡Usted debe salvarlas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6232 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_1a698533:
 msgid "[_danny_s_at_player_s_rise_one_s_frown_] (Looks like this is it... this is where my secret finally comes to light!)"
-msgstr "[_danny_s_at_player_s_rise_one_s_frown_] (Bascos como este... ¡Aquí es donde finalmente sale a la luz mi secreto!)"
+msgstr "[_danny_s_at_player_s_rise_one_s_frown_] (parece que esto... ¡Aquí es donde finalmente sale a la luz mi secreto!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6235 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_da1d935e:
 msgid "[_danny_s_towards_s_rise_one_s_talk_frown_] I'M GOING GHOST!!"
-msgstr "[_danny_s_towards_s_rise_one_s_talk_frown_] ¡¡¡¡OBJE EL GOSTO!!"
+msgstr "[_danny_s_towards_s_rise_one_s_talk_frown_] ¡¡¡¡VOY A SER FANTASAMA!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6289 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_d8cc84b4:
 msgid "[_bertrand_] This- {i}*Huff*{/i} ...this isn't over, kid! You'll never defeat her, she's become too strong now!!"
@@ -4629,67 +4629,67 @@ msgstr "[_bertrand_] Esto- {i}*Huff*{/i} ...¡esto no ha terminado, chico! Nunca
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6297 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_e0e95927:
 msgid "[_bertrand_] My mistress is unstoppable!!"
-msgstr "[_bertrand_] Mi amistad es imparable!!"
+msgstr "[_bertrand_] ¡¡Mi Mr és imparable!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6308 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_febd78e4:
 msgid "[_danny_] (Well... I guess that's that... I saved everyone...)"
-msgstr "[_danny_] (Bueno... Supongo que... salvé a todos...)"
+msgstr "[_danny_] (Bueno... Supongo que... salvé a todas...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6312 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_617b6ca6:
 msgid "[_danny_] (But now... Star and Paulina... they must have seen... everything...)"
-msgstr "[_danny_] (Pero ahora... Estrella y Paulina... deben haber visto... todo...)"
+msgstr "[_danny_] (ahora... Star y Paulina... deben haber visto... todo...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6316 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_d1ad2247:
 msgid "[_danny_] Girls, I... please... I-I can expla-"
-msgstr "[_danny_] Girls, yo... por favor... Puedo explorar-"
+msgstr "[_danny_] Girls, yo... por favor... Puedo explicar-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6322 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_b8e7a5e1:
 msgid "[_star_] {i}Mmm~{/i} I fucking love kissing you so much, P!"
-msgstr "[_star_] {i}Mmm~{/i} ¡Me encanta besarte tanto, P!"
+msgstr "[_star_] {i}Mmm~{/i} ¡Me encanta besarte, P!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6328 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_c79742d6:
 msgid "[_star_] {i}Woof! Woof!{/i}"
-msgstr "[_star_] {i}Woof! ¡Woof! {/i}"
+msgstr "[_star_] {i}¡joder! ¡joder! {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6332 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_6ff0c92a:
 msgid "[_paulina_] Oh yeah, I love you too Star... you're such a good kisser, Jesu Christo...~"
-msgstr "[_paulina_] Oh sí, te amo también Estrella... eres un buen beso, Jesu Christo...~"
+msgstr "[_paulina_] Oh sí, te amo también Star... eres una gran besadora, Jesus...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6335 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_f54ae2e9:
 msgid "[_ember_s_talk_happy_s_rise_] Somehow, I don't think they noticed your little show, dude. Probably broke into a case of fight-or-fuck in their panicked brains."
-msgstr "[_ember_s_talk_happy_s_rise_] De alguna manera, no creo que hayan notado tu pequeño espectáculo, dude. Probablemente se rompió en un caso de pelea o fuck en sus pánico."
+msgstr "[_ember_s_talk_happy_s_rise_] De alguna manera, no creo que hayan notado tu pequeño espectáculo, tronco. Probablemente en sus acojonados cerebros acabó siendo una decisión de pelea o folla."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6340 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_9e718478:
 msgid "[_desiree_s_sad_s_talk_consternation_] I highly doubt they would remember much of anything clearly once our ghost's control has been lifted. I would not worry much."
-msgstr "[_desiree_s_sad_s_talk_consternation_] Tengo grandes dudas de que recordarían mucho de algo claramente una vez que se haya levantado el control de nuestro fantasma. No me preocuparía mucho."
+msgstr "[_desiree_s_sad_s_talk_consternation_] Tengo grandes dudas de que no recuerden nada o algo una vez que se haya levantado el control de nuestro fantasma. No me preocuparía mucho."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6344 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_3dd34017:
 msgid "[_danny_s_towards_s_talk_happy_] {i}Uhh{/i}, alright, I guess that's good... Sam? You okay?"
-msgstr "[_danny_s_towards_s_talk_happy_] {i}Uhh{/i}, bueno, creo que es bueno... ¿Sí? ¿Tienes bien?"
+msgstr "[_danny_s_towards_s_talk_happy_] {i}Uhh{/i}, bueno, creo que és bueno... ¿Sam? ¿Estás bien?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6348 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_a8d42b27:
 msgid "[_sam_] Yeah, no, I'm good! I'm fine...{p}Y'know, that was sorta hot, watching you fight that green booger just then...~"
-msgstr "[_sam_] Sí, no, ¡estoy bien! Estoy bien...{p}Y'know, eso fue muy caliente, mirándote luchar contra ese reservador verde justo entonces...~"
+msgstr "[_sam_] Sí, no, ¡estoy bien! Estoy bien...{p}ya sabes, eso fue muy excitante, vete luchar contra ese repelente viejo verde...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6351 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_b267746c:
 msgid "[_danny_s_talk_frown_2_s_wondering_] Sam, the door. N-not right now, please."
-msgstr "[_danny_s_talk_frown_2_s_wondering_] Sam, la puerta. N-no ahora mismo, por favor."
+msgstr "[_danny_s_talk_frown_2_s_wondering_] Sam, la puerta. A-ahora mismo, por favor."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6357 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_15d1a9f0:
 msgid "[_sam_s_talk_happy_] Huh? Oh yeah, sorry, here's the key! You three go ahead and good luck with... whatever you're up to, honestly."
-msgstr "[_sam_s_talk_happy_] ¿Huh? ¡Oh sí, lo siento, aquí está la clave! Tres seguirás adelante y buena suerte... sea lo que sean, sinceramente."
+msgstr "[_sam_s_talk_happy_] ¿Huh? ¡Oh sí, lo siento, aquí está la llave! Id los tres adelante y buena suerte... sea lo que sean, sinceramente."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6361 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_4b8c0e14:
 msgid "[_sam_] I'm just gonna stick around here and take a few candid shots with the girls!"
-msgstr "[_sam_] ¡Solo me quedo aquí y tomo unos cuantos tiros francos con las chicas!"
+msgstr "[_sam_] ¡Me quedaré aquí y pasaré un buen rato con las chicas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6367 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_ff44e2c4:
 msgid "[_sam_] {i}Hah haaa{/i}, yes, yes... that's it you sexy bitches! Star, work some more tongue into that!"
-msgstr "[_sam_] {i}Hah haa{/i}, sí, sí... ¡eso es lo que putas sexy! ¡Estrella, trabaja un poco más de lengua en eso!"
+msgstr "[_sam_] {i}Hah haa{/i}, sí, sí... ¡eso és putas sexis! ¡Star, usa un poco más la lengua!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6371 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_266fdf63:
 msgid "[_danny_] (Sam certainly has a more... expressive side to her, at least when it comes to her being influenced by kinky spirits...)"
-msgstr "[_danny_] (Sam ciertamente tiene un lado más expresivo para ella, al menos cuando se trata de que esté influenciada por espíritus kinky...)"
+msgstr "[_danny_] (Sam ciertamente tiene un lado más expresivo, al menos cuando está influenciada por espíritus kinkys...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6376 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_94f064c5:
 msgid "[_desiree_s_talk_displeased_s_neutral_2_] We cannot wait any longer, it's time!"
@@ -4697,11 +4697,11 @@ msgstr "[_desiree_s_talk_displeased_s_neutral_2_] ¡No podemos esperar más, ya 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6381 #-#-# translate crowdin Episode_8_stage_245_school_entrance_locked_f9e2c7aa:
 msgid "[_danny_s_talk_frown_2_] Right, let's do this!"
-msgstr "[_danny_s_talk_frown_2_] Derecho, ¡hagamos esto!"
+msgstr "[_danny_s_talk_frown_2_] Cierto, ¡vamos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6417 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_f675709d:
 msgid "[_desiree_] Goodness... this place... the power being gathered... it truly is overwhelming!"
-msgstr "[_desiree_] Bienvenido... este lugar... el poder recolectando... ¡realmente es genial!"
+msgstr "[_desiree_] Dioses... este lugar... para recolectar poder... ¡realmente és genial!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6422 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_9159b003:
 msgid "[_ember_] You could say... {i}\"it's over 9000!!\"{/i}"
@@ -4709,7 +4709,7 @@ msgstr "[_ember_] Puedes decir... {i}\"es más de 9000!!\"{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6426 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_64fc1e3e:
 msgid "[_desiree_] N-no, I could not reasonably define the strength of her aura in numbers, I'm afraid..."
-msgstr "[_desiree_] N-no, no pude definir razonablemente la fuerza de su aura en números, estoy así..."
+msgstr "[_desiree_] N-no, no puedo definir razonablemente la fuerza de su aura en números, tengo miedo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6431 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_b335a47c:
 msgid "[_ember_] Oh yeah, you haven't been watching anime late at night with me..."
@@ -4717,19 +4717,19 @@ msgstr "[_ember_] Oh sí, no has estado viendo anime por la noche conmigo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6436 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_053adc1d:
 msgid "[_danny_] {i}Shhh!{/i} Hey, c'mon girls, we should try being more quiet! We don't know if-"
-msgstr "[_danny_] {i}Shhh!{/i} Hey, chicas c'mon, ¡deberíamos intentar ser más tranquilos! No sabemos si-"
+msgstr "[_danny_] {i}Shhh!{/i} Hey, chicas vamos, ¡deberíamos intentar estar tranquilos! No sabemos si-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6444 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_390987bb:
 msgid "[_penelope_] {i}[[Well, well, well...]]{/i}"
-msgstr "[_penelope_] {i}[[Bueno, bien...]]{/i}"
+msgstr "[_penelope_] {i}[[Bueno, bueno, bueno...]]{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6447 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_b88ed34b:
 msgid "[_penelope_] {i}[[So glad you could all make it!]]{/i}"
-msgstr "[_penelope_] {i}[[¡Qué alegría podías hacerlo!]]{/i}"
+msgstr "[_penelope_] {i}[[¡Me alegra mucho de que lo hayan podido hacer!]]{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6452 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_1a84e2f5:
 msgid "[_danny_] Spectra! Show yourself!"
-msgstr "[_danny_] ¡Spectra! ¡Show usted mismo!"
+msgstr "[_danny_] ¡Spectra! ¡Muéstrate como eres realmente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6456 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_54f85b81:
 msgid "[_penelope_] As you wish~"
@@ -4737,7 +4737,7 @@ msgstr "[_penelope_] como quieras~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6467 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_1ebc46f0:
 msgid "[_spectra_] Hello! You must be Danny's little posse group!"
-msgstr "¡[_spectra_] Hola! ¡Debes ser el grupo pequeño de Danny!"
+msgstr "[_spectra_] Hola! ¡Debéis de ser el pequeño grupo de Danny!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6470 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_197a19e1:
 msgid "[_spectra_] Do you like what I've done with the place?"
@@ -4745,11 +4745,11 @@ msgstr "[_spectra_] ¿Te gusta lo que he hecho con el lugar?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6473 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_023df188:
 msgid "[_spectra_] Or how about my new look?"
-msgstr "[_spectra_] ¿O qué hay de mi nuevo aspecto?"
+msgstr "[_spectra_] ¿O mi nuevo aspecto?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6478 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_5d7917c7:
 msgid "[_danny_] Let Jazz and everyone else go of your sick mind control!"
-msgstr "[_danny_] ¡Deja que Jazz y todos los demás dejen de controlar tu mente enferma!"
+msgstr "[_danny_] ¡Deja de controlar a Jazz y todos los demás con tu mente enferma!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6482 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_68bab74e:
 msgid "[_spectra_] Oh Danny, Danny! No, no no!~"
@@ -4757,27 +4757,27 @@ msgstr "[_spectra_] Oh Danny, Danny! No, ¡no no!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6485 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_74fe05f5:
 msgid "[_spectra_] The lust and pent up energy in this place is just too good to let go of!"
-msgstr "[_spectra_] ¡La lujuria y la energía acumulada en este lugar es demasiado buena para soltar!"
+msgstr "[_spectra_] ¡La lujuria y la energía acumulada en este lugar es demasiado buena para dejarla ir!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6489 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_804c30fa:
 msgid "[_spectra_] Tell me, didn't your enjoy your little date with Jasmine? {i}*Chuckles*{/i}"
-msgstr "[_spectra_] Cuéntame, ¿no tu disfrutaba tu pequeña cita con Jasmine? {i}*Chuckles * {/i}"
+msgstr "[_spectra_] Cuéntame, ¿no disfrutaste tu pequeña cita con Jasmine? {i}*Risas * {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6494 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_d5db0e1b:
 msgid "[_spectra_] She's been the most delicious of all to feed from! Oh, the taboo thoughts running in her head! {i}Mmmmm-mmm!{/i}"
-msgstr "[_spectra_] ¡Sí! ¡Ha sido el más delicioso de todos para alimentarse! ¡Oh, los pensamientos de tabodio corriendo en su cabeza! ¡ {i}Mmmm-mmmm!{/i}"
+msgstr "[_spectra_] ¡Ella ha estado siendo la más deliciosa de todas! ¡Oh, los pensamientos taboo corriendo en su cabeza! ¡ {i}Mmmm-mmmm!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6500 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_e234e796:
 msgid "[_ember_] Hey Cru-smella de Vil, we're about to kick your butt into next Saturday's morning cartoons if you don't stop this shit!"
-msgstr "[_ember_] Hey Cru-smella de Vil, estamos a punto de patear tu perro en las caricaturas del próximo sábado si no detienes esta mierda!"
+msgstr "[_ember_] Hey puta ninfómana, estamos a punto de patear tu culo hasta la próxima edición de comics si no detienes esta mierda!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6505 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_168de2c3:
 msgid "[_desiree_] My powers are more than capable of matching all of yours at this point, you little wretch!"
-msgstr "[_desiree_] Mis poderes son más que capaces de emparejar todos los tuyos en este momento, ¡poco miserables!"
+msgstr "[_desiree_] Mis poderes son más que capaces de aplastar todos los tuyos en este momento, ¡pequeña miserable!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6511 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_9902838b:
 msgid "[_spectra_] Some bipolar delinquent and an ancient whore are what you've bought as backup to defeat me?"
-msgstr "[_spectra_] ¿Algún quente bipolar y una guarra antigua son lo que has comprado como copia de seguridad para derrotarme?"
+msgstr "[_spectra_] ¿una delincuente bipolar y una puta pasada de moda és lo que has comprado para derrotarme?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6515 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_bac878ed:
 msgid "[_spectra_] {i}Hahahahaha!!{/i}"
@@ -4785,19 +4785,19 @@ msgstr "[_spectra_] {i}Hahahaha!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6519 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_94ec18d7:
 msgid "[_ember_] What the {i}fuck{/i} did you just call me?! Listen up you old bag! I'm about to put a size 11 dent in your face!"
-msgstr "[_ember_] ¡A qué mierda la {i}{/i} me has llamado?! ¡Escucha tu vieja bolsa! ¡Estoy a punto de poner una morada de tamaño 11 en tu cara!"
+msgstr "[_ember_] ¡Qué {i}mierda{/i} me has llamado?! ¡Escucha tu vieja verde! ¡Estoy a punto de poner una morada de tamaño 11 en tu cara!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6523 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_599b4bd2:
 msgid "[_desiree_] \"Ancient whore\"...? Who do you think you're talking to, you parasite?!"
-msgstr "[_desiree_] \"Ancient whore\"...? ¿A quién crees que estás hablando, ¿parásito?!"
+msgstr "[_desiree_] \"Puta pasada de moda\"...? ¿A quién crees que estás hablando, ¿parásito?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6528 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_d6a19079:
 msgid "[_spectra_] Well, looks like I've riled up the masses in just the right way... and I'm certainly eager to test out this new form already!"
-msgstr "[_spectra_] Bueno, parece que he agrietado las masas de la manera correcta... ¡y desde luego estoy ansioso por probar esta nueva forma ya!"
+msgstr "[_spectra_] Bueno, parece que he roto el hielo de manera correcta... ¡y desde luego estoy ansiosa por probar esta nueva forma!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6532 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_eceec56d:
 msgid "[_spectra_] Oh, I think I'm going to enjoy this!! C'MON LADIES, LET'S SEE YOU MOVE!!"
-msgstr "[_spectra_] Oh, ¡¡¡Creo que voy a disfrutar de esto!! ¡¡C'MON LADIES, LET'S SEE YOU MOVE!!"
+msgstr "[_spectra_] Oh, ¡¡¡Creo que voy a disfrutar de esto!! ¡¡VAMOS DAMAS, A VER COMO OS MOVEIS!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6568 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_91cc590d:
 msgid "[_danny_] {i}*Huff*{/i} We {i}*Huff*{/i} did it!"
@@ -4805,27 +4805,27 @@ msgstr "[_danny_] {i}*Huff*{/i} ¡Nosotros {i}*Huff*{/i} lo hicimos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6573 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_4e6b3835:
 msgid "[_ember_] Ready to surrender yet you... nasty old bat?!"
-msgstr "[_ember_] Listo para rendirte aún... ¿desagradable viejo murciélago?!"
+msgstr "[_ember_] preparada para rendirte... ¿desagradable y vieja chupona?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6578 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_47bf6422:
 msgid "[_spectra_] Oh my... what a shame.{p}{nw}"
-msgstr "[_spectra_] Oh mi... qué vergüenza.{p}{nw}"
+msgstr "[_spectra_] Oh... qué vergüenza.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6581 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_3a841941:
 msgid "[_extend_] To think I would be attacked all at once!! I never would have-"
-msgstr "[_extend_] Para pensar que sería atacado a la vez!! Nunca habría sido-"
+msgstr "[_extend_] Pensar que sería atacado a por todos la vez!! Nunca habría-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6586 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_da9196ca:
 msgid "[_spectra_] {i}BAHAHAHA!!{/i} Oh I'm sorry, I just couldn't keep a straight face!"
-msgstr "[_spectra_] {i}BAHAHA!!{/i} Oh Lo siento, ¡no pude mantener una cara recta!"
+msgstr "[_spectra_] {i}BAHAHA!!{/i} Oh Lo siento, ¡no pude mantener mi burla!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6591 #-#-# translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_f44dbc1f:
 msgid "[_spectra_] I've barely used a tenth of my power so far!"
-msgstr "[_spectra_] ¡Apenas he usado una décima parte de mi poder hasta ahora!"
+msgstr "[_spectra_] ¡Apenas he usado una décima parte de mi poder!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6612 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_17c621f7:
 msgid "[_spectra_s_evil_s_talk_happy_] ...so, ready for round two?"
-msgstr "[_spectra_s_evil_s_talk_happy_] ...entonces, ¿listo para la segunda ronda?"
+msgstr "[_spectra_s_evil_s_talk_happy_] ...entonces, ¿listos para la segunda ronda?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6616 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_09de12a0:
 msgid "[_danny_] {i}Uh{/i} oh... yeah, this isn't good."
@@ -4833,11 +4833,11 @@ msgstr "[_danny_] {i}Uh{/i} oh... sí, esto no es bueno."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6620 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_d4505457:
 msgid "[_spectra_s_evil_s_talk_displeased_] As your guidance counselor Danny, I'd love to give you some practical advice... give up and {i}DIE!!{/i}"
-msgstr "[_spectra_s_evil_s_talk_displeased_] Como su consejero de orientación Danny, me encantaría darle algunos consejos prácticos ... dar para arriba y {i}DIE!! {/i}"
+msgstr "[_spectra_s_evil_s_talk_displeased_] Como su consejero de orientación Danny, me encantaría darle algunos consejos prácticos... toma y {i}¡¡MUERE!! {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6660 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_aa3382c6:
 msgid "[_danny_] {i}Gah!{/i} She's way too powerful!"
-msgstr "[_danny_] {i}¡Gah!{/i} ¡She's way demasiado poderoso!"
+msgstr "[_danny_] {i}¡Gah!{/i} ¡Ella és demasiado poderosa!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6666 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_3765c7f1:
 msgid "[_spectra_] Oh sweet Danny... it's not your fault you were such a weak loser!"
@@ -4845,31 +4845,31 @@ msgstr "[_spectra_] Oh dulce Danny... no es tu culpa que hayas sido un débil pe
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6671 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_09a6b5b0:
 msgid "[_spectra_] It's just the way things played out! With me crushing you and your weak friends!"
-msgstr "[_spectra_] ¡Es la manera en que las cosas se desarrollaron! ¡Con mí aplastarte a ti y a tus amigos débiles!"
+msgstr "[_spectra_] ¡Es la manera en que las cosas se desarrollaron! ¡Conmigo aplastándote a ti y a tus débiles amigas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6677 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_8edd5ca0:
 msgid "[_danny_] I'm not... weak... none of us are!"
-msgstr "[_danny_] no so... débil... ¡ninguno de nosotros lo es!"
+msgstr "[_danny_] no soy... débil... ¡ninguno de nosotros lo es!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6683 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_c80d03df:
 msgid "[_spectra_] Now that's adorable, he's giving you all an emotional support rally speech!"
-msgstr "[_spectra_] ¡Ahora que es adorable, te está dando un discurso de batallón de apoyo emocional!"
+msgstr "[_spectra_] ¡Que adorable, os está dando un discurso emocional de apoyo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6687 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_a8dbc985:
 msgid "[_spectra_] ...not sure how well it works as a eulogy though. Oh well, I guess it's better than nothing!"
-msgstr "[_spectra_] ...no está seguro de lo bien que funciona como un elogio. ¡Oh, bueno, supongo que es mejor que nada!"
+msgstr "[_spectra_] ...no estoy segura de lo bien que funciona como un elogio. ¡Oh, bueno, supongo que es mejor que nada!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6693 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_49bc73d0:
 msgid "[_spectra_] Don't feel bad, kiddos. Nobody could stop me at this on point!{p}{nw}"
-msgstr "[_spectra_] No te sientas mal, chiquitos. ¡Nadie podría detenerme en este punto!{p}{nw}"
+msgstr "[_spectra_] No te sientas mal, pardillos. ¡Nadie podría detenerme con este poder!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6696 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_14862bc3:
 msgid "[_extend_] Not even-"
-msgstr "[_extend_] no parado-"
+msgstr "[_extend_] no-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6707 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_16ca503b:
 msgid "[_jack_] JACK FENTON!!"
-msgstr "[_jack_] JACK FENTON!!"
+msgstr "[_jack_] ¡¡JACK FENTON!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6717 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_e1cb4b39:
 msgid "[_spectra_] ...who?"
@@ -4885,7 +4885,7 @@ msgstr "[_extend_s_danny_s_p_s_offscreen_s_sad_s_smile_] (... y con mamá?! ¡Gr
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6743 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_9055ea1b:
 msgid "[_maddie_] Get away from that young Ghost, you monster!! He's supposed to be {i}our{/i} catch!!"
-msgstr "[_maddie_] Síguete de ese joven Fantasma, tu monstruo!! Se supone que es {i}nuestro{/i} atrapar!!"
+msgstr "[_maddie_] Apártate de ese joven Fantasma, monstruo!! Se supone que es {i}nuestra{/i} presa!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6747 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_cc8eead0:
 msgid "[_spectra_] {i}GRAHH!!{/i}"
@@ -4893,19 +4893,19 @@ msgstr "[_spectra_] {i}GRAHH!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6752 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_5da0b820:
 msgid "[_jack_] Jumpin' Jehoshaphat, it really is a whole spookum buffet in here!"
-msgstr "[_jack_] Jehoshaphat de Jumpin, ¡realmente es todo un buffet de spookum aquí!"
+msgstr "[_jack_] ¡ostras, ostras!, ¡esto és todo un bufete de fantasmas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6756 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_2afaca54:
 msgid "[_jack_] Good thing we followed through on those crazy readings while we were patrolling!"
-msgstr "[_jack_] ¡Buena cosa que seguimos en esas descabelladas lecturas mientras estábamos patrullando!"
+msgstr "[_jack_] ¡Fue buena cosa seguir esas descabelladas lecturas mientras estábamos patrullando!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6760 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_73ec8e5b:
 msgid "[_maddie_] I must say, your spectral radars are getting better and better with each version you make Jack!"
-msgstr "[_maddie_] Debo decir que tus radares espectrales se están haciendo cada vez mejores con cada versión que haces Jack!"
+msgstr "[_maddie_] Debo decir que tus radares espectrales se están haciendo cada vez mejores en cada versión nueva Jack!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6764 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_844ea9ae:
 msgid "[_jack_] I knew there must have been something up with the school lately. All these kids loitering out past the curfew and barely covering their skivvies?"
-msgstr "[_jack_] supe que tenía que haber algo que ver con la escuela últimamente. ¿Todos estos niños que se escapan del toque de queda y apenas cubren sus skives?"
+msgstr "[_jack_] supe que tenía que haber algo en la escuela últimamente. ¿Todos estos niños que se escapan del toque de queda y apenas cubren sus cuerpos?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6767 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_e64c5060:
 msgid "[_jack_] I knew it could only mean one thing..."
@@ -4913,31 +4913,31 @@ msgstr "[_jack_] sabía que solo podía significar una cosa..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6771 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_c5f91bf2:
 msgid "[_maddie_] Poor parenting?{p}{nw}"
-msgstr "[_maddie_] ¿Pobre padre?{p}{nw}"
+msgstr "[_maddie_] ¿malos padres?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6775 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_c3e349eb:
 msgid "[_extend_] Drinking in excess?{p}{nw}"
-msgstr "¿[_extend_] Beber en exceso?{p}{nw}"
+msgstr "[_extend_] ¿Beber en exceso?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6779 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_fc126ba6:
 msgid "[_extend_] ...general teenage angst bubbling under the surface?"
-msgstr "¿[_extend_] ...la angustia adolescente general que bromea bajo la superficie?"
+msgstr "[_extend_] ...la angustia adolescente general que burbujea bajo la superficie?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6783 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_a19f7a29:
 msgid "[_jack_] GHOSTS!!"
-msgstr "[_jack_] GALTOS!!"
+msgstr "[_jack_] ¡¡FANTASMAS!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6788 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_4b39324b:
 msgid "[_spectra_] {i}Hsss!!{i} You've just sealed your own fates, you weak imbeciles!"
-msgstr "[_spectra_] {i}Hss!!{i} Acabas de sellar tus propios destinos, ¡tus imbéciles débiles!"
+msgstr "[_spectra_] {i}Hss!!{i} Acabáis de sellar vuestros destinos, ¡ vosotros débiles imbéciles!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6793 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_faececd1:
 msgid "[_jack_] {i}Hah!{/i} Oh no, creepola. With these newly tuned weapons of mass bustin', we'll zap you back into the primordial plasm you once came fro-"
-msgstr "[_jack_] {i}¡Hah!{/i} Oh no, creepola. Con estas nuevas armas sintonizadas de bustín masivo, te volveremos a meter en el plasma primordial que una vez llegué-"
+msgstr "[_jack_] {i}¡Hah!{/i} Oh no, repelencia. Con estas nuevas armas sintonizadas potencial masivo, te volveremos a meter en el plasma primordial del que una vez-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6810 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_691b1787:
 msgid "[_jack_s_offscreen_s_closed_s_sad_s_talk_displeased_] {i}Yeowchers!!{/i}"
-msgstr "[_jack_s_offscreen_s_closed_s_sad_s_talk_displeased_] {i}Yeowchers!!{/i}"
+msgstr "[_jack_s_offscreen_s_closed_s_sad_s_talk_displeased_] {i}viniste!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6813 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_d6785824:
 msgid "[_maddie_] Jack!!"
@@ -4953,35 +4953,35 @@ msgstr "[_danny_] ¡Entendido!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6846 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_3bbf1637:
 msgid "[_spectra_] That's quite enough! It's time I put an end to our little chit chats!"
-msgstr "[_spectra_] ¡Eso es suficiente! ¡Ya es hora de poner fin a nuestros pequeños chats de chit!"
+msgstr "[_spectra_] ¡Eso es suficiente! ¡Ya es hora de poner fin a nuestro pequeño chat!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6893 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_cc1dfa49:
 msgid "[_spectra_] You... no! No, no, {i}NO!!!{/i}"
-msgstr "[_spectra_] Tú... ¡No! No, no, {i}NO!!!{/i}"
+msgstr "[_spectra_] Tú... ¡No! No, no, {i}¡¡¡NO!!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6899 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_a519a1b9:
 msgid "[_spectra_] B-Bertrand! Get out here and stop them!"
-msgstr "¡[_spectra_] B-Bertrand! ¡Sal aquí y deténgalos!"
+msgstr "¡[_spectra_] B-Bertrand! ¡ven y detenlos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6908 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_59bf7565:
 msgid "[_bootrand_] I'm sorry Mistress... I'm still too weak! I can't do anything!"
-msgstr "[_bootrand_] Lo siento Mistridad... ¡Todavía soy demasiado débil! ¡No puedo hacer nada!"
+msgstr "[_bootrand_] Lo siento Mr... ¡Todavía estoy demasiado débil! ¡No puedo hacer nada!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6913 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_95d074e8:
 msgid "[_spectra_] {i}Grrrahhh!!{/i} USELESS WRETCH!!"
-msgstr "[_spectra_] {i}Grrrahhhh!!{/i} USELESS WRETCH!!"
+msgstr "[_spectra_] {i}Grrrahhhh!!{/i} ¡¡DESGRACIADO INUTIL!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6918 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_741f7472:
 msgid "[_danny_] It's over, Spectra. Give it up now!"
-msgstr "[_danny_] ha terminado, Espectra. ¡Regalalo ahora!"
+msgstr "[_danny_] ha terminado, Espectra. ¡ríndete ya!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6922 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_7b369442:
 msgid "[_spectra_] It's not over! It's not over till I say it's-"
-msgstr "[_spectra_] no ha terminado! No ha terminado hasta que digo esto-"
+msgstr "[_spectra_] no ha terminado! No ha terminado hasta que yo diga-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6936 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_a20a3cfd:
 msgid "[_spectra_] W-wait-!! N-no, you wouldn't dare-"
-msgstr "[_spectra_] W-wait-!! N-no, no te atreverías -"
+msgstr "[_spectra_] ¡¡E-espera-!! N-no, no te atreverás -"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6954 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_f6212960:
 msgid "[_spectra_] {i}Noooooooo!!!{/i}"
@@ -4997,27 +4997,27 @@ msgstr "[_danny_] ...{i}Phew{/i} ...finalmente ha terminado..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6967 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_1a836859:
 msgid "[_ember_] First dibs on the shower when we get back home."
-msgstr "[_ember_] Primero se sumerge en la ducha cuando volvamos a casa."
+msgstr "[_ember_] Primera se sumergirse en la ducha cuando volvamos a casa."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6972 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_ec97ffd3:
 msgid "[_maddie_] C'mon Jack, you've gotta wake up!"
-msgstr "[_maddie_] C'mon, ¡tienes que despertarte!"
+msgstr "[_maddie_] Vamos Jack, ¡despierta!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6975 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_8beb03cb:
 msgid "[_danny_] (...Dad!)"
-msgstr "[_danny_] (...¡Had!)"
+msgstr "[_danny_] (...¡papá!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6991 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_d4949518:
 msgid "[_maddie_] S-Stand where you are, you ghoulish freaks! I know how to handle the likes of you!"
-msgstr "[_maddie_] S-Stand where you are, ¡Ghoulish freaks! ¡Sé cómo manejar los gustos de ti!"
+msgstr "[_maddie_] Q-quedaos donde estáis, ¡fantasmas malignos! ¡Sé cómo manejar seres como vosotros!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6995 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_45ef57e4:
 msgid "[_danny_] Ma'am, please, is your... partner okay?"
-msgstr "[_danny_] Ma'am, por favor, ¿es tu... socio correcto?"
+msgstr "[_danny_] Tía, por favor, soys tu... socio ¿ok?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6999 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_4f03297c:
 msgid "[_maddie_] Don't try and play any games with me, buster! My husband Jack's stronger than any of you even in his sleep!"
-msgstr "[_maddie_] ¡No intentes jugar con mí, buster! ¡Mi esposo Jack es más fuerte que cualquiera de ustedes incluso en su sueño!"
+msgstr "[_maddie_] ¡No intentes jugar conmigo, maligno! ¡Mi esposo Jack es más fuerte que cualquiera de vosotros incluso durmiendo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7003 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_d1d2513e:
 msgid "[_maddie_] He'll be up in no time to help me catch you nasty things and send you to oblivion!"
