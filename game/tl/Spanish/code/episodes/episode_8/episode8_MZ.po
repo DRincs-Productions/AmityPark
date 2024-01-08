@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-07 23:37\n"
+"PO-Revision-Date: 2024-01-08 10:25\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -4897,7 +4897,7 @@ msgstr "[_jack_] ¡ostras, ostras!, ¡esto és todo un bufete de fantasmas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6756 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_2afaca54:
 msgid "[_jack_] Good thing we followed through on those crazy readings while we were patrolling!"
-msgstr "[_jack_] ¡Fue buena cosa seguir esas descabelladas lecturas mientras estábamos patrullando!"
+msgstr "[_jack_] ¡Fue bueno seguir esas descabelladas lecturas mientras estábamos patrullando!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6760 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_73ec8e5b:
 msgid "[_maddie_] I must say, your spectral radars are getting better and better with each version you make Jack!"
