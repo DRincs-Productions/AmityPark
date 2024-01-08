@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-08 15:06\n"
+"PO-Revision-Date: 2024-01-08 16:03\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -6445,15 +6445,15 @@ msgstr "[_desiree_] ¡¡...M-M-Maestro!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8999 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_f277af5f:
 msgid "[_ember_] The fuck?!?"
-msgstr "[_ember_] La mierda?!?"
+msgstr "[_ember_] ¿¡¿qué mierda?!?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9005 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_cbfa17fb:
 msgid "[_danny_] Believe me, I've had to some hard truth searching lately, and I just think it's wrong of me to hold you in such high esteem now..."
-msgstr "[_danny_] Créanme, últimamente he tenido que buscar algo de verdad dura, y creo que es un error por mi parte mantenerte en tan alto esteem ahora..."
+msgstr "[_danny_] Créanme, últimamente he tenido que buscar la dura verdad, y creo que es un error por mi parte manteneros contenidas ahora..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9011 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_906a29b6:
 msgid "[_danny_] ...but still keep you in chains, essentially.{p}{nw}"
-msgstr "[_danny_] ...pero sigue manteniéndote en cadenas, esencialmente.{p}{nw}"
+msgstr "[_danny_] ...pero sigo manteniéndoos encadenadas, esencialmente.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9017 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_37523549:
 msgid "[_extend_] Especially after everything that's happened."
@@ -6461,11 +6461,11 @@ msgstr "[_extend_] Especialmente después de todo lo que sucedió."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9023 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_3d134f47:
 msgid "[_danny_] So, I'll understand it if you two want to go out into the world and... well... do whatever it is you want."
-msgstr "[_danny_] Así que, lo entenderé si dos quieren salir al mundo y... bien... haz lo que quieras."
+msgstr "[_danny_] Así que, lo entenderé si las dos quieren salir al mundo y... bien... hacer lo que queráis."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9029 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_906a6a44:
 msgid "[_ember_] Wow... hey, I mean..."
-msgstr "[_ember_] Wow... ey, quiero decir..."
+msgstr "[_ember_] Wow... ey, quiere decir..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9035 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_73c317b8:
 msgid "[_desiree_] This is... well, how shall I say...?"
@@ -6473,23 +6473,23 @@ msgstr "[_desiree_] Esto es... bueno, ¿cómo diré...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9051 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_880cb1bb:
 msgid "[_ember_] ...I was sorta planning on sticking around for a good bit, y'know?"
-msgstr "[_ember_] ...Estaba planeando sorta para quedarme un poco, ¿sabes?"
+msgstr "[_ember_] ...Estaba planeando como que... quedarme un poco, ¿sabes?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9057 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_bf8a5189:
 msgid "[_desiree_] I would have to agree, I've grown accustomed to my home in the Metal tube."
-msgstr "[_desiree_] tendría que estar de acuerdo, me he acostumbrado a mi casa en el metal."
+msgstr "[_desiree_] tengo que estar de acuerdo, me he acostumbrado a mi casa en el metal."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9063 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_60fb8184:
 msgid "[_penelope_] ...w-what? But you- you have your freedom now!! Go cause chaos!! Do what it is you want to do!!"
-msgstr "[_penelope_] ...w-what? Pero tú tienes tu libertad ahora! Ve a causar caos!! Haz lo que quieres hacer!!"
+msgstr "[_penelope_] ¿...Q-qué? Pero tenéis vuestra libertad ahora! Id a causar caos!! ¡¡Hacer lo que queráis!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9069 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_69757cd1:
 msgid "[_desiree_] We {i}are{/i} doing what it is we want. It just happens to involve being at Master's side as well."
-msgstr "[_desiree_] Nosotros {i}estamos haciendo{/i} lo que queremos. Simplemente sucede que involucra estar también al lado de Master."
+msgstr "[_desiree_] Nosotras {i}estamos haciendo{/i} lo que queremos. Simplemente sucede que estamos a gusto del lado del Maestro."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9075 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_326b6205:
 msgid "[_ember_] I mean, don't get me wrong, I {i}definitely{/i} plan on stretching my boots out around town and causing some classic pranks on people, finally!"
-msgstr "[_ember_] Quiero decir, no me malinterpreten, yo {i}definitivamente {/i} plan en el estiramiento de mis botas alrededor de la ciudad y causando algunos prancos clásicos en la gente, finalmente!"
+msgstr "[_ember_] Quiero decir, no me malinterpreten, ¡yo {i}definitivamente {/i} planeo pasear mis botas por la ciudad y causar el pánico clásico en la gente, finalmente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9080 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_7d103ed6:
 msgid "[_danny_] {i}*G-Gulp*{/i}"
@@ -6497,51 +6497,51 @@ msgstr "[_danny_] {i}*G-Gulp*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9086 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_98e0c654:
 msgid "[_ember_] ...but being around this dork and the green bean have honestly been... pretty eye opening for me! I've had some free time to think about why I acted the way I did."
-msgstr "[_ember_] ...pero estar alrededor de este dork y el verde, han sido honestamente... ¡Me ha abierto los ojos! He tenido tiempo libre para pensar por qué actué como lo hice."
+msgstr "[_ember_] ...pero estar con este ridículo y la verde, han sido honestamente... ¡Me ha abierto los ojos! He tenido tiempo libre para pensar por qué actué como lo hice."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9092 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_64743bd4:
 msgid "[_ember_] And what I learned is that nobody's the sole source of my problems, and that life's just sorta shitty!{p}{nw}"
-msgstr "[_ember_] Y lo que aprendí es que nadie es la única fuente de mis problemas, ¡y esa mierda solo es sorta!{p}{nw}"
+msgstr "[_ember_] Y lo que aprendí és que nadie es la única fuente de mis problemas, ¡y esa mierda solo es perder tiempo!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9098 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_bc64ab12:
 msgid "[_extend_] But you gotta get what you can get out of it anyway!"
-msgstr "[_extend_] ¡Pero tienes que conseguir lo que puedes sacar de ella de todos modos!"
+msgstr "[_extend_] ¡tienes que conseguir lo que puedas sin coger ese camino!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9104 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_7420d6e1:
 msgid "[_danny_] ({i}Phew!!{/i})"
-msgstr "[_danny_] ({i}Phew!!{/i})"
+msgstr "[_danny_] ({i}¡¡Suspiro!!{/i})"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9110 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_4c864d67:
 msgid "[_ember_] So no, I don't really see myself going back to my completely warped and angry self. And like she said, I don't mind living here as much as I used to!"
-msgstr "[_ember_] Así que no, realmente no me veo retornando a mi completamente deformada y enfurecida. Y como ella dijo, no me importa vivir aquí tanto como yo solía."
+msgstr "[_ember_] Así que no, realmente no me veo volviendo a ser deforme y furiosa. Y como ella dijo, no me importa vivir aquí como hasta ahora!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9116 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_b3b5f8cc:
 msgid "[_penelope_] {i}Urgh!!{/i} You two make absolutely {u}zero{/u} sense to me! You're both even more crazy than I thought possible!!"
-msgstr "[_penelope_] {i}Urgh!! {/i} Usted dos hace absolutamente {u}cero {/u} sentido a mí! ¡Ambos son aún más locos de lo que yo creía posible!!"
+msgstr "[_penelope_] {i}Urgh!! {/i} Ustedes dos tienen el sentido absolutamente a {u}cero {/u}! ¡Ambas están aún más locas de lo que yo creía posible!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9122 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_86daacb5:
 msgid "[_danny_] Penelope, just what is it...? Why are you fighting so hard to make everyone else feel miserable for their choices?"
-msgstr "[_danny_] Penelope, ¿qué es...? ¿Por qué luchas tan duro para hacer que todos los demás se sientan miserables por su elección?"
+msgstr "[_danny_] Penelope, ¿qué pasa...? ¿Por qué peleas tanto para hacer que todos los demás se sientan miserables por sus decisiones?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9128 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_e6bece3c:
 msgid "[_penelope_] You don't get to stand there and try and figure me out, you cretin!"
-msgstr "[_penelope_] No te metes a estar parado allí y prueba y me figura, ¡cretin!"
+msgstr "[_penelope_] No te metas e intentes desacreditarme, ¡cretino!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9134 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_b071f4c9:
 msgid "[_danny_] Please, I'm simply trying to help! Won't you at least try and open up a little, so we-"
-msgstr "[_danny_] Por favor, ¡simplemente estoy tratando de ayudar! Al menos intentará abrir un poco, así que nosotros-"
+msgstr "[_danny_] Por favor, ¡simplemente estoy tratando de ayudar! Al menos inténtate sincerar un poco, así nosotros-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9141 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_e1bbd416:
 msgid "[_penelope_] {i}SHUT UP!!!{/i}"
-msgstr "[_penelope_] {i}SHUP!!!{/i}"
+msgstr "[_penelope_] {i}¡¡¡CALLATE!!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9152 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_6b42bbd4:
 msgid "[_ember_] ...well... somebody's got some issues to unpack."
-msgstr "[_ember_] ...bien... alguien ha tenido algunos problemas para desempaquetar."
+msgstr "[_ember_] ...bien... alguien se está rifando una torta."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9157 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_bbf4f6a3:
 msgid "[_danny_] Penelope!"
-msgstr "[_danny_] Penelope!"
+msgstr "[_danny_] ¡Penelope!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9170 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_0c83f27e_1:
 msgid "[_ember_] . . ."
@@ -6553,23 +6553,23 @@ msgstr "[_desiree_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9185 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_d241b826:
 msgid "[_ember_] Look, I know it's only 10 AM right how, but do you mind showing me that back of the throat thing with your tongue again...?"
-msgstr "[_ember_] Mira, sé que es solo 10 AM de la misma manera, pero ¿te importa mostrarme que la parte trasera de la garganta de nuevo con tu lengua...?"
+msgstr "[_ember_] Mira, sé solo son las 10 AM, pero ¿qué opinas si te arranco la garganta y la lengua otra vez...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9189 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_8fa0570e:
 msgid "[_ember_] That was pretty fucking hot last time we tried it.~"
-msgstr "[_ember_] Eso fue bastante fucking caliente la última vez que lo intentamos.~"
+msgstr "[_ember_] Fue bastante divertido la última vez que lo intenté.~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9194 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_45597674:
 msgid "[_desiree_] Of course my dear-"
-msgstr "[_desiree_] Por supuesto mi querido-"
+msgstr "[_desiree_] Por supuesto mi querida-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9223 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_8c8222c2:
 msgid "[_danny_] (Shoot, where is she? Where could she have gone?!)"
-msgstr "[_danny_] (Shoot, ¿dónde está? ¿Dónde pudo haber ido?!)"
+msgstr "[_danny_] (Joder, ¿dónde está? ¿Dónde puede haber ido?!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9226 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_ab469646:
 msgid "[_danny_] Penelope? Where'd you-"
-msgstr "[_danny_] Penélope? ¿Dónde usted?"
+msgstr "[_danny_] ¿Penélope? ¿Dónde podrías-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9239 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_35a297b6:
 msgid "[_jazz_] {i}Uhh{/i}, who?"
@@ -6577,7 +6577,7 @@ msgstr "[_jazz_] {i}Uhh {/i}, ¿quién?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9245 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_39bbe10f:
 msgid "[_danny_] Oh, Jazz! I {i}uh{/i}, I was looking for you!"
-msgstr "[_danny_] ¡Oh, Jazz! I {i}uh {/i}, yo estaba buscando para usted!"
+msgstr "[_danny_] ¡Oh, Jazz! I {i}uh {/i}, te estaba buscando!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9249 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_fb8c7318:
 msgid "[_jazz_] What? Then, why'd you call me \"Penelope?\""
@@ -6585,63 +6585,63 @@ msgstr "[_jazz_] ¿Qué? Entonces, ¿por qué me llamaste \"Penelope?\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9253 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_a4f0ba4e:
 msgid "[_danny_] I... didn't say that, did I...?"
-msgstr "[_danny_] I. .. no dijo eso, ¿yo ...?"
+msgstr "[_danny_] I... no dije eso, ¿yo...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9257 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_7d272dcf:
 msgid "[_jazz_] Yeah, you kinda did."
-msgstr "[_jazz_] Sí, tú has encendido lo hizo."
+msgstr "[_jazz_] Sí, tú lo has dicho."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9261 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_77ca178f:
 msgid "[_danny_] Oh well, that's pretty dumb of me! Penelope's just, {i}uhh{/i}, some made up character on a dumb computer game I've been playing! That's all!"
-msgstr "[_danny_] Oh bueno, eso es bastante tonto de mí! ¡Penelope, {i}uhh{/i}, algunos formaron personaje en un juego de ordenador tonto que he estado jugando! ¡Eso es todo!"
+msgstr "[_danny_] Oh bueno, eso es bastante de de mí! ¡Penelope es, {i}uhh{/i}, un personaje en un juego de ordenador que he estado jugando! ¡Eso es todo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9265 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_670f052f:
 msgid "[_jazz_] ...Penelope? I haven't seen any ads for a game with that character, have I?{p}{nw}"
-msgstr "[_jazz_] ...¿Penelope? No he visto anuncios de un juego con ese personaje, ¿tiene?{p}{nw}"
+msgstr "[_jazz_] ...¿Penelope? No he visto anuncios de un juego con ese personaje, ¿lo hay?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9269 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_d2dcb189:
 msgid "[_extend_] Why does that name seem so familiar...?"
-msgstr "[_extend_] ¿Por qué ese nombre parece tan familiar...?"
+msgstr "[_extend_] ¿Por qué ese nombre me parece tan familiar...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9273 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_845d5e34:
 msgid "[_danny_] {i}Uhhh{/i}, okay, gotta jet, forgot to meet up with Tucker at the arcade!"
-msgstr "[_danny_] {i}Uhhh{/i}, okay, gotta jet, olvidó reunirse con Tucker en la galería"
+msgstr "[_danny_] {i}Uhhh{/i}, okay, me voy, olvide reunirme con Tucker en el juego!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9284 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_96547d12:
 msgid "[_jazz_] Hey, wait a minute! Don't just-{p}{nw}"
-msgstr "[_jazz_] Hey, ¡espere un minuto! No se ajuste-{p}{nw}"
+msgstr "[_jazz_] Hey, ¡espera un minuto! No-{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9287 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_903154e7:
 msgid "[_extend_] ...awww, whatever. Silly boys on a play date."
-msgstr "[_extend_] ...awww, lo que sea. Niños absurdos en una fecha de juego."
+msgstr "[_extend_] ...awww, lo que sea. Chico absurdo en una cita de video juegos."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9290 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_b53a82be:
 msgid "[_jazz_] (Jeez, why can't I put a face to that name? Just seems like something I sorta remember, like...)"
-msgstr "[_jazz_] (Jeez, ¿por qué no puedo poner una cara a ese nombre? Sólo parece algo que recuerdo de sorta...)"
+msgstr "[_jazz_] (Jeez, ¿por qué no puedo poner una cara a ese nombre? Parece algo que recuerdo de lejos...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9293 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_e69c55af:
 msgid "[_jazz_] (...again, who cares? I'm hungry, did Dad leave any extra buttered noodles in the fridge from the other night?)"
-msgstr "[_jazz_] (...otra vez, ¿a quién le importa? Tengo hambre, ¿el papá dejó algún fideos extra en los alevines de la otra noche?)"
+msgstr "[_jazz_] (...otra vez, ¿a quién le importa? Tengo hambre, ¿papá dejó algunos fideos extra en la nevera la otra noche?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9305 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_7bea0716:
 msgid "[_danny_] (Crap, not out here either?){p}{nw}"
-msgstr "[_danny_] (Crap, ¿tampoco está aquí?){p}{nw}"
+msgstr "[_danny_] (Mierda, ¿tampoco está aquí?){p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9308 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_8d88172c:
 msgid "[_extend_] (Then she must be hiding somewhere in the house still!)"
-msgstr "[_extend_] (¡Entonces debe estar escondiéndose en algún lugar de la casa hasta ahora!)"
+msgstr "[_extend_] (¡Entonces debe estar escondiéndose en algún lugar de la casa!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9311 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_c624a035:
 msgid "[_danny_] (I guess I'll have to talk to her again when she cools down...)"
-msgstr "[_danny_] (Supongo que tendré que hablar con ella otra vez cuando se enfría...)"
+msgstr "[_danny_] (Supongo que tendré que hablar con ella otra vez cuando se calme...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9315 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_caa85fba:
 msgid "[_danny_] (...in the meantime, I could look for some type of gift for her in the meanwhile? Something to extend an olive branch with?)"
-msgstr "[_danny_] (...mientras tanto, ¿podría buscar algún tipo de regalo para ella? ¿Algo con lo que extender una rama de oliva?)"
+msgstr "[_danny_] (...mientras tanto, ¿podría buscar algún tipo de regalo para ella? ¿Algo con lo que acercar una mano amiga?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9318 #-#-# translate crowdin Episode_8_stage_335_livingroom_morning_search_a9d79019:
 msgid "[_danny_] (But what do you get an unhinged, undead school psychiatrist from the mall, exactly?)"
-msgstr "[_danny_] (Pero, ¿qué obtienes un psiquiatra de escuela desquiciado, sin muertos del centro comercial, exactamente?)"
+msgstr "[_danny_] (Pero, ¿qué obtienes de una psiquiatra de escuela desquiciada y muerta en un centro comercial?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9353 #-#-# translate crowdin Episode_8_stage_340_mystery_shop_afternoon_gift_shopping_4e1a5bdf:
 msgid "[_danny_] Hey Box Ghost."
@@ -6649,15 +6649,15 @@ msgstr "[_danny_] Hey Box Ghost."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9357 #-#-# translate crowdin Episode_8_stage_340_mystery_shop_afternoon_gift_shopping_c5cd5b34:
 msgid "[_box_ghost_] Salutations, dearest patron!"
-msgstr "[_box_ghost_] Saludos, más querido cliente!"
+msgstr "[_box_ghost_] Saludos, querido cliente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9361 #-#-# translate crowdin Episode_8_stage_340_mystery_shop_afternoon_gift_shopping_709d41ba:
 msgid "[_danny_] (Now there's got to be something around here she'll like.)"
-msgstr "[_danny_] (Ahora tiene que haber algo a su alrededor aquí le gusta.)"
+msgstr "[_danny_] (tiene que haber algo aquí que le guste.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9367 #-#-# translate crowdin Episode_8_stage_340_mystery_shop_afternoon_gift_shopping_adc6e319:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_frown_] (C'mon, has she ever mentioned anything she likes that I could use to get on her good side...)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_frown_] (C'mon, ¿alguna vez ha mencionado lo que le guste que podría usar para salir de su lado bueno...)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_frown_] (Vamos, ¿alguna vez ha mencionado lo que le guste y que podría usar para sacarle su lado bueno...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9385 #-#-# translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_15efcbe6:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_s_smile_] (Hey, what's this?){p}{nw}"
@@ -6669,23 +6669,23 @@ msgstr "[_extend_s_danny_s_danny_s_f_s_offscreen_s_closed_s_idle_s_smile_] {i}*S
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9389 #-#-# translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_831fc216:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_idle_s_smile_] (\"Gourmet Amity Coffee Beans: Plucked locally!\"){p}{nw}"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_idle_s_smile_] (\"Granos De Café De Amity Gourmet: ¡Enchufados localmente!\"){p}{nw}"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_idle_s_smile_] (\"Granos De Café De Amity Gourmet: ¡Cosechados localmente!\"){p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9391 #-#-# translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_3c6bd673:
 msgid "[_extend_s_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (...Amity has coffee plants growing around here...?)"
-msgstr "[_extend_s_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (...¿Amidad tiene cafés creciendo por aquí...?)"
+msgstr "[_extend_s_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (...¿Amity tiene café creciendo por aquí...?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9393 #-#-# translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_3e012c3d:
 msgid "[_danny_s_f_s_offscreen_s_towards_wide_s_unhappy_s_distraught_] (H-holy crap!! {i}HOW{/i} MUCH FOR A BOX OF THIS STUFF?!)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_unhappy_s_distraught_] (H-cangrejo santo!! {i}¿CÓMO {/I} MUCHO PARA UNA CAJA DE ESTAS COSAS?!)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_unhappy_s_distraught_] (Santo dios!! {i}¿CUANTO {/I} CUESTA UNA CAJA DE ESTAS COSAS?!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9395 #-#-# translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_df9f9b71:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_unhappy_s_consternation_] {i}*Sigh*{/i} (The only real thing I've been able to get out of here was that time she mentioned she liked the coffee...)"
-msgstr "[_danny_s_f_s_offscreen_s_closed_s_unhappy_s_consternation_] {i}*Alta*{/i} (Lo único real de lo que he podido salir de aquí es que el tiempo que ella mencionó le gustó el café...)"
+msgstr "[_danny_s_f_s_offscreen_s_closed_s_unhappy_s_consternation_] {i}*suspiro*{/i} (Lo único real que he podido sacar es que ella mencionó que le gustó el café...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9397 #-#-# translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_0d6b3871:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (This is probably be my best shot at trying to connect with her right now.)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (Este es probablemente mi mejor tiro al tratar de conectar con ella ahora mismo.)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (Este es probablemente lo mejor que tengo para intentar acercarme a ella.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9429 #-#-# translate crowdin Episode_8_stage_345_mystery_shop_afternoon_gift_bought_23974a50:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (I hope this was worth it.)"
@@ -6701,27 +6701,27 @@ msgstr "[_penelope_] Sí, sí, ¿qué podría ser ahora?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9468 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_88603d08:
 msgid "[_danny_] Nice to see you've calmed down... a little.{p}{nw}"
-msgstr "[_danny_] Bueno ver que te has calmado... un poco.{p}{nw}"
+msgstr "[_danny_] Bueno veo que te has calmado... un poco.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9472 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_2afcd671:
 msgid "[_extend_] Look, I had something I-"
-msgstr "[_extend_] Mira que tenía algo de I -"
+msgstr "[_extend_] Mira, tengo algo -"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9476 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_3dc884c9:
 msgid "[_penelope_] Let's get something straight here, you little twerp.{p}{nw}"
-msgstr "[_penelope_] Let's get something straight here, you little twerp.{p}{nw}"
+msgstr "[_penelope_] Ve directo al grano, liante.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9480 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_c91ed1b0:
 msgid "[_penelope_] You might have convinced those other saps of your good nature, but not me. No way."
-msgstr "[_penelope_] Puede que hayas convencido a esos otros huecos de tu buena naturaleza, pero no a mí. De ninguna manera."
+msgstr "[_penelope_] Puede que hayas convencido a esas dos cabezas huecas de tu buena naturaleza, pero no a mí. De ninguna manera."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9484 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_39d347a8:
 msgid "[_penelope_] I know that deep down, all you are is a twisted, perverse little cretin who gets off on all the adoration you get from your brain dead slaves!"
-msgstr "[_penelope_] sé que en el fondo, todo lo que eres es un torcido, perversa pequeña cretilla que se libera de toda la adoración que obtienes de los esclavos muertos del cerebro!"
+msgstr "[_penelope_] sé que en el fondo, todo lo que eres es un retorcido, perverso cretino que busca la adoración de sus esclavas muertos sin cerebro!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9488 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_4708ed4e:
 msgid "[_danny_] ...{i}uhm{/i}, well, this maybe an awkward time for this, but... I actually wanted to give you this."
-msgstr "[_danny_] ...{i}uhm{/i}, bueno, este quizá sea un momento incómodo para esto, pero... realmente quería darte esto."
+msgstr "[_danny_] ...{i}uhm{/i}, bueno, este quizá sea un momento incómodo para esto, pero... quería darte esto."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9492 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_9bf6b4b2:
 msgid "[_penelope_] What is it?"
@@ -6757,11 +6757,11 @@ msgstr "[_penelope_] No."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9538 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_fd9e55ee:
 msgid "[_danny_] Hey, what the hell?"
-msgstr "[_danny_] Eh, ¿qué infierno?"
+msgstr "[_danny_] Eh, ¿qué cojones?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9542 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_36b34d2a:
 msgid "[_penelope_] Did you really think some mild bribery was going to win me over? Really now?"
-msgstr "[_penelope_] ¿Realmente creías que algún soborno leve iba a ganarme la vida? ¿Realmente ahora?"
+msgstr "[_penelope_] ¿Realmente creías que con un soborno leve ibas a ganarte mi confianza? ¿En serio?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9546 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_ab404e08:
 msgid "[_danny_] I just wanted to give you something to help cheer you up!"
@@ -6769,7 +6769,7 @@ msgstr "[_danny_] ¡Solo quería darte algo para animarte!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9550 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_a3958f29:
 msgid "[_penelope_] I don't need \"cheering up\", what I need is to be left alone. Completely!"
-msgstr "[_penelope_] no necesito \"animar\", lo que necesito es quedarme solo. ¡Completamente!"
+msgstr "[_penelope_] no necesito \"animo\", lo que necesito es quedarme sola. ¡Completamente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9554 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_fc7b1b2f:
 msgid "[_danny_] You really want that? Do you actually think that'd make you happier?"
@@ -6777,55 +6777,55 @@ msgstr "[_danny_] ¿Realmente quieres eso? ¿Realmente crees que te haría más 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9558 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_fd0e724a:
 msgid "[_danny_] Then fine, go ahead, I'll leave you alone!{p}{nw}"
-msgstr "[_danny_] ¡Entonces bien, sigue adelante, te dejaré solo!{p}{nw}"
+msgstr "[_danny_] ¡Entonces bien, sigue adelante, te dejaré sola!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9562 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_55aa9ace:
 msgid "[_extend_] But just remember that I was at least {i}trying{/i} over here!"
-msgstr "[_extend_] ¡Pero recuerda que estaba por lo menos {i}intentando{/i} aquí!"
+msgstr "[_extend_] ¡Pero recuerda que estaba por lo menos {i}intentandolo{/i}!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9566 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_4ad17406:
 msgid "[_penelope_] Oh yes, you were trying your very best to get some new ghostly tail to hump, alright!"
-msgstr "[_penelope_] ¡Oh, sí, estabas haciendo todo lo posible para conseguir que la cola del fantasma se hundiera, bien!"
+msgstr "[_penelope_] ¡Oh, sí, estabas haciendo todo lo posible para conseguir una nueva cola de fantasma para adorarte!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9570 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_0ad7e33b:
 msgid "[_danny_] That's not-!"
-msgstr "[_danny_] ¡Eso no!"
+msgstr "[_danny_] ¡Eso no és-!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9574 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_382a6fd4:
 msgid "[_danny_] Oh man, you are maddeningly infuriating!!"
-msgstr "[_danny_] Oh hombre, ¡¡¡¡¡te enfureces furiosamente!!"
+msgstr "[_danny_] Oh tio ¡¡¡eres enloquecedora y exasperante!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9578 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_0e4d51c5:
 msgid "[_penelope_] Good, I'm glad! I'm glad I make you angry! I don't need {i}any{/i} of your help!"
-msgstr "[_penelope_] ¡Bien, estoy encantado! ¡Me alegro de que te enoje! ¡No necesito {i}nunca{/i} de tu ayuda!"
+msgstr "[_penelope_] ¡Bien, estoy encantada! ¡Me alegro de que te enojes! ¡No necesito {i}nada{/i} de tu ayuda!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9582 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_5431a405:
 msgid "[_penelope_] None of you could have possibly ever helped me!"
-msgstr "[_penelope_] ¡Ninguno de ustedes podría haberme ayudado nunca!"
+msgstr "[_penelope_] ¡Ninguno podría haberme ayudado nunca!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9586 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_66f1f1d6:
 msgid "[_danny_] Have you ever actually ever trusted anyone, in your whole life?"
-msgstr "[_danny_] ¿Alguna vez ha confiado alguna vez a alguien en toda su vida?"
+msgstr "[_danny_] ¿Alguna vez has confiado en alguien, en toda tu vida?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9590 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_34ce9f45:
 msgid "[_penelope_] Enough, this is ridiculous. I don't have to-"
-msgstr "[_penelope_] Enough, esto es ridículo. No necesito -"
+msgstr "[_penelope_] Basta, esto es ridículo. No necesito -"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9594 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_2127e6ff:
 msgid "[_danny_] Ever actually {i}tried{/i} to connect with someone else? Never had any empathy for another human being before?"
-msgstr "[_danny_] ¿En realidad {i}intentó {/i} conectarse con alguien más? ¿Nunca antes había ninguna empatía por otro ser humano?"
+msgstr "[_danny_] ¿Has {i}intentado {/i} alguna vez confiar en alguien? ¿Nunca tuviste empatía por otro ser humano?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9598 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_ecf660d0:
 msgid "[_danny_] ...were you really always just that shallow and empty...?"
-msgstr "[_danny_] ...¿Estabas realmente siempre tan superficial y vacío...?"
+msgstr "[_danny_] ...¿fuiste siempre tan superficial y vacía...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9602 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_c7a4d103:
 msgid "[_penelope_] Enough!!{p}{nw}"
-msgstr "[_penelope_] ¡¡¡Enough!!{p}{nw}"
+msgstr "[_penelope_] ¡¡¡basta!!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9606 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_0cb9e181:
 msgid "[_extend_] We're done here."
-msgstr "[_extend_] Estamos hechos aquí."
+msgstr "[_extend_] Estamos aquí."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9610 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_9dd19924:
 msgid "[_danny_] Fine. I don't care anymore."
@@ -6845,19 +6845,19 @@ msgstr "[_danny_] {i}Gahhh!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9630 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_103805c9:
 msgid "[_danny_] (I can't just let her exist in this house completely detached and miserable. Nobody should have to suffer that!)"
-msgstr "[_danny_] (no puedo dejar que exista en esta casa completamente desconectada y miserable. ¡Nadie debería sufrir eso!)"
+msgstr "[_danny_] (no puedo dejar que esté en casa completamente aislada y miserable. ¡Nadie debería sufrir eso!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9633 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_b95c0e0a:
 msgid "[_danny_] (There's {i}got{/i} to be a better way to get her open up...)"
-msgstr "[_danny_] (Hay {i}ha obtenido{/i} ser una mejor manera de abrirla...)"
+msgstr "[_danny_] (tiene que {i}haber{/i} una mejor manera de llegar hasta ella...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9636 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_d3bfe432:
 msgid "[_danny_] (...maybe I could find some clues about who she was before all this...?)"
-msgstr "[_danny_] (...quizás podría encontrar algunas pistas sobre quién era antes de todo esto...?)"
+msgstr "[_danny_] (...quizá podría encontrar algunas pistas sobre quién era antes de todo esto...?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9655 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_e257246e:
 msgid "[_danny_] (Okay, doesn't seem like anyone is around right now, good.)"
-msgstr "[_danny_] (Vale, no parece que nadie esté por aquí mismo, bien.)"
+msgstr "[_danny_] (Vale, no parece que nadie esté por aquí, bien.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9660 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_e2d92853:
 msgid "[_danny_] (This'll be easier if I don't have anybody peeking over my shoulder while I'm researching Penelope...)"
@@ -6869,7 +6869,7 @@ msgstr "[_danny_] (Tiene que haber algo aquí para ayudarme a averiguar sobre Pe
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9668 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_2b4d2dc0:
 msgid "[_danny_] (Probably start with the computer first, they might have documents on local history on file.)"
-msgstr "[_danny_] (Probablemente empiecen primero con la computadora, podrían tener documentos sobre el historial local en el archivo.)"
+msgstr "[_danny_] (Empezaré primero con la computadora, podría tener documentos sobre el historial local en el archivo.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9682 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_d5b5f64e:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] Alrighty..."
@@ -6877,11 +6877,11 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] De acuerdo..
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9686 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_57113b26:
 msgid "[_extend_] let's search for... \"Penelope\"... {p}\"Spectra\"..."
-msgstr "[_extend_] busquememos... \"Penelope\"... {p}\"Espectra\"..."
+msgstr "[_extend_] busquemos... \"Penelope\"... {p}\"Espectra\"..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9690 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_f4f05cc3:
 msgid "[_extend_] ...and see what we get."
-msgstr "[_extend_] ...y ve lo que obtenemos."
+msgstr "[_extend_] ...y veamos lo que sale."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9694 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_84c9d7c8:
 msgid "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] (...no results? Okay then.)"
@@ -6893,19 +6893,19 @@ msgstr "[_danny_s_f_s_offscreen_s_closed_s_rise_one_s_displeased_] {i}Hmmm{/i}..
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9698 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_acf667a7:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (Wait, she mentioned nursing people back to health during a war right? So...)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (Espera, mencionó que la gente estaba enfermada de vuelta a la salud durante una guerra verdadera? Así que...)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (Espera, mencionó que la curaba a enfermos durante una guerra verdadera? Así que...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9702 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_15f23a49:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"World\"... \"War II\"... \"Nurse\"...\"Penelope\"?)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mundo\"... \"Guerra I\"... \"Nurse\"...\"Penelope\"?)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mundo\"... \"Guerra I\"... \"enfermera\"...\"Penelope\"?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9706 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_e4c612d0:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_smile_] (Good, okay, there's a couple name results here...)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_smile_] (Bueno, bueno, hay un par de resultados de nombre aquí...)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_smile_] (Bueno, bueno, hay un par de resultados...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9708 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_48a4941b:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_grin_] (Wait! {i}That's her!{/i} I think I actually found her!)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_grin_] (Espera! {i}¡Esa es ella! {/i} ¡Creo que la encontré en realidad!)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_grin_] (Espera! {i}¡Esa es ella! {/i} ¡Creo que la encontré!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9712 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_57a01a7b:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_smile_] (Okay so her real name is... \"Penelope Garcia-Davis\"...){p}{nw}"
@@ -6913,11 +6913,11 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_smile_] (Vale, así que 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9714 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_61e6ad22:
 msgid "[_extend_s_danny_s_f_s_offscreen_s_towards_wide_s_rise_s_displeased_] (Wait... {i}\"child actress?\"{/i})"
-msgstr "[_extend_s_danny_s_f_s_offscreen_s_towards_wide_s_rise_s_displeased_] (Espere... {i}\"¿actriz hijo?\"{/i})"
+msgstr "[_extend_s_danny_s_f_s_offscreen_s_towards_wide_s_rise_s_displeased_] (Espera... {i}\"¿actriz de niña?\"{/i})"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9716 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_07575682:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_one_s_displeased_] (No way, this can't be the same... seriously?)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_one_s_displeased_] (De ninguna manera, esto no puede ser el mismo... ¿en serio?)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_one_s_displeased_] (De ninguna manera, no puede ser la mismo... ¿en serio?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9718 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_b92ecc64:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"Penelope Garcia Davis, born 1923 in a farmland area near the outskirts of Amity Park, was a child actress during the silent film era.\""
@@ -6925,23 +6925,23 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"Penélop
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9720 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_abb6ba75:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Penelope began her debut on the silver screen alongside her one-year older sister, Angela Garcia-Davis...\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Penélope comenzó su debut en la pantalla de plata junto a su hermana mayor de un año, Angela Garcia-Davis...\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Penélope comenzó su debut en la pantalla junto a su hermana mayor de un año, Angela Garcia-Davis...\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9722 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_b760ae6a:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"...as feature players in 1927's first horror kiddie movie, {i}Children of Spookums Place{/i}.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"...as feature players in 1927 first horror kiddie movie, {i}Children of Spookums Place{/i}.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"...participó en 1927 en la primera película de horror, {i}Hijos de Spookums Place{/i}.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9724 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_5aa921c8:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] ({i}Yeeeesh{/i}, and people say my generations movies have cheesy bad names...)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] ({i}Sí{/i}, y la gente dice que mis generaciones de películas tienen malos nombres quesos...)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] ({i}Síiiiii{/i}, y la gente dice que mi generación de películas tienen malos nombres...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9726 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_0390233f:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"While critics received both sisters fairly warmly as pioneering {i}scream queen{/i} starlets...\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mientras que los críticos recibieron a ambas hermanas bastante calurosamente como pioneras {i}gritar reina {/i} starlets ...\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mientras que los críticos recibieron a ambas hermanas bastante calurosamente como pioneras {i}gritando reinas {/i}...\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9728 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_7cdad462:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"El auge aparentemente nocturno de los 'talkies' terminó dividiendo la popularidad del dúo a favor como Angela continuó recibiendo papeles prominentes por sus habilidades cantantes. .\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"El auge aparentemente nocturno de los 'rumores' terminó dividiendo la popularidad del dúo a favor de Angela que continuó recibiendo papeles prominentes por sus habilidades cantantes..\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9730 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_702c2e79:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.\")"
@@ -6949,15 +6949,15 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"...La ga
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9732 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_eda0e8f3:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (So people didn't like her voice, and she couldn't get any work? Seems like a crappy deal... poor kid.)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (¿Entonces a la gente no le gustó su voz, y no pudo conseguir trabajo? Parece que un trato crujiente... chico pobre.)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (¿Entonces a la gente no le gustó su voz, y no pudo conseguir trabajo? Parece que un trato doloroso... pobre niña.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9734 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_0ad3f813:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Following an unsuccessful solo career, Penelope went on to study medicine and take up nursing in the Pacific Coast in 1943.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Después de un cuidador en solitario fallido, Penélope estudió medicina y tomó enfermería en la costa del Pacífico en 1943.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Después del fracaso, Penélope estudió medicina y trabajo como enfermera en la costa del Pacífico en 1943.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9736 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_7cb667d7:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"In 1948, Penelope continued to help her rehabilitation efforts as a Chief Nursing Officer at {i}North Mercy Hospital{/i}, in her neighboring hometown of Amity Park.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"En 1948, Penélope continuó ayudando a sus esfuerzos de rehabilitación como Jefe de Enfermedades en {i}North Mercy hospitital{/i}, en su vecina ciudad natal del parque Amity.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"En 1948, Penélope continuó ayudando a sus esfuerzos de rehabilitación como Jefe de Enfermedades en {i}North Mercy hospitital{/i}, en su vecina ciudad natal del Amity park.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9738 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_e2f0150b:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"Work specialized in memory care, mental defects and cognitive trauma became her main field of work during the time of her station as CNO.\")"
@@ -6969,15 +6969,15 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"Sadly, P
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9742 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_b1c55bb2:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_displeased_] (\"Her family held a ceremony for her, with Angela Garcia-Davis speaking on behalf of her baby sister.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_displeased_] (\"Su familia celebró una ceremonia para ella, con Angela Garcia-Davis hablando en nombre de su hija hermana.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_displeased_] (\"Su familia celebró una ceremonia para ella, con Angela Garcia-Davis hablando en nombre de su hermana.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9744 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_6ed25250:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] \"...she was 40 at the time of her disappearance... presumed dead.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] \"... ella tenía 40 años en el momento de su desaparición ... presuntos muertos.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] \"... ella tenía 40 años en el momento de su desaparición... presuntamente muerta.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9746 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_3e61567e:
 msgid "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] ({u}Vanished?{/u} Who the heck vanishes, unless... I mean... could she have been {i}murdered?{/i})"
-msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] ({u}Vanished?{/u} ¿Quién desaparece el heck, a menos que... quiero decir... ¿podría haber sido asesinada {i}?{/i})"
+msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] ({u}¿desapareció?{/u} ¿Quién cojones desaparece, a menos que... quiero decir... ¿podría haber sido {i}asesinada?{/i})"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9748 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_943348d5:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (North Mercy Hospital's been abandoned for decades now, too... might be worth looking into at some point.)"
