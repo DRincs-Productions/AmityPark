@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-08 16:03\n"
+"PO-Revision-Date: 2024-01-09 21:05\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -6937,11 +6937,11 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] ({i}Síiiiii
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9726 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_0390233f:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"While critics received both sisters fairly warmly as pioneering {i}scream queen{/i} starlets...\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mientras que los críticos recibieron a ambas hermanas bastante calurosamente como pioneras {i}gritando reinas {/i}...\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mientras que los críticos recibieron a ambas hermanas bastante calurosamente como pioneras y {i}gritando reinas {/i}...\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9728 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_7cdad462:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"El auge aparentemente nocturno de los 'rumores' terminó dividiendo la popularidad del dúo a favor de Angela que continuó recibiendo papeles prominentes por sus habilidades cantantes..\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"El auge aparentemente nocturno de los 'rumores' terminó dividiendo la popularidad del dúo a favor de Angela que continuó recibiendo papeles prominentes por sus habilidad de cantante..\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9730 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_702c2e79:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.\")"
