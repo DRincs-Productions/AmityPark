@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-09 21:05\n"
+"PO-Revision-Date: 2024-01-09 22:12\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -5605,7 +5605,7 @@ msgstr "[_penelope_] Qué pasa si yi dijera a chicas... que estáis mirando a Bi
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7804 #-#-# translate crowdin Episode_8_stage_280_mall_day_the_new_one_53abd144:
 msgid "[_extend_] Right.{p}{nw}"
-msgstr "[_extend_] Derecha:{p}{nw}"
+msgstr "[_extend_] Sí.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7810 #-#-# translate crowdin Episode_8_stage_280_mall_day_the_new_one_43934aef:
 msgid "[_extend_] Now...?"
@@ -6941,11 +6941,11 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Mientras 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9728 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_7cdad462:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"El auge aparentemente nocturno de los 'rumores' terminó dividiendo la popularidad del dúo a favor de Angela que continuó recibiendo papeles prominentes por sus habilidad de cantante..\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"El auge aparentemente nocturno de los 'rumores' terminó dividiendo la popularidad del dúo a favor de Angela que continuó recibiendo papeles prominentes por su habilidad de cantante..\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9730 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_702c2e79:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"...La gama vocal de Penelope, que parece más agobiante, apagó a la mayoría de las audiencias, aturdiendo sus oportunidades de ganar ofertas de imagen.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"...El rango de vocales Penelope, que parece más agobiante, apagó a la mayoría de las audiencias, hundiendo sus oportunidades de ganar ofertas de imagen.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9732 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_eda0e8f3:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] (So people didn't like her voice, and she couldn't get any work? Seems like a crappy deal... poor kid.)"
@@ -6957,7 +6957,7 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_one_s_displeased_] (\"Después 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9736 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_7cb667d7:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"In 1948, Penelope continued to help her rehabilitation efforts as a Chief Nursing Officer at {i}North Mercy Hospital{/i}, in her neighboring hometown of Amity Park.\")"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"En 1948, Penélope continuó ayudando a sus esfuerzos de rehabilitación como Jefe de Enfermedades en {i}North Mercy hospitital{/i}, en su vecina ciudad natal del Amity park.\")"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"En 1948, Penélope continuó ayudando a sus esfuerzos de rehabilitación como Jefe de Enfermedades en el {i} Hospital North Mercy l{/i}, en su vecina ciudad natal del Amity park.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9738 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_e2f0150b:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (\"Work specialized in memory care, mental defects and cognitive trauma became her main field of work during the time of her station as CNO.\")"
@@ -6981,23 +6981,23 @@ msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] ({u}¿d
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9748 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_943348d5:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (North Mercy Hospital's been abandoned for decades now, too... might be worth looking into at some point.)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (la misericordia del Norte del Hospital también ha sido abandonada durante décadas... podría valer la pena estudiar en algún momento.)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_displeased_] (El hospital Morht Mercy también ha sido abandonada durante décadas... pudo valer la pena estudiar en algún momento.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9750 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_e7f5a5be:
 msgid "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] (Looks like there's a clip here of one of the movies she was in when she was younger... I should send this to my {i}PDA{/i}).)"
-msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] (Parece que hay un clip aquí de una de las películas en las que estaba cuando era más joven ... Debo enviar esto a mi {i}PDA {/i}).)"
+msgstr "[_danny_s_f_s_offscreen_s_towards_wide_s_rise_one_s_displeased_] (Parece que hay un clip aquí de una de las películas en las que actuaba cuando era más joven... Debo enviar esto a mi {i}PDA {/i}).)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9753 #-#-# translate crowdin Episode_8_stage_360_bedroom_morning_search_81417d0c:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_displeased_] (Now, let's see if {i}this{/i} gets Penelope talking at all...)"
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_displeased_] (Navo, veamos si {i}este{/i} obtiene a Penélope hablando en absoluto...)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_displeased_] ( Voy a ver si {i}esto{/i} muestra a Penélope hablando...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9777 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_33fbb9d7:
 msgid "[_danny_] Once more, Penelope, if you'll indulge me."
-msgstr "[_danny_] Una vez más, Penélope, si me consentirás."
+msgstr "[_danny_] Una vez más, Penélope, si me perdonases."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9788 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_ba1c2a3d:
 msgid "[_penelope_] {i}Gahh{/i}, what could it possibly be now?! We've gotten over the gift giving phase, haven't we?!"
-msgstr "[_penelope_] {i}Gahh{/i}, ¿qué podría ser ahora?! ¡Nos hemos adelantado al regalo dando una fase, ¿no?!"
+msgstr "[_penelope_] {i}Gahh{/i}, ¿qué podría ser ahora?! ¡Ya hemos pasado por la fase del regalo ¡¿verdad?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9792 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_6578e16a:
 msgid "[_danny_] Well, I don't know if I'd call it a gift, exactly, but I do have something to show you."
@@ -7005,7 +7005,7 @@ msgstr "[_danny_] Bueno, no sé si lo llamaría un regalo, exactamente, pero ten
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9796 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_dbd32950:
 msgid "[_penelope_] {i}*Sigh*{/i} Right. Sure. Something for me. Great.{p}{nw}"
-msgstr "[_penelope_] {i}*Sigh * {/i} Derecha. Claro. Algo para mí. Grande.{p}{nw}"
+msgstr "[_penelope_] {i}*Suspiro* {/i} Vale. Claro. Algo para mí. Genial.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9800 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_323544ad:
 msgid "[_extend_] What is it?"
@@ -7013,15 +7013,15 @@ msgstr "[_extend_] ¿Qué es?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9804 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_29420445:
 msgid "[_danny_] Just watch..."
-msgstr "[_danny_] Solo mirar..."
+msgstr "[_danny_] Solo mira..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9811 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_dd7fb15d:
 msgid "Lil Penelope [special_delimiter] [[Oh papa! Don't be silly! What do you mean we can't go back to the Farm yet?]]"
-msgstr "Lil Penelope [special_delimiter] [[Oh papa! No te preocupes! ¿Qué significa que no podemos volver a la Granja?]]"
+msgstr "Lil Penelope [special_delimiter] [[Oh papa! ¡No seas bobo! ¿Qué significa que no podemos volver a la Granja?]]"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9815 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_678180a2:
 msgid "Lil Penelope [special_delimiter] [[Is... is Momma still not well?]]"
-msgstr "Lil Penelope [special_delimiter] [[Is... ¿Momma todavía no está bien?]]"
+msgstr "Lil Penelope [special_delimiter] [[¿está... está mama bien?]]"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9834 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_214b51c8:
 msgid "[_penelope_] Where... where did you possibly get... {i}this...?{/i}"
@@ -7029,7 +7029,7 @@ msgstr "[_penelope_] ¿Dónde... dónde has obtenido... {i}esto...?{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9838 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_fbbe0ee6:
 msgid "[_danny_] I did some digging... your real name is Penelope Garcia D-"
-msgstr "[_danny_] hice un poco cavando... tu nombre real es Penelope García D-"
+msgstr "[_danny_] He escarvado un poco... tu nombre real es Penelope García D-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9842 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_05d8ea26:
 msgid "[_penelope_] {u}Don't.{/u}{p}{nw}"
@@ -7037,35 +7037,35 @@ msgstr "[_penelope_] {u}no.{/u}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9846 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_6cd0c753:
 msgid "[_extend_] Enough of this. This has gone far beyond-"
-msgstr "[_extend_] Basta con esto. Esto ha ido mucho antes-"
+msgstr "[_extend_] Basta. Esto ha ido demasiado lejos-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9850 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_1565c407:
 msgid "[_danny_] You were a nurse on the Pacific in 1943 before joining some weird mental institute to help-"
-msgstr "[_danny_] Usted fue una enfermera en el Pacífico en 1943 antes de unirse a un extraño instituto mental para ayudar-"
+msgstr "[_danny_] Fuiste enfermera en el Pacífico en 1943 antes de unirte a un extraño instituto mental para ayudar-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9854 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_111a1c43:
 msgid "[_penelope_] I SAID ENOUGH!!"
-msgstr "[_penelope_] ¡¡¡¡SAYA ENUGH!!"
+msgstr "[_penelope_] ¡¡HE DICHO BASTA!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9858 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_1517152c:
 msgid "[_penelope_] You have {i}no{/i} right to go digging into my past!"
-msgstr "[_penelope_] Tienes {i}no {/i} derecho a ir a cavar en mi pasado!"
+msgstr "[_penelope_] {i}no {/i} tienes derecho a cavar en mi pasado!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9862 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_136215fb:
 msgid "[_danny_] ...what happened the night you went missing Penelope?"
-msgstr "[_danny_] ...¿qué pasó la noche que te fuiste perdiendo Penelope?"
+msgstr "[_danny_] ...¿qué pasó la noche que te desapareciste Penelope?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9866 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_95f36712:
 msgid "[_penelope_] ...s-stop."
-msgstr "[_penelope_] ...s-stop."
+msgstr "[_penelope_] ...p-para."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9870 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_d77682bf:
 msgid "[_danny_] Your family never found you Penelope, what happened to yo-"
-msgstr "[_danny_] Tu familia nunca te encontró Penélope, lo que le pasó a yo-"
+msgstr "[_danny_] Tu familia nunca te encontró Penélope, lo que te pasó-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9874 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_ead9eeec:
 msgid "[_penelope_] {i}LEAVE ME ALONE!!!{/i}"
-msgstr "[_penelope_] {i}ME LIBRE TODOS!!!{/i}"
+msgstr "[_penelope_] {i}¡¡DEJAME SOLA!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9884 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_a6029ed4:
 msgid "[_danny_] Penelope!! No, don't go, I-"
@@ -7073,15 +7073,15 @@ msgstr "[_danny_] ¡¡¡Penelope!! No, no vayas, y-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9887 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_6fbbefbc:
 msgid "[_danny_] ...damn, maybe this wasn't such a good idea after all..."
-msgstr "[_danny_] ...maldito, tal vez no fuera tan buena idea después de todo..."
+msgstr "[_danny_] ...maldición, tal vez no fuera tan buena idea..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9890 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_a5a92081:
 msgid "[_danny_] Where could she have gone?"
-msgstr "[_danny_] ¿A dónde podría haberse ido?"
+msgstr "[_danny_] ¿A dónde puede haber ido?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9912 #-#-# translate crowdin Episode_8_stage_370_hallway_crying_7d1bfe34:
 msgid "[_danny_] (What's that sound?)"
-msgstr "[_danny_] (¿Cuál es ese sonido?)"
+msgstr "[_danny_] (¿Qué és ese sonido?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9915 #-#-# translate crowdin Episode_8_stage_370_hallway_crying_6a615875:
 msgid "[_danny_] (It sounds like...){p}{nw}"
@@ -7089,11 +7089,11 @@ msgstr "[_danny_] (Suena como...){p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9918 #-#-# translate crowdin Episode_8_stage_370_hallway_crying_85207510:
 msgid "[_extend_] (Someone's crying?)"
-msgstr "[_extend_] (¿Llama un jugador?)"
+msgstr "[_extend_] (¿Alguien llorando?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9937 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_6fbbc8ce:
 msgid "[_penelope_] ...{i}*Sigh*{/i}"
-msgstr "[_penelope_] ...{i}*Alta*{/i}"
+msgstr "[_penelope_] ...{i}*Suspiro*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9947 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_de217a76:
 msgid "[_danny_] ...Penelope?"
@@ -7105,11 +7105,11 @@ msgstr "[_penelope_] Oh.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9958 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_53abd144:
 msgid "[_extend_] Right.{p}{nw}"
-msgstr "[_extend_] Derecha:{p}{nw}"
+msgstr "[_extend_] Sí.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9966 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_2c3ec620:
 msgid "[_extend_] {u}You.{/u}"
-msgstr "[_extend_] {u}Usted. {/u}"
+msgstr "[_extend_] {u}Tu. {/u}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9970 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ed887c93:
 msgid "[_danny_] What are you doing up here?"
@@ -7117,19 +7117,19 @@ msgstr "[_danny_] ¿Qué estás haciendo aquí?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9974 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_41eb9fe1:
 msgid "[_penelope_] What does it look like I'm doing?"
-msgstr "[_penelope_] ¿Qué parece que estoy haciendo?"
+msgstr "[_penelope_] ¿Qué te parece que estoy haciendo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9978 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ec7bd407:
 msgid "[_danny_] ...I'm... I'm sorry about snooping into your past like I did."
-msgstr "[_danny_] ...yo... Sentimos que te espies en tu pasado como lo hice."
+msgstr "[_danny_] ...yo... Siento haber espiado tu pasado de esa forma."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9982 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_2f8c0f01:
 msgid "[_danny_] I just wanted to understand you better so I could help..."
-msgstr "[_danny_] Solo quería entenderte mejor para que pudiera ayudar..."
+msgstr "[_danny_] Solo quería entenderte mejor para poderte ayudar..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9986 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d9a207a1:
 msgid "[_danny_] But... it may have just been me hoping when I shouldn't have..."
-msgstr "[_danny_] Pero... puede que me haya esperado cuando no debería tener..."
+msgstr "[_danny_] Pero... debería haber esperado cuando no lo hice..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9990 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_459ee095:
 msgid "[_penelope_] . . ."
@@ -7137,71 +7137,71 @@ msgstr "[_penelope_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9994 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_6e225912:
 msgid "[_penelope_] ...my sister was a spiteful thing."
-msgstr "[_penelope_] ...mi hermana era una cosa espumosa."
+msgstr "[_penelope_] ...mi hermana era espumosa."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9998 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_f5e29596:
 msgid "[_penelope_] The \"Davis Twins\" we were called, {i}ha!{/i} We were a whole year apart, but it had a good ring to it, I guess..."
-msgstr "[_penelope_] Los \"Davis Gemelos\" que nos llamaron, ¡ {i}ha!{/i} Estábamos un año de distancia, pero tenía un buen sonido, supongo..."
+msgstr "[_penelope_] Nos llamaban las \"Gemelas Davis\", ¡ {i}ha!{/i} Estuvimos un año separadas, pero tenía una buena razón para hacerlo, supongo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10002 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_8ab914c6:
 msgid "[_penelope_] They loved when we would both slap our little cheeks together and scream out... of course you couldn't hear us, but our faces sold the idea..."
-msgstr "[_penelope_] A ellos les encantaba cuando nos juntábamos las mejillas y gritábamos ... claro que no nos podían oír, pero nuestras caras vendían la idea ..."
+msgstr "[_penelope_] Les encantaba cuando juntábamos las mejillas y gritábamos... claro que no nos podían oír, pero nuestras caras vendían la idea..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10006 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_1716c29c:
 msgid "[_penelope_] Then of course, they had to go and put the damn things with actual sound, and... well, they just didn't like us the same after that."
-msgstr "[_penelope_] Luego, por supuesto, tuvieron que ir y poner las malditas cosas con sonido real, y. Bueno, no nos gustó lo mismo después de eso."
+msgstr "[_penelope_] Luego, por supuesto, tuvieron que ir y poner las malditas cosas con sonido real, y... bueno, no gustó lo mismo después de eso."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10010 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_5d7f0fa5:
 msgid "[_penelope_] Oh everyone just gobbled {i}her{/i} up after we started our solo acts. Of course, she at least had the acting and the singing to back up her stardom, to be fair..."
-msgstr "[_penelope_] Oh todo el mundo acaba de desangrar {i}aquí{/i} después de que iniciáramos nuestros actos en solitario. Por supuesto, ella al menos tuvo la actuación y el canto para respaldar su stardom, para ser justa..."
+msgstr "[_penelope_] Oh todo el mundo se fijó en {i}ella{/i} cuando iniciáramos nuestros actos en solitario. Por supuesto, ella al menos tuvo la actuación y el canto para respaldar su éxito, siendo justa..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10014 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9e75ed5c:
 msgid "[_penelope_] Daddy didn't exactly care about anything that was going on, he never really had time for either of us."
-msgstr "[_penelope_] a Daddy no le importaba exactamente nada que estuviera sucediendo, nunca tuvo tiempo para ninguno de nosotros."
+msgstr "[_penelope_] a papa no le importaba nada de lo que estuviera sucediendo, nunca tuvo tiempo para ninguna de nosotras."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10018 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_719bcd91:
 msgid "[_penelope_] As long as his little \"Movie Stars\" kept raking in the cash for him... he was fine to keep me from trying to live a normal life."
-msgstr "[_penelope_] Mientras sus pequeñas \"Estrellas de cine\" seguían rastrando el dinero para él. Estaba bien en impedirme que tratara de vivir una vida normal."
+msgstr "[_penelope_] Mientras sus pequeñas \"Estrellas de cine\" seguían ganando dinero para él... estaba bien impedirme que tratara de vivir una vida normal."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10022 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_23d6d36c:
 msgid "[_penelope_] Until of course, I stopped putting bodies in seats week to week... that's when I had to start figuring out things for myself."
-msgstr "[_penelope_] Hasta que por supuesto, dejé de poner cuerpos en los asientos semana a semana... es cuando tuve que empezar a averiguar cosas para mí mismo."
+msgstr "[_penelope_] Hasta que por supuesto, dejé de sentarme en los asientos semana a semana... es cuando tuve que empezar a averiguar cosas para mí misma."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10026 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_54d1b4e7:
 msgid "[_penelope_] So, cast aside, I started to study and take up medicine, and before I knew it there was a big ol' war kicking off and I was being shipped away to help on some boys fighting in the islands."
-msgstr "[_penelope_] Así que, dejando de lado, empecé a estudiar y tomar medicina, y antes de que yo supiera que había una guerra de grandes y me enviaban para ayudar a algunos muchachos que luchaban en las islas."
+msgstr "[_penelope_] Así que, dejando de lado aquello, empecé a estudiar medicina, y antes de que yo supiera que había una guerra fui enviada a ayudar a algunos muchachos que luchaban en las islas."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10030 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_dc6aea47:
 msgid "[_danny_] Nursing those soldiers back must have been a really jarring experience, it's really amazing the courage that took."
-msgstr "[_danny_] Entender a esos soldados debe haber sido una experiencia realmente desgarradora, es realmente asombroso el valor que ha tomado."
+msgstr "[_danny_] Entender a esos soldados fue una experiencia desgarradora, era realmente asombroso el valor que tenían."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10034 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_8828c8bb:
 msgid "[_penelope_] O-oh... yes, well... it was hard."
-msgstr "[_penelope_] O-oh... sí, bien... fue difícil."
+msgstr "[_penelope_] O-oh... sí, bien... fue duro."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10038 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_47aa8d32:
 msgid "[_penelope_] ...all the while I was there, I'd often hear them talk about my beautiful, big movie star sister and how they all wished they could meet her when they got back."
-msgstr "[_penelope_] ... ll mientras yo estaba allí, a menudo los oiría hablar de mis hermosas, gran hermana estrella de cine y cómo todos deseaban que la conocieran cuando regresaban."
+msgstr "[_penelope_] ...mientras yo estaba allí, a menudo les oía hablar de mis hermosas, gran hermana estrella de cine y cómo todos deseaban poder conocerla cuando regresaran."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10042 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_84e91426:
 msgid "[_penelope_] ...nobody even had a clue who I was."
-msgstr "[_penelope_] ...nadie ni siquiera tenía una pista de quién era."
+msgstr "[_penelope_] ...nadie tenía ni siquiera una pequeña pista de quién era yo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10046 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_1534e86b:
 msgid "[_danny_] Didn't you keep in touch with anyone after you left?"
-msgstr "[_danny_] ¿No siguiste en contacto con alguien después de que te fuiste?"
+msgstr "[_danny_] ¿No seguiste en contacto con nadie después de irte?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10050 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9b9ac547:
 msgid "[_penelope_] No... things ended... {i}poorly{/i} to say the least between us all."
-msgstr "[_penelope_] No... las cosas terminaron... {i}pobres{/i} para decir lo menos entre todos nosotros."
+msgstr "[_penelope_] No... las cosas terminaron... {i}pobremente{/i} por decir algo de aquello."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10054 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_c9592d12:
 msgid "[_penelope_] ...it's not easy being second place."
-msgstr "[_penelope_] ...no es fácil ser el segundo lugar."
+msgstr "[_penelope_] ...no es fácil estar el segundo lugar."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10058 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_667473a9:
 msgid "[_penelope_] You find yourself always chasing the spotlight... {i}any{/i} spotlight."
-msgstr "[_penelope_] Te encuentras siempre persiguiendo el foco ... {i}cualquier foco de {/i}."
+msgstr "[_penelope_] Te encuentras siempre persiguiendo la cima... {i}cualquier{/i} cima."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10062 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd:
 msgid "[_danny_] . . ."
@@ -7209,19 +7209,19 @@ msgstr "[_danny_]..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10066 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9feb21e3:
 msgid "[_penelope_] I imagine you sort've know what that's like, right? Playing second fiddle to your alter ego most of the time?"
-msgstr "[_penelope_] Me imagino que ustedes saben lo que es así, ¿verdad? ¿Jugar el segundo violín a su alter ego la mayor parte del tiempo?"
+msgstr "[_penelope_] Imagino que sabes lo que és, ¿verdad? ¿Jugar en segundo puesto a tu alter ego la mayor parte del tiempo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10070 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9d98b4ea:
 msgid "[_penelope_] You shouldn't be wasting your time with girls that can't appreciate the real you. Just my advice."
-msgstr "[_penelope_] No deberías estar malgastando tu tiempo con chicas que no pueden apreciar el verdadero tú. Sólo mi consejo."
+msgstr "[_penelope_] No deberías estar malgastando tu tiempo con chicas que no pueden apreciar tu verdadero yo. Sólo és mi consejo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10074 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_6f9ae945:
 msgid "[_danny_] ...t-thanks."
-msgstr "[_danny_] ...t-gracias."
+msgstr "[_danny_] ...g-gracias."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10086 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d2056d09:
 msgid "[_penelope_] Don't mention it."
-msgstr "[_penelope_] No lo menciones."
+msgstr "[_penelope_] No lo digas."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10090 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_4ce10bee:
 msgid "[_danny_] ...did you see things during the war?"
@@ -7229,19 +7229,19 @@ msgstr "[_danny_] ...¿Has visto cosas durante la guerra?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10094 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_1e04b3c6:
 msgid "[_penelope_] We {i}all{/i} saw things, Danny... if you're really that interested in the biggest world war in history, go look it up."
-msgstr "[_penelope_] Nosotros {i}todos{/i} vimos cosas, Danny... si realmente estás tan interesado en la guerra mundial más grande de la historia, ve hacia arriba."
+msgstr "[_penelope_] {i}todos{/i} nosotros vimos cosas, Danny... si estás tan interesado en la guerra mundial más grande de la historia, infórmate sobre ella."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10098 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_426c1c87:
 msgid "[_penelope_] I'd really rather not talk about my time during that awful thing..."
-msgstr "[_penelope_] realmente preferiría no hablar de mi tiempo durante esa terrible cosa..."
+msgstr "[_penelope_] prefiero no hablar sobre mi estancia en esa terrible cosa..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10102 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_c2b21e40:
 msgid "[_danny_] Right... so, what happened after?"
-msgstr "[_danny_] Derecha... entonces, ¿qué pasó después?"
+msgstr "[_danny_] Vale... entonces, ¿qué pasó después?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10106 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_43753b22:
 msgid "[_penelope_] {i}*Sigh*{/i} It's like you said, I went home and continued working as a nurse in at a medical center for unwell patients."
-msgstr "[_penelope_] {i}*Sigh * {/i} Es como usted dijo, fui a casa y continuó trabajando como enfermera en un centro médico para pacientes enfermos."
+msgstr "[_penelope_] {i}*Suspiro* {/i} Es como tú dijiste, fui a casa y continué trabajando como enfermera en un centro médico para pacientes enfermos."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10110 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_301a4f53:
 msgid "[_danny_] That's good!"
@@ -7257,7 +7257,7 @@ msgstr "[_danny_]..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10122 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_aeb63291:
 msgid "[_penelope_] The truth is... {i}I never really cared about helping people after the war.{/i}"
-msgstr "[_penelope_] La verdad es ... {i}Nunca me importaba realmente ayudar a la gente después de la guerra. {/i}"
+msgstr "[_penelope_] La verdad es... {i}Nunca me importó ayudar a la gente después de la guerra. {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10126 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_7b863f01:
 msgid "[_danny_] ...but-"
@@ -7273,7 +7273,7 @@ msgstr "[_danny_] ...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10138 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_cab5af6c:
 msgid "[_penelope_] I'd have done anything for money and fame back then... anything to finally have a chance to say to my sister, \"Look at me now! {i}I'm{/i} finally the big shot!\""
-msgstr "[_penelope_] Yo habría hecho algo por el dinero y le habría dado fama entonces... algo que finalmente tenga la oportunidad de decir a mi hermana, \"¡Mírame ahora! {i}¡Yo{/i} finalmente el gran disco!\""
+msgstr "[_penelope_] Yo habría hecho cualquier cosa por dinero y fama entonces... cualquier cosa para finalmente tener la oportunidad de decir a mi hermana, \"¡Mírame ahora! {i}¡Yo{/i} finalmente soy la súper estrella!\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10142 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_3bf59f07:
 msgid "[_penelope_] {i}Ha!{/i} What a joke..."
@@ -7285,15 +7285,15 @@ msgstr "[_danny_] ...¿qué hiciste cuando llegaste allí?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10150 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9a6eec78:
 msgid "[_penelope_] Well, I started out as a simple nurse, moving my way up the staffing ladder, throwing anyone who got in my way under the bus."
-msgstr "[_penelope_] Bueno, comencé como una enfermera simple, The staff were very friendly and helpful. The room was clean and comfortable."
+msgstr "[_penelope_] Bueno, comencé como una enfermera simple, ascendiendo poco a poco, lanzando bajo el autobús a cualquier persona que se pusiera en mi camino."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10154 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_468dede4:
 msgid "[_penelope_] Eventually I became Chief Nurse Officer... and pretty quickly the press took a liking to the \"ex-actress turned head nurse\" deal I had going on."
-msgstr "[_penelope_] Eventualmente me convertí en Jefe de enfermería... y muy rápidamente la prensa tomó un gusto a la \"ex actriz se volvió enfermera\" trato que había pasado."
+msgstr "[_penelope_] Eventualmente me convertí en Jefa de enfermería... y muy rápidamente la prensa tomó un gusto a la \"ex actriz se volvió encargada de enfermería\"."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10158 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_8392ba8e:
 msgid "[_penelope_] I ate it up. Soaked up every minute of exposure I could possibly get for myself.{p}{nw}"
-msgstr "[_penelope_] me lo comí. Me empapé cada minuto de exposición que posiblemente podría obtener por mí mismo.{p}{nw}"
+msgstr "[_penelope_] Me lo comí todo. Me empapé de cada minuto de exposición que pude obtener por mí misma.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10162 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_f0b25ade:
 msgid "[_extend_] I had arrived."
@@ -7301,35 +7301,35 @@ msgstr "[_extend_] Yo había llegado."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10166 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ebd2c82a:
 msgid "[_danny_] Did you hear back from your sister?"
-msgstr "[_danny_] ¿Has oído hablar de tu hermana?"
+msgstr "[_danny_] ¿Oíste hablar de tu hermana?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10170 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_80f7e718:
 msgid "[_penelope_] ...no. Never."
-msgstr "[_penelope_] ...no."
+msgstr "[_penelope_] ...no. Nunca."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10174 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_589a3602:
 msgid "[_penelope_] But my father reached out, once my sister had cast him out of her Hollywood lifestyle... then he came crawling back to me."
-msgstr "[_penelope_] Pero mi padre se acercó, una vez que mi hermana lo había echado de su estilo de vida de Hollywood... entonces vino triturándome de vuelta."
+msgstr "[_penelope_] Pero mi padre, una vez que mi hermana lo hubo echado de su estilo de vida de Hollywood... entonces vino a buscarme."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10178 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_3903ba9d:
 msgid "[_penelope_] He was frail and weak... looked terrible, starving and scared, I could tell."
-msgstr "[_penelope_] Él estaba aterrado y débil... parecía terrible, hambriento y asustado, podía decirlo."
+msgstr "[_penelope_] Él estaba aterrado y débil... parecía terrible, hambriento y asustado, podía decir."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10182 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_03804e3b:
 msgid "[_penelope_] Must have been hitchhiking for at least a few days before he reached me."
-msgstr "[_penelope_] Debe haber estado haciendo un asombroso por al menos unos días antes de que me llegara."
+msgstr "[_penelope_] Debió haber estado haciendo auto stop por varios días hasta llegar a mí."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10186 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_57b19ff5:
 msgid "[_penelope_] Then when he did... when he could finally reach the steps of that hospital wing, and he saw the woman his littlest girl had become..."
-msgstr "[_penelope_] Luego, cuando lo hizo... cuando finalmente pudo llegar a los pasos de ese ala hospitalaria, y vio a la mujer que su niña más pequeña se había convertido..."
+msgstr "[_penelope_] Luego, cuando lo hizo... cuando finalmente pudo llegar a los escalones del hospital, y vio a la mujer en que su niña más pequeña se había convertido..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10190 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_e81cd222:
 msgid "[_penelope_] I slammed the door right in his old withered face... and it was the greatest feeling of my entire life!"
-msgstr "[_penelope_] He golpeado la puerta en su antigua cara desenrollada... ¡y fue el mayor sentimiento de toda mi vida!"
+msgstr "[_penelope_] Le cerré la puerta en las narices.... ¡y fue el mayor sentimiento de placer de toda mi vida!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10194 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_703d97f6:
 msgid "[_danny_] Well... I guess revenge doesn't always leave an empty and hollow feeling in people after they've gotten it, right?"
-msgstr "[_danny_] bien... Supongo que la venganza no siempre deja una sensación vacía y hueca en la gente después de haberla, ¿verdad?"
+msgstr "[_danny_] bien... Supongo que la venganza no siempre deja una sensación vacía y hueca en la gente, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10198 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_5d75db55:
 msgid "[_penelope_] ...he died a few days later."
@@ -7341,7 +7341,7 @@ msgstr "[_danny_] Penelope..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10206 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_a3fda216:
 msgid "[_penelope_] Out there... cold on the street."
-msgstr "[_penelope_] fuera... frío en la calle."
+msgstr "[_penelope_] fuera... en la fría calle."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10210 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_67402442:
 msgid "[_penelope_] I didn't even go to the funeral."
@@ -7349,7 +7349,7 @@ msgstr "[_penelope_] ni siquiera fui al funeral."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10214 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_30df38e9:
 msgid "[_danny_] Too busy for your own father's funeral?"
-msgstr "[_danny_] ¿Demasiado ocupado para el funeral de tu propio padre?"
+msgstr "[_danny_] ¿Demasiado ocupada para el funeral de tu propio padre?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10218 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_451ee4e3:
 msgid "[_penelope_] No... not at all..."
@@ -7361,7 +7361,7 @@ msgstr "[_danny_] ...{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10226 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_f293a3aa:
 msgid "[_extend_] ...what happened to you the night you went missing, Penelope?"
-msgstr "[_extend_] ...¿qué te pasó la noche que te fuiste perdiendo, Penelope?"
+msgstr "[_extend_] ...¿qué te pasó la noche que te desapareciste Penelope?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10230 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_459ee095_1:
 msgid "[_penelope_] . . ."
@@ -7369,23 +7369,23 @@ msgstr "[_penelope_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10234 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ad473ae8:
 msgid "[_danny_] We're getting this all out into the open, and it's good. This just doesn't {i}feel{/i} like something you should keep bottled up..."
-msgstr "[_danny_] Estamos poniendo todo esto en el aire abierto, y es bueno. Esto no siente {i}{/i} como algo que deberías mantener embotellado..."
+msgstr "[_danny_] Estás hablando de cosas muy profundas, y es bueno. No debes {i}sentir{/i} que has de tenerlo como algo embotellado..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10238 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_5b77f4aa:
 msgid "[_danny_] {i}*Sigh*{/i}..."
-msgstr "[_danny_] {i}*Sigh * {/i} ..."
+msgstr "[_danny_] {i}*Suspiro * {/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10242 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_dc57c888:
 msgid "[_penelope_] ...one of the most controversial medical practices of the mid twentieth century was called the \"ice pick lobotomy,\" have you heard of it?"
-msgstr "[_penelope_] ...una de las prácticas médicas más polémicas de mediados del siglo XX se llamó la \"lobotomía que elige el hielo\", ¿has oído hablar de ello?"
+msgstr "[_penelope_] ...una de las prácticas médicas con más controversia de mediados del siglo Xx se llamó la \"lobotomía de hielo\", ¿has oído hablar de ella?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10246 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_08184b9a:
 msgid "[_danny_] {i}Umm{/i}, not really?"
-msgstr "[_danny_] {i}Umm{/i}, ¿verdad?"
+msgstr "[_danny_] {i}Umm{/i}, ¿no?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10250 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ad409a88:
 msgid "[_penelope_] It involved driving an ice pick through the thin bone of the eye socket, then manipulating it to damage the prefrontal lobes."
-msgstr "[_penelope_] implicaba hacer que un hielo se escucha a través del hueso delgado del ocular y luego se manipula para dañar los lóbulos prefrontales."
+msgstr "[_penelope_] implicaba meter una punta de hielo a través del hueso delgado del ocular, entonces manipularlo para dañar los lóbulos prefrontales."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10254 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_94a84399:
 msgid "[_penelope_] It was supposed to help with mental illnesses... but..."
@@ -7397,11 +7397,11 @@ msgstr "[_danny_] ¿No funcionó?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10262 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_0c8b2482:
 msgid "[_penelope_] Not unless you consider turning people into drooling husks a success."
-msgstr "[_penelope_] No a menos que consideres que convertir a la gente en babeo desecha un éxito."
+msgstr "[_penelope_] No a menos que consideres un éxito convertir a la gente en un desecho babeando."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10266 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_4c157482:
 msgid "[_danny_] Geez... color me shocked that putting a piece of metal in your eye and wiggling your insides around didn't cure people's mental problems..."
-msgstr "[_danny_] Geez... a color me sorprendió que poner una pieza de metal en tus ojos y menospreciar tu interior no curó los problemas mentales de la gente..."
+msgstr "[_danny_] Geez... me impacta que pusieran una pieza de metal en el ojo y movieran las entrañas para curar los problemas mentales de la gente..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10270 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_5b1e712a:
 msgid "[_danny_] ...what does that have to do with you?"
@@ -7409,7 +7409,7 @@ msgstr "[_danny_] ...¿qué tiene eso que ver contigo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10274 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_4444522e:
 msgid "[_penelope_] I... advocated for the procedure to be performed... rather liberally on our patients that we deemed... lost causes."
-msgstr "[_penelope_] Yo... defendí que el procedimiento se realizara... bastante liberalmente en nuestros pacientes que consideramos... causas perdidas."
+msgstr "[_penelope_] Yo... defendí que el procedimiento se realizara... con bastante libertad en nuestros pacientes que considerábamos... causas perdidas."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10278 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_2:
 msgid "[_danny_] . . ."
@@ -7417,15 +7417,15 @@ msgstr "[_danny_]..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10282 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_57972b76:
 msgid "[_penelope_] I was privately paid to endorse it, of course... I didn't believe the procedure was of any true worth for treatment, I simply..."
-msgstr "[_penelope_] Me pagaron en privado por refrescarlo, por supuesto... no creía que el procedimiento tuviera ningún valor real para el tratamiento, simplemente..."
+msgstr "[_penelope_] Me pagaron en privado por encubrirlo, por supuesto... no creía que el procedimiento tuviera ningún valor real para el tratamiento, simplemente..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10286 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9a527fb1:
 msgid "[_penelope_] ...I just took the money... and all the notoriety that came with it.."
-msgstr "[_penelope_] ...Acabo de tomar el dinero... y toda la notoriedad que vino con él.."
+msgstr "[_penelope_] ...solo cogí el dinero... y toda la notoriedad que vino con él.."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10290 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_17fa5dba:
 msgid "[_penelope_] ...I even assisted in some of the operations myself."
-msgstr "[_penelope_] ...Incluso ayudé en algunas de las operaciones yo mismo."
+msgstr "[_penelope_] ...Incluso ayudé en algunas de las operaciones yo misma."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10294 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_50b6aa65:
 msgid "[_danny_] ...but you knew it was wrong?{p}{nw}"
