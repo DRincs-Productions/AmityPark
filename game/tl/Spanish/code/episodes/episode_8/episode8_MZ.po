@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-10 10:09\n"
+"PO-Revision-Date: 2024-01-10 11:25\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -4135,7 +4135,7 @@ msgstr "[_jazz_] Estoy pensando... ¿cómo se sentiría... si la meto en mi boca
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5517 #-#-# translate crowdin Episode_8_stage_230_bedroom_jazz_sneaks_in_bcb0be2c:
 msgid "[_danny_] {i}...!!{/i}"
-msgstr "[_danny_] {i}...!!{/i}"
+msgstr "[_danny_] {i}¡¡...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5521 #-#-# translate crowdin Episode_8_stage_230_bedroom_jazz_sneaks_in_3b1c750e:
 msgid "[_jazz_] Guess I'll have to... give it... a try...~"
@@ -8809,15 +8809,15 @@ msgstr "[_extend_] ¿...alguien en casa?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12345 #-#-# translate crowdin Episode_8_stage_430_present_prep_75238646:
 msgid "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Just your favorite!{/b}{/font}{/color}"
-msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}¡Solo tu favorito!{/b}{/font}{/color}"
+msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}¡Solo tu favorita!{/b}{/font}{/color}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12348 #-#-# translate crowdin Episode_8_stage_430_present_prep_01f7d42a:
 msgid "[_danny_] Oh. Ember?{p}{nw}"
-msgstr "[_danny_] Oh. ¿Diciembre?{p}{nw}"
+msgstr "[_danny_] Oh. ¿Ember?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12351 #-#-# translate crowdin Episode_8_stage_430_present_prep_802f9b31:
 msgid "[_extend_] Is Penelope around, I didn't think any of you were out of the-"
-msgstr "[_extend_] Está el Penélope, no pensé que ninguno de ustedes estaba fuera de el-"
+msgstr "[_extend_] Está Penélope, no pensé que estuvieran todas fuera del-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12354 #-#-# translate crowdin Episode_8_stage_430_present_prep_6964fde2:
 msgid "[_penelope_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}{i}MMMMPH!{/i}{/b}{/font}{/color}"
@@ -8825,35 +8825,35 @@ msgstr "[_penelope_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}{i}MMMPH!{/i}
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12357 #-#-# translate crowdin Episode_8_stage_430_present_prep_1318e531:
 msgid "[_danny_] Was... did I hear something?"
-msgstr "[_danny_] ¿Fuera... ¿escuché algo?"
+msgstr "[_danny_] ¿... escuché algo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12360 #-#-# translate crowdin Episode_8_stage_430_present_prep_a8614f51:
 msgid "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}{i}Uhhh{/i}, nah, it was nothing!{/b}{/font}{/color}"
-msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}{i}Uhhh{/i}, nah, ¡no era nada!{/b}{/font}{/color}"
+msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}{i}Uhhh{/i}, nah, ¡no fue nada!{/b}{/font}{/color}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12363 #-#-# translate crowdin Episode_8_stage_430_present_prep_664d4fe0:
 msgid "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Just some, y'know, girl-on-girl-{/b}{/font}{p}{nw}{/color}"
-msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Solo unos, y'know, chica-de-chica-{/b}{/font}{p}{nw}{/color}"
+msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Solo un, ya sabes, chica a chica-{/b}{/font}{p}{nw}{/color}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12366 #-#-# translate crowdin Episode_8_stage_430_present_prep_b2245ba9:
 msgid "[_extend_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}...I mean, girl-to-girl bonding!{/b}{/font}{/color}"
-msgstr "[_extend_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}...¡Me refiero al vínculo de niña a niña!{/b}{/font}{/color}"
+msgstr "[_extend_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}...¡Me refiero al vínculo de chica a chica!{/b}{/font}{/color}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12369 #-#-# translate crowdin Episode_8_stage_430_present_prep_c6db86e7:
 msgid "[_danny_] Ember, what's going on in-"
-msgstr "[_danny_] Ember, lo que está pasando en-"
+msgstr "[_danny_] Ember, ¿que está pasando dentro-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12372 #-#-# translate crowdin Episode_8_stage_430_present_prep_78d958a2:
 msgid "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Sorry, can't like, hear you, the {i}uh{/i}, stupid thermos signal, breaking up!{/b}{/font}{/color}"
-msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Lo siento, no puede escucharte, la señal {i}uh{/i}, ¡señal de termos estúpidos, rompiendo!{/b}{/font}{/color}"
+msgstr "[_ember_] {color=9DF600}{font=font/libel-suit-rg.ttf}{b}Lo siento, no puedo escucharte bien, la señal {i}uh{/i}, ¡estúpida señal de thermo, corto!{/b}{/font}{/color}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12375 #-#-# translate crowdin Episode_8_stage_430_present_prep_68fb811e:
 msgid "[_danny_] Wait! What are you all-"
-msgstr "[_danny_] ¡Espera! ¿Qué eres todos?"
+msgstr "[_danny_] ¡Espera! ¿Qué estáis-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12380 #-#-# translate crowdin Episode_8_stage_430_present_prep_96dc4420:
 msgid "[_danny_] H-hello? Is anyone gonna say anything?"
-msgstr "¿[_danny_] H-hola? ¿Alguien se va a decir algo?"
+msgstr "[_danny_] ¿H-hola? ¿Alguien se va a decir algo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12385 #-#-# translate crowdin Episode_8_stage_430_present_prep_d57e43bd_1:
 msgid "[_danny_] . . ."
@@ -8865,15 +8865,15 @@ msgstr "[_danny_] (...¡Supongo que no!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12392 #-#-# translate crowdin Episode_8_stage_430_present_prep_c56ad1ce:
 msgid "[_danny_] (I'll just have to check in on them later, I guess?)"
-msgstr "[_danny_] (¿Sólo tendré que registrarme más tarde, supongo?)"
+msgstr "[_danny_] (Tendré que volver más tarde, ¿creo?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12413 #-#-# translate crowdin Episode_8_stage_435_presented_64e4f559:
 msgid "[_desiree_] Oh dearest Master, are you... available?~"
-msgstr "[_desiree_] Oh más querido Maestro, ¿estás... disponible?~"
+msgstr "[_desiree_] Oh querido Maestro, ¿estás... disponible?~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12416 #-#-# translate crowdin Episode_8_stage_435_presented_52c73efc:
 msgid "[_danny_] Desiree? Sure, I wouldn't mind some compa-"
-msgstr "[_danny_] ¿Deseado? Claro, no me importaría alguna compa-"
+msgstr "[_danny_] ¿Desiree? Claro, no me importa tu compa-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12424 #-#-# translate crowdin Episode_8_stage_435_presented_d702cf5a:
 msgid "[_danny_] {i}Guh! Guh!! Guuhhh...!!{/i}"
@@ -8881,47 +8881,47 @@ msgstr "[_danny_] {i}Guh! Guh!! Guuhhh...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12427 #-#-# translate crowdin Episode_8_stage_435_presented_8b16ff87:
 msgid "[_ember_] Whatsa' matter, nerd, y'look like you saw a ghost... or three!"
-msgstr "[_ember_] Lo que importa, nerd, ¡y parece que has visto un fantasma... o tres!"
+msgstr "[_ember_] ¿qué te pasa, tronco?, ¡parece que has visto un fantasma... o tres!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12430 #-#-# translate crowdin Episode_8_stage_435_presented_bf0585d0:
 msgid "[_danny_] What the- what's going on, why's Penelope... all tied up...?"
-msgstr "[_danny_] ¿Qué está pasando, ¿por qué Penelope... todo está atado...?"
+msgstr "[_danny_] ¿Qué está pasando?, ¿por qué Penelope... está atada...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12432 #-#-# translate crowdin Episode_8_stage_435_presented_3670cfe3:
 msgid "[_danny_] A-a-and {i}you{/i} two, you... wow!"
-msgstr "[_danny_] A-a-y {i}tú{/i} dos, tú... ¡vaya!"
+msgstr "[_danny_] A-a-y {i}vosotras{/i} dos, vosotras... ¡vaya!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12435 #-#-# translate crowdin Episode_8_stage_435_presented_728ec409:
 msgid "[_ember_] Well, she put up quite the fight, I'll give her that!"
-msgstr "[_ember_] Bueno, ella se puso bastante en la pelea, ¡le daré eso!"
+msgstr "[_ember_] Bueno, ella se puso bastante peleona, ¡le dí esto!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12438 #-#-# translate crowdin Episode_8_stage_435_presented_fe19d39a:
 msgid "[_desiree_] Nothing more satisfying than wrangling a stubborn mule like this one!"
-msgstr "[_desiree_] ¡Nada más satisfactorio que enrollar una mula terca como ésta!"
+msgstr "[_desiree_] ¡Nada más satisfactorio que enrollar una mula terca como esta!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12441 #-#-# translate crowdin Episode_8_stage_435_presented_ee1ae8a0:
 msgid "[_penelope_] M-mule?! I'll tell you who's the damn farm animal around here, you wretched-!"
-msgstr "[_penelope_] M-mula?! Te diré quién es el maldito animal de granja por aquí, ¡desgraciado!"
+msgstr "[_penelope_] ¿M-mula?! Te diré quién es el maldito animal de granja aquí, ¡desgraciada!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12444 #-#-# translate crowdin Episode_8_stage_435_presented_cb572b77:
 msgid "[_desiree_] Now, now, my sweet, let's not get too riled up after {i}just{/i} getting properly dressed...~"
-msgstr "[_desiree_] Ahora, mi dulce, no nos dejemos enredar demasiado después de que {i}sólo{/i} se vestir correctamente...~"
+msgstr "[_desiree_] Ahora, delicia, no nos dejemos enredar demasiado después de {i}acabarnos{/i} de vestir correctamente...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12447 #-#-# translate crowdin Episode_8_stage_435_presented_b4391e67:
 msgid "[_penelope_] Release me right this instant, or I swear I'm gonna-!"
-msgstr "[_penelope_] ¡Suelta este instante, o me desgaste soy gonna!"
+msgstr "[_penelope_] ¡Suéltame en este instante, o juro que voy a-!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12450 #-#-# translate crowdin Episode_8_stage_435_presented_7588889e:
 msgid "[_danny_] H-hey, hey, relax!! Will somebody just tell me what's going on here?!"
-msgstr "[_danny_] H-hey, hey, hey, relax!! ¿Alguien me dirá lo que está pasando aquí?!"
+msgstr "[_danny_] ¡¡H-hey, hey, hey, calma!! ¡¿Alguien me dice lo que está pasando aquí?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12453 #-#-# translate crowdin Episode_8_stage_435_presented_5fea9634:
 msgid "[_desiree_] We've felt it was time we {i}all{/i} joined in on the fun, Master!~"
-msgstr "[_desiree_] ¡Hemos sentido que ha llegado el momento de que {i}todos{/i} se unan a la diversión, Maestro!~"
+msgstr "[_desiree_] ¡Hemos sentido que ha llegado el momento de que {i}todos{/i} nos unamos a la diversión, Maestro!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12456 #-#-# translate crowdin Episode_8_stage_435_presented_cbb4c46b:
 msgid "[_penelope_] I didn't agree to this! Let me go now!"
-msgstr "[_penelope_] ¡Yo no estaba de acuerdo con esto! ¡Permítame irme ahora!"
+msgstr "[_penelope_] ¡Yo no planee esto! ¡Dejadme ir!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12459 #-#-# translate crowdin Episode_8_stage_435_presented_b1029c8f:
 msgid "[_ember_] Oh sit down and shut up!"
@@ -8929,23 +8929,23 @@ msgstr "[_ember_] ¡Oh siéntate y cállate!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12462 #-#-# translate crowdin Episode_8_stage_435_presented_3142dd93:
 msgid "[_penelope_] You can't speak to me that way, you bratty little child! I'm being held against my will already, I don't need you two trying to-"
-msgstr "[_penelope_] ¡No puedes hablarme de esa manera, tú bratty pequeño niño! Estoy detenido en contra de mi voluntad ya, no te necesito dos tratando de-"
+msgstr "[_penelope_] ¡No puedes hablarme de esa manera, niña malcriada! Estoy detenida en contra de mi voluntad, no te necesito a las dos tratando de-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12465 #-#-# translate crowdin Episode_8_stage_435_presented_8b22c34a:
 msgid "[_ember_] Shut up already, you catty old bag!"
-msgstr "[_ember_] Cierra ya, ¡tu maleta vieja!"
+msgstr "[_ember_] Cállate de una vez, ¡vieja polvorienta!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12468 #-#-# translate crowdin Episode_8_stage_435_presented_7e549bbc:
 msgid "[_ember_] And you can stop pretending you don't want to liven your imprisonment here with a good dose of {u}dick{/u} like the rest of us."
-msgstr "[_ember_] Y puedes dejar de fingir que no quieres amenizar tu encarcelamiento aquí con una buena dosis de {u}Dick {/u} como el resto de nosotros."
+msgstr "[_ember_] Y puedes dejar de fingir que no quieres disfrutar tu encarcelamiento aquí con una buena dosis de {u}polla {/u} igual que nosotras."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12474 #-#-# translate crowdin Episode_8_stage_435_presented_b9508dbb:
 msgid "[_ember_] Danny turn into your ghost form and let's get this party started already!"
-msgstr "[_ember_] Danny se convierte en tu forma fantasma y ¡vamos a hacer que esta fiesta comience ya!"
+msgstr "[_ember_] Danny convierte en tu forma fantasma y ¡vamos a hacer que esta fiesta comience ya!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12477 #-#-# translate crowdin Episode_8_stage_435_presented_28b1c098:
 msgid "[_danny_] S-sure thing, okay then..."
-msgstr "[_danny_] S-sure thing, bueno, entonces..."
+msgstr "[_danny_] S-seguro, bueno, vale..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12499 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_2e9026f6:
 msgid "[_penelope_] (This is so embarrassing! But yet, I also start to get excited about what might happen...)"
@@ -8953,7 +8953,7 @@ msgstr "[_penelope_] (¡Esto es tan vergonzoso! Pero sin embargo, también empie
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12502 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_520843b9:
 msgid "[_desiree_] Now, now, let's not just stand around! Get into position for this sweet little gift we wrapped up for you Master!"
-msgstr "[_desiree_] ¡Ahora, no nos limitemos a quedarnos! ¡Ponte en posición por este dulce pequeño regalo que te envolvimos para tu Maestro!"
+msgstr "[_desiree_] ¡Ahora, no nos limitemos a mirarnos! ¡Ponte en posición por este dulce pequeño regalo que te envolvimos Maestro!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12505 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_ddab8188:
 msgid "[_danny_] S-sure... yeah..."
@@ -8961,11 +8961,11 @@ msgstr "[_danny_] S-seguro... si..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12507 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_83f12437:
 msgid "[_danny_] (God, I'm really just letting my base instincts take over right now...)"
-msgstr "[_danny_] (Dios, realmente estoy dejando que mis instintos de base tomen el relevo ahora mismo...)"
+msgstr "[_danny_] (Dios, realmente estoy dejando que mis instintos básicos tomen el relevo ahora mismo...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12509 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_deb2f927:
 msgid "[_ember_] Don't act so shy, doofus, show her that fat dick we all can't get enough of!"
-msgstr "[_ember_] No actúes tan tímido, doofus, muéstrale esa polla gorda de la que todos no podemos obtener lo suficiente!"
+msgstr "[_ember_] No actúes tan tímido, bobo, enséñale esa polla gorda de la que no nos cansamos nunca!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12515 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_416400c8:
 msgid "[_penelope_] {i}...{/i}"
@@ -8973,31 +8973,31 @@ msgstr "[_penelope_] {i}...{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12520 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_74377b57:
 msgid "[_desiree_] {i}*Chuckles*{/i} Oh dearest Penelope, tell me... has it been some time for you since you last...?"
-msgstr "[_desiree_] {i}*Chuckles * {/i} Oh querida Penélope, dime ... ¿ha sido algún tiempo para ti desde el último ...?"
+msgstr "[_desiree_] {i}*risas* {/i} Oh querida Penélope, dime... ¿ha pasado mucho tiempo para ti desde el último...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12526 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_5edb4821:
 msgid "[_penelope_] {i}...!!{/i}"
-msgstr "[_penelope_] {i}...!!{/i}"
+msgstr "[_penelope_] {i}¡¡...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12531 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_a5f67d93:
 msgid "[_penelope_] N-no, get away! I don't want your hands anywhere-"
-msgstr "[_penelope_] ¡No! ¡Vaya! No quiero tus manos en ningún sitio-"
+msgstr "[_penelope_] ¡No! ¡largate! No quiero tus manos-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12533 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_f48818d3:
 msgid "[_penelope_] ...{i}n-near meeeeeee!!{/i}"
-msgstr "[_penelope_] ...{i}n-near meeeeeee!! {/i}"
+msgstr "[_penelope_] ...{i}c-cerca de míiiiiii!! {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12537 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_8eaeb702:
 msgid "[_desiree_] Now, dig in and enjoy the nice juicy meal we've helped prepare for you Penelope..."
-msgstr "[_desiree_] Ahora, ve y disfruta de la jugosa comida que hemos ayudado a prepararte para ti Penelope..."
+msgstr "[_desiree_] Ahora, disfruta de la jugosa comida que hemos preparado para ti Penelope..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12538 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_7afd7687:
 msgid "[_desiree_] ...or would you rather our Miss Ember teach you some more with the thack of her riding stick?"
-msgstr "[_desiree_] ...¿O preferirías que nuestra Señora Ember te enseñara algo más con el estruendo de su palo de montaje?"
+msgstr "[_desiree_] ...¿O preferirías que nuestra Mr Ember te enseñe algo más con su estruendoso palo de montaje?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12539 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_b40679f6:
 msgid "[_ember_] Don't worry, you'll eventually learn to love my little love taps!"
-msgstr "[_ember_] No te preocupes, ¡finalmente aprenderás a amar mis pequeños toques de amor!"
+msgstr "[_ember_] No te preocupes, ¡ aprenderás a amar mis pequeños toques de amor!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12543 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_459ee095:
 msgid "[_penelope_] . . ."
@@ -9005,11 +9005,11 @@ msgstr "[_penelope_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12547 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_b048b353:
 msgid "[_desiree_] ...{i}yessss{/i}... that's certainly more like it.~"
-msgstr "[_desiree_] ...{i}yesss{/i}... eso es ciertamente más así.~"
+msgstr "[_desiree_] ...{i}yesss{/i}... eso es ciertamente así.~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12548 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_d56a3a69:
 msgid "[_danny_] (Holy hell! Is this really happening?!)"
-msgstr "[_danny_] (¡Infierno santo! ¿Realmente está sucediendo?!)"
+msgstr "[_danny_] (¡Joder! ¡¿está sucediendo realmente todo esto?!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12552 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_c8c4aebd:
 msgid "[_penelope_] {i}Mmmhrrmmm...{/i} {i}*Slurp*{/i}~"
@@ -9017,23 +9017,23 @@ msgstr "[_penelope_] {i}Mmmhrmmmm...{/i} {i}*Slurp*{/i}~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12556 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_880263ef:
 msgid "[_penelope_] (F-fuck... how did it come to this?)"
-msgstr "[_penelope_] (F-fuck... ¿cómo llegó a esto?)"
+msgstr "[_penelope_] (J-joder... ¿cómo llegué a esto?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12559 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_0c5f110a:
 msgid "[_penelope_] (Good God... and why is this so exciting to me...?!)"
-msgstr "[_penelope_] (Dios bueno ... y por qué es tan emocionante para mí ...?!)"
+msgstr "[_penelope_] (Dios... y ¿por qué es tan emocionante para mí...?!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12564 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_1ebb4fb6:
 msgid "[_penelope_] {i}*Slurp*{/i}... {i}*Suck*{/i}~"
-msgstr "[_penelope_] {i}*Slurp*{/i}... {i}*Éxito*{/i}~"
+msgstr "[_penelope_] {i}*Slurp*{/i}... {i}*Slurp*{/i}~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12566 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_1dc3fa3a:
 msgid "[_penelope_] (I can't believe this is my life right now... having these three stare at me like this...)"
-msgstr "[_penelope_] (no puedo creer que esta es mi vida ahora mismo... teniendo estas tres miradas como esto...)"
+msgstr "[_penelope_] (no puedo creer que esta es mi vida ahora mismo... teniendo estas tres miradas...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12569 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_51c57b39:
 msgid "[_penelope_] (...sure looks like he's at least enjoying himself...)"
-msgstr "[_penelope_] (...seguro que parece que al menos está disfrutando de sí mismo...)"
+msgstr "[_penelope_] (...seguro que está disfrutando de sí mismo...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12574 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_6cc5684f:
 msgid "[_penelope_] {i}Mmnnnn...{/i}~"
@@ -9045,11 +9045,11 @@ msgstr "[_penelope_] {i}*Huff * {/i} (¿Qué ... en qué me estoy convirtiendo? 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12578 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_acb02fc4:
 msgid "[_penelope_] (He has {i}such{/i} a big cock, I can bearly fit it all in my mouth!!~)"
-msgstr "[_penelope_] (Él tiene {i}tal {/i} una gran polla, ¡puedo encajarlo todo en mi boca! ~)"
+msgstr "[_penelope_] (Él tiene {i}tal {/i} gran polla, ¡puedo encajarla justa en mi boca! ~)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12580 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_81343dcf:
 msgid "[_penelope_] (It feels just as good as when he slipped it inside me... and fucked me like a wild man!!)"
-msgstr "[_penelope_] (Se siente igual de bueno que cuando lo resbaló dentro de mí ... y me folló como un hombre salvaje!!)"
+msgstr "[_penelope_] (Se siente igual de bueno que cuando la metió dentro de mí... y me folló como un hombre salvaje!!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12584 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_5a5cba01:
 msgid "[_penelope_] {i}Ohmmmmnnn...{/i}"
@@ -9057,7 +9057,7 @@ msgstr "[_penelope_] {i}Ohmmmmnnn...{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12587 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_533e4296:
 msgid "[_desiree_] Oh no, come, come, come now... that's simply no good, Miss Spectra."
-msgstr "[_desiree_] Oh no, venga, venga ahora... eso simplemente no es bueno, señora Spectra."
+msgstr "[_desiree_] Oh no, venga, venga ahora... eso no está bien, Mr Spectra."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12592 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_a6ee4563:
 msgid "[_penelope_] {i}Hmmm...?{/i}"
@@ -9065,15 +9065,15 @@ msgstr "[_penelope_] {i}Hmm...?{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12595 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_8d3369f7:
 msgid "[_desiree_] Here, let me show you how to {i}properly{/i} attend a mouthful of Master's manhood..."
-msgstr "[_desiree_] Aquí, déjame mostrarte cómo {i}correctamente{/i} asiste a un bouthful of Master..."
+msgstr "[_desiree_] déjame mostrarte cómo se da {i}correctamente{/i} una mamada al macho del Maestro..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12603 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_5edb4821_1:
 msgid "[_penelope_] {i}...!!{/i}"
-msgstr "[_penelope_] {i}...!!{/i}"
+msgstr "[_penelope_] {i}¡¡...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12605 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_c1696b0b:
 msgid "[_desiree_] Now see, {i}that{/i} is much more in line with my standards. Well done Penelope!"
-msgstr "[_desiree_] Ahora ve, {i}que {/i} está mucho más en línea con mis estándares. ¡Bien hecho Penelope!"
+msgstr "[_desiree_] Fijate, {i}esto{/i} está más a la altura de mi estándar. ¡Bien hecho Penelope!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12607 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_af639559:
 msgid "[_penelope_] {i}*Guck*!{/i} {i}*Gack!*{/i} {i}*Gasp*!{/i}"
@@ -9081,27 +9081,27 @@ msgstr "[_penelope_] {i}*Guck*!{/i} {i}*Gack!*{/i} {i}*Gasp*!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12611 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_718be77e:
 msgid "[_penelope_] (Damn, it. I will get you for that. Desiree)"
-msgstr "[_penelope_] (Damn, lo conseguiré para eso. Deseado)"
+msgstr "[_penelope_] (Damn, te daré un merecido por esto. Desiree)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12613 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_eced44fe:
 msgid "[_penelope_] (Oh yes. That seals it. I will get you {u}both{/u} for this, you sadistic sluts...)"
-msgstr "[_penelope_] (Oh, sí. Eso lo sella. I will get you {u}both {/u} for this, you sadistic sluts ...)"
+msgstr "[_penelope_] (Oh, sí. Eso haré. Os pillaré a las {u}dos {/u} por este puterío sádico...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12615 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_f5697e1a:
 msgid "[_desiree_] Up and down, up and down... yes, bobbing on Master's member with that exact pace..."
-msgstr "[_desiree_] Arriba y abajo, arriba y abajo... sí, atrapando al miembro del Maestro con ese ritmo exacto..."
+msgstr "[_desiree_] Arriba y abajo, arriba y abajo... sí, lamiendo el miembro del Maestro con ese ritmo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12617 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_371722e3:
 msgid "[_ember_] ...it's probably exactly what you were hoping for, right?"
-msgstr "[_ember_] ...es probablemente exactamente lo que esperabas, ¿verdad?"
+msgstr "[_ember_] ...es probablemente lo que esperabas, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12621 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_abdb8a8b:
 msgid "[_danny_] Oh my God, yes... she's incredible. I don't think I'm gonna last much longer like this...~"
-msgstr "[_danny_] Oh mi Dios, si... ella es increíble. No creo que mi vida dura mucho más tiempo así...~"
+msgstr "[_danny_] Oh mi Dios, si... ella és increíble. No creo que dure mucho más tiempo así...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12623 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_ff4d0311:
 msgid "[_desiree_] Did you hear that? Master is about to deliver his delicious cum for you, girl."
-msgstr "[_desiree_] ¿Has oído eso? Maestro está a punto de entregar su delicioso esperma para ti, niña."
+msgstr "[_desiree_] ¿Has oído eso? El maestro está a punto de entregar su delicioso esperma para ti, chica."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12625 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_82f1be22:
 msgid "[_ember_] Yeah, shoot your fucking jizz in her mouth, Danny!"
@@ -9117,23 +9117,23 @@ msgstr "[_penelope_] (Pero quién estoy engañando... en este punto...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12633 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_4eacecfd:
 msgid "[_penelope_] (...as much as I object... I'm absolutely {i}dripping{/i} wet from my cunt...~)"
-msgstr "[_penelope_] (...tanto como objeto... Estoy absolutamente {i}goteando{/i} mojado de mi cunt...~)"
+msgstr "[_penelope_] (...por mucho que me oponga... Está {i}chorreando{/i} mi coño...~)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12635 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_92714697:
 msgid "[_penelope_] (The way he looks at me... full of pleasure... praising my effort... eager to cum down my throat...~)"
-msgstr "[_penelope_] (La manera en que me mira... llena de placer... alabando mi esfuerzo... deseoso de cum por mi garganta...~)"
+msgstr "[_penelope_] (La manera en que me mira... llena de placer... alabando mi esfuerzo... deseoso de correrse en mi garganta...~)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12637 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_6247a739:
 msgid "[_penelope_] (Fine... cum then! Let it all out, boy!)"
-msgstr "[_penelope_] (¡Bien... ¡Cum entonces! ¡Que todo salga, muchacho!)"
+msgstr "[_penelope_] (¡Bien... ¡córrete entonces! ¡Sácalo todo, muchacho!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12639 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_ab62c35b:
 msgid "[_penelope_] (I want you to fucking {u}cum{/u} for me...~)"
-msgstr "[_penelope_] (Quiero que folles {u}cum{/u} para mí...~)"
+msgstr "[_penelope_] (Quiero tu jodido {u}semen{/u} para mí...~)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12643 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_c6b4fd85:
 msgid "[_danny_] Oh jeez, I'm- I'm... {i}cumming!!{/i}"
-msgstr "[_danny_] Oh jeez, I'm- I'm... {i}cumming!!{/i}"
+msgstr "[_danny_] Oh jeez, me- me... {i}¡¡corroooooo!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12648 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_1eb0158d:
 msgid "[_penelope_] {i}Gaaahhhh!!!{/i}"
@@ -9145,11 +9145,11 @@ msgstr "[_penelope_] {i}Haaahhh...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12652 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_754c703c:
 msgid "[_ember_] Holy shit, she really emptied his balls..."
-msgstr "[_ember_] Una santa mierda, ella realmente vació sus pelotas..."
+msgstr "[_ember_] Joder, ella le vació las pelotas..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12654 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_b01ac88e:
 msgid "[_extend_] Not bad at all..."
-msgstr "[_extend_] No está mal en absoluto..."
+msgstr "[_extend_] No está mal..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12660 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_d11946cb:
 msgid "[_penelope_] {i}*Gulp*...{/i}"
@@ -9157,55 +9157,55 @@ msgstr "[_penelope_] {i}*Gulp*...{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12662 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_12d37da5:
 msgid "[_desiree_] What a good little cum slut you've so far proven yourself, dear."
-msgstr "[_desiree_] ¡Qué buena zorra de esperma que hasta ahora has probado a ti mismo, querido!"
+msgstr "[_desiree_] ¡Qué buen semen te has tragado, querida."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12664 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_57cf8e67:
 msgid "[_desiree_] I would say her behavior merits a fitting reward, wouldn't you agree, Master?"
-msgstr "[_desiree_] Yo diría que su comportamiento merece una recompensa de ajuste, ¿no estás de acuerdo, Maestro?"
+msgstr "[_desiree_] Yo diría que su comportamiento merece una recompensa justa, ¿no estás de acuerdo, Maestro?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12667 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_4f757539:
 msgid "[_danny_] (Oh man... what could even be next...?)"
-msgstr "[_danny_] (Oh man ... what could even be next ...?)"
+msgstr "[_danny_] (Oh tio... ¿qué podría pasar ahora...?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12676 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_eb3ff664:
 msgid "[_danny_] W-what?! We can't, I mean, I can't just-"
-msgstr "¡[_danny_] ¿¿Qué?! No podemos, quiero decir, no puedo sólo-"
+msgstr "[_danny_] ¡¿Qué?! No podemos, quiero decir, no puedo sólo-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12677 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_1caba76e:
 msgid "[_ember_] You know, I thought you might be interested in her uptight ass..."
-msgstr "[_ember_] Tú lo sabes, pensé que podría interesarte en su asso apretado..."
+msgstr "[_ember_] Sabes, pensé que podría interesarte su culo apretado..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12678 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_0258a9d3:
 msgid "[_ember_] ...so don't worry, I found some lube lying around the house so you can really take it town!"
-msgstr "[_ember_] ...así que no te preocupes, he encontrado algo de lubina alrededor de la casa para que puedas tomarla todo!"
+msgstr "[_ember_] ...así que no te preocupes, he encontrado algo de vaselina en la casa para que puedas petarle el culo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12679 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_4b01c4df:
 msgid "[_ember_] At least, I hoped you wouldn't make taking preference for the back door entrance...{p}{nw}"
-msgstr "[_ember_] Al menos, esperaba que no hicieras preferencia por la entrada de la puerta trasera...{p}{nw}"
+msgstr "[_ember_] esperaba que no tuvieras preferencia por la entrada trasera...{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12680 #-#-# translate crowdin Episode_8_stage_440_spectra_blowjob_7481fce4:
 msgid "[_extend_] I already have {i}plans{/i} for her pussy...~"
-msgstr "[_extend_] Ya tengo {i}planes{/i} para su coño...~"
+msgstr "[_extend_] Tengo {i}planes{/i} para su coño...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12699 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_8a06d733:
 msgid "[_penelope_] W-WHAT?! No!!"
-msgstr "[_penelope_] W-QUHAT?! No!!"
+msgstr "[_penelope_] ¡¿Q-QUE?! ¡¡No!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12703 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_5bef1b06:
 msgid "[_danny_] Penelope, wait... is this really okay to do...?"
-msgstr "[_danny_] Penelope, espere... ¿realmente está bien...?"
+msgstr "[_danny_] Penelope, espera... ¿va todo bien...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12708 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_77ba3f9b:
 msgid "[_penelope_] Just, not that hole! Please! Anything else!"
-msgstr "[_penelope_] ¡Justo, no ese agujero! ¡Por favor! ¡Cualquier otra cosa!"
+msgstr "[_penelope_] ¡No, no por ese agujero! ¡Por favor! ¡Cualquier otra cosa!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12712 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_312efae9:
 msgid "[_ember_] Oh don't worry, she wasn't complaining earlier when I used my finger!"
-msgstr "[_ember_] Oh no se preocupe, no se queja antes cuando usé mi dedo!"
+msgstr "[_ember_] Oh no te preocupes, se dejó de quejar cuando usé mi dedo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12717 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_8852b4a6:
 msgid "[_penelope_] I-I wasn't...! No, I was just... it didn't feel..."
-msgstr "[_penelope_] ¡Yo no lo hice yo...! No, yo estaba listo... no me sentía..."
+msgstr "[_penelope_] ¡yo-yo no hice...! No, yo estaba solo... no sentía..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12720 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_04158da0:
 msgid "[_penelope_] ...as... as awful as I thought it would have...~"
@@ -9213,7 +9213,7 @@ msgstr "[_penelope_] ...... tan horrible como pensé que habría sido...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12724 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_3ef0ae7b:
 msgid "[_ember_] See, she's practically dying for it at this point!"
-msgstr "[_ember_] ¡Ve, está muriendo prácticamente por ello en este momento!"
+msgstr "[_ember_] ¡Ves, se muere de ganas por hacerlo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12725 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_395caa16:
 msgid "[_danny_] Penelope, I-I... I can't do any of this... if you didn't want me to-"
@@ -9221,7 +9221,7 @@ msgstr "[_danny_] Penelope, yo... no puedo hacer nada de esto... si no quieres q
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12730 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_bfa25147:
 msgid "[_penelope_] Then... I just want you... t-to..."
-msgstr "[_penelope_] entonces... Sólo quiero que... t-to..."
+msgstr "[_penelope_] entonces... solo te quiero... p-para..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12735 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_459ee095:
 msgid "[_penelope_] . . ."
@@ -9233,15 +9233,15 @@ msgstr "[_penelope_] Por favor...{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12743 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_bf84efd2:
 msgid "[_extend_] ...give it to me... and make it feel {i}really{/i} good... please Danny...~"
-msgstr "[_extend_] ...dame a mí... y haz que se sienta {i}realmente bien... por favor Danny...~"
+msgstr "[_extend_] ...métemela... y haz que se sienta {i}realmente{/i} bien... por favor Danny...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12747 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_bcb0be2c:
 msgid "[_danny_] {i}...!!{/i}"
-msgstr "[_danny_] {i}...!!{/i}"
+msgstr "[_danny_] {i}¡¡...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12748 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_b7e25ddb:
 msgid "[_danny_] (Alright... here goes nothing! Please don't kill me after!)"
-msgstr "[_danny_] (Muy bien ... aquí no va nada! Please don't kill me after!)"
+msgstr "[_danny_] (bien... ahí voy! ¡no me mates luego!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12757 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_9ccc0ab2:
 msgid "[_penelope_] {i}GAHHHH!?!{/i}"
@@ -9249,27 +9249,27 @@ msgstr "[_penelope_] {i}¡GAHHHH!?!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12759 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_db5dc9ed:
 msgid "[_danny_] (F-fuck! Her ass is so tight! Even with her hole ass drenched in this slick lube!)"
-msgstr "[_danny_] (¡F-fuck! ¡Su culo está tan apretado! ¡Incluso con su culo agujero drenado en esta lubina golosa!)"
+msgstr "[_danny_] (¡J-joder! ¡Su culo és muy estrecho! ¡Incluso untado de vaselina!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12763 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_13c5f958:
 msgid "[_penelope_] {i}Ohhhh...{/i} {u}fuuuuuck{/u}...~"
-msgstr "[_penelope_] {i}Ohhhh...{/i} {u}fuuuuuuck{/u}...~"
+msgstr "[_penelope_] {i}Ohhhh...{/i} {u}jodeeeeeeeerrrrrr{/u}...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12770 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_b74add0e:
 msgid "[_penelope_] W-wait... it's... {i}ah{/i}~"
-msgstr "[_penelope_] W-wait... son... {i}ah{/i}~"
+msgstr "[_penelope_] E-espera... es... {i}ah{/i}~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12774 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_02b6b8ac:
 msgid "[_ember_] Told ya!! I knew she'd like it in the ass!"
-msgstr "¡[_ember_] Tende!! ¡Yo sabía que le encantaría en el asno!"
+msgstr "[_ember_] ¡¡dilo!! ¡Yo sabía que te encantaría en el culo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12775 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_7b631b46:
 msgid "[_ember_] Got a little masochistic side to you, don't you sweet lips?"
-msgstr "[_ember_] Tienes un poco de lado masoquítico, ¿no tienes labios dulces?"
+msgstr "[_ember_] Tienes un poco de masoquista, ¿o no labios dulces?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12779 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_e0a4e483:
 msgid "[_penelope_] {i}A-ahhh{/i}... please... kindly go... f-fuck... y-youurself...~"
-msgstr "[_penelope_] {i}A-ahhh{/i}... por favor... ve bien... f-fuck... y-youurself...~"
+msgstr "[_penelope_] {i}A-ahhh{/i}... por favor... linda... q-que... te jodaaaan...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12784 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_7d38ad76:
 msgid "[_penelope_] {i}Mmmmhmmmmm!!~{/i}"
@@ -9277,11 +9277,11 @@ msgstr "[_penelope_] {i}Mmmmmmmmmmmm!!~{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12788 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_2ece4eb9:
 msgid "[_ember_] {i}Ah, ah, ah!{/i} You wanna play it like, then you'd better be careful what you wish for!"
-msgstr "[_ember_] {i}Ah, ¡ah!{/i} Te gustaría jugarlo, ¡entonces mejor serías cuidadoso con lo que deseas!"
+msgstr "[_ember_] {i}Ah, ¡ah!{/i} Te gusta jugar, ¡entonces és mejor que seas cuidadosa con lo que deseas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12789 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_e5ded85d:
 msgid "[_desiree_] {i}*Chuckles*{/i} Quite right, Ember...~"
-msgstr "[_desiree_] {i}*Chuckles * {/i} Muy bien, Ember ... ~"
+msgstr "[_desiree_] {i}*risas* {/i} Muy bien, Ember... ~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12790 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_ca0e0f90:
 msgid "[_desiree_] How about we give our pet some some finishing touches!"
@@ -9289,7 +9289,7 @@ msgstr "[_desiree_] ¡Que tal si le damos a nuestra mascota algunos toques final
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12794 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_30ca08ea:
 msgid "[_penelope_] What?! N-noo! G-get off m- I know what you're trying to do, I won't-"
-msgstr "[_penelope_] ¿Qué?! ¡N-noo! G-bajarse m-Sé lo que estás tratando de hacer, no-"
+msgstr "[_penelope_] ¿Qué?! ¡N-noo! P-parad Sé lo que estáis tratando de hacer, no-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12802 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_a9b6222b:
 msgid "[_penelope_] {i}Mmmmmhhhh!!{/i}"
@@ -9305,15 +9305,15 @@ msgstr "[_penelope_] {i}MMMMFGH!?{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12818 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_5b03142f:
 msgid "[_danny_] (This is... pretty exciting, but... where do they find these toys from exactly...? They never have any money, outside of my help!)"
-msgstr "[_danny_] (Esto es ... bastante emocionante, pero ... ¿dónde encuentran estos juguetes de exactamente ...? ¡Nunca tienen dinero, fuera de mi ayuda!)"
+msgstr "[_danny_] (Esto es... bastante emocionante, pero... ¿de donde sacan estos juguetes...? ¡No tienen dinero, aparte del mío!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12822 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_c40580ce:
 msgid "[_ember_] Pretty handy little thing! Watch what hiting {u}this{/u} little button does!"
-msgstr "[_ember_] ¡Muy útil cosa pequeña! ¡Mira que pulsando {u}este{/u} pequeño botón hace!"
+msgstr "[_ember_] ¡Una pequeña cosa muy útil! ¡Mira que hace pulsando {u}este{/u} pequeño botón!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12828 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_ac37a506:
 msgid "[_desiree_] Oh my...~"
-msgstr "[_desiree_] Oh my...~"
+msgstr "[_desiree_] Oh dios...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12831 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_5fb3e218:
 msgid "[_penelope_] {i}MMMMMMMMMMHHH!!!{/i}"
@@ -9341,19 +9341,19 @@ msgstr "[_danny_] Es ... {i}*Huff * {/i} ... tan agradable y apretado ... se sie
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12854 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_2cec6f09:
 msgid "[_desiree_] Yes!! Ravage her Master! Make her your rightful property!!"
-msgstr "[_desiree_] ¡Sí! ¡Ravage su Maestro! Hazle tu propiedad legítima!!"
+msgstr "[_desiree_] ¡Sí! ¡petalo Maestro! Hazlo tu legítima propiedad!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12859 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_3430c4a2:
 msgid "[_ember_] Damn this is getting me all hot and worked up!"
-msgstr "[_ember_] ¡Maldita esto me está haciendo a todos caliente y trabajando!"
+msgstr "[_ember_] ¡Maldita sea, esto me está poniendo ardiente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12862 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_c5ccf5c5:
 msgid "[_danny_] {i}*Huff* *Huff!*{/i} F-fuck!"
-msgstr "[_danny_] {i}*Huff * *Huff! * {/i} F-fuck!"
+msgstr "[_danny_] {i}*Huff * *Huff! * {/i} ¡J-joder!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12865 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_1567ae81:
 msgid "[_desiree_] Look at her, her leg's look ready to give out, she's absolutely quaking!"
-msgstr "[_desiree_] Mírala, su pierna está lista para dar, ¡ella es absolutamente removiendo!"
+msgstr "[_desiree_] Mírala, sus piernas están preparadas para abrazarte ¡ella se está entregando absolutamente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12868 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_c3873df4:
 msgid "[_penelope_] {i}Mmmm!! Mmmm!~{/i}"
@@ -9369,31 +9369,31 @@ msgstr "[_penelope_] {i}MMMMMMMMMMMMMMMMGFGH!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12878 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_c5ccf5c5_1:
 msgid "[_danny_] {i}*Huff* *Huff!*{/i} F-fuck!"
-msgstr "[_danny_] {i}*Huff * *Huff! * {/i} F-fuck!"
+msgstr "[_danny_] {i}*Huff * *Huff! * {/i} ¡J-joder!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12881 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_ff7e0063:
 msgid "[_danny_] Oh, God!! She's clamping... hard!!{p}{nw}"
-msgstr "[_danny_] Oh, ¡¡¡Dios!! Sha está peleando... difícil!!{p}{nw}"
+msgstr "[_danny_] Oh, ¡¡¡Dios!! Me está sujetando... con fuerza!!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12884 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_bfbe0036:
 msgid "[_extend_] Too!! Tight!!"
-msgstr "[_extend_] Too!! ¡¡¡Muy bien!!"
+msgstr "[_extend_] ¡¡¡Muy bien!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12886 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_72b4065e:
 msgid "[_ember_] God damn... I think she's cumming already!"
-msgstr "[_ember_] Dios maldito... ¡Creo que ya se está cumbando!"
+msgstr "[_ember_] Maldicion... ¡Creo que se está corriendo otra vez!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12889 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_343d0205:
 msgid "[_ember_] {i}Haha!{/i} Wow Are you seriously cumming from getting your ass fucked in front of us like this?"
-msgstr "[_ember_] {i}¡Jaja!{/i} Wow ¿Estás muy agitado de hacerte follar tu culo delante de nosotros como esto?"
+msgstr "[_ember_] {i}¡ha ha!{/i} Wow ¿te has corrido por hacer follarte el culo delante de nosotras?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12892 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_5b03bd1b:
 msgid "[_danny_] I can't hold on much longer!"
-msgstr "¡[_danny_] no puedo esperar mucho más!"
+msgstr "[_danny_] ¡no puedo aguantar mucho más!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12895 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_16c271e7:
 msgid "[_desiree_] ...I think she's been more than satisfied with this arrangement."
-msgstr "[_desiree_] ...Creo que está más que satisfecha con este acuerdo."
+msgstr "[_desiree_] ...Creo que está más que satisfecha con este castigo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12898 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_c3873df4_1:
 msgid "[_penelope_] {i}Mmmm!! Mmmm!~{/i}"
@@ -9401,7 +9401,7 @@ msgstr "[_penelope_] {i}Mmm!! ¡Mmmm!~{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12900 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_6764ae41:
 msgid "[_danny_] I'm gonna-!"
-msgstr "[_danny_] ¡Soy gonna!"
+msgstr "[_danny_] ¡voy a-!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12909 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_f6f88631:
 msgid "[_penelope_] {i}*Huff* *Huff* *Huff*{i}{p}{nw}"
@@ -9413,7 +9413,7 @@ msgstr "[_extend_] {i}A-ahhhmm{/i}...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12917 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_17c8173d:
 msgid "[_ember_] I think good old Danny ended up breaking her with that one..."
-msgstr "[_ember_] creo que la buena vieja Danny terminó rompiéndola con esa una..."
+msgstr "[_ember_] creo que el buen Danny se corrió petándole el culo con su..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12920 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_cb04f0e9:
 msgid "[_danny_] That was... {i}*Huff*{/i} ...definitely pretty intense."
@@ -9421,27 +9421,27 @@ msgstr "[_danny_] Eso fue... {i}*Huff*{/i} ...definitivamente bastante intenso."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12925 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_46c51eac:
 msgid "[_danny_] Penelope? You okay in there?"
-msgstr "¿[_danny_] Penelope? ¿Te parece bien?"
+msgstr "[_danny_] ¿Penelope? ¿estás bien?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12936 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_6f2b0103:
 msgid "[_desiree_] How are we feeling hon, are we okay?"
-msgstr "[_desiree_] ¿Cómo nos sentimos hon, estamos bien?"
+msgstr "[_desiree_] ¿Cómo os sentís?, ¿estáis bien?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12939 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_40dca0b5:
 msgid "[_penelope_] {i}*Twitches*{/i} Ahhnnhh... ahhwahhhh...~~"
-msgstr "[_penelope_] {i}*Twitches*{/i} Ahhnnhhh... ahhwahhhhh...~~"
+msgstr "[_penelope_] {i}*Espasmos*{/i} Ahhnnhhh... ahhwahhhhh...~~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12947 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_ecd2c618:
 msgid "[_danny_] Right, okay... well... I'm sure she'll be fine, just... try and rest up, okay?"
-msgstr "[_danny_] Bien, bien... Estoy seguro de que estará bien, justo... intenta y descansa, ¿bien?"
+msgstr "[_danny_] Bien, bien... Estoy seguro de que estará bien, solo... intenta descansar, ¿bien?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12951 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_0dbc8110:
 msgid "[_penelope_] {i}*Giggling*{/i} I wuv you all...~"
-msgstr "[_penelope_] {i}*Gigling * {/i} I wuv you all ... ~"
+msgstr "[_penelope_] {i}*riéndose * {/i} yo a todos... ~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12953 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_debe124d:
 msgid "[_ember_] Never mind her, clean that cock off quick and get ready for round three!"
-msgstr "[_ember_] No te preocupes de ella, ¡limpia esa polla rápida y prepárate para la ronda tres!"
+msgstr "[_ember_] No te preocupes de ella, ¡limpia esa polla rápido y prepárate para la ronda tres!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12955 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_2243ef39:
 msgid "[_desiree_] ...both three {i}and{/i} four, in fact...~"
@@ -9453,11 +9453,11 @@ msgstr "[_danny_] ¿Eh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12973 #-#-# translate crowdin Episode_8_stage_445_desiree_and_ember_temptation_005acc7d:
 msgid "[_desiree_] I believe it is {i}our{/i} turn now, Master~"
-msgstr "[_desiree_] Creo que ahora es {i}nuestro{/i}, Master~"
+msgstr "[_desiree_] Creo que ahora es {i}nuestro{/i} turno, Master~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12976 #-#-# translate crowdin Episode_8_stage_445_desiree_and_ember_temptation_7e0757d3:
 msgid "[_ember_] Come on big boy, sort yourself out and don't keep your original and {u}favorite{/u} pair of hot ghost broads waiting!"
-msgstr "[_ember_] Ven al gran muchacho, ¡hazte con ti mismo y no mantengas tu pareja original y {u}favorita{/u} de broads de fantasma calientes esperando!"
+msgstr "[_ember_] Ven gran muchacho, ¡no olvides tu original y {u}favorita{/u} pareja de calientes fantasmas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12979 #-#-# translate crowdin Episode_8_stage_445_desiree_and_ember_temptation_9ab63e3c:
 msgid "[_danny_] {i}...!!!{/i}"
@@ -9469,39 +9469,39 @@ msgstr "[_danny_] (Resistencia basada en Orgone, {i}por favor {/i} no me fallan 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12998 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_eee3b470:
 msgid "[_desiree_] {i}Ahh!{/i} Yes! That's it, my Master! Fuck me! Fuck your eager servant!"
-msgstr "[_desiree_] {i}¡Ahh!{/i} ¡Sí! ¡Eso es todo, mi Maestro! ¡Suerte! ¡Suerte a tu siervo ansioso!"
+msgstr "[_desiree_] {i}¡Ahh!{/i} ¡Sí! ¡Eso es, mi Maestro! ¡folllame! ¡folla tu ansiosa sierva!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13002 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_8ae8c97d:
 msgid "[_danny_] {i}Ah!{/i} Fuck!!"
-msgstr "[_danny_] {i}Ah!{/i} Fuck!!"
+msgstr "[_danny_] {i}Ah!{/i} ¡¡joder!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13006 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_b158fb8f:
 msgid "[_danny_] You know... you know just what to do to get me hard as a rock as always, Des!"
-msgstr "[_danny_] Tú sabes... sabes qué hacer para hacerme difícil como siempre, ¡Des!"
+msgstr "[_danny_] Tú sabes... siempre sabes qué hacer para ponérmela como una roca, ¡Des!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13010 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_86a9e5d0:
 msgid "[_desiree_] Just happy... to service this magical cock of yours, not to worry!"
-msgstr "[_desiree_] Solo feliz... ¡para dar servicio a esta mágica polla tuya, no para preocuparse!"
+msgstr "[_desiree_] soy feliz... de dar servicio a esta mágica polla tuya!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13016 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_d439bd3d:
 msgid "[_desiree_] {u}Gods{/u} are you big!"
-msgstr "[_desiree_] {u}Dioses {/u} son grandes!"
+msgstr "[_desiree_] {u}Dioses {/u}¡ eres grandiosa!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13020 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_9b67a638:
 msgid "[_ember_] Jeez, don't hog all the cock all night!"
-msgstr "[_ember_] Jeez, ¡no esperes toda la polla toda la noche!"
+msgstr "[_ember_] Jeez, ¡no acapares la polla toda la noche!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13024 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_d19979e1:
 msgid "[_desiree_] {i}Oooh!{/i} My deepest apologies, Ember... j-just a little more-"
-msgstr "[_desiree_] {i}Oooh!{/i} Mis disculpas más profundas, Ember... j-just un poco más-"
+msgstr "[_desiree_] {i}Oooh!{/i} Mis disculpas más profundas, Ember... s-solo un poco más-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13030 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_f85f894d:
 msgid "[_desiree_] Yes! That's it! Right there!!"
-msgstr "[_desiree_] ¡Sí! ¡Eso es todo! ¡Allí mismo!"
+msgstr "[_desiree_] ¡Sí! ¡Eso es! ¡Ahí mismo!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13036 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_b4bf47d1:
 msgid "[_desiree_] Treat your servant as she should be treated! Teach her to know her place!"
-msgstr "[_desiree_] ¡Trata a tu siervo como debe ser tratado! ¡Enseña a conocer su lugar!"
+msgstr "[_desiree_] ¡Trata a tu sierva como debe ser tratada! ¡Enseñale a conocer sus lugares!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13040 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_1fb82f98:
 msgid "[_danny_] {i}*Huff* *Huff*{/i}"
@@ -9509,27 +9509,27 @@ msgstr "[_danny_] {i}*Huff* *Huff*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13042 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_4e941be4:
 msgid "[_danny_] I can't stop... I never wanna take it out! {i}Yeahh!{/i}"
-msgstr "[_danny_] No puedo parar... ¡Nunca quiero sacarlo! ¡ {i}Yeahh!{/i}"
+msgstr "[_danny_] No puedo parar... ¡No quiero sacarla nunca! ¡ {i}Yeahh!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13046 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_dae7f968:
 msgid "[_ember_] Hey, hey!! Don't be talking all that crazy talk before I get a go, yah jerk!~"
-msgstr "[_ember_] Hey, oy!! No hables todo tan loco antes de que me vaya, ¡yah jerk!~"
+msgstr "[_ember_] Hey, oy!! No hables tan rápido sin que antes pase yo, ¡yah cerdo!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13050 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_d4cd6298:
 msgid "[_ember_] You'll definitely be taking it out when you remember whose pussy is the {i}real{/i} showstopper in this house!!"
-msgstr "[_ember_] Definitivamente lo estarás sacando cuando recuerdes cuyo coño es el {i}real {/i} showstopper en esta casa!!"
+msgstr "[_ember_] cuando lo pruebes sabrás cual és {i}mejor {/i} coño de esta casa!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13054 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_bfac0160:
 msgid "[_desiree_] {i}Oh my...{/i}~ Master... {i}*Giggles*{/i} I think our dear Ember's feeling a little left out... why don't you..."
-msgstr "[_desiree_] {i}Oh mi...{/i}~ Maestro... {i}*Giggles*{/i} Creo que nuestro querido Ember se siente un poco fuera... ¿por qué no tú..."
+msgstr "[_desiree_] {i}Oh mi...{/i}~ Maestro... {i}*risas*{/i} Creo que nuestra querida Ember se siente un poco apartada... ¿por qué no le..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13060 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_ccee87ff:
 msgid "[_desiree_] ...treat her to some much needed affection?~"
-msgstr "[_desiree_] ...¿tratarla a alguna afección tan necesaria?~"
+msgstr "[_desiree_] ...da un poco de afecto?~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13064 #-#-# translate crowdin Episode_8_stage_450_desiree_indulgence_7391a0f4:
 msgid "[_danny_] R-right."
-msgstr "[_danny_] R-right."
+msgstr "[_danny_] V-vale."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13089 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_8273ebd6:
 msgid "[_ember_] {i}Ahh!{/i} Yes, pin me down! Fuck me silly!"
@@ -9773,7 +9773,7 @@ msgstr "[_danny_]..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13414 #-#-# translate crowdin Episode_8_stage_480_after_threesome_bcb0be2c:
 msgid "[_danny_] {i}...!!{/i}"
-msgstr "[_danny_] {i}...!!{/i}"
+msgstr "[_danny_] {i}¡¡...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13417 #-#-# translate crowdin Episode_8_stage_480_after_threesome_8e515dd2:
 msgid "[_danny_] ...what in the-{p}{nw}"
