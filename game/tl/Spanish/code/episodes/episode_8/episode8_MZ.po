@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-10 11:25\n"
+"PO-Revision-Date: 2024-01-10 12:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -9533,39 +9533,39 @@ msgstr "[_danny_] V-vale."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13089 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_8273ebd6:
 msgid "[_ember_] {i}Ahh!{/i} Yes, pin me down! Fuck me silly!"
-msgstr "[_ember_] {i}¡Ahh!{/i} Sí, ¡ancladme hacia abajo! ¡Sígueme bien!"
+msgstr "[_ember_] {i}¡Ahh!{/i} Sí, ¡clávamela! ¡Fóllame idiota!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13093 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_5ff03edb:
 msgid "[_danny_] S-shit, going from one of you to the next... it's almost too much!"
-msgstr "[_danny_] S-mierda, yendo de uno de ustedes al siguiente... ¡es casi demasiado!"
+msgstr "[_danny_] M-mierda, pasando de una a otra... ¡es casi demasiado!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13097 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_a59ed92e:
 msgid "[_desiree_] Oh my! Such a wonderful sight this is... I shall try and take it all in as best I can...~"
-msgstr "[_desiree_] ¡Oh mí! Una vista tan maravillosa esta es... intentaré tomarla todo lo mejor que puedo...~"
+msgstr "[_desiree_] ¡Oh dios! que vista tan maravillosa és esta... intentaré tomarla todo lo mejor que puedo...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13101 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_7bce8b66:
 msgid "[_ember_] Just... {i}ahhh!{/i}{p}{nw}"
-msgstr "[_ember_] Sust... ¡ {i}hh!{/i}{p}{nw}"
+msgstr "[_ember_] Solo... ¡ {i}hh!{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13107 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_e3d3b487:
 msgid "[_extend_] ...quit distracting him... and don't let him stop, Des!~"
-msgstr "[_extend_] ...dejar de distraerlo... y no dejarle parar, ¡Des!~"
+msgstr "[_extend_] ...deja de distraerlo... y no le dejes parar, ¡Des!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13113 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_6933155e:
 msgid "[_ember_] F-fuck this is so fucking good!"
-msgstr "[_ember_] ¡F-fuck esto es tan fucking bueno!"
+msgstr "[_ember_] ¡j-joder esto es una puta locura!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13116 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_d329ceb7:
 msgid "[_ember_] Jesus, the way he man handles my ass like this...!!~"
-msgstr "[_ember_] Jesús, la manera en que el hombre maneja mi culo como esto...!!~"
+msgstr "[_ember_] Jesús, la manera con la que jode mi culo és...!!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13122 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_632247d3:
 msgid "[_desiree_] Ember, I must say, you would have made an excellent chamber maiden back in my time, I sincerely believe that..."
-msgstr "[_desiree_] Ember, debo decir que habrías hecho una excelente inauguración de cámara en mi tiempo, sinceramente creo que..."
+msgstr "[_desiree_] Ember, debo decir que habrías sido una excelente dama de habitaciones en mi tiempo, sinceramente lo creo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13128 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_afbf8c6e:
 msgid "[_ember_] {i}Oooooh! Fuck yes!!{/i} That's it! Slam my pussy with that big fat cock!"
-msgstr "[_ember_] {i}¡Oooooh! ¡Pagado sí!!{/i} ¡Eso es! ¡Lanza mi coño con esa gran polla gorda!"
+msgstr "[_ember_] {i}¡Oooooh! ¡¡joder sí!!{/i} ¡Eso es! ¡Folla mi coño con esa gran polla gorda!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13131 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_e36f2d7d:
 msgid "[_ember_] {i}Ah! Ah!{/i} {i}Hahahaha!!{/i}{p}{nw}"
@@ -9573,19 +9573,19 @@ msgstr "[_ember_] {i}Ah! Ah!{/i} {i}Hahahaha!!{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13137 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_e3adf501:
 msgid "[_extend_] Desiree... as long as you and Red over there... learn to share this amazing dick...!"
-msgstr "[_extend_] Desea... ¡mientras tú y Rojo allí... aprendan a compartir esta increíble polla...!"
+msgstr "[_extend_] Desiree... ¡mientras tú y Roja estéis por aquí... aprendamos a compartir esta increíble polla...!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13140 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_a2000033:
 msgid "[_ember_] ...you can- {i}Mmmmpphh!{/i} Watch and comment all you want honestly!"
-msgstr "[_ember_] ...puedes - ¡ {i}Mmmpphh!{/i} ¡Mira y comenta todo lo que quieras honestamente!"
+msgstr "[_ember_] ...puedes - ¡ {i}Mmmpphh!{/i} ¡Mirar y comentar todo lo que quieras!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13145 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_5b915bc0:
 msgid "[_desiree_] It's a deal then!~"
-msgstr "[_desiree_] ¡Es una oferta entonces!~"
+msgstr "[_desiree_] ¡Es un trato entonces!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13149 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_386016f2:
 msgid "[_danny_] {i}*Huff*{/i} I can't hold on- {i}grrgh!{/i} ...much... longer!"
-msgstr "[_danny_] {i}*Huff*{/i} No puedo esperar- {i}grrgh!{/i} ...mucho... más!"
+msgstr "[_danny_] {i}*Huff*{/i} No aguantar- {i}grrgh!{/i} ...mucho... más!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13155 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_121f0d69:
 msgid "[_ember_] {i}Ah!~ Ah!~ Mmmm!{/i}"
@@ -9593,39 +9593,39 @@ msgstr "[_ember_] {i}Ah!~ Ah!~ Mmmm!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13160 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_b0af905a:
 msgid "[_danny_] I'm definitely gonna cum soon!"
-msgstr "[_danny_] ¡Definitivamente estoy gonna cum pronto!"
+msgstr "[_danny_] ¡Definitivamente me voy a correr!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13166 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_8313abd3:
 msgid "[_ember_] Just a... little... more! {i}Ohhhhh yesssss!!~{/i}"
-msgstr "[_ember_] Solo ... poco... ¡más! ¡ {i}Ohhhh yesssss!!~{/i}"
+msgstr "[_ember_] Solo un... poco... ¡más! ¡¡{i}Ohhhh síiiiiiii!!~{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13169 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_731f379e:
 msgid "[_danny_] FUCK! Yes! That's it! That's it!"
-msgstr "[_danny_] FUCK! ¡Sí! ¡Eso es todo! ¡Eso es todo!"
+msgstr "[_danny_] ¡JODER! ¡Sí! ¡Eso es todo! ¡Eso es todo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13175 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_6f386e21:
 msgid "[_desiree_] Master! Cum in her! Shoot it deep inside her tight little body!"
-msgstr "¡[_desiree_] Maestro! ¡Cúmelo en ella! ¡Dispátalo en el interior de su pequeño cuerpo!"
+msgstr "¡[_desiree_] Maestro! ¡Córrete en ella! ¡Dispáralo en el interior de su pequeño cuerpo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13181 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_036f8c1d:
 msgid "[_ember_] Oh my God! I can't believe I'm saying this, but... you can give it to her if you want!"
-msgstr "[_ember_] ¡Oh mi Dios! No puedo creer que esté diciendo esto, pero... ¡puedes dárselo si quieres!"
+msgstr "[_ember_] ¡Oh mi Dios! No puedo creer que esté diciendo esto, pero... ¡puedes dárselo a ella si lo quiere!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13187 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_bfcb2fc1:
 msgid "[_ember_] She helped set this whole thing up after all!{p}{nw}"
-msgstr "[_ember_] ¡Ella ayudó a configurar todo esto después de todo!{p}{nw}"
+msgstr "[_ember_] ¡Ella lo organizó todo después de todo!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13189 #-#-# translate crowdin Episode_8_stage_455_ember_indulgence_9010a813:
 msgid "[_extend_] I don't care! Just cum inside one of us!!"
-msgstr "¡[_extend_] no me importa! ¡¡¡¡¡Solo cum dentro de uno de nosotros!!"
+msgstr "[_extend_] ¡¡no me importa! ¡¡Solo córrete dentro de una de nosotras!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13216 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_73b4ca46:
 msgid "[_danny_] Okay then, let's switch out, quick! I wanna finish strong!"
-msgstr "[_danny_] Vale, ¡vamos a salir, rápido! ¡Quiero terminar fuerte!"
+msgstr "[_danny_] Vale, ¡vamos ir rápido, rápido! ¡Quiero terminar fuerte!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13221 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_80a29229:
 msgid "[_desiree_] {i}*Giggles*{/i} But of course, as you wish Master...~"
-msgstr "[_desiree_] {i}*Gigleses*{/i} Pero por supuesto, como quieras Maestro...~"
+msgstr "[_desiree_] {i}*risas*{/i} Por supuesto, como quieras Maestro...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13229 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_0fdf5b76:
 msgid "[_danny_] Okay then, let's just go ahead and..."
@@ -9633,11 +9633,11 @@ msgstr "[_danny_] Vale, vamos a seguir adelante y..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13231 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_199aa695:
 msgid "[_ember_] {i}Ohhh{/i} man... that was perfect... I'm just gonna lay down here for a second..."
-msgstr "[_ember_] {i}Ohhh{/i} hombre... eso fue perfecto... Sólo estoy sentado aquí por un segundo..."
+msgstr "[_ember_] {i}Ohhh{/i} tio... eso fue perfecto... quiero estar sentada aquí unos segundos..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13233 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_2d928d52:
 msgid "[_danny_] So, Desiree... shall we?"
-msgstr "[_danny_] Entonces, ¿queremos... deberíamos?"
+msgstr "[_danny_] Entonces, Desiree ¿deberíamos?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13235 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_e51e0d6d:
 msgid "[_desiree_] Oh yes, I do think we shall...~"
@@ -9673,11 +9673,11 @@ msgstr "[_desiree_] Sí, sí!! Por favor, ¡Maestro! ¡Dame tu amada semilla!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13273 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_4ee63982:
 msgid "[_danny_] Here I come...!!"
-msgstr "[_danny_] Aquí llego...!!"
+msgstr "[_danny_] ¡¡Aquí voy...!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13280 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_7fce0240:
 msgid "[_desiree_] {i}OOhhhhh!!!~{/i} Yes, release it all inside your willing servant...~"
-msgstr "[_desiree_] {i}Ohhhhh!!!~{/i} Sí, liberarlo todo dentro de tu siervo voluntario...~"
+msgstr "[_desiree_] {i}Ohhhhh!!!~{/i} Sí, libera todo dentro de tu sierva...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13288 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_d72a47a6:
 msgid "[_danny_] {i}Ahhhhh{/i}... yeah, that's it..."
@@ -9685,7 +9685,7 @@ msgstr "[_danny_] {i}Ahhhh{/i}... sí, eso..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13290 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_b4efe4bb:
 msgid "[_desiree_] {i}*Sighs*{/i}{p}{nw}"
-msgstr "[_desiree_] {i}*Suspirados*{/i}{p}{nw}"
+msgstr "[_desiree_] {i}*Suspiro*{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13292 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_50350a0b:
 msgid "[_extend_] How marvelous... thank you, my Master...~"
@@ -9693,79 +9693,79 @@ msgstr "[_extend_] Qué maravilloso... gracias, mi Maestro...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13294 #-#-# translate crowdin Episode_8_stage_465_threesome_finish_desiree_6e9dc0d2:
 msgid "[_danny_] {i}Heh{/i}, anytime Des, believe me... anytime."
-msgstr "[_danny_] {i}Heh{/i}, en cualquier momento Des, créame... en cualquier momento."
+msgstr "[_danny_] {i}Heh{/i}, de nada Des, créeme... de nada."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13310 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_970b00d9:
 msgid "[_danny_] Sounds good, I think I'll just finish it out here with you though, Ember..."
-msgstr "[_danny_] Suena bien, creo que lo acabaré aquí contigo, Ember..."
+msgstr "[_danny_] Suena bien, creo que acabaré en ti como piensas, Ember..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13316 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_db325e68:
 msgid "[_ember_] Oh thank fucking God, I was hoping you'd say that!"
-msgstr "[_ember_] Oh gracias a Dios follando, esperaba que lo dijeras!"
+msgstr "[_ember_] Oh gracias a Dios, esperaba que lo dijeras!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13318 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_d5391293:
 msgid "[_ember_] Then keep giving me that nice dick and make me your little cum slut already!!"
-msgstr "[_ember_] Luego sigue dándome esa buena polla y hazme tu pequeña zorra de esperma ya!!"
+msgstr "[_ember_] ¡¡Sigue dándome esa buena polla y hazme tu pequeña zorra!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13322 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_07959ad2:
 msgid "[_danny_] Okay, now we're talking!"
-msgstr "[_danny_] Vale, ahora estamos hablando!"
+msgstr "[_danny_] Vale,¡ ahora estamos hablando!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13328 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_046b6a4e:
 msgid "[_ember_] {i}Fuuuck{/i}, you're so deep in my pussy right now!!"
-msgstr "[_ember_] {i}Fuuuck{/i}, ¡¡¡Ahora mismo estás tan profundo en mi coño!!"
+msgstr "[_ember_] {i}Jodeeeeeer/i}, ¡¡¡Ahora mismo estás al fondo de mi coño!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13332 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_42f77904:
 msgid "[_danny_] Your... body... is so hot, Ember! You're on fire!"
-msgstr "[_danny_] Tu... cuerpo... ¡está tan caliente, Ember! ¡Estás encendido!"
+msgstr "[_danny_] Tu... cuerpo... ¡está tan caliente, Ember! ¡Estás ardiendo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13338 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_ec92d55e:
 msgid "[_ember_] {i}*Chuckles*{/i} You're damn right I'm on fire!"
-msgstr "[_ember_] {i}*Chuckles * {/i} ¡Te importa lo correcto que estoy en llamas!"
+msgstr "[_ember_] {i}*risas * {/i} ¡Dices la verdad, estoy en llamas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13340 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_e3c984a2:
 msgid "[_ember_] I'm... Ember... fucking... McLain, bitch!!"
-msgstr "[_ember_] I'm... Ember... fucking... McLain, perra!!"
+msgstr "[_ember_] soy... Ember... puta... McLain, puta!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13344 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_f0ed29c0:
 msgid "[_desiree_] (This is more than I could have asked for! Nothing better than a true haram developing between Master and his women of choice!!)"
-msgstr "[_desiree_] (¡Esto es más de lo que podría haber pedido! Nada mejor que un verdadero haram que se está desarrollando entre Maestro y sus mujeres de elección!!)"
+msgstr "[_desiree_] (¡Esto es más de lo que podría haber pedido! Nada mejor que una verdadera orgía entre Maestro y sus mujeres!!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13350 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_76b2099e:
 msgid "[_ember_] I want you to shoot it Danny! Finish inside me!! It's the big finale of this fun night!!"
-msgstr "[_ember_] ¡Quiero que lo dispares Danny! ¡¡Termina dentro de mí!! ¡Es la gran final de esta diversión nocturno!!"
+msgstr "[_ember_] ¡Quiero que lo dispares Danny! ¡¡Termina dentro de mí!! ¡Es la gran final de esta diversión nocturna!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13354 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_8f484c3c:
 msgid "[_danny_] {i}Ohhh{/i} Ember!! I'm cumming!!"
-msgstr "[_danny_] {i}Ohhh{/i} Ember!! I'm cumming!!"
+msgstr "[_danny_] {i}Ohhh{/i} Ember!! Me corrooooo!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13358 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_6fd6b38c:
 msgid "[_ember_] {i}Fuck{/i}, YESS!!{p}{nw}"
-msgstr "[_ember_] {i}Pequeña{/i}, SÍ!!{p}{nw}"
+msgstr "[_ember_] {i}Joder{/i}, SÍ!!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13366 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_2323a97b:
 msgid "[_extend_] {i}Ohhh{/i}, yeah, that feels so good, you have no idea...~"
-msgstr "[_extend_] {i}Ohh{/i}, sí, que se siente tan bien, no tienes idea...~"
+msgstr "[_extend_] {i}Ohh{/i}, sí, se siente tan bien, no tienes idea...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13368 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_ee837f77:
 msgid "[_danny_] That... was... more than I could have hoped for..."
-msgstr "[_danny_] que... fue... más de lo que yo podría haber esperado..."
+msgstr "[_danny_] eso... fue... más de lo que yo podría haber esperado..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13370 #-#-# translate crowdin Episode_8_stage_470_threesome_finish_ember_6284b0c6:
 msgid "[_ember_] That's what you get when you strike it big with Ember, dude... t'cha , you're welcome!"
-msgstr "[_ember_] Eso es lo que obtienes cuando lo golpeas con Ember, dude... t'cha , ¡eres bienvenido!"
+msgstr "[_ember_] Eso es lo que obtienes cuando lo follas con Ember, tronco... , ¡me encantó!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13387 #-#-# translate crowdin Episode_8_stage_475_threesome_finish_63c24feb:
 msgid "[_desiree_] {i}Ah!{/i} Now {i}that{/i} certainly reminded me of the good old days!"
-msgstr "[_desiree_] {i}Ah!{/i} ¡Ahora {i}eso {/i} me recordó sin duda los buenos viejos días!"
+msgstr "[_desiree_] {i}Ah!{/i} ¡Ahora {i}eso {/i} me recordó los buenos tiempos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13389 #-#-# translate crowdin Episode_8_stage_475_threesome_finish_04cbde7a:
 msgid "[_ember_] Shit... I don't think I ever did {i}anything{/i} as fun as that back when I was alive... wow."
-msgstr "[_ember_] Shit... no creo que nunca hice {i}nada{/i} tan divertido como eso cuando estaba vivo... wow."
+msgstr "[_ember_] mierda... creo que nunca hice {i}nada{/i} tan divertido como eso cuando estaba viva... wow."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13391 #-#-# translate crowdin Episode_8_stage_475_threesome_finish_1efd024f:
 msgid "[_danny_] I think... I need to lay down now... before I die of a heart attack."
-msgstr "[_danny_] creo que... necesito instalarme ahora... antes de morir de un ataque al corazón."
+msgstr "[_danny_] creo que... necesito descansar ahora... antes de morir de un ataque al corazón."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13411 #-#-# translate crowdin Episode_8_stage_480_after_threesome_d57e43bd:
 msgid "[_danny_] . . ."
@@ -9777,15 +9777,15 @@ msgstr "[_danny_] {i}¡¡...!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13417 #-#-# translate crowdin Episode_8_stage_480_after_threesome_8e515dd2:
 msgid "[_danny_] ...what in the-{p}{nw}"
-msgstr "[_danny_] ...qué en el-{p}{nw}"
+msgstr "[_danny_] ...qué -{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13420 #-#-# translate crowdin Episode_8_stage_480_after_threesome_ad412701:
 msgid "[_extend_] Oh... right."
-msgstr "[_extend_] Oh... derecho."
+msgstr "[_extend_] Oh... vale."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13423 #-#-# translate crowdin Episode_8_stage_480_after_threesome_57b09d92:
 msgid "[_danny_] {i}*Ahem* Uhm{/i}, girls...?"
-msgstr "[_danny_] {i}*Ahem* Uhm{/i}, niñas...?"
+msgstr "[_danny_] {i}*Ahem* Uhm{/i}, ¿chicas...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13426 #-#-# translate crowdin Episode_8_stage_480_after_threesome_712e9458:
 msgid "[_penelope_] ...{i}Zzzz{/i}..."
@@ -9793,7 +9793,7 @@ msgstr "[_penelope_] ...{i}Zzzz{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13429 #-#-# translate crowdin Episode_8_stage_480_after_threesome_31160829:
 msgid "[_ember_] {i}*Snores*{/i}"
-msgstr "[_ember_] {i}*Snores*{/i}"
+msgstr "[_ember_] {i}*ronquidos*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13432 #-#-# translate crowdin Episode_8_stage_480_after_threesome_2340b777:
 msgid "[_desiree_] . . ."
@@ -9801,39 +9801,39 @@ msgstr "[_desiree_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13435 #-#-# translate crowdin Episode_8_stage_480_after_threesome_1cff25d8:
 msgid "[_danny_] Girls! Hey, hey, wake up!"
-msgstr "[_danny_] Girls! Eh, ¡despierta!"
+msgstr "[_danny_] ¡chicas! Eh, ¡despertad!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13438 #-#-# translate crowdin Episode_8_stage_480_after_threesome_dc1d90ed:
 msgid "[_ember_] {i}Gah!{/i} Holy sh... wow. Okay... what... what time is it?"
-msgstr "[_ember_] {i}Gah! {/i} Holy sh ... wow. Vale ... qué ... ¿qué hora es?"
+msgstr "[_ember_] {i}Gah! {/i} joder... wow. Vale... qué... ¿qué hora es?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13441 #-#-# translate crowdin Episode_8_stage_480_after_threesome_8618b5ed:
 msgid "[_desiree_] M-mmm? Goodness... {i}*Yawn*{/i} ...me."
-msgstr "[_desiree_] M-mm? Bien... {i}*Yawn*{/i} ...me."
+msgstr "[_desiree_] M-mm? Dioses... {i}*bostezo*{/i} ...yo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13444 #-#-# translate crowdin Episode_8_stage_480_after_threesome_d9ba6712:
 msgid "[_penelope_] {i}Urgh{/i}... enough talking, it's too early for anything else.."
-msgstr "[_penelope_] {i}Urgh{/i}... bastante hablando, es demasiado pronto para cualquier otra cosa.."
+msgstr "[_penelope_] {i}Urgh{/i}... basta de hablar, es muy pronto para cualquier cosa.."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13447 #-#-# translate crowdin Episode_8_stage_480_after_threesome_ad6bc6f2:
 msgid "[_danny_] Girls, what are you all still doing here?!"
-msgstr "[_danny_] Girls, ¿qué estás haciendo todos aquí?!"
+msgstr "[_danny_] Girls, ¿qué estás haciendo todas aquí?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13450 #-#-# translate crowdin Episode_8_stage_480_after_threesome_539cd931:
 msgid "[_danny_] C'mon, if someone walks in, I'm totally screwed!"
-msgstr "[_danny_] C'mon, si alguien entra en ella, ¡estoy totalmente atornillado!"
+msgstr "[_danny_] vamos, si alguien entra, ¡estoy jodido!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13467 #-#-# translate crowdin Episode_8_stage_480_after_threesome_181c1887:
 msgid "[_ember_] Yeah, look, we- {i}*Yawn*{/i} ...we wanted to talk to you about that, so listen..."
-msgstr "[_ember_] Sí, mira, nosotros- {i}*Siamn*{/i} ...queríamos hablarte de eso, así que escucha..."
+msgstr "[_ember_] Sí, mira, nosotras- {i}*bostezo*{/i} ...queríamos hablarte de eso, así que escucha..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13473 #-#-# translate crowdin Episode_8_stage_480_after_threesome_6ecdd0d1:
 msgid "[_desiree_] Yes... since our dear Penelope has joined the... group... it has certainly become a tad crowded in the \"Fenton Thermos\" Master."
-msgstr "[_desiree_] Sí... desde que nuestro querido Penélope se ha unido al grupo... sin duda se ha convertido en un Fenton crowded en el Maestro de \"Termos\"."
+msgstr "[_desiree_] Sí... desde que nuestro querida Penélope se ha unido al grupo... sin duda se ha reducido el espacio en el \"thermo\" Maestro."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13479 #-#-# translate crowdin Episode_8_stage_480_after_threesome_d42a80a9:
 msgid "[_danny_] What? But I thought that... didn't we originally make a wish so that you could have more room inside?"
-msgstr "[_danny_] ¿Qué? Pero pensé que... originalmente no hicimos un deseo para que pudieras tener más espacio dentro?"
+msgstr "[_danny_] ¿Qué? Pero ¿pensé que... hicimos un deseo para que pudieras tener más espacio dentro?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13485 #-#-# translate crowdin Episode_8_stage_480_after_threesome_9ccf859a:
 msgid "[_desiree_] It would seem that the more capacity my magic must compensate for, the less adequate space is capable of being produced."
@@ -9841,103 +9841,103 @@ msgstr "[_desiree_] Parece que cuanto más capacidad deba compensar mi magia, me
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13491 #-#-# translate crowdin Episode_8_stage_480_after_threesome_78085081:
 msgid "[_ember_] So in other words, the rooms keep getting smaller and smaller the more dumb sluts you bring home!"
-msgstr "[_ember_] En otras palabras, ¡las habitaciones siguen siendo cada vez más pequeñas cuanto más zorras traes a casa!"
+msgstr "[_ember_] En otras palabras, ¡las habitaciones se hacen más pequeñas con cada nueva zorra que tras a casa!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13496 #-#-# translate crowdin Episode_8_stage_480_after_threesome_309cf9f8:
 msgid "[_desiree_] ...so it would seem."
-msgstr "[_desiree_] ...así que parecería."
+msgstr "[_desiree_] ...eso parece."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13502 #-#-# translate crowdin Episode_8_stage_480_after_threesome_95601fc7:
 msgid "[_penelope_] Hey!! You watch it over who you call a dumb slut, young lady!"
-msgstr "[_penelope_] Hey!! ¡Lo ves por encima de quien llamas una puta tonta, joven dama!"
+msgstr "[_penelope_] Hey!! ¡Lo ves por debajo de la que llamas puta tonta, joven dama!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13508 #-#-# translate crowdin Episode_8_stage_480_after_threesome_4ef16bba:
 msgid "[_ember_] {i}Heh{/i}, yeah, sure thing Grandma..."
-msgstr "[_ember_] {i}Heh{/i}, sí, asegúrate de lo que abuela..."
+msgstr "[_ember_] {i}Heh{/i}, sí, asegúrate de lo que sea abuela..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13514 #-#-# translate crowdin Episode_8_stage_480_after_threesome_556496d7:
 msgid "[_danny_] Is it really that bad?"
-msgstr "[_danny_] ¿Es realmente tan mal?"
+msgstr "[_danny_] ¿Es tan malo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13520 #-#-# translate crowdin Episode_8_stage_480_after_threesome_86149d0c:
 msgid "[_penelope_] Frankly? Desiree I believe used the phrase \"a tad crowded\" to describe how things are..."
-msgstr "¿[_penelope_] francamente? Deseo que yo creo que utilizó la frase \"un Cuerpo coronado\" para describir cómo están las cosas..."
+msgstr "[_penelope_] ¿francamente? Desiree creo que utilizó la palabra \"abarrotado\" para describir cómo están las cosas..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13526 #-#-# translate crowdin Episode_8_stage_480_after_threesome_b1102a35:
 msgid "[_penelope_] ...but \"unbearably compact and cramped\" could be another."
-msgstr "[_penelope_] ...pero \"insoportablemente compacto y agobiado\" podría ser otro."
+msgstr "[_penelope_] ...pero \"insoportablemente compacto y agobiado\" podría ser otra frase."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13532 #-#-# translate crowdin Episode_8_stage_480_after_threesome_36ef7edf:
 msgid "[_danny_] Seriously?"
-msgstr "[_danny_] ¿Seriosamente?"
+msgstr "[_danny_] ¿en serio?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13538 #-#-# translate crowdin Episode_8_stage_480_after_threesome_0fe94a51:
 msgid "[_desiree_] Master, I do not think I need to point out to you of all people that... the three of us on our own already, well..."
-msgstr "[_desiree_] Maestro, no creo que necesite señalarte eso a todas las personas. . Los tres de nosotros ya solos, bien..."
+msgstr "[_desiree_] Maestro, no creo que necesite decir que... las tres estamos en acuerdo, bien..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13544 #-#-# translate crowdin Episode_8_stage_480_after_threesome_90a8aaa1:
 msgid "[_desiree_] We make up an {i}exceptional{/i} trio of... willful and headstrong women."
-msgstr "[_desiree_] Formamos un trío excepcional {i}{/i} de... mujeres voluntarias y fuertes en la cabeza."
+msgstr "[_desiree_] y formamos un trío {i}excepcional {/i} de... mujeres testarudas y obstinadas."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13550 #-#-# translate crowdin Episode_8_stage_480_after_threesome_01e0b8b5:
 msgid "[_danny_] Big personalities... yeah, I think I get what you're saying..."
-msgstr "[_danny_] Personalidades grandes... sí, creo que tengo lo que estás diciendo..."
+msgstr "[_danny_] Grandes personalidades... sí, creo que enteindo lo que estás diciendo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13556 #-#-# translate crowdin Episode_8_stage_480_after_threesome_de3797ad:
 msgid "[_danny_] If I'm gonna continue to try and rehabilitate any of the ghosts attacking the town."
-msgstr "[_danny_] Si voy a seguir intentando y rehabilitando cualquiera de los fantasmas que atacan la ciudad."
+msgstr "[_danny_] Si voy a seguir intentando y rehabilitar cualquiera de los fantasmas que atacan la ciudad."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13562 #-#-# translate crowdin Episode_8_stage_480_after_threesome_088e3d59:
 msgid "[_penelope_] We're going to need better accommodations, there just won't be enough going forward with any {i}more{/i} drama queens we end up stuck with."
-msgstr "[_penelope_] Vamos a necesitar mejores alojamientos, simplemente no habrá suficiente marcha hacia adelante con cualquier reinas de drama {i}más {/i} con la que acabamos atascados."
+msgstr "[_penelope_] Vamos a necesitar mejores alojamientos, no habrá suficiente sitio para alguna reina de drama {i}más {/i}."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13568 #-#-# translate crowdin Episode_8_stage_480_after_threesome_930336c5:
 msgid "[_desiree_] ...spoken as if you were not yourself the most {i}recent{/i} unwanted guest to arrive."
-msgstr "[_desiree_] ... hablado como si usted no era usted mismo el más {i}reciente {/i} invitado no deseado para llegar."
+msgstr "[_desiree_] ... hablas como si tú fueras la más {i}reciente {/i} invitada no deseado que ha llegado."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13574 #-#-# translate crowdin Episode_8_stage_480_after_threesome_707217a4:
 msgid "[_penelope_] {i}Ohhh{/i} please, I liven things up around here in the best ways possible."
-msgstr "[_penelope_] {i}Ohhh{/i} por favor, vivo las cosas aquí de la mejor manera posible."
+msgstr "[_penelope_] {i}Ohhh{/i} por favor, vivo las cosas de la mejor manera posible."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13580 #-#-# translate crowdin Episode_8_stage_480_after_threesome_99f565df:
 msgid "[_ember_] Yeah, so you're gonna need to find some kinda proper place for us."
-msgstr "[_ember_] Sí, así que necesitas encontrar un lugar adecuado para nosotros."
+msgstr "[_ember_] Sí, así que tienes que encontrar un lugar para nosotras."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13586 #-#-# translate crowdin Episode_8_stage_480_after_threesome_f753eab9:
 msgid "[_desiree_] If you still do not wish for us to me made known to your family living here as well, that is."
-msgstr "[_desiree_] Si usted todavía no desea que yo me dé a conocer a su familia viviendo aquí también, es decir."
+msgstr "[_desiree_] Si usted no desea que yo me dé a conocer a su familia viviendo aquí, es decir."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13592 #-#-# translate crowdin Episode_8_stage_480_after_threesome_64013e59:
 msgid "[_ember_] Because if we keep going in this ever shrinking space direction, we're gonna go crazy..."
-msgstr "[_ember_] Porque si seguimos en esta dirección del espacio cada vez menor, vamos a volvernos locos ..."
+msgstr "[_ember_] Porque si seguimos en esta dirección del espacio cada vez menor, vamos a volvernos locas..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13598 #-#-# translate crowdin Episode_8_stage_480_after_threesome_393fd068:
 msgid "[_danny_] (...maybe {i}crazier{/i}, sure...)"
-msgstr "[_danny_] (...tal vez {i}crazier{/i}, seguro...)"
+msgstr "[_danny_] (...tal vez {i}locas{/i}, seguro...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13604 #-#-# translate crowdin Episode_8_stage_480_after_threesome_83e33785:
 msgid "[_ember_] Hey, you better not be thinking of some kind of comeback in your head, dude!"
-msgstr "[_ember_] Hey, ¡mejor que no pienses en algún tipo de regreso en tu cabeza, debido!"
+msgstr "[_ember_] Hey, ¡mejor que no se te pase algún regreso a la zona por tu cabeza, tronco!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13610 #-#-# translate crowdin Episode_8_stage_480_after_threesome_b1f7ec4b:
 msgid "[_danny_] Okay, okay, I'll... try to work out something for the future, but just for {u}now{/u}, can we all go back inside?"
-msgstr "[_danny_] Vale, vale, yo... intento averiguar algo para el futuro, pero solo para {u}ahora{/u}, ¿podemos volver a entrar?"
+msgstr "[_danny_] Vale, vale, yo... intentaré averiguar algo, pero por {u}ahora{/u}, ¿podéis volver a entrar?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13616 #-#-# translate crowdin Episode_8_stage_480_after_threesome_b7415324:
 msgid "[_ember_] {i}Ehhh{/i}, it's not like we've got much choice here anyway."
-msgstr "[_ember_] {i}Ehhh{/i}, no es como si tuviéramos mucha opción aquí de todos modos."
+msgstr "[_ember_] {i}Ehhh{/i}, no es como si tuviéramos muchas opciones aquí."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13622 #-#-# translate crowdin Episode_8_stage_480_after_threesome_79d90afc:
 msgid "[_desiree_] The Thermos will suffice us for now, Master, as you wish..."
-msgstr "[_desiree_] El Thermos nos sufrirá por ahora, Maestro, como quieres..."
+msgstr "[_desiree_] El Thermo nos contendrá por ahora, Maestro, como quiera..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13627 #-#-# translate crowdin Episode_8_stage_480_after_threesome_34c91026:
 msgid "[_penelope_] The sizes of the rooms in there are all I've known, so it's fine. You {i}do{/i} need to come up with something though!"
-msgstr "[_penelope_] Los tamaños de las habitaciones en las hay todo lo que he conocido, así que está bien. You {i}do {/i} need to come up with something though!"
+msgstr "[_penelope_] Los tamaños de las habitaciones que teníamos, estaban bien. Tú {i}has {/i} de encontrar algo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13633 #-#-# translate crowdin Episode_8_stage_480_after_threesome_99e1b401:
 msgid "[_danny_] Thanks ladies..."
-msgstr "[_danny_] damas de gracias..."
+msgstr "[_danny_] Gracias chicas..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13644 #-#-# translate crowdin Episode_8_stage_480_after_threesome_459ee095:
 msgid "[_penelope_] . . ."
@@ -9945,7 +9945,7 @@ msgstr "[_penelope_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13648 #-#-# translate crowdin Episode_8_stage_480_after_threesome_65d0945e:
 msgid "[_danny_] ...Penelope? Something the matter?"
-msgstr "[_danny_] ...¿Penelope? ¿Algo es así?"
+msgstr "[_danny_] ...¿Penelope? ¿pas algo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13652 #-#-# translate crowdin Episode_8_stage_480_after_threesome_2635cc3b:
 msgid "[_penelope_] I... well no, not anything particularly... {i}uhmm{/i}..."
@@ -9953,7 +9953,7 @@ msgstr "[_penelope_] Yo... bueno, no, nada particularmente... {i}uhmm{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13656 #-#-# translate crowdin Episode_8_stage_480_after_threesome_9519a4b8:
 msgid "[_penelope_] {i}*Stammers*{/i} I simply wanted to thank you... for last night..."
-msgstr "[_penelope_] {i}*Selladores*{/i} simplemente quería agradecérselo... por la última noche..."
+msgstr "[_penelope_] {i}*tartamudeo*{/i} solo quería agradecerte... la última noche..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13660 #-#-# translate crowdin Episode_8_stage_480_after_threesome_49c40cb2:
 msgid "[_danny_] Huh?"
@@ -9969,15 +9969,15 @@ msgstr "[_danny_] ...oh, {i}uh{/i}... sí, por supuesto."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13672 #-#-# translate crowdin Episode_8_stage_480_after_threesome_3bdc0b8b:
 msgid "[_penelope_] ...it was... definitely an {i}interesting{/i} experience."
-msgstr "[_penelope_] ...fue... definitivamente una experiencia interesante{/i} {i}."
+msgstr "[_penelope_] ...fue... definitivamente una experiencia {i} interesante{/i} ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13676 #-#-# translate crowdin Episode_8_stage_480_after_threesome_0750b9ee:
 msgid "[_danny_] Yeah, I would agree... I had a great time too, Penelope."
-msgstr "[_danny_] Sí, estaría de acuerdo... Yo también tuve un buen tiempo, Penelope."
+msgstr "[_danny_] Sí, estoy de acuerdo... Yo también tuve un buen rato, Penelope."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13682 #-#-# translate crowdin Episode_8_stage_480_after_threesome_4a1b7b3a:
 msgid "[_penelope_] Well... ta-ta for now!"
-msgstr "[_penelope_] Bueno... ta-ta por ahora!"
+msgstr "[_penelope_] Bueno... as-asta ahora!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13691 #-#-# translate crowdin Episode_8_stage_480_after_threesome_d57e43bd_1:
 msgid "[_danny_] . . ."
@@ -9985,7 +9985,7 @@ msgstr "[_danny_]..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13695 #-#-# translate crowdin Episode_8_stage_480_after_threesome_1748948c:
 msgid "[_danny_] \"Ta-ta for now\"? Really? What a weird way to end things..."
-msgstr "¿[_danny_] \"Ta-ta por ahora\"? ¿De verdad? ¿Qué extraña manera de poner fin a las cosas..."
+msgstr "[_danny_] \"as-asta ahora\"? ¿De verdad? ¿Qué extraña manera de poner fin a las conversaciones..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13725 #-#-# translate crowdin episode_8_afterward_cd9cb06a:
 msgid "Thanks for playing the most recent version of Amity Park."
