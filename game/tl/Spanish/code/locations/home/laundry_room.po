@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2024-01-10 12:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/home/laundry_room.rpy:264 #-#-# translate crowdin notWorkingYet_bf5cad1b:
 msgid "cant jump in there yet"
-msgstr "no se puede saltar allí todavía"
+msgstr "no puedo saltar allí todavía"
 
