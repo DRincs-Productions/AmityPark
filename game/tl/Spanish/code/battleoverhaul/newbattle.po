@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-01-12 17:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -30,11 +30,11 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] ¿El... el qué? ¿De qu�
 
 # game/code/battleoverhaul/newbattle.rpy:38 #-#-# translate crowdin newbattletutorial_5e74f432:
 msgid "[_epa_] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
-msgstr "[_epa_] Quién soy no es importante Danny, lo que es {i}importante{/i} es que he estado escuchando rumores acerca de tus técnicas de lucha que son \"aplastantes\" y simplemente \" duras\".{p}Bueno, ¡espero que todo eso cambie a partir de hoy!"
+msgstr "[_epa_] Quién soy no es importante Danny, lo que es {i}importante{/i} es que he estado escuchando rumores acerca de tus técnicas de lucha que son \"aplastantes\" y \"duras\". {p}Bueno, ¡espero que todo eso cambie a partir de hoy!"
 
 # game/code/battleoverhaul/newbattle.rpy:40 #-#-# translate crowdin newbattletutorial_8fbd33fc:
 msgid "[_danny_s_down_s_angry_s_talk_displeased_] {i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
-msgstr "[_danny_s_down_s_angry_s_talk_displeased_] {i}*refunfuño*{/i} Bueno, pensé que estaba haciendo un buen trabajo por mi cuenta. {i}*refunfuño*"
+msgstr "[_danny_s_down_s_angry_s_talk_displeased_] {i}*refunfuño*{/i} Bueno, pensé que estaba haciendo un buen trabajo. {i}*refunfuño*{/i}"
 
 # game/code/battleoverhaul/newbattle.rpy:43 #-#-# translate crowdin newbattletutorial_f8d29441:
 msgid "[_epa_] Nonsense Danny, you can do way better! And I'm here to show you how!"
@@ -42,7 +42,7 @@ msgstr "[_epa_] Tonterías Danny, ¡puedes hacerlo mucho mejor! ¡Y estoy aquí 
 
 # game/code/battleoverhaul/newbattle.rpy:46 #-#-# translate crowdin newbattletutorial_c1834891:
 msgid "[_epa_] Danny, you need to learn to stop blocking attacks and just learn to use {b}Intangibility{/b} like any other ghost!"
-msgstr "[_epa_] ¡Danny, tienes que aprender a dejar de bloquear los ataques y aprender a usar {b}Intangibilidad{/b} como cualquier otro fantasma!"
+msgstr "[_epa_] ¡Danny, tienes que aprender a dejar de bloquear los ataques y aprender a usar la {b}Intangibilidad{/b} como cualquier otro fantasma!"
 
 # game/code/battleoverhaul/newbattle.rpy:48 #-#-# translate crowdin newbattletutorial_d3c72019:
 msgid "[_danny_s_at_player_s_rise_s_talk_displeased_] What? \"Intangible\"? But doesn't that cost ecto-power to do? Also, wasn't it called \"Invisibility\" before?"
@@ -50,7 +50,7 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_displeased_] ¿Qué? ¿\"Intangible\"?
 
 # game/code/battleoverhaul/newbattle.rpy:51 #-#-# translate crowdin newbattletutorial_7ab24936:
 msgid "[_epa_] We're changing a few things around! Trust me, I've seen you go perving around your house by peaking your head and hands through walls... so just do that in combat too!{p}It costs {u}nothing{/u} at all to use now!"
-msgstr "[_epa_] ¡Vamos a cambiar algunas cosas! Confía en mí, te he visto ir a espiar por tu casa asomando la cabeza y las manos por las paredes... ¡así que hazlo también en el combate!{p}¡Ahora no cuesta nada usarlo {u}!"
+msgstr "[_epa_] ¡Vamos a cambiar algunas cosas! Confía en mí, te he visto ir a espiar por tu casa asomando la cabeza y las manos por las paredes... ¡así que hazlo también en el combate! ¡Ahora no {p}cuesta {u}nada{/u} usarlo!"
 
 # game/code/battleoverhaul/newbattle.rpy:53 #-#-# translate crowdin newbattletutorial_7e6c2730:
 msgid "[_danny_s_down_s_neutral_s_talk_displeased_] Okay, I guess I could try that..."
