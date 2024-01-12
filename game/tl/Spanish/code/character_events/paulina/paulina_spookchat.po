@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2024-01-12 20:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -18,7 +18,7 @@ msgstr "[_phone_] {i}Bzzt {/i} {i}Bzzt {/i}"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:26 #-#-# translate crowdin paulina_selfie_shot_event_c1bbbada:
 msgid "[_danny_] Oh, hey, a text from Paulina, sweet."
-msgstr "[_danny_] Oh, hey, un texto de Paulina, bien."
+msgstr "[_danny_] Oh, hey, un texto de Paulina, genial."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:32 #-#-# translate crowdin paulina_selfie_shot_event_76b2fe88:
 msgid "[nvl_clear]"
