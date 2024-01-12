@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:38\n"
+"PO-Revision-Date: 2024-01-12 18:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_tv.rpy:14 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_f84d361d:
 msgid "[_danny_s_f_s_offscreen_s_idle_s_displeased_] ({i}Jeez{/i}... Mom must have been exhausted, she just passed out here with the TV still on.)"
@@ -134,7 +134,7 @@ msgstr "[_maddie_] {i}...!!!{/i}"
 
 # game/code/character_events/maddie/maddie_tv.rpy:103 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_a1e9f649:
 msgid "[_maddie_] {i}...Daniel Fenton?!{/i} ...{u}what{/u} exactly, are you doing...??"
-msgstr "[_maddie_] {i}...¡¿Daniel Fenton?! {/i}...{u}¿qué estás haciendo exactamente...??"
+msgstr "[_maddie_] {i}...¡¿Daniel Fenton?! {/i}...{u}¿qué{/u} estás haciendo exactamente...??"
 
 # game/code/character_events/maddie/maddie_tv.rpy:107 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_2bcf0b85:
 msgid "[_danny_] ({i}...ohh shit!!{/i})"
@@ -210,7 +210,7 @@ msgstr "[_danny_] Se siente... ¡increíble!"
 
 # game/code/character_events/maddie/maddie_tv.rpy:167 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_55e28058:
 msgid "[_maddie_] {i}*Giggling*{/i} That's nice... I like wearing this material for that reason too..."
-msgstr "[_maddie_] {i}*Giggling*{/i} Eso es muy bueno... Me gusta llevar este traje por esa razón también..."
+msgstr "[_maddie_] {i}*riendo*{/i} Eso es muy bueno... Me gusta llevar este traje por esa razón también..."
 
 # game/code/character_events/maddie/maddie_tv.rpy:171 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_150b096b:
 msgid "[_danny_] R-really?"
@@ -262,7 +262,7 @@ msgstr "[_danny_] Qué puedo decir... Quiero mucho a mi madre."
 
 # game/code/character_events/maddie/maddie_tv.rpy:214 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_cc881c49:
 msgid "[_maddie_] {i}*Chuckles*{/i} This momma loves her boy just as much.{p}{nw}"
-msgstr "[_maddie_] {i}*Chuckles*{/i} Esta mamá ama a su hijo tanto como él a ella.{p}{nw}"
+msgstr "[_maddie_] {i}*risas*{/i} Esta mamá ama a su hijo tanto como él a ella.{p}{nw}"
 
 # game/code/character_events/maddie/maddie_tv.rpy:218 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_243cabad:
 msgid "[_extend_] Now quickly, go and bring me a small hand cloth from the kitchen!"
@@ -314,7 +314,7 @@ msgstr "[_danny_] ¡¿Qué?! ¿En serio? Espera, ¿qué, quieres decir como... c
 
 # game/code/character_events/maddie/maddie_tv.rpy:281 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_8dbb43bf:
 msgid "[_maddie_] {i}*Giggles*{/i} I don't know! I suppose so! It was certainly out there, even for some of my more perverse fantasies!"
-msgstr "[_maddie_] {i}*Giggles*{/i}¡No lo sé! Supongo que sí. ¡Ciertamente estaba soñando en una de mis fantasías más perversas!"
+msgstr "[_maddie_] {i}*Risas*{/i}¡No lo sé! Supongo que sí. ¡Ciertamente estaba soñando en una de mis fantasías más perversas!"
 
 # game/code/character_events/maddie/maddie_tv.rpy:285 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_26ec5a92:
 msgid "[_danny_] Wait, so... how many other fantasies are we talking about? And how many of them include me exact-"
