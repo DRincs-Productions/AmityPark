@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:39\n"
+"PO-Revision-Date: 2024-01-12 21:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/star/star_gym_running.rpy:17 #-#-# translate crowdin gym_monday_star_running_repeat_4f533b71:
 msgid "[_danny_s_gym_s_towards_s_wondering_s_smile_] (Doesn't look like anybody's really taking advantage of the gym this early today.)"
@@ -358,7 +358,7 @@ msgstr "[_star_s_gym_s_towards_s_idle_s_talk_happy_] De todos modos, envía las 
 
 # game/code/character_events/star/star_gym_running.rpy:425 #-#-# translate crowdin gym_monday_star_running_competition_star_c28c045a:
 msgid "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Muttering*{/i}...right away, your heinie-ness..."
-msgstr "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Muttering * {/i} ... de inmediato, su cruedad ..."
+msgstr "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Murmullo* {/i}... de inmediato, su crueldad..."
 
 # game/code/character_events/star/star_gym_running.rpy:428 #-#-# translate crowdin gym_monday_star_running_competition_star_f45a73e8:
 msgid "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] Excuse me, what was that...?"
