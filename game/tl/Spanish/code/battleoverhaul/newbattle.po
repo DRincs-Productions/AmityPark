@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-12 17:28\n"
+"PO-Revision-Date: 2024-01-12 18:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -170,19 +170,19 @@ msgstr "[_epa_] Eso vendrá en futuras actualizaciones y no deberíais preocupar
 
 # game/code/battleoverhaul/newbattle.rpy:126 #-#-# translate crowdin newbattletutorial_b50585dc:
 msgid "[_epa_] Oh yes, and before we get too far from it... I should give you an explanation on how your Orgone boost now works."
-msgstr "[_epa_] Ah, sí, y antes de que nos vayamos demasiado lejos... debería darte una explicación sobre cómo funciona ahora tu impulso de Orgón."
+msgstr "[_epa_] Ah, sí, y antes de que nos vayamos demasiado lejos... debería darte una explicación sobre cómo funciona ahora tu impulso de Orgone."
 
 # game/code/battleoverhaul/newbattle.rpy:129 #-#-# translate crowdin newbattletutorial_190d92a3:
 msgid "[_epa_] You now have an Orgone Capacity, so you can only maintain the fully boosted Orgone state for a {u}limited{/u} amount of time. Sorry if this sounds like a bummer."
-msgstr "[_epa_] Ahora tienes una capacidad de Orgón, por lo que sólo puedes mantener el estado de Orgón totalmente potenciado durante una cantidad de tiempo {u}limitada{/u}. Lo siento si esto suena como un fastidio."
+msgstr "[_epa_] Ahora tienes una capacidad de Orgone, por lo que sólo puedes mantener el estado de Orgone totalmente potenciado durante una cantidad de tiempo {u}limitado{/u}. Lo siento si esto suena como un fastidio."
 
 # game/code/battleoverhaul/newbattle.rpy:131 #-#-# translate crowdin newbattletutorial_85dd90f0:
 msgid "[_epa_] Each turn you take will burn through your Orgone reserves until eventually the effect will fade, so play smart to finish the fight before you lose the boost."
-msgstr "[_epa_] Cada turno que tomes gastarás tus reservas de Orgón hasta que se gaste. Así que juega inteligentemente para terminar la pelea antes de gastarlo."
+msgstr "[_epa_] Cada turno que tomes gastarás tus reservas de Orgone hasta que se gaste. Así que juega inteligentemente para terminar la pelea antes de gastarlo."
 
 # game/code/battleoverhaul/newbattle.rpy:134 #-#-# translate crowdin newbattletutorial_c3738b58:
 msgid "[_epa_] Now alongside the new limit, the Orgone Boost has been increased to be more {u}powerful{/u}. It'll provide you with ecto-power regeneration, shield you from damage, and increase your attack power."
-msgstr "[_epa_] Ahora se ha aumentado el impulso de orgón para que sea más potente {u}. Te proporcionará regeneración de ectopoder, te protegerá del daño y aumentará tu poder de ataque."
+msgstr "[_epa_] Ahora se ha aumentado el impulso de orgone para que sea más {u}potente{/u}. Te proporcionará regeneración de ectopoder, te protegerá del daño y aumentará tu poder de ataque."
 
 # game/code/battleoverhaul/newbattle.rpy:137 #-#-# translate crowdin newbattletutorial_0762f23d:
 msgid "[_epa_] Hopefully those little improvements will make you more at ease about having a limited amount of time."
