@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 21:07\n"
+"PO-Revision-Date: 2024-01-13 22:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -1314,7 +1314,7 @@ msgstr "[_ishiyama_s_arm_behind_s_towards_s_wondering_s_talk_happy_] ¡Oh! Bueno
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1963 #-#-# translate crowdin redux_ishiyama_intro_34f2a725:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhhm{/i}, I haven't quite agreed to anything ye-"
-msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhhm{i/}, no he accedido a nada"
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhhm{/i}, no he accedido a nada"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1967 #-#-# translate crowdin redux_ishiyama_intro_e69f4692:
 msgid "[_jazz_s_closed_s_rise_s_talk_happy_] Have {i}fuuuun{/i}, bro!~"
@@ -1358,7 +1358,7 @@ msgstr "[_ishiyama_s_arm_front_s_towards_s_idle_s_talk_happy_] Danny, ¡por supu
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2005 #-#-# translate crowdin redux_ishiyama_intro_75ed7265:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] {i}Heh{/i}, it's alright. I'd be surprised if you weren't at the moment."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] {i}Heh{i/}, está bien. Me sorprendería que no lo estuvieras en este momento."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] {i}Heh{/i}, está bien. Me sorprendería que no lo estuvieras en este momento."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2008 #-#-# translate crowdin redux_ishiyama_intro_e4fdd610:
 msgid "[_ishiyama_s_arm_behind_s_towards_s_rise_s_talk_happy_] As I said, I'll let you know what I'll need from you next, alright?"
@@ -1386,7 +1386,7 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ah, bueno. Ishiyama parece bastan
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2064 #-#-# translate crowdin invisobill_introduction_7a68e671:
 msgid "[_danny_s_at_player_s_sad_s_talk_consternation_] This week keeps getting crazier and {i}crazier{/i}... I'll be happy if I never have to hear about ghosts ever again."
-msgstr "[_danny_s_at_player_s_sad_s_talk_consternation_] Esta semana se está volviendo loca y {i}más loca{i/}... Seré feliz si nunca más tengo que oír hablar de fantasmas."
+msgstr "[_danny_s_at_player_s_sad_s_talk_consternation_] Esta semana se está volviendo loca y {i}más loca{/i}... Seré feliz si nunca más tengo que oír hablar de fantasmas."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2075 #-#-# translate crowdin invisobill_introduction_3ba64ded:
 msgid "[_maddie_s_towards_wide_s_neutral_s_talk_happy_] Danny, get in here! They're talking about more ghosts on the news! Come look!!"
@@ -1410,7 +1410,7 @@ msgstr "[_jack_] ¿No hiciste qué, hijo?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2101 #-#-# translate crowdin invisobill_introduction_484dffec:
 msgid "[_danny_] ...didn't... see that on my way home at all! Wow, what a weird thing to happen! More ghosts and all, just, {i}uh{/i}, totally crazy stuff... {i}*Ahem*{/i}..."
-msgstr "[_danny_] ¡¡...no... vi eso de camino a casa en absoluto!! ¡Vaya!, ¡qué cosa más rara! Más fantasmas y todo, sólo, {i}uh{/i}, esto es totalmente de locos... {i}*Ahem*{i/}..."
+msgstr "[_danny_] ¡¡...no... vi eso de camino a casa en absoluto!! ¡Vaya!, ¡qué cosa más rara! Más fantasmas y todo, sólo, {i}uh{/i}, esto es totalmente de locos... {i}*Ahem*{/i}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2106 #-#-# translate crowdin invisobill_introduction_83899fa1:
 msgid "[_newscaster_] Renowned paranormal expert and philanthropist, Vlad Masters, has declared that he is hot on the trail of both spectral entities."
@@ -1422,7 +1422,7 @@ msgstr "[_newscaster_] El fantasma humanoide, al que esta emisora ha decidido re
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2120 #-#-# translate crowdin invisobill_introduction_13c72a24:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] \"Inviso-Bill\"?! That's an {i}awful{/i} name!"
-msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] ¡¿\"Inviso-Bill\"?! ¡Ese és un nombre {i}horrible {i/}!"
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] ¡¿\"Inviso-Bill\"?! ¡Ese és un nombre {i}horrible {/i}!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2123 #-#-# translate crowdin invisobill_introduction_37cf3c7e:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] You're totally right son, \"The Phantasmal Pervert\" would be {i}so{/i} much better!"
@@ -1438,7 +1438,7 @@ msgstr "[_maddie_s_suspicious_towards_s_aghast_s_talk_distraught_] Sabes... pued
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2133 #-#-# translate crowdin invisobill_introduction_54eaeea0:
 msgid "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] {u}W-what{/u}?! N-no, c'mon Mom, that loser looks {i}nothing{/i} like me! I've got black hair, his is white! My eyes are blue, his are green!! It's like night and day between us...! C-couldn't be further apart! {i}*Gulp*{/i}"
-msgstr "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] {u}¡¿Qué?!{u/} No, vamos mamá, ¡ese perdedor no se parece en {i}nada{i/} a mí!. ¡Tengo el pelo negro, el suyo es blanco! ¡Mis ojos son azules, los suyos son verdes! ¡Es como la noche y el día entre nosotros...! ¡No podría estar más lejos! {i}*Gulp*{/i}"
+msgstr "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] {u}¡¿Qué?!{u/} No, vamos mamá, ¡ese perdedor no se parece en {i}nada{/i} a mí!. ¡Tengo el pelo negro, el suyo es blanco! ¡Mis ojos son azules, los suyos son verdes! ¡Es como la noche y el día entre nosotros...! ¡No podría estar más lejos! {i}*Gulp*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2136 #-#-# translate crowdin invisobill_introduction_eb50ce88:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] Say... now that you mention it..."
