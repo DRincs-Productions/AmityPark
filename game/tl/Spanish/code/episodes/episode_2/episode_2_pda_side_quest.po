@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:39\n"
+"PO-Revision-Date: 2024-01-14 15:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
-msgstr "[_dash_s_towards_s_upset_s_talk_distraught_] ¡Lárgate Fenton! Estás apestado este pasillo de la escuela."
+msgstr "[_dash_s_towards_s_upset_s_talk_distraught_] ¡Lárgate Fenton! Estás apestando este pasillo de la escuela."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:23 #-#-# translate crowdin dash_convo_tuckerPDA_start_7b6f7985:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] What? Are you serious? I'm just trying to get by here. You don't own the hallways, Dash."
@@ -130,7 +130,7 @@ msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] Hey, ¿sabes qué?
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:158 #-#-# translate crowdin dash_convo_tuckerPDA_knockout_b11ffe6b:
 msgid "[_dash_s_fist_s_towards_s_angry_s_talk_happy_] ...you wanna run that by me just {i}one{/i} more time, Fenton...? {i}*Knuckle Crack*{/i}"
-msgstr "[_dash_s_fist_s_towards_s_angry_s_talk_happy_] ¿...quieres pasar por lo mismo {i}una{/i} vez más, Fenton ...? {i}*Knuckle Crack * {/i}"
+msgstr "[_dash_s_fist_s_towards_s_angry_s_talk_happy_] ¿...quieres pasar por lo mismo {i}una{/i} vez más, Fenton ...? {i}*sonido de nudillos* {/i}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:160 #-#-# translate crowdin dash_convo_tuckerPDA_knockout_30b132de:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] You heard me, Dash! I said go fu-"
@@ -214,7 +214,7 @@ msgstr "[_tucker_s_arms_straps_s_away_s_sad_s_talk_happy_] Bueno, quiero decir..
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:258 #-#-# translate crowdin tucker_convo_tuckerPDA_start_08828822:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] {i}*Sigh*{/i} Alright, I'll see what I can do.{p}"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] {i}*Sigh * {/i} Muy bien, veré que puedo hacer.{p}"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] {i}*Suspiro * {/i} Muy bien, veré que puedo hacer.{p}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:261 #-#-# translate crowdin tucker_convo_tuckerPDA_start_eb59364a:
 msgid "[_extend_] (Hmmm, Dash isn't going to budge too easily with just my skinny frame trying to push past... how am I gonna get him to leave?)"
@@ -266,7 +266,7 @@ msgstr "[_tucker_s_talk_happy_s_closed_s_sad_] Pues bien, aquí, y como muestra 
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:338 #-#-# translate crowdin tucker_convo_tuckerPDA_end_aa31e21f:
 msgid "[_tucker_] {i}*Rustle*{/i} {i}*Rustle*{/i}"
-msgstr "[_tucker_] {i}*Rustle * {/i} {i}*Rustle * {/i}"
+msgstr "[_tucker_] {i}*crujido * {/i} {i}*crujido* {/i}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:346 #-#-# translate crowdin tucker_convo_tuckerPDA_end_966d1caf:
 msgid "[_danny_s_towards_wide_s_sad_2_s_talk_frown_2_] {u}Another{/u} PDA?? But- if you... I just gave- h-how...??{p}Tucker, I-I dont understand!"
