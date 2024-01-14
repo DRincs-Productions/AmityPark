@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 13:59\n"
+"PO-Revision-Date: 2024-01-14 15:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -1514,7 +1514,7 @@ msgstr "[_danny_s_p34_] Oh, {i}uh {/i}... no és nada, yo estaba a punto de irme
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1695 #-#-# translate crowdin master_plan_postfight_5dfc0538:
 msgid "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_frown_] Vlad, quick, the thermos!"
-msgstr "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_frown_] Vlad, ¡rápido, el termo!"
+msgstr "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_frown_] Vlad, ¡rápido, el thermo!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1698 #-#-# translate crowdin master_plan_postfight_3d875ad8:
 msgid "[_vlad_s_towards_s_sad_s_talk_frown_] I'm sorry Madeline, but I still haven't worked out all the bugs in the thermos' battery unit yet! It still needs a lot of {b}charging{/b} to do before its next use!"
@@ -1646,7 +1646,7 @@ msgstr "Me aparto, todavía no estoy listo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:786
 msgid "Use the spare key."
-msgstr "Utilice la llave de repuesto."
+msgstr "Utiliza la llave de repuesto."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:786
 msgid "Phase through the door."
