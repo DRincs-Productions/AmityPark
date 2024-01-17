@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2024-01-17 15:27\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -54,7 +54,7 @@ msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] {i}Uhm {/i}, ¿podría
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:44 #-#-# translate crowdin a_masterful_speech_intro_e9a71706:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Chuckles* Well{/i}, I suppose that works too. Suppose it's only right that I try to {i}earn{/i} your trust first, aye?{p}So then, how did we sleep last night, {i}hmmm?{/i}"
-msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Chuckles * Well {/i}, supongo que también funcionará. Solo trato de {i}ganarme {/i} tu confianza, ¿ok?{p}Bien, entonces ¿cómo has dormido esta noche{i}hmmm? {/i}"
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Risas* Well {/i}, supongo que también funcionará. Solo trato de {i}ganarme {/i} tu confianza, ¿ok?{p}Bien, entonces ¿cómo has dormido esta noche{i}hmmm? {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:46 #-#-# translate crowdin a_masterful_speech_intro_89086bdb:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Alright I guess. Uhm, if you happen to know at all, could you tell me about what those noises last night were in the lab? I sorta snuck away after a certain point into your little get together..."
@@ -287,7 +287,7 @@ msgstr "[_danny_s_at_player_s_sad_2_s_talk_frown_] Gosh, Otra aburrida clase. Su
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:300 #-#-# translate crowdin a_masterful_speech_after_class_da20aa82:
 msgid "[_danny_s_talk_frown_2_s_sad_] Man, I was really hoping to use some of afternoon to just... I don't know, jerk off in my room alone, I guess? {i}*Sigh*{/i} Oh, what am I complaining for, I didn't have any real after school plans anyway."
-msgstr "[_danny_s_talk_frown_2_s_sad_] Hombre, tenía la esperanza de usar algo de la tarde a sólo... No lo sé, ¿tumbado en la cama de mi habitación? {i}*Sigh * {/i} Oh, ¿de qué estoy quejándome?, de todos modos no tenía nada real que hacer después de clases."
+msgstr "[_danny_s_talk_frown_2_s_sad_] Hombre, tenía la esperanza de usar algo de la tarde a sólo... No lo sé, ¿tumbado en la cama de mi habitación? {i}*Suspiro* {/i} Oh, ¿de qué estoy quejándome?, de todos modos no tenía nada real que hacer después de clases."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:301 #-#-# translate crowdin a_masterful_speech_after_class_f31d84a5:
 msgid "[_danny_s_blank_stare_s_talk_frown_s_sad_2_] Well at least there haven't been any ghosts around to fight so far... maybe today won't be so bad after all?"
