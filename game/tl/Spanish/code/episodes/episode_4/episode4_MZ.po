@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-18 16:10\n"
+"PO-Revision-Date: 2024-01-18 17:29\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -430,7 +430,7 @@ msgstr "[_lancer_s_at_player_2_s_sad_s_talk_happy_] ¡Oh... bien! Me... ¡Me ale
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:407 #-#-# translate crowdin Wish_you_the_Best_classroom_f1371689:
 msgid "[_lancer_s_closed_s_idle__s_talk_happy_] {i}*Ahem*{/i} Now, where was I...? Ahh yes, now who can tell me where Oedipus went wrong...?"
-msgstr "[_lancer_s_closed_s_idle__s_talk_happy_] {i}*Ahem* Ahora, ¿dónde estaba yo...? Ahh sí, ¿quién puede decirme dónde se equivocó Edipo...?"
+msgstr "[_lancer_s_closed_s_idle__s_talk_happy_] {i}*Ahem*{/i} Ahora, ¿dónde estaba yo...? Ahh sí, ¿quién puede decirme dónde se equivocó Edipo...?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:410 #-#-# translate crowdin Wish_you_the_Best_classroom_754737cc:
 msgid "[_danny_] Phew... thanks for bailing us out, Sam."
@@ -614,7 +614,7 @@ msgstr "[_danny_s_talk_frown_s_sad_] ...¡y esto hace el stand número 86! {i}¡
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:609 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_5026ff4b:
 msgid "[_tucker_s_talk_frown_] Man, I can actually {b}hear{/b} the discs in my spine grinding against each other."
-msgstr "[_tucker_s_talk_frown_] {b}Tío, puedo oír las vértebras de mi columna chocando entre sí."
+msgstr "[_tucker_s_talk_frown_] Tío, puedo {b}oír{/b} las vértebras de mi columna chocando entre sí."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:611 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_751899ae:
 msgid "[_tucker_s_wondering_s_towards_wide_] I'm exhausted!"
@@ -670,7 +670,7 @@ msgstr "[_danny_s_towards_s_talk_frown_] Conseguir poderes fantasmales habría s
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:639 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_dc7a53a4:
 msgid "[_tucker_s_talk_happy_s_sad_] {i}Hah{/i}! A billionaire with ghost powers? Yeah right! That's total make believe dude, only in comics and kids shows. Can you imagine someone like Vlad Masters floating through walls?"
-msgstr "[_tucker_s_talk_happy_s_sad_] {i}¡Ja! ¿Un multimillonario con poderes fantasmales? ¡Si, claro! Eso es pura fantasía, sólo en cómics y programas infantiles. ¿Te imaginas a alguien como el maestro Vlad flotando a través de las paredes?"
+msgstr "[_tucker_s_talk_happy_s_sad_] {i}¡Ja!{/i} ¿Un multimillonario con poderes fantasmales? ¡Si, claro! Eso es pura fantasía, sólo en cómics y programas infantiles. ¿Te imaginas a alguien como el maestro Vlad flotando a través de las paredes?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:641 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_dcd21432:
 msgid "[_danny_s_neutral_s_talk_happy_s_blank_stare_] Heh, yeah, I guess that {i}is{/i} a bit silly."
@@ -686,7 +686,7 @@ msgstr "[_danny_s_rise_one_s_talk_frown_] Lancer nos dijo que la gente iba a emp
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:659 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_1bd6d529:
 msgid "[_babazita_s_angry_s_talk_happy_s_towards_wide_3_] {b}Boo{/b}!!"
-msgstr "[_babazita_s_angry_s_talk_happy_s_towards_wide_3_] {b}¡¡Boo!!"
+msgstr "[_babazita_s_angry_s_talk_happy_s_towards_wide_3_] ¡¡{b}Boo{/b}!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:664 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_8acf2f1b:
 msgid "[_danny_tucker_] {b}Aghhh!!!{/b}"
@@ -806,7 +806,7 @@ msgstr "[_babazita_s_closed_s_wondering_] ...¡la lámpara mágica del Genio! Im
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:775 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_e514c72c:
 msgid "[_tucker_s_closed_s_talk_frown_s_neutral_] Ergh, yeah, it's certainly... a lamp... {i}*Whispering*{/i} ...more of a {b}bottle{/b}, really."
-msgstr "[_tucker_s_closed_s_talk_frown_s_neutral_] Ergh, sí, és ciertamente... una lámpara... {i}*cuchicheo*{/i}... parecida más bien a una {b}botella{/b}."
+msgstr "[_tucker_s_closed_s_talk_frown_s_neutral_] Ergh, sí, és ciertamente... una lámpara... {i}*susurrando*{/i}... parecida más bien a una {b}botella{/b}."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:778 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_c85dddd4:
 msgid "[_danny_s_talk_happy_2_s_towards_wide_s_sad_] Is there some kind of story behind it's, uhh, mighty power?"
@@ -906,7 +906,7 @@ msgstr "[_babazita_s_towards_s_neutral_2_s_talk_happy_] The Jinn, da."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:843 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_3930f5a2:
 msgid "[_tucker_s_towards_s_talk_frown_s_angry_] The wish granting harem genie-spirit girl Desiree... is in {u}this{/u} bottle?"
-msgstr "[_tucker_s_towards_s_talk_frown_s_angry_] Desiree, la genio-espíritu del harén que concede deseos... ¿está en {u}esta botella?"
+msgstr "[_tucker_s_towards_s_talk_frown_s_angry_] Desiree, la genio-espíritu del harén que concede deseos... ¿está en {u}esta{/u} botella?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:846 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_d4fe76fa:
 msgid "[_babazita_s_talk_happy_s_closed_s_neutral_] Lamp. Da. Caught her last month!"
@@ -930,7 +930,7 @@ msgstr "[_danny_s_at_player_s_talk_frown_s_sad_] ¡Tucker espera! ¡Vamos, al me
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:862 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_7dfe5a73:
 msgid "[_babazita_s_talk_frown_s_wondering_2_] Your friend... he is, how you say... a bit of a {b}dick{/b}, no?"
-msgstr "[_babazita_s_talk_frown_s_wondering_2_] Tu amigo... es, ¿cómo se dice...? un cabrón {b}, ¿no?"
+msgstr "[_babazita_s_talk_frown_s_wondering_2_] Tu amigo... es, ¿cómo se dice...? un {b}cabrón{/b}, ¿no?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:864 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_aaa33a77:
 msgid "[_danny_s_at_player_s_rise_one_s_talk_frown_] Well, he's just grouchy today about having to do extracurricular activities."
@@ -974,7 +974,7 @@ msgstr "[_danny_s_towards_wide_s_talk_happy_s_sad_] Sí, 5 dólares. ¡Ahí est�
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:944 #-#-# translate crowdin Wish_you_the_Best_buy_the_lamp_d5c8c26e:
 msgid "[_babazita_s_talk_happy_s_wondering_2_s_closed_] Very good, young man! Here is lovely lamp for you! Please enjoy! {i}*Whispering*{/i} Remember, no refunds..."
-msgstr "[_babazita_s_talk_happy_s_wondering_2_s_closed_] ¡Muy bien, joven! ¡Aquí tienes una preciosa lámpara! ¡Por favor disfrútala! {i}*cuchicheo*{/i} Recuerda, no hago devoluciones..."
+msgstr "[_babazita_s_talk_happy_s_wondering_2_s_closed_] ¡Muy bien, joven! ¡Aquí tienes una preciosa lámpara! ¡Por favor disfrútala! {i}*susurrando*{/i} Recuerda, no hago devoluciones..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:948 #-#-# translate crowdin Wish_you_the_Best_buy_the_lamp_4ea20189:
 msgid "[_danny_s_at_player_s_grin_happy_s_rise_one_] (Perfect, now that I've got my little gag gift, I should go find Tucker to give it to him... I'm sure I'll find him just bumming around town someplace!)"
@@ -998,7 +998,7 @@ msgstr "[_danny_s_talk_frown_2_s_rise_one_] ¡Hey Tuck espera!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:995 #-#-# translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_f6cf214a:
 msgid "[_tucker_s_talk_frown_s_angry_] Ugh, man, can you {i}believe{/i} that absolute con artist? Trying to sell me her \"Party City\" hot garbage? Only an {b}idiot{/b} would buy her stuff, right Danny?"
-msgstr "[_tucker_s_talk_frown_s_angry_] Ugh, hombre, ¿puedes {i}creer{/i} a esa estafadora? ¿Intentando venderme su basura \"fiesta loca\"? Sólo un idiota {b}compraría{/b} sus cosas, ¿verdad Danny?"
+msgstr "[_tucker_s_talk_frown_s_angry_] Ugh, hombre, ¿puedes {i}creer{/i} a esa estafadora? ¿Intentando venderme su basura \"fiesta loca\"? Sólo un {b}idiota{/b} compraría sus cosas, ¿verdad Danny?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:997 #-#-# translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_44321046:
 msgid "[_danny_s_at_danny_s_talk_frown_s_rise_one_s_blush_] Uhmm..."
@@ -1070,7 +1070,7 @@ msgstr "[_tucker_s_talk_happy_s_wondering_] Creo que irá muy bien junto a mi nu
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1035 #-#-# translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_b5c080c1:
 msgid "[_magiclamp_] {i}*Shatter*{/i}"
-msgstr "[_magiclamp_] {i}*se rompe*{/i}"
+msgstr "[_magiclamp_] {i}*quebrar*{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1037 #-#-# translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_211ba832:
 msgid "[_danny_s_talk_frown_] Oh man, come on! That was like..."
@@ -1534,7 +1534,7 @@ msgstr "[_tucker_s_talk_frown_s_angry_] ¡Hey, quiero decir que no lo he hecho {
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1467 #-#-# translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_0e48ba89:
 msgid "[_danny_s_talk_frown_2_] You're not {b}going{/b} to do it! {u}Period{/u}!"
-msgstr "[_danny_s_talk_frown_2_] ¡No vas a {b}hacerlo! {u} y Punto!"
+msgstr "[_danny_s_talk_frown_2_] ¡No {b}vas{/b} a hacerlo! {u} ¡y Punto{/u}!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1470 #-#-# translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_a9680623:
 msgid "[_desiree_s_angry_s_talk_frown_] Do you think you can stop him? You idiotic {b}fool{/b}!! You would be but a fly for him to swat!!"
@@ -1710,7 +1710,7 @@ msgstr "[_tucker_s_talk_frown_s_towards_wide_s_angry_] ¡¡Lo único que veo es 
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1628 #-#-# translate crowdin Wish_you_the_Best_postfight_32757d32:
 msgid "[_danny_s_sad_2_s_at_player_wide_s_talk_frown_2_] {i}*Gulp*{/i} Oh boy..."
-msgstr "[_danny_s_sad_2_s_at_player_wide_s_talk_frown_2_] {i}*Gulp* Oh tío..."
+msgstr "[_danny_s_sad_2_s_at_player_wide_s_talk_frown_2_] {i}*Gulp*{/i} Oh tío..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1654 #-#-# translate crowdin Wish_you_the_Best_postfight_2_81c65d0d:
 msgid "[_danny_s_talk_frown_s_sad_2_] Ooof... okay... time out ref, I think my spleen got turned around backwards."
@@ -1782,7 +1782,7 @@ msgstr "[_desiree_s_angry_s_closed_s_talk_bite_] ¡¡adiós enclenque!! ¡¡Ahah
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1703 #-#-# translate crowdin Wish_you_the_Best_postfight_2_ee6bf8c7:
 msgid "[_danny_s_closed_sad_s_talk_frown_s_neutral_] {i}Agh{/i}... man, Tucker {b}really{/b} did a number on me... I should try to rest up before I try something stupid."
-msgstr "[_danny_s_closed_sad_s_talk_frown_s_neutral_] {i}Agh... tio Tucker {b}realmente{/b} me dejo roto... Debo descansar antes de intentar algo."
+msgstr "[_danny_s_closed_sad_s_talk_frown_s_neutral_] {i}Agh{/i}... tio Tucker {b}realmente{/b} me dejo roto... Debo descansar antes de intentar algo."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1705 #-#-# translate crowdin Wish_you_the_Best_postfight_2_97165b25:
 msgid "[_danny_s_wondering_s_blank_stare_s_talk_frown_2_] I can come up with a plan about to deal with Tucker later, right now I need to just go home and take it easy."
@@ -2002,7 +2002,7 @@ msgstr "[_danny_] Oh Kate... wow... eres realmente buena en esto..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1890 #-#-# translate crowdin Wish_you_the_Best_kate_titjob_7126f203:
 msgid "[_kate_] {i}Mmhmmm{/i}... well, I've had plenty of practice."
-msgstr "[_kate_] {i}Mmhmmm... bueno, he tenido mucha práctica."
+msgstr "[_kate_] {i}Mmhmmm{/i}... bueno, he tenido mucha práctica."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1892 #-#-# translate crowdin Wish_you_the_Best_kate_titjob_ca2f0a60:
 msgid "[_danny_] Re-really? But I thought you said that not many people ge-"
@@ -2106,7 +2106,7 @@ msgstr "[_kate_] Wowee... te has corrido mucho, Ohh, me encanta mi trabajo... <3
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1972 #-#-# translate crowdin Wish_you_the_Best_after_titjob_kate_c2e358e3:
 msgid "[_kate_s_closed_s_rise_one_s_talk_happy_] Well then... I guess I really don't need to worry about whether you find me attractive anymore. You certainly stated your true feelings loud and clear just now... {i}*Chuckles*{/i}"
-msgstr "[_kate_s_closed_s_rise_one_s_talk_happy_] Bueno, entonces... ya no necesito preocuparme de si me encuentras atractiva. Has expresado tus verdaderos sentimientos en alto y claro... {i}*risa*{/i}"
+msgstr "[_kate_s_closed_s_rise_one_s_talk_happy_] Bueno, entonces... ya no necesito preocuparme de si me encuentras atractiva. Has expresado tus verdaderos sentimientos en alto y claro... {i}*risas*{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1974 #-#-# translate crowdin Wish_you_the_Best_after_titjob_kate_27d663af:
 msgid "[_danny_s_towards_s_rise_one_s_talk_happy_] You should never worry about something like that, Kate. Of course I find you sexy! Who wouldn't?"
@@ -2282,7 +2282,7 @@ msgstr "[_tucker_s_towards_wide_2_s_angry_2_s_talk_happy_] {i}¡Aheh heh hech!{/
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2141 #-#-# translate crowdin Wish_you_the_Best_scene_7_mall_003ce2bc:
 msgid "[_stranger_] {i}Aghhh{/i}!! Everyone run!! The prankster ghost goblin is now a {b}huge{/b} prankster ghost goblin, and he's attacking the mall!!"
-msgstr "[_stranger_] {i}¡Aghhh! ¡¡corran!! El duende fantasma bromista és ahora un {b}enorme{/b} duende fantasma bromista, ¡¡y está atacando el centro comercial!!"
+msgstr "[_stranger_] {i}¡Aghhh!{/i} ¡¡corran!! El duende fantasma bromista és ahora un {b}enorme{/b} duende fantasma bromista, ¡¡y está atacando el centro comercial!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2145 #-#-# translate crowdin Wish_you_the_Best_scene_7_mall_8d924987:
 msgid "[_stranger_] Quickly, everyone run behind that wall over there for shelter!! The one between the third and the fifth wall!!"
@@ -2366,7 +2366,7 @@ msgstr "[_tucker_s_sad_s_talk_frown_] No puede ser... ella... Desiree... por fav
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2239 #-#-# translate crowdin Wish_you_the_Best_postfight_3_640e8ec6:
 msgid "[_desiree_s_talk_frown_2_] {b}Ugh!!{/b} Pathetic, snivelling weakling!! You are {u}worthless{/u} to me, boy! You and your perverse kind are all the same!! You can't do a {b}damned{/b} thing without my help!!"
-msgstr "[_desiree_s_talk_frown_2_] {b}¡Ugh! ¡¡Patético llorica!! ¡Eres {u}algo sin valor{/u} para mí! ¡Los de tu perversa clase son todos iguales! ¡No puedes hacer {b}nada{/b} sin mi ayuda!!"
+msgstr "[_desiree_s_talk_frown_2_] {b}¡Ugh!{/b} ¡¡Patético llorica!! ¡Eres {u}algo sin valor{/u} para mí! ¡Los de tu perversa clase son todos iguales! ¡No puedes hacer {b}nada{/b} sin mi ayuda!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2242 #-#-# translate crowdin Wish_you_the_Best_postfight_3_0e92c475:
 msgid "[_tucker_s_closed_s_talk_frown_s_sad_] Oh no... betrayed... by a super hot femme fatale ghost lady... who could have possibly forseen... such tragic events happening...?"
@@ -2502,11 +2502,11 @@ msgstr "[_desiree_s_closed_s_angry_s_talk_frown_] ...así que... así será..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2387 #-#-# translate crowdin Wish_you_the_Best_postfight_4_3d4f0df6:
 msgid "[_desiree_] {b}-beeeeeeeee!!!{/b} {i}*Whooooooosh*{/i}"
-msgstr "[_desiree_] {b}-¡¡¡beeeeeeeee!!! {i}*Whooooooosh*{/i}"
+msgstr "[_desiree_] {b}-¡¡¡beeeeeeeee!!!{/b} {i}*Whooooooosh*{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2390 #-#-# translate crowdin Wish_you_the_Best_postfight_4_45519a9f:
 msgid "[_thermos_] {i}*Bing*{/i} {b}Ghost Successfully Captured{/b}"
-msgstr "[_thermos_] {i}*Bing* {b}Fantasma capturado con éxito"
+msgstr "[_thermos_] {i}*Bing*{/i} {b}Fantasma capturado con éxito{/b}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2396 #-#-# translate crowdin Wish_you_the_Best_postfight_4_02d8964f:
 msgid "[_danny_] Well jeez... that was a {b}lot{/b} simpler than I was making it by doing the whole fighting thing."
@@ -2614,7 +2614,7 @@ msgstr "[_tucker_s_ahegao_s_angry_] Ohh.... Daniel James Fenton... {i}que vergü
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2470 #-#-# translate crowdin Wish_you_the_Best_postfight_4_07cfb7ba:
 msgid "[_danny_s_towards_wide_s_sad_2_s_talk_frown_] {i}Whaaaaat{/i}!! I mean, you already showed it to me, and what's done is done, so..."
-msgstr "[_danny_s_towards_wide_s_sad_2_s_talk_frown_] {i}¡¡¡Queeeeé!!! Quiero decir, me lo has enseñado, y lo hecho, hecho está, así que...."
+msgstr "[_danny_s_towards_wide_s_sad_2_s_talk_frown_] {i}¡¡¡Queeeeé!!!{/i} Quiero decir, me lo has enseñado, y lo hecho, hecho está, así que..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2472 #-#-# translate crowdin Wish_you_the_Best_postfight_4_4858ddba:
 msgid "[_tucker_s_towards_s_sad_s_talk_frown_] But we just went over the whole \"what makes a hero a hero\" speech and everything! How could you?!"
@@ -2782,7 +2782,7 @@ msgstr "[_danny_s_towards_wide_s_rise_one_s_talk_happy_2_] Uhm... ¿hola?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2598 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_03554174:
 msgid "[_desiree_s_towards_wide_s_talk_frown_s_angry_] {b}YOU{/B}!!!"
-msgstr "[_desiree_s_towards_wide_s_talk_frown_s_angry_] ¡¡¡¡¡ {b}TU{/B}!!!"
+msgstr "[_desiree_s_towards_wide_s_talk_frown_s_angry_] ¡¡¡¡¡ {b}TU{/b}!!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2601 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_e52b3243:
 msgid "[_danny_s_at_danny_] (Oh boy, I probably should have transformed beforehand for safety measures...)"
@@ -2814,7 +2814,7 @@ msgstr "[_desiree_s_talk_frown_2_s_closed_s_angry_] Tus deseos... son órdenes..
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2626 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_4504ab88:
 msgid "[_desiree_s_talk_frown_s_at_player_] {i}*Sigh*{/i} So you have wished it... so it shall be...."
-msgstr "[_desiree_s_talk_frown_s_at_player_] {i}*Suspira*{/i} Así lo has deseado... así será...."
+msgstr "[_desiree_s_talk_frown_s_at_player_] {i}*Suspiro*{/i} Así lo has deseado... así será...."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2629 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_f28058c6:
 msgid "[_desiree_s_neutral_s_towards_2_s_pout_] ..."
@@ -2902,7 +2902,7 @@ msgstr "[_danny_s_towards_s_talk_happy_] Bien, entonces, ¿la propuesta? Creo qu
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2670 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_ce5b0a23:
 msgid "[_desiree_s_angry_s_talk_frown_2_] Really, Ghost Child, just how dimwitted {i}are{/i} you? You really believe I would just \"let bygones be bygones\" after today?"
-msgstr "[_desiree_s_angry_s_talk_frown_2_] En serio, chico Fantasma, que merluzo {i}eres? ¿De verdad crees que \"lo pasado, pasado está\" después de lo de hoy?"
+msgstr "[_desiree_s_angry_s_talk_frown_2_] En serio, chico Fantasma, que merluzo {i}eres{/i}? ¿De verdad crees que \"lo pasado, pasado está\" después de lo de hoy?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2672 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_27418d54:
 msgid "[_desiree_s_closed_s_talk_frown_] You're an even bigger fool than I once thought. Which was a lot already. I would rather be banished to the Ghost Zone for ten thousand years then to be shackled by {i}any{/i} man ever again."
@@ -3098,7 +3098,7 @@ msgstr "[_desiree_s_towards_2_s_talk_frown_] En la Zona Fantasma viven fantasmas
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2791 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_01d21d72:
 msgid "[_danny_s_towards_wide_s_talk_frown_] Uhh, j-jeez, sounds like an even {b}worse{/b} version of high school!! Crazy, {i}crazy{/i} stuff... (Oh God, I zoned out for a second! I hope she didn't notice. This {b}is{/b} all pretty interesting, and stuff I really should know about the ghost world to help me learn more...)"
-msgstr "[_danny_s_towards_wide_s_talk_frown_] Uhh, j-jeez, ¡¡suena como una versión aún {b}peor{/b} del instituto!! Una locura, {i}una locura... (¡Oh Dios, me he desconectado un segundo! Espero que no se haya dado cuenta. Todo esto {b}és{/b} bastante interesante, són cosas que debo saber sobre el mundo fantasma para ayudarme a aprender más...)"
+msgstr "[_danny_s_towards_wide_s_talk_frown_] Uhh, j-jeez, ¡¡suena como una versión aún {b}peor{/b} del instituto!! Una locura, {i}una locura{/i}... (¡Oh Dios, me he desconectado un segundo! Espero que no se haya dado cuenta. Todo esto {b}és{/b} bastante interesante, són cosas que debo saber sobre el mundo fantasma para ayudarme a aprender más...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2793 #-#-# translate crowdin Wish_you_the_Best_scene_8_bedroom_cac02eec:
 msgid "[_danny_s_at_player_s_rise_one_s_frown_] (...but it mainly just sounds like a {b}lot{/b} of exposition...)"
