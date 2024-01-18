@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2024-01-18 16:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -182,7 +182,7 @@ msgstr "[_danny_s_talk_frown_s_rise_one_] Bueno, no, porque"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:150 #-#-# translate crowdin Wish_you_the_Best_classroom_35ac8a44:
 msgid "[_lancer_s_talk_frown_s_rise_one_] You simply {b}ignored{/b} all the other students in the halls, who had suddenly started filing into classrooms for some {b}apparent{/b} reason?!"
-msgstr "[_lancer_s_talk_frown_s_rise_one_] ¡¿has {b}ignorado{/i} a todos los demás estudiantes en los pasillos, que de repente habían empezado a meterse en las aulas por alguna {b}aparente{/b} razón?!"
+msgstr "[_lancer_s_talk_frown_s_rise_one_] ¡¿has {b}ignorado{/b} a todos los demás estudiantes en los pasillos, que de repente habían empezado a meterse en las aulas por alguna {b}aparente{/b} razón?!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:152 #-#-# translate crowdin Wish_you_the_Best_classroom_a509e7f0:
 msgid "[_danny_s_talk_frown_] I mean, it's hard to know the exact motivations why anybody {i}really{/i} does anything, so-"
@@ -302,7 +302,7 @@ msgstr "[_sam_] Bueno, tenéis suerte de que no fuese peor que una detención."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:261 #-#-# translate crowdin Wish_you_the_Best_classroom_991f8d46:
 msgid "[_danny_] Sam, what the heck?! You {b}know{/b} we didn't do anything to Paulina and Star."
-msgstr "[_danny_] Sam, ¡¿qué demonios?! {b}Sabes{/i} que no hicimos nada a Paulina y Star."
+msgstr "[_danny_] Sam, ¡¿qué demonios?! {b}Sabes{/b} que no hicimos nada a Paulina y Star."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:266 #-#-# translate crowdin Wish_you_the_Best_classroom_e4fd23f3:
 msgid "[_sam_] Yeah, I know that, dork! But I couldn't exactly advocate for you guys based on the little tidbit that some punk biker ghost did it with his evil shadow, right?"
@@ -354,7 +354,7 @@ msgstr "[_danny_] ¿Se trata de espiar a chicas desnudas Tucker?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:326 #-#-# translate crowdin Wish_you_the_Best_classroom_180405eb:
 msgid "[_tucker_] ...I'm not {i}that{/i} easy to read, am I?"
-msgstr "[_tucker_] ...no soy {i}tan fácil de prever, ¿verdad?"
+msgstr "[_tucker_] ...no soy {i}tan{/i} fácil de prever, ¿verdad?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:331 #-#-# translate crowdin Wish_you_the_Best_classroom_b5ecbeda:
 msgid "[_sam_] Like a freshly charged Kindle, dude."
@@ -414,7 +414,7 @@ msgstr "[_lancer_s_talk_frown_s_at_player_2_s_angry_] Oh, lo siento {i}terriblem
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:395 #-#-# translate crowdin Wish_you_the_Best_classroom_3481b43d:
 msgid "[_lancer_s_rise_one_s_at_player_2_] ...or was Ms. Manson {b}also{/b} looking to join you boys this Friday afternoon?"
-msgstr "[_lancer_s_rise_one_s_at_player_2_] ...¿o la Srta. Manson {b}también{/i} quiere unirse con ustedes este viernes por la tarde?"
+msgstr "[_lancer_s_rise_one_s_at_player_2_] ...¿o la Srta. Manson {b}también{/b} quiere unirse con ustedes este viernes por la tarde?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:398 #-#-# translate crowdin Wish_you_the_Best_classroom_78e31d90:
 msgid "[_danny_] Oh! N-no sir, we were just... talking about how... how..."
