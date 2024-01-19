@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2024-01-19 14:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
 msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
@@ -30,7 +30,7 @@ msgstr "[_danny_s_talk_happy_] Buenos días, Jazz."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:68 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_7c761d7f:
 msgid "[_jazz_s_talk_happy_3_s_idle_2_] Ahh, {i}good{/i} morning Danny! Glad to finally see you roaming around here."
-msgstr "[_jazz_s_talk_happy_3_s_idle_2_] Ahh, {i}¡buenos días Danny! Me alegro de verte por fin rondando por aquí."
+msgstr "[_jazz_s_talk_happy_3_s_idle_2_] Ahh, {i}¡buenos días{/i} Danny! Me alegro de verte por fin rondando por aquí."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:70 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_9ab09c00:
 msgid "[_danny_s_talk_frown_s_wondering_] What are you talking about? I {b}live{/b} here."
@@ -114,7 +114,7 @@ msgstr "[_danny_s_talk_frown_] Bueno, ¿por qué si no me iba a pedir tus bragas
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:109 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_8370783f:
 msgid "[_jazz_s_towards_s_talk_frown_] {b}Wh-what?!{/b} When did he... {u}what?!{/u}"
-msgstr "[_jazz_s_towards_s_talk_frown_] {b}¿Q-Qué? ¿Cuándo...? {u}¡¿Qué?!{/u}"
+msgstr "[_jazz_s_towards_s_talk_frown_] {b}¿Q-Qué?{/b} ¿Cuándo...? {u}¡¿Qué?!{/u}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:111 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_e7003d03:
 msgid "[_danny_s_talk_frown_2_s_neutral_] Yeah, he wanted them for... well who knows for what. I'd rather not think about it, myself. But what a creep, right?"
