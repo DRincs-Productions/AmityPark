@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-19 14:22\n"
+"PO-Revision-Date: 2024-01-19 15:58\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
 msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
@@ -130,7 +130,7 @@ msgstr "[_danny_s_rise_one_s_talk_frown_] uhm, entonces... ¿qué?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:117 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_8a6be34c:
 msgid "[_jazz_s_talk_frown_] So, {b}did{/b} you give him any of my underwear, Danny?!"
-msgstr "[_jazz_s_talk_frown_] Entonces, {b}¡¿Le diste alguna de mi ropa interior?!{/b}"
+msgstr "[_jazz_s_talk_frown_] Entonces, ¡¿{b}Le diste{/b} algo de mi ropa interior?!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:125 #-#-# translate crowdin panties_in_posession_7539e78c:
 msgid "[_danny_s_talk_frown_s_wondering_s_towards_wide_] Well... I mean... I really had to get past him in the hall, and he refused to move, so... I sorta-"
@@ -234,7 +234,7 @@ msgstr "[_danny_s_talk_frown_s_rise_one_] Vamos Jazz, en realidad no tienes esa 
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:173 #-#-# translate crowdin panties_in_posession_82e939a3:
 msgid "[_jazz_s_down_s_talk_frown_s_sad_] What opinion? It's pretty much fact; nobody at Casper High has {u}ever{/u} asked me out. I must carry some sort of parasite or something. Being related to {i}this{/i} family, it's more than likely, too..."
-msgstr "[_jazz_s_down_s_talk_frown_s_sad_] ¿Qué opinión? {u}Es un hecho; nadie en el instituto Casper me ha invitado a salir nunca. Debo llevar algún tipo de parásito o algo así. Estando emparentada con {i}esta{/i} familia, és más que probable..."
+msgstr "[_jazz_s_down_s_talk_frown_s_sad_] ¿Qué opinión? Es un hecho; nadie en el instituto Casper me ha invitado a salir {u}nunca{/u}. Debo llevar algún tipo de parásito o algo así. Estando emparentada con {i}esta{/i} familia, és más que probable..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:175 #-#-# translate crowdin panties_in_posession_45f7e13e:
 msgid "[_danny_s_talk_frown_2_s_wondering_] Jeez, is that true? Like, nobody's asked ever?"
@@ -286,7 +286,7 @@ msgstr "[_jazz_s_sit_2_s_angry_s_at_laptop_] Hay {b}tanto{/b} que hacer y tan po
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:205 #-#-# translate crowdin panties_in_posession_19ec5c52:
 msgid "[_laptop_] {i}*HAHH*{/i} {i}*OHMGMM*{/i} {i}*FUUCK*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*FUUUGH*{/i}"
-msgstr "[_laptop_] {i}*HAHH* {i}*OHDIOSMIMM* {i}*JODERRR* {i}*GNNMFH* {i}*YEEAAHH* {i}*AAHNGM* {i}*GASP* {i}*jODEEEGGG*"
+msgstr "[_laptop_] {i}*HAHH*{/i} {i}*OHDIOSMIMM*{/i} {i}*JODERRR*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*jODEEEGGG*{/i}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:210 #-#-# translate crowdin panties_in_posession_4e18a672:
 msgid "[_laptop_] {i}*Slam*{/i}"
@@ -602,7 +602,7 @@ msgstr "[_jazz_] {i}Mmmmm {/i}... yeah..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:433 #-#-# translate crowdin Home_Sisters_Room_Event01_99e7b804:
 msgid "[_jazz_] {i}Uhmmff{/i}... (Just like that... stick it right in there...)"
-msgstr "[_jazz_] {i}Uhmmff {/i}... (Sí así... acaricia en ahí...)"
+msgstr "[_jazz_] {i}Uhmmff {/i}... (Sí así... acaricia ahí...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:435 #-#-# translate crowdin Home_Sisters_Room_Event01_cbeb9a4b:
 msgid "[_jazz_] (Oooh, you're making my pussy nice and wet...) {i}Mmhffhh~{/i}..."
@@ -642,7 +642,7 @@ msgstr "[_jazz_] Oh siiii, ¡¡voy a... oh mierda~...!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:482 #-#-# translate crowdin Home_Sisters_Room_Event01_4754b9fc:
 msgid "[_jazz_] I'm about to... {b}fucking Christ{/b}...~!!"
-msgstr "[_jazz_] Estoy a punto de... {b}¡¡¡Joder...~!!"
+msgstr "[_jazz_] Estoy a punto de... {b}¡¡¡Joder{/b}...~!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:486 #-#-# translate crowdin Home_Sisters_Room_Event01_bed5c559:
 msgid "[_danny_] (Wait a second... is she about to...?)"
