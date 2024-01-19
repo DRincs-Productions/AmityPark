@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2024-01-19 15:58\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
@@ -250,7 +250,7 @@ msgstr "[_star_s_talk_frown_s_confused_] Mirad, sea lo que sea lo que estéis pa
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:168 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_13e68551:
 msgid "[_sam_s_towards_wide_s_angry_s_talk_frown_] What the heck are you talking about? {i}You{/i} came to {i}us{/i}!"
-msgstr "[_sam_s_towards_wide_s_angry_s_talk_frown_] ¿De qué diablos estás hablando? {i}¡Has venido tú sola {i}!"
+msgstr "[_sam_s_towards_wide_s_angry_s_talk_frown_] ¿De qué diablos estás hablando? ¡Has venido {i}tú{/i} a {i}nosotros{/i}!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:171 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_d6f848c0:
 msgid "[_star_s_closed_s_angry_s_talk_frown_] Oh trust me, I wouldn't normally {b}choose{/b} to chat with the likes of you bottom feeders if I didn't have to."
@@ -290,7 +290,7 @@ msgstr "[_star_s_talk_frown_s_sad_] Sí, bueno, hace tiempo que no sabe nada de 
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:196 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_1fee8f82:
 msgid "[_star_s_confused_] You {b}have{/b} passed on her number, right?!"
-msgstr "[_star_s_confused_] Tú {b} le has pasado {/b} su número, ¡¿verdad?!"
+msgstr "[_star_s_confused_] Tú le {b}has{/b} pasado su número, ¡¿verdad?!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:199 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_6c4239b9:
 msgid "[_danny_s_towards_wide_s_talk_happy_2_s_-blush_s_sad_2_] Oh no, absolutely! Yeah, h-he has it alright. He's just so busy you know, fighting off other creeps, so uh... I'm sure he'll text her soon!"
@@ -606,7 +606,7 @@ msgstr "[_star_s_rise_one_s_talk_frown_] No, la verdad és que no. Además, ¿no
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:446 #-#-# translate crowdin twinkle_twinkle_little_star_scene_2_hallway_3fcdcb9f:
 msgid "[_danny_s_neutral_s_talk_frown_2_] {i}*Sigh*{/i} So... what do you need from me then?"
-msgstr "[_danny_s_neutral_s_talk_frown_2_] {i}*Suspiro* Entonces... ¿qué necesitas de mí?"
+msgstr "[_danny_s_neutral_s_talk_frown_2_] {i}*Suspiro*{/i} Entonces... ¿qué necesitas de mí?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:448 #-#-# translate crowdin twinkle_twinkle_little_star_scene_2_hallway_00b0776e:
 msgid "[_star_s_neutral_s_talk_frown_] I need you to help me clear the embarassing discussions about my naked ass!!"
@@ -1562,7 +1562,7 @@ msgstr "[_danny_s_talk_happy_s_sad_2_] Uh huh... interesante, interesante..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1247 #-#-# translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_f53a8b5f:
 msgid "[_sam_s_center_wide_s_angry_s_talk_happy_] So then, Lancer was all over Star like \"Why'd you waste my precious time on this, you perky boobs with teeth?\", and then, out of {b}nowhere{/b} her-"
-msgstr "[_sam_s_center_wide_s_angry_s_talk_happy_] Entonces, Lancer se centró en Star diciéndole \"¿Por qué desperdicias mi valioso tiempo en esto tetas con dientes?\", y luego, ella {b}sabía donde mirar{/b}-"
+msgstr "[_sam_s_center_wide_s_angry_s_talk_happy_] Entonces, Lancer se centró en Star diciéndole \"¿Por qué desperdicias mi valioso tiempo en esto, teta con dientes?\", y luego, ella {b}sabía donde mirar{/b}-"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1249 #-#-# translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_42888238:
 msgid "[_sam_s_center_s_confused_s_talk_frown_] ...pants... mysteriously came off..."
@@ -2034,15 +2034,15 @@ msgstr "[_star_s_rise_one_s_talk_happy_2_] {i}Guh{/i}... ¡Vaya! Bueno, ciertame
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1589 #-#-# translate crowdin twinkle_twinkle_little_star_after_star_bj_821ab083:
 msgid "[_danny_s_sad_s_talk_happy_2_s_towards_wide_] Yeah, sorry about that... you just did {i}such{/i} a nice job."
-msgstr "[_danny_s_sad_s_talk_happy_2_s_towards_wide_] Sí, lo siento... acabas de hacer  un buen trabajo."
+msgstr "[_danny_s_sad_s_talk_happy_2_s_towards_wide_] Sí, lo siento... acabas de hacer {i}un{/i} buen trabajo."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1591 #-#-# translate crowdin twinkle_twinkle_little_star_after_star_bj_51387f94:
 msgid "[_star_s_sad_s_closed_s_talk_happy_2_] {i}*Chuckles*{/i} Well, I don't know much about ghosts, but if there's one thing I'm good at \"exorcising\", it's jizz from boys' balls!"
-msgstr "[_star_s_sad_s_closed_s_talk_happy_2_] {i}*risa*{/i} Bueno, no sé mucho de fantasmas, pero si hay algo que se me da bien \"exorcizar\", ¡és la lefa de los huevos de los chicos!"
+msgstr "[_star_s_sad_s_closed_s_talk_happy_2_] {i}*risas*{/i} Bueno, no sé mucho de fantasmas, pero si hay algo que se me da bien \"exorcizar\", ¡és la lefa de los huevos de los chicos!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1593 #-#-# translate crowdin twinkle_twinkle_little_star_after_star_bj_c5aa57aa:
 msgid "[_danny_s_rise_one_s_at_player_wide_s_talk_frown_2_] Uhhm... okay... cool? (What the {b}fuck{/b}?! This chick is weird.)"
-msgstr "[_danny_s_rise_one_s_at_player_wide_s_talk_frown_2_] Uhhm... vale... ¿genial? (¡¿Qué {/b}cojones {b}?! Esta tía és rara.)"
+msgstr "[_danny_s_rise_one_s_at_player_wide_s_talk_frown_2_] Uhhm... vale... ¿genial? (¡¿Qué {b}cojones {/b}?! Esta tía és rara.)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1595 #-#-# translate crowdin twinkle_twinkle_little_star_after_star_bj_1e850d61:
 msgid "[_star_s_confused_2_s_talk_happy_2_] I'm sure you'll do a better job of stopping from blowing your top too soon next time! So, I'll see you around, right?"
@@ -2074,7 +2074,7 @@ msgstr "[_danny_s_rise_one_s_talk_frown_] Entonces... ¿Qué vas a hacer con eso
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1611 #-#-# translate crowdin twinkle_twinkle_little_star_after_star_bj_e4482bd8:
 msgid "[_star_s_talk_happy_s_sad_] I thought I'd give it to you as another little gift! Think of it like the winning touchdown football, or a winning trophy! You're my {b}Number One Dildo Prankster{/b}, Billy!"
-msgstr "[_star_s_talk_happy_s_sad_] ¡Pensé en dártelo como regalo! ¡Piense en ello como un trofeo ganador! ¡Eres mi {b}cómico de consoladores número uno{/b}, Billy!"
+msgstr "[_star_s_talk_happy_s_sad_] ¡Pensé en dártelo como regalo! ¡Piense en ello como un trofeo ganador! ¡Eres mi {b} bromista de consoladores número uno{/b}, Billy!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1613 #-#-# translate crowdin twinkle_twinkle_little_star_after_star_bj_6a6035bd:
 msgid "[_danny_s_rise_one_s_towards_wide_s_talk_happy_] Gee, that's, uhh... nice of you, Star, thanks."
