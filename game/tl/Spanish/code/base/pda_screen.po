@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-01-20 11:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/pda_screen.rpy:184 #-#-# translate crowdin add_new_contact_126980cc:
 msgid "[_danny_] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
@@ -34,7 +34,7 @@ msgstr "[_danny_] (Parece que Sam no está conectada en este momento, es tempran
 
 # game/code/base/pda_screen.rpy:216 #-#-# translate crowdin sam_is_offline_8dc11841:
 msgid "[_danny_] (She's really more of an online {b}night{/b} owl... or a bat... whatever's more emotionally drained. I'll try messaging her then, in any case.)"
-msgstr "[_danny_] (Ella es realmente algo más que una lechuza nocturna online {b}... o un murciélago... Sea lo que sea me está agotando emocionalmente. Intentaré mandarle un mensaje.)"
+msgstr "[_danny_] (Ella es realmente algo más que una lechuza {b}nocturna{/b}... o un murciélago... Sea lo que sea me está agotando emocionalmente. Intentaré mandarle un mensaje.)"
 
 # game/code/base/pda_screen.rpy:230 #-#-# translate crowdin paulina_is_offline_67a4b5a1:
 msgid "[_danny_] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring \"fans\" and entourage.)"
