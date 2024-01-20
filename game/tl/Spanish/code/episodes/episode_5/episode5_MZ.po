@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-28 11:31\n"
+"PO-Revision-Date: 2024-01-20 10:15\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
-msgstr "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, ¡Buenos días mundo! ¡Otro día glorioso para despertar teniendo todavía poderes fantasmas!"
+msgstr "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, ¡Buenos días mundo! ¡Otro día glorioso para despertar teniendo poderes fantasmas!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:20 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_9ce1fda6:
 msgid "[_danny_s_towards_s_rise_one_s_talk_happy_] Man, things sure have been looking up for me lately. I must be catching my stride finally!"
@@ -550,7 +550,7 @@ msgstr "[_danny_s_sad_s_talk_frown_] Woah, woah, hey, está bien... no hay neces
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:530 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_35bef47f:
 msgid "[_dorathea_] {i}*Sniff* *Sniffle*{/i} Re-really? You mean I can... go and have fun? At the ball?"
-msgstr "[_dorathea_] {i}*Sniff* *Sniffle*{/i} ¿En serio? ¿Quieres decir que puedo... ir y divertirme? ¿En el baile?"
+msgstr "[_dorathea_] {i}*Sniff* *Sniff*{/i} ¿En serio? ¿Quieres decir que puedo... ir y divertirme? ¿En el baile?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:532 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_38a92672:
 msgid "[_danny_s_sad_s_talk_happy_2_] Sure, of course you can! You just might not wanna badger people about where a ball is. Especially in that wailing voice, honestly."
@@ -586,7 +586,7 @@ msgstr "[_paulina_s_rise_one_s_talk_frown_] {i}¡Sssst! {/i}No, Chico Fantasma, 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:557 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_85626e45:
 msgid "[_star_s_talk_frown_s_confused_] {i}*Whispering*{/i} What she said! No 12th century freaks aloud!"
-msgstr "[_star_s_talk_frown_s_confused_] {i}*Susurrando* ¡Lo que ella dijo! ¡Nada de monstruos del siglo 12!"
+msgstr "[_star_s_talk_frown_s_confused_] {i}*Susurrando*{/i} ¡Lo que ella dijo! ¡Nada de monstruos del siglo 12!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:564 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_fd83641a:
 msgid "[_danny_s_angry_s_talk_frown_2_s_towards_wide_] Uhm girls? {i}Ixnay{/i} on the name {i}allingcay!{/i}"
@@ -774,7 +774,7 @@ msgstr "[_danny_s_sad_2_s_frown_grin_2_s_blank_stare_] (¡Mierda! ¡He olvidado 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:752 #-#-# translate crowdin A_Stroke_After_Midnight_postfight_52978438:
 msgid "[_dragon_] {b}Rwarhhhh!! You don't scare me, mere ghostling! {b}Uch!{/b} This realm is so cruel!! Just like big brother!! May you never cross my path again!!"
-msgstr "[_dragon_] {b}¡¡¡Rwarhhhh!!! ¡No me asustas mero fantasma! ¡Uch!{/b} ¡Este reino és muy cruel! ¡Igual que el hermano mayor! ¡¡Nunca vuelvas a cruzarte en mi camino!!"
+msgstr "[_dragon_] {b}¡¡¡Rwarhhhh!!!{/b} ¡No me asustas mero fantasma! {b}¡Uch!{/b} ¡Este reino és muy cruel! ¡Igual que el hermano mayor! ¡¡Nunca vuelvas a cruzarte en mi camino!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:759 #-#-# translate crowdin A_Stroke_After_Midnight_postfight_ce066286:
 msgid "[_dragon_] {i}*Flap* *Flap* *Flap*{/i}"
@@ -2018,7 +2018,7 @@ msgstr "[_tucker_s_ahegao_s_neutral_] Se pone un tweet ligeramente jugoso en lí
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1814 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_5888bc95:
 msgid "[_tucker_s_towards_s_angry_] So anyway, when did you two love birds get together then?"
-msgstr "[_tucker_s_towards_s_angry_] Así que, ¿cuándo se reunieron las dos perdices amorosas?"
+msgstr "[_tucker_s_towards_s_angry_] Así que, ¿cuándo se reunieron las dos perdices enamoradas?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1817 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_3b5c2fa0:
 msgid "[_sam_s_sad_s_talk_frown_s_thinking_] No, Tucker, we're not {b}actually{/b} dating. We're just pretending so people like Star will get off our back."
@@ -2634,15 +2634,15 @@ msgstr "[_danny_s_rise_one_s_talk_happy_] Tienes un ronquido? Oh mi dios, eso es
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2278 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_15062d3d:
 msgid "[_sam_s_angry_s_talk_happy_3_s_drunk_2_] Awww, shud' dah' fuck up, Fenton! Don't tease me! {i}*Giggles*{/i} I can't help it! {i}*Snorts*{/i}"
-msgstr "[_sam_s_angry_s_talk_happy_3_s_drunk_2_] Awww, dah' fuck up, ¡Fenton! ¡No me tintes! {i}*Gigles*{/i} ¡No puedo ayudarlo! {i}*Snortes*{/i}"
+msgstr "[_sam_s_angry_s_talk_happy_3_s_drunk_2_] Awww, dah' fuck up, ¡Fenton! ¡No me tintes! {i}*risas*{/i} ¡No puedo ayudarlo! {i}*Snortes*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2280 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_012f3bb2:
 msgid "[_danny_s_wondering_s_closed_s_talk_happy_2_] Come on key fumbler, let me help you out."
-msgstr "[_danny_s_wondering_s_closed_s_talk_happy_2_] Ven a fumbler clave, déjame ayudarte."
+msgstr "[_danny_s_wondering_s_closed_s_talk_happy_2_] Ven, déjame ayudarte."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2282 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_8966f125:
 msgid "[_sam_s_sad_s_drunk_s_talk_bite_] Fine, fine, take em'! {i}*Giggles*{/i}"
-msgstr "[_sam_s_sad_s_drunk_s_talk_bite_] Fine, fine, take em'! {i}*Giggles*{/i}"
+msgstr "[_sam_s_sad_s_drunk_s_talk_bite_] Vale, valem toma! {i}*risas*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2289 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_ea7f0410:
 msgid "[_doorsound_] {i}*Chik* *Chlk* *Click*{/i}"
@@ -2654,7 +2654,7 @@ msgstr "[_danny_s_down_s_talk_happy_s_wondering_] ...¡y ahí vamos!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2297 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_1d0688f6:
 msgid "[_sam_s_sad_2_s_talk_happy_s_drunk_] Yayyy, whadda' magician you are~!"
-msgstr "¡[_sam_s_sad_2_s_talk_happy_s_drunk_] Yayyy, mago de quién eres~!"
+msgstr "¡[_sam_s_sad_2_s_talk_happy_s_drunk_] Yayyy, eres un mago~!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2299 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_df12b109:
 msgid "[_danny_s_towards_wide_s_sad_s_talk_happy_2_] You know, I rarely go through the front anymore, I forget what a nice foyer you guys have."
