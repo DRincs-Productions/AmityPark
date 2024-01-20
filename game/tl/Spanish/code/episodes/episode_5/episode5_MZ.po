@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-20 10:15\n"
+"PO-Revision-Date: 2024-01-20 11:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -22,11 +22,11 @@ msgstr "[_danny_s_towards_s_rise_one_s_talk_happy_] Tío, las cosas han ido a me
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:21 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_43d9bbec:
 msgid "[_danny_s_talk_happy_2_s_sad_] This whole superhero thing ain't too bad, honestly! I get to crack a few jokes, throw some sweet punches, save the day from evil..."
-msgstr "[_danny_s_talk_happy_2_s_sad_] ¡Todo esto de ser superhéroe no esta tan mal,! Puedo hacer unas bromas, pegar algunos puñetazos, salvar del mal el día..."
+msgstr "[_danny_s_talk_happy_2_s_sad_] ¡Todo esto de ser superhéroe no esta tan mal,! Puedo hacer unas bromas, pegar algunos puñetazos, salvar del mal..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:22 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_fe15f67b:
 msgid "[_danny_s_talk_happy_s_neutral_s_closed_] ...and have everyone fall in love with the sweetheart that is Danny Fenton... or, Inviso-Bill at least. Who could ask for more?"
-msgstr "[_danny_s_talk_happy_s_neutral_s_closed_]... y hacer que todos se enamoren de lo dulce de Danny Fenton... o, por lo menos el chico fantasma. ¿Qué más se puede pedir?"
+msgstr "[_danny_s_talk_happy_s_neutral_s_closed_]... y hacer que todas se enamoren del dulce Danny Fenton... o, por lo menos el chico fantasma. ¿Qué más se puede pedir?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:23 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_3774ff6d:
 msgid "[_danny_s_at_player_s_talk_happy_2_s_wondering_] And with my recent developments with Desiree, I feel more confident than ever to take on the other ghosts out there."
@@ -42,7 +42,7 @@ msgstr "[_danny_s_towards_wide_s_talk_frown_s_sad_2_] Ehhh, ¡¡{b}Jinx{/b}!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:28 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_e22f0f9e:
 msgid "[_danny_s_sad_s_closed_s_talk_happy_] Hah hah, {i}phew{/i}! Now I don't need to worry about screwing myself over with any out loud, overly ironic statements! Everybody knows you're safe if you say jinx though..."
-msgstr "[_danny_s_sad_s_closed_s_talk_happy_] Hah hah, {i}Uf{/i}! ¡Ahora no necesito preocuparme por hablar conmigo declaraciones en voz alta y excesivamente irónicas! Todo el mundo sabe que estás seguro si dices jinx aunque..."
+msgstr "[_danny_s_sad_s_closed_s_talk_happy_] Hah hah, {i}Uf{/i}! ¡Ahora no necesito preocuparme por hablar conmigo en voz alta y declaraciones irónicas! Todo el mundo sabe que estás seguro si dices jinx aunque..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:29 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_f750a0f3:
 msgid "[_danny_s_rise_one_s_at_danny_s_talk_frown_2_] That's... that's how that works right?"
@@ -58,7 +58,7 @@ msgstr "[_danny_s_talk_happy_] ¡Ei chicos!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:61 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_939c5dcb:
 msgid "[_sam_tucker_] \"{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}\""
-msgstr "[_sam_tucker_] \"{i}Ah, buenos {b}dias{/b}, oh maravilloso chico espiritu!{/i}\""
+msgstr "[_sam_tucker_] \"{i}Ah, buenos {b}dias{/b}, oh maravilloso chico espiritual!{/i}\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:64 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_a4fe799b:
 msgid "[_danny_s_towards_s_talk_frown_] Uhm... what's with the regal doofus inflection you guys are speaking with?"
@@ -2626,7 +2626,7 @@ msgstr "[_danny_s_talk_happy_] Vale, está bien! Pero es tu casa, ¡no tengo la 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2274 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_a96fea7c:
 msgid "[_sam_s_talk_happy_2_s_sad_] Oh, right! Das me! {i}*Snorts* *Laughs*{/i}"
-msgstr "[_sam_s_talk_happy_2_s_sad_] ¡Oh, a la derecha! Das me! {i}*Snorts * *Laughs * {/i}"
+msgstr "[_sam_s_talk_happy_2_s_sad_] ¡Oh, sí! yo! {i}*eruptos* *risas * {/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2276 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_8c6d203d:
 msgid "[_danny_s_rise_one_s_talk_happy_] You have a snort? Oh my god, that's adorable."
@@ -2642,7 +2642,7 @@ msgstr "[_danny_s_wondering_s_closed_s_talk_happy_2_] Ven, déjame ayudarte."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2282 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_8966f125:
 msgid "[_sam_s_sad_s_drunk_s_talk_bite_] Fine, fine, take em'! {i}*Giggles*{/i}"
-msgstr "[_sam_s_sad_s_drunk_s_talk_bite_] Vale, valem toma! {i}*risas*{/i}"
+msgstr "[_sam_s_sad_s_drunk_s_talk_bite_] Vale, vale toma! {i}*risas*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2289 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_ea7f0410:
 msgid "[_doorsound_] {i}*Chik* *Chlk* *Click*{/i}"
