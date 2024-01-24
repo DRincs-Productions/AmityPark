@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-20 11:17\n"
+"PO-Revision-Date: 2024-01-24 15:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
-msgstr "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, ¡Buenos días mundo! ¡Otro día glorioso para despertar teniendo poderes fantasmas!"
+msgstr "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, ¡Buenos días mundo! ¡Otro día glorioso día teniendo poderes fantasmas!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:20 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_9ce1fda6:
 msgid "[_danny_s_towards_s_rise_one_s_talk_happy_] Man, things sure have been looking up for me lately. I must be catching my stride finally!"
