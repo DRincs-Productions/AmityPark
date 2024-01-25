@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-25 17:48\n"
+"PO-Revision-Date: 2024-01-25 18:57\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/star/star_gym_running.rpy:17 #-#-# translate crowdin gym_monday_star_running_repeat_4f533b71:
 msgid "[_danny_s_gym_s_towards_s_wondering_s_smile_] (Doesn't look like anybody's really taking advantage of the gym this early today.)"
@@ -102,7 +102,7 @@ msgstr "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Sólo estábamos hablando S
 
 # game/code/character_events/star/star_gym_running.rpy:136 #-#-# translate crowdin gym_monday_star_running_competition_e06ee805:
 msgid "[_star_s_gym_s_towards_s_angry_s_talk_happy_] The photo of my juicy rear-end Danny's going to take and end up sending to Billy!"
-msgstr "[_star_s_gym_s_towards_s_angry_s_talk_happy_] La foto de mi jugoso trasero ¡Danny va a hacerme una y enviarla a Billy!"
+msgstr "[_star_s_gym_s_towards_s_angry_s_talk_happy_] La foto de mi lujoso trasero ¡Danny va a hacerme una y enviarla a Billy!"
 
 # game/code/character_events/star/star_gym_running.rpy:140 #-#-# translate crowdin gym_monday_star_running_competition_4146ec32:
 msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] ...you're taking photos of your ass...? And sending them to..."
@@ -126,7 +126,7 @@ msgstr "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] No queremos que nuestro 
 
 # game/code/character_events/star/star_gym_running.rpy:160 #-#-# translate crowdin gym_monday_star_running_competition_16033839:
 msgid "[_star_s_gym_s_towards_s_sad_s_talk_displeased_] W-wait a minute, this is- you can't take over my moment!"
-msgstr "[_star_s_gym_s_towards_s_sad_s_talk_displeased_] W-espera un minuto, esto es-¡no puedes quitarme mi situación!"
+msgstr "[_star_s_gym_s_towards_s_sad_s_talk_displeased_] E-espera un minuto, esto es-¡no puedes quitarme mi oportunidad!"
 
 # game/code/character_events/star/star_gym_running.rpy:164 #-#-# translate crowdin gym_monday_star_running_competition_cc77ca9e:
 msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] Why not? Afraid of a little healthy competition, Star?"
@@ -202,15 +202,15 @@ msgstr "[_star_s_gym_s_towards_s_rise_s_talk_displeased_] {i}Hmmph! {/i} Quiero 
 
 # game/code/character_events/star/star_gym_running.rpy:242 #-#-# translate crowdin gym_monday_star_running_competition_29f82963:
 msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] So like, are we done warming up your photography skills on the junior varsity candidate yet?"
-msgstr "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] A sí. ¿estás haciendo el calentamiento de tu habilidad como modelo para candidata de la varsity junior?"
+msgstr "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] algo como. ¿estamos divulgando tus fogosas fotos para candidata de la varsity junior?"
 
 # game/code/character_events/star/star_gym_running.rpy:246 #-#-# translate crowdin gym_monday_star_running_competition_b1013c9b:
 msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] I think it's about time we got down to some serious business with my tushy!"
-msgstr "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] ¡Creo que es hora de que haga una cosa seria con mi culo!"
+msgstr "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] ¡Creo que es hora de que haga algo serio con mi culo!"
 
 # game/code/character_events/star/star_gym_running.rpy:250 #-#-# translate crowdin gym_monday_star_running_competition_fd692a73:
 msgid "[_danny_s_gym_s_towards_s_idle_s_talk_happy_] Sure Paulina, if you're ready to go!"
-msgstr "[_danny_s_gym_s_towards_s_idle_s_talk_happy_] ¡Claro que Paulina!, si estás lista ¡vamos!"
+msgstr "[_danny_s_gym_s_towards_s_idle_s_talk_happy_] ¡Claro Paulina!, si estás lista ¡vamos!"
 
 # game/code/character_events/star/star_gym_running.rpy:254 #-#-# translate crowdin gym_monday_star_running_competition_b0219cf7:
 msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] Please, I'm {i}always{/i} ready to show off my behind..."
@@ -222,7 +222,7 @@ msgstr "[_danny_] (Realmente no puedo creer que estén haciendo {i}esto {/i} par
 
 # game/code/character_events/star/star_gym_running.rpy:262 #-#-# translate crowdin gym_monday_star_running_competition_dcd2f01b:
 msgid "[_danny_] (Not like either him or me are gonna be complaining about it.)"
-msgstr "[_danny_] (Ni él ni yo vamos a estar quejándonos de ello.)"
+msgstr "[_danny_] (Ni él ni yo vamos a quejarnos de ello.)"
 
 # game/code/character_events/star/star_gym_running.rpy:263 #-#-# translate crowdin gym_monday_star_running_competition_ff3b5e46:
 msgid "[_paulina_] Looking good back there?"
@@ -246,7 +246,7 @@ msgstr "[_danny_] Vale, bueno, creo que lo tengo... sí, esta debería servir."
 
 # game/code/character_events/star/star_gym_running.rpy:281 #-#-# translate crowdin gym_monday_star_running_competition_09fd5e46:
 msgid "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Nothing better than a brisk little run around the track, you know?"
-msgstr "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Nada mejor que correr alrededor de la pista con un poco de riesgo, ¿sabes?"
+msgstr "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Nada mejor que correr con un poco de riesgo, ¿sabes?"
 
 # game/code/character_events/star/star_gym_running.rpy:285 #-#-# translate crowdin gym_monday_star_running_competition_0fd254e7:
 msgid "[_star_s_gym_s_closed_s_idle_s_talk_displeased_] {i}*Ughh*{/i}..."
@@ -286,11 +286,11 @@ msgstr "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Vale, ¡ya veo Fenton! A
 
 # game/code/character_events/star/star_gym_running.rpy:336 #-#-# translate crowdin gym_monday_star_running_competition_paulina_4ccf0222:
 msgid "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] You take that back! There's no way he'd prefer her-"
-msgstr "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] ¡Tú lo dices sola! No hay modo de que él la prefiera-"
+msgstr "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] ¡Tú lo dices sola! No hay modo de que él lo prefiera-"
 
 # game/code/character_events/star/star_gym_running.rpy:340 #-#-# translate crowdin gym_monday_star_running_competition_paulina_c671db7e:
 msgid "[_danny_s_gym_s_towards_s_rise_s_talk_happy_] What? C'mon Star, she's got a {u}contender{/u} back there! That's a wagon and a half! How could he not see the-"
-msgstr "[_danny_s_gym_s_towards_s_rise_s_talk_happy_] ¿Qué? Vamos Star, ¡ella es una {u}rival{/u} de las mejores! Eso es un vagón y medio. ¿Cómo no has podido ver la-"
+msgstr "[_danny_s_gym_s_towards_s_rise_s_talk_happy_] ¿Qué? Vamos Star, ¡ella es una {u}rival{/u} de las mejores! Eso es un once sobre diez. ¿Cómo no has podido ver la-"
 
 # game/code/character_events/star/star_gym_running.rpy:344 #-#-# translate crowdin gym_monday_star_running_competition_paulina_106fc186:
 msgid "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] {i}Uch!!{/i} Shut up, Fenton! I don't wanna hear it!"
@@ -298,7 +298,7 @@ msgstr "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] {i}Uch!! {/i} ¡Cáll
 
 # game/code/character_events/star/star_gym_running.rpy:353 #-#-# translate crowdin gym_monday_star_running_competition_paulina_075f6b4f:
 msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Guess she's done with her exercise for the morning..."
-msgstr "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Supongo que ha hecho con ella su ejercicio de la mañana ..."
+msgstr "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Supongo que ha hecho su ejercicio de la mañana..."
 
 # game/code/character_events/star/star_gym_running.rpy:356 #-#-# translate crowdin gym_monday_star_running_competition_paulina_0a14ecd3:
 msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] Oh, just let her get over herself. It's like this all the time with her!"
@@ -314,7 +314,7 @@ msgstr "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] De todos modos, envía l
 
 # game/code/character_events/star/star_gym_running.rpy:365 #-#-# translate crowdin gym_monday_star_running_competition_paulina_f840b160:
 msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Y-yeah, I'm on it."
-msgstr "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Y-sí, estoy en ello."
+msgstr "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] S-sí, estoy en ello."
 
 # game/code/character_events/star/star_gym_running.rpy:373 #-#-# translate crowdin gym_monday_star_running_competition_paulina_a81b2cb1:
 msgid "[_danny_s_gym_s_at_player_s_rise_s_talk_happy_] ...nice photo..."
@@ -326,7 +326,7 @@ msgstr "[_star_s_gym_s_towards_s_rise_s_talk_happy_] ¡Por supuesto que lo hará
 
 # game/code/character_events/star/star_gym_running.rpy:389 #-#-# translate crowdin gym_monday_star_running_competition_star_b189536c:
 msgid "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] Whatever! You think he's gonna freak out over some pancake cheeks?!"
-msgstr "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] ¿Crees que se le pondrán las mejillas como rojas como fresas?!"
+msgstr "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] ¿Crees que se le pondrán las mejillas rojas como fresas?!"
 
 # game/code/character_events/star/star_gym_running.rpy:393 #-#-# translate crowdin gym_monday_star_running_competition_star_b871d2ec:
 msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] I mean... I don't know, it looks pretty plump in this photo, Paulina..."
@@ -338,7 +338,7 @@ msgstr "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] {i}Ugh!! {/i} ¡El
 
 # game/code/character_events/star/star_gym_running.rpy:401 #-#-# translate crowdin gym_monday_star_running_competition_star_0f90c9a7:
 msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Well it did {i}this{/i} time, sweetie! Get used to learning what 2nd place is like!"
-msgstr "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Bien, ya está {i}hecho {/i}, ¡cariño! ¡Que aprenda lo que significa estar en segundo lugar!"
+msgstr "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Bien, ya está {i}hecho {/i}, ¡cariño! ¡Aprende lo que significa estar en segundo lugar!"
 
 # game/code/character_events/star/star_gym_running.rpy:405 #-#-# translate crowdin gym_monday_star_running_competition_star_75c9d84e:
 msgid "[_paulina_s_gym_s_closed_s_angry_s_talk_distraught_] I-!"
@@ -346,7 +346,7 @@ msgstr "[_paulina_s_gym_s_closed_s_angry_s_talk_distraught_] yo-!"
 
 # game/code/character_events/star/star_gym_running.rpy:409 #-#-# translate crowdin gym_monday_star_running_competition_star_97ab4274:
 msgid "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] You know what, what the hell ever! I'm getting out of whatever crazy world you two are living in!"
-msgstr "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] ¡Sabes qué, qué demonios! ¡Estoy saliendo del mundo de locos en el que los dos vivís!"
+msgstr "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] ¡Sabes qué, qué demonios! ¡Me voy de la locura en la que estáis metidos los dos!"
 
 # game/code/character_events/star/star_gym_running.rpy:419 #-#-# translate crowdin gym_monday_star_running_competition_star_67e80611:
 msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] {i}Hah ha!{/i} Dang, that felt good..."
@@ -354,11 +354,11 @@ msgstr "[_star_s_gym_s_towards_s_rise_s_talk_happy_] {i}Hah ha! {/i} Dang, esto 
 
 # game/code/character_events/star/star_gym_running.rpy:422 #-#-# translate crowdin gym_monday_star_running_competition_star_5c3d51ea:
 msgid "[_star_s_gym_s_towards_s_idle_s_talk_happy_] Anyway, send those to Billy right away.{p}And then get out of my space, I still have more laps to run."
-msgstr "[_star_s_gym_s_towards_s_idle_s_talk_happy_] De todos modos, envía las fotos a Billy de inmediato.{p}Y luego sal de mi espacio, todavía tengo más vueltas para correr."
+msgstr "[_star_s_gym_s_towards_s_idle_s_talk_happy_] De todos modos, envía las fotos a Billy de inmediato.{p}Y luego sal de mi espacio{/p}, todavía tengo correr más."
 
 # game/code/character_events/star/star_gym_running.rpy:425 #-#-# translate crowdin gym_monday_star_running_competition_star_c28c045a:
 msgid "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Muttering*{/i}...right away, your heinie-ness..."
-msgstr "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Murmullo* {/i}... de inmediato, su crueldad..."
+msgstr "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Susurrando* {/i}... de inmediato, su crueldad..."
 
 # game/code/character_events/star/star_gym_running.rpy:428 #-#-# translate crowdin gym_monday_star_running_competition_star_f45a73e8:
 msgid "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] Excuse me, what was that...?"
@@ -378,5 +378,5 @@ msgstr "Creo personalmente que a Inviso-Bill le va a gustar más Paulina."
 
 # game/code/character_events/star/star_gym_running.rpy:322
 msgid "Inviso-Bill's gonna flip when he sees your photo, Star."
-msgstr "Inviso-Bill volteará tu  foto cuando la vea, Star."
+msgstr "Inviso-Bill borrará tu foto cuando la vea, Star."
 
