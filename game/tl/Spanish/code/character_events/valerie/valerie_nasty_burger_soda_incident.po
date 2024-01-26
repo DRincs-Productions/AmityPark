@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-26 11:14\n"
+"PO-Revision-Date: 2024-01-26 12:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
@@ -370,7 +370,7 @@ msgstr "[_danny_s_burger_s_down_s_sad_s_talk_happy_] Oh, {i}uhm{/i}, sí, lo sie
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:523 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_5ea6b00e:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] ...{i}right{/i}, okay.{p}Well, I'll take back over, you get around to sweeping and wiping again, 'kay?"
-msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] ...{i}bien{/i}, de acuerdo.{p} Bueno, yo me encargaré de nuevo, tú vuelve a barrer y limpiar, ¿vale?"
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] ...{i}bien{/i}, de acuerdo.{p} Bueno, yo me encargaré de nuevo, tú vuelve a barrer y limpiar{/p}, ¿vale?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:527 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_7496770b:
 msgid "[_danny_s_burger_s_closed_s_unhappy_s_talk_happy_] Sure, no problem! B-back to work, for ol' Danny!"
@@ -478,7 +478,7 @@ msgstr "[_valerie_] {i}*Suspiro*{/i} ¿Qué tal si la próxima vez llamas en la 
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:643 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_ad79cf8e:
 msgid "[_danny_s_burger_s_towards_s_sad_s_talk_happy_] Okay, okay, will do!{p}{i}*Ahem*{/i}"
-msgstr "[_danny_s_burger_s_towards_s_sad_s_talk_happy_] Vale, vale, ¡lo haré!{p}{i}*Ahem*{/i}"
+msgstr "[_danny_s_burger_s_towards_s_sad_s_talk_happy_] Vale, vale, ¡lo haré!{p}{i}*Ahem*{/i}{/p}"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:647 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_20890889_1:
 msgid "[_valerie_] . . ."
@@ -498,7 +498,7 @@ msgstr "[_valerie_] Raro..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:669 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_e439c795:
 msgid "[_danny_s_burger_s_towards_s_unhappy_s_talk_displeased_] Me? A weirdo?!"
-msgstr "[_danny_s_burger_s_towards_s_unhappy_s_talk_displeased_] ¿Yo? ¿Un bicho raro?"
+msgstr "[_danny_s_burger_s_towards_s_unhappy_s_talk_displeased_] ¿Yo? ¿raro?!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:671 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_7c823671:
 msgid "[_danny_s_burger_s_at_player_s_rise_s_talk_happy_] ...well I guess that's true enough."
@@ -514,7 +514,7 @@ msgstr "[_danny_s_burger_s_closed_s_sad_s_talk_displeased_] Mejor seguir trabaja
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:707 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_c429c88b:
 msgid "[_danny_s_burger_s_at_player_s_idle_s_talk_happy_] ...and here's your order miss!{p}Oh, the Nasty sauce packets, right! Pardon me, here you go!{p}Enjoy your meal!"
-msgstr "[_danny_s_burger_s_at_player_s_idle_s_talk_happy_] ...¡y aquí está su pedido, señorita!{p} . ¡Oh!, los paquetes de salsa Nasty. ¡Perdóneme!, ¡aquí tiene!{p}¡Disfrute de su comida!"
+msgstr "[_danny_s_burger_s_at_player_s_idle_s_talk_happy_] ...¡y aquí está su pedido, señorita!{p} . ¡Oh!, los paquetes de salsa Nasty.{/p} ¡Perdóneme!, ¡aquí tiene!{p}¡Disfrute de su comida{/p}!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:719 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_759862d7:
 msgid "[_lily_s_towards_s_idle_s_talk_happy_] Hey, thanks for covering for me for a bit."
@@ -534,7 +534,7 @@ msgstr "[_danny_s_burger_s_towards_s_sad_s_talk_happy_] No lo sé, no la fui a v
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:731 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_d876db91:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Well, it's been a little while, I wonder what-"
-msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] Bueno, ha pasado un tiempo, me pregunto qué..."
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] Bueno, ha pasado un rato, me pregunto qué"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:746 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_747f6cc9:
 msgid "[_valerie_] Hey, sorry about that wait, it took awhile to find a new shirt."
@@ -550,7 +550,7 @@ msgstr "[_lily_s_towards_s_rise_s_talk_happy_] Irving parece pensar que todos so
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:765 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_fb62af5a:
 msgid "[_valerie_] {i}*Chuckles*{/i} I know, he's the worst."
-msgstr "[_valerie_] {i}*Lo sé, él és de lo peor."
+msgstr "[_valerie_] {i}*risas*{/i} Lo sé, él és de lo peor."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:769 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_128a8228:
 msgid "[_lily_s_towards_s_idle_s_talk_happy_] Well, if you still need some help finding those napkins, I can help you look in the back."
@@ -558,7 +558,7 @@ msgstr "[_lily_s_towards_s_idle_s_talk_happy_] Bueno, si todavía necesitas ayud
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:774 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_a84a45d8:
 msgid "[_valerie_] Thanks, they're somewhere there, I just can't find them."
-msgstr "[_valerie_] Gracias, están en algún lugar, sólo que no las encuentro."
+msgstr "[_valerie_] Gracias, están en algún lugar, és solo que no las encuentro."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:778 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_c0c78ac6:
 msgid "[_lily_s_towards_s_idle_s_talk_displeased_] Let's check it out then."
@@ -574,7 +574,7 @@ msgstr "[_valerie_] ¡¿Algo en lo que pueda ayudarte, Fenton?!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:796 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_2663e233:
 msgid "[_danny_s_burger_s_sad_s_talk_displeased_] N-no, nothing, I was just...{p}Nope, I'm good."
-msgstr "[_danny_s_burger_s_sad_s_talk_displeased_] N-no, nada, sólo estaba...{p}No, estoy bien."
+msgstr "[_danny_s_burger_s_sad_s_talk_displeased_] N-no, nada, sólo estaba...{p}No{/p}, estoy bien."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:800 #-#-# translate crowdin valerie_random_nasty_burger_no_peek_835865b6:
 msgid "[_valerie_] {i}Hrrmph{/i}..."
@@ -586,7 +586,7 @@ msgstr "[_danny_s_burger_s_at_player_s_rise_s_talk_happy_] Lo que sea. Al menos 
 
 # §translate crowdin strings: #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
 msgid "(Peek in the back room?)"
-msgstr "(¿Mirar en la trastienda?)"
+msgstr "(¿Mirar en la parte de atrás?)"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
 msgid "Yeah, just to make sure she's okay."
@@ -594,5 +594,5 @@ msgstr "Sí, sólo para asegurarme de que está bien."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
 msgid "No, I'm sure she's fine."
-msgstr "No, estoy seguro de que esté bien."
+msgstr "No, estoy seguro de que está bien."
 
