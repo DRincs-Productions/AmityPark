@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 22:08\n"
+"PO-Revision-Date: 2024-01-26 12:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
-msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... ¿qué...?{p}¿Por qué estaba tirado en el suelo...?"
+msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... ¿qué...?¿{p}Por qué estaba tirado en el suelo...{/p}...?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:41 #-#-# translate crowdin intro_24cad70b:
 msgid "[_danny_s_down_s_sad_s_frown_3_] (What happened last night?){p}The last thing I remember..."
-msgstr "[_danny_s_down_s_sad_s_frown_3_] (¿Qué pasó anoche?){p}Lo último que recuerdo..."
+msgstr "[_danny_s_down_s_sad_s_frown_3_] (¿Qué pasó anoche?) {p}Lo último que recuerdo{/p}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:46 #-#-# translate crowdin intro_4303aa3a:
 msgid "[_danny_s_towards_s_sad_] (Oh yeah… there was... some kind've accident in the {b}Fenton Work's Lab{/b}...)"
-msgstr "[_danny_s_towards_s_sad_] (Oh sí… hubo... algún tipo de accidente en el {b}laboratorio de Fenton{/b}...)"
+msgstr "[_danny_s_towards_s_sad_] (Oh sí… hubo... algún tipo de accidente en el {b}laboratorio Fenton{/b}...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:51 #-#-# translate crowdin intro_4fbf4b08:
 msgid "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}\"Ghost Portal\"{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
-msgstr "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... Estaba...Estaba intentando echar un vistazo dentro del {b}\"Portal Fantasma\"{/b} de mis padres, que construyeron y que no funcionaba del todo. Creo que pulsé accidentalmente un botón en el lado de la pared o algo así...)"
+msgstr "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... Estaba...Estaba intentando echar un vistazo dentro del {b}\"Portal Fantasma\"{/b} de mis padres que construyeron y que no funcionaba del todo. Creo que pulsé accidentalmente un botón en el lado de la pared o algo así...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:64 #-#-# translate crowdin intro_cb112b07:
 msgid "[_danny_] (Suddenly, there was a {u}great big flash{/u}... everything just {i}changed{/i}...{p}man, I hope my molecules weren't all rearranged...)"
-msgstr "[_danny_] (De repente, hubo un {u}gran flash{/u}... todo simplemente {i}cambió{/i}...{p}Joder, espero que las moléculas de mi cuerpo no hayan sido reordenadas...)"
+msgstr "[_danny_] (De repente, hubo un {u}gran flash{/u}... todo {i}cambió{/i}...{p}tio, espero que las moléculas de mi cuerpo no hayan sido reordenadas...{/p})"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:66 #-#-# translate crowdin intro_d01af09e:
 msgid "[_danny_] ({i}Heh{/i}, that rhymed.)"
@@ -42,19 +42,19 @@ msgstr "[_danny_] (Y entonces... cuando me desperté de nuevo, estaba... no... n
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:81 #-#-# translate crowdin intro_d636ae29:
 msgid "[_danny_] (...had I really been turned into a... a {b}ghost{/b}...?{p}How else could I have gotten back into my room...?)"
-msgstr "[_danny_] (...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...?)"
+msgstr "[_danny_] (...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...?{/p})"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:86 #-#-# translate crowdin intro_565378f5:
 msgid "[_danny_] (N-no, I must have just bumped my head and imagined the whole thing! Dad probably just found me down in the lab and carried me up here, that's all! Ghosts are {i}absolutely{/i} not, in any {i}conceivable{/i} reality, {u}real{/u}.)"
-msgstr "[_danny_] (¡No!, debo haberme golpeado la cabeza y haberme imaginado todo! Probablemente papá me encontró inconsciente en el laboratorio y me trajo hasta aquí, ¡eso es todo! {i}Los fantasmas no son en absoluto, en ninguna realidad {i}concebible, {u}real{/u}."
+msgstr "[_danny_] (¡No!, debo haberme golpeado la cabeza y haberme imaginado todo! Probablemente papá me encontró inconsciente en el laboratorio y me trajo hasta aquí, ¡eso es todo! Los fantasmas no son en {i}absoluto{/i}, en ninguna realidad {i}concebible{/i} ni {u}real{/u}.)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:99 #-#-# translate crowdin intro_61804c48:
 msgid "[_danny_s_p7_] Oh crap! It really {u}did{/u} happen!{p}I'm actually {u}dead{/u}!!"
-msgstr "[_danny_s_p7_] ¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy ahora {u}muerto{/u}!!"
+msgstr "[_danny_s_p7_] ¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy {u}muerto{/u}{/p}!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:102 #-#-# translate crowdin intro_82c577de:
 msgid "[_jack_] {i}DANNY!!{/i} I'm getting a reading from the {b}Fenton Finder{/b} that there's a ghost in your room!{p}Try to fend it off with your weaponized teenage hormones while your mother and I grab our ghost hunting gear! Good luck, son!!"
-msgstr "[_jack_] {i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!. ¡Buena suerte, hijo!"
+msgstr "[_jack_] {i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!{/p}. ¡Buena suerte, hijo!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:106 #-#-# translate crowdin intro_5501def0:
 msgid "[_danny_] Oh man! If Mom and Dad catch me like this, I'm toast!"
@@ -74,7 +74,7 @@ msgstr "[_danny_s_p9_] Tengo que... concentrarme... {i}¡concentrarme!{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:132 #-#-# translate crowdin intro_91069740:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Alright, ghost!! Get ready to meet your maker!!{p}For {i}sure{/i} this time!"
-msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Por {i}seguro{/i} esta vez!"
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Esta vez por {i}seguro{/i} {/p}!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:150 #-#-# translate crowdin intro_c5548982:
 msgid "[_danny_s_talk_happy_s_wondering_] {i}Uhhhhmm{/i}, h-hey guys! L-look! No ghost here! Just {i}regular{/i} old Danny! Yessir, nothing out of the ordinary, just a boring, {u}completely{/u} non-translucent young adult's room! {i}Ah heh, hehh{/i}..."
@@ -82,15 +82,15 @@ msgstr "[_danny_s_talk_happy_s_wondering_] {i}Uhhhhmm{/i}, ¡hey! ¡Mirad! ¡No 
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:154 #-#-# translate crowdin intro_262fcb01:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] Well that's strange... I could have {i}sworn{/i} the Fenton Finder indicated-"
-msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] Bueno, extraño... Podría haber  {i}jurado {/i}que el buscador de Fenton indicaba..."
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] Bueno, extraño... Podría {i}jurar {/i}que el buscador de Fenton indicaba"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:166 #-#-# translate crowdin intro_53b42b8b:
 msgid "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] Don't worry dear, I'll take a look at the calibration specs on it later. All we've done for the moment is foolishly barge into Danny's room without asking."
-msgstr "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] No te preocupes, querido, luego le echaré un vistazo a la calibración. Todo lo que hemos hecho por el momento es irrumpir tontamente en la habitación de Danny y sin preguntar."
+msgstr "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] No te preocupes, querido, luego le echaré un vistazo al calibrado. Todo lo que hemos hecho por el momento es irrumpir tontamente en la habitación de Danny y sin preguntar."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:170 #-#-# translate crowdin intro_bf734b4a:
 msgid "[_maddie_s_flip_s_closed_s_neutral_s_talk_amused_] Right now, let's all just go downstairs and have some breakfast to cool down from this little false alarm!{p}I'll even make a fresh batch of waffles for you boys!"
-msgstr "[_maddie_s_flip_s_closed_s_neutral_s_talk_amused_] Bien, ahora bajemos todos a desayunar para calmarnos de esta pequeña falsa alarma.{p}¡Incluso haré un lote de gofress para ustedes!"
+msgstr "[_maddie_s_flip_s_closed_s_neutral_s_talk_amused_] Bien, ahora bajemos todos a desayunar para calmarnos de esta pequeña falsa alarma.{p}¡Haré un lote de gofres{/p}!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:175 #-#-# translate crowdin intro_429d8c16:
 msgid "[_jack_] {i}Leaping log-cabins{/i}, that sounds {u}great{/u} honey! See yah Danny!! Last one downstairs is a rotten Belgian!"
@@ -126,7 +126,7 @@ msgstr "[_danny_s_at_danny_s_frown_s_rise_one_] (Bueno, más de lo {i}que ya soy
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:224 #-#-# translate crowdin intro_83d3d7f1:
 msgid "[_danny_s_at_player_s_sad_2_s_frown_grin_3_] (Especially after this whole ghost stuff! Jeez, I still can't believe this is real! I'm an {i}actual{/i} ghost!!)"
-msgstr "[_danny_s_at_player_s_sad_2_s_frown_grin_3_] (¡Especialmente después de todo este asunto de los fantasmas! ¡Dios, todavía no puedo creer que esto sea real! Soy un ¡fantasma {i}real{/i}!)"
+msgstr "[_danny_s_at_player_s_sad_2_s_frown_grin_3_] (¡Especialmente después de todo este asunto de los fantasmas! ¡Dios, todavía no puedo creer que esto sea real! ¡Soy un fantasma {i}real{/i}!)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:232 #-#-# translate crowdin intro_7df06f2e:
 msgid "[_danny_s_frown_3_s_rise_one_s_towards_] (...or something like one, anyway... whatever the case, I'm not gonna worry about it right now. I'll just try to eat some breakfast in the {b}kitchen{/b} or something... if I still even {i}can{/i} eat.)"
@@ -150,7 +150,7 @@ msgstr "[_danny_s_at_danny_s_blush_s_sad_2_s_talk_frown_2_] ¡¿\"La conversaci�
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:279 #-#-# translate crowdin intro_breakfast_6c61c89f:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] No doofus! The talk {i}about{/i} Mom and Dad!{p}You do realize that, eventually, one of us is going to get stuck here taking care of them, and frankly, I have {i}far{/i} too many plans after I graduate school for it to be {i}my{/i} responsibility."
-msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] ¡No, tonto! La conversación {i}sobre{/i} ¡Mamá y papá! {p} Te das cuenta de que, en algún momento, uno de nosotros se va a quedar aquí cuidando de ellos, y francamente, tengo {i}demasiados{/i} planes después de graduarme para que sea {i}mi{/i} responsabilidad."
+msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] ¡No, tonto! La conversación {i}sobre{/i} ¡Mamá y papá! {p} Te das cuenta de que, en algún momento, uno de nosotros se va a quedar aquí cuidando de ellos{/p}, y francamente, tengo {i}demasiados{/i} planes después de graduarme para que sea {i}mi{/i} responsabilidad."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:282 #-#-# translate crowdin intro_breakfast_5c64f471:
 msgid "[_danny_s_towards_s_rise_one_s_talk_frown_2_] Huh? What the heck are you talking about Jazz? Why would either of us have to be stuck here taking care of them? They're not that old to need-"
@@ -162,7 +162,7 @@ msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] ¡Todo este asunto de los fa
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:288 #-#-# translate crowdin intro_breakfast_c47f7104:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh come on, Jazz, they aren't crazy, they're {b}scientists{/b}! They've been working on this kinda stuff since they went to college.{p}Of course they're going to seem a {i}little{/i} weird compared to other parents, but it's all in the pursuit of scientific research!"
-msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {i/} en comparación con otros padres, pero és solo investigación científica."
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {i/} en comparación con otros padres{/p}, pero és solo investigación científica!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:291 #-#-# translate crowdin intro_breakfast_80181d42:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Danny, {i}real{/i} scientists study things like physics and chemical balances. Principal concepts of the {u}known{/u} universe. Our parents study the paranormal... you don't see any problem with that...?"
@@ -174,7 +174,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] ¿Y qué? {i}Alguien{/i}
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:297 #-#-# translate crowdin intro_breakfast_da996c11:
 msgid "[_jazz_s_towards_s_idle_s_talk_happy_] Wait, you don't think ghosts are {i}actually{/i} real, right?? They've been looking for solid, concrete proof all these years, and they haven't been able to find {u}one{/u} piece of non-circumstantial evidence?"
-msgstr "[_jazz_s_towards_s_idle_s_talk_happy_] Espera, ¿no creerás que los fantasmas son {i}reales{/i}?, ¿verdad? Han estado buscando pruebas sólidas y concretas todos estos años, y ¿ no han sido capaces de encontrar {u}una{/u} prueba?"
+msgstr "[_jazz_s_towards_s_idle_s_talk_happy_] Espera, ¿no creerás que los fantasmas son {i}reales{/i}?, ¿verdad? Han estado buscando pruebas sólidas y concretas todos estos años, y ¿ no han sido capaces de encontrar ni {u}una{/u} prueba?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:300 #-#-# translate crowdin intro_breakfast_604ae20a:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] {i}Uhhh{/i}... I mean... well, y-y'know, the burden of proof being as high as it is, and all... and it's like... h-hey, Rome wasn't discovered in a day, right? So, {i}uhm{/i}, I really don't think we should just dismiss-"
@@ -182,7 +182,7 @@ msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] {i}Uhhh{/i}... Quiero dec
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:303 #-#-# translate crowdin intro_breakfast_d4a1fe18:
 msgid "[_jazz_s_towards_s_sad_s_talk_frown_] Exactly, it's {i}total{/i} nonsense. We need parental figures who can provide some actual life guidance, not made up stories about-{p}...crud, I think I hear them coming back up from the Lab."
-msgstr "[_jazz_s_towards_s_sad_s_talk_frown_] Exactamente, es un {i}total{/i} sinsentido. Necesitamos figuras paternas que nos orienten en la vida, no historias inventadas sobre...{p}...fantas... Creo que los oigo volver del laboratorio."
+msgstr "[_jazz_s_towards_s_sad_s_talk_frown_] Exactamente, es un {i}total{/i} sinsentido. Necesitamos figuras paternas que nos orienten en la vida, no historias inventadas sobre...{p}...fantas{/p}... Creo que los oigo volver del laboratorio."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:306 #-#-# translate crowdin intro_breakfast_a0033842:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Look, we can talk about this later. Just remember, {i}you're{/i} the one who's gonna be wiping drool off their lips when the time comes."
@@ -198,15 +198,15 @@ msgstr "[_maddie_s_flip_s_towards_wide_up_s_sad_s_talk_frown_] Oh, cariño, sé 
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:330 #-#-# translate crowdin intro_breakfast_8fece1e9:
 msgid "[_jack_s_towards_wide_s_sad_s_talk_displeased_] That darn {b}Fenton Ghost Portal{/b} was supposed to be our sure-fire guarantee to catch a real live ghost, too! Now it's just {i}another{/i} piece of broken junk I've failed to invent right!"
-msgstr "[_jack_s_towards_wide_s_sad_s_talk_displeased_] ¡Ese maldito {b}Portal Fantasma de Fenton{/b} se suponía que iba a ser nuestra garantía segura para atrapar un fantasma vivo de verdad! Ahora es sólo {i}otra{/i} pieza de chatarra de un invento fallido."
+msgstr "[_jack_s_towards_wide_s_sad_s_talk_displeased_] ¡Ese maldito {b}Portal Fantasma de Fenton{/b} se suponía que iba a ser nuestra garantía segura para atrapar un fantasma vivo de verdad! Ahora es sólo {i}otra{/i} montón de chatarra de un invento fallido!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:342 #-#-# translate crowdin intro_breakfast_c6119f48:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Hey, don't beat yourself up too much, Dad. You'll catch a real gruesome ghost for sure one of these days!{p}And I bet you'll find out how to fix up your portal as well! You guys are brilliant inventors after all!"
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Oye, no te castigues tanto papá. Seguro que un día de estos atrapas un fantasma realmente espantoso.{p}¡Y apuesto a que también hacer funcionar bien tu portal! Al fin y al cabo, sois unos inventores brillantes."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Oye, no te castigues tanto papá. Seguro que un día de estos atrapas un fantasma realmente espantoso.¡{p}Y apuesto a que también harás funcionar bien tu portal{/p}! Al fin y al cabo, sois unos inventores brillantes!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:345 #-#-# translate crowdin intro_breakfast_042e32f8:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahh{/i}, Maddie, what a son I have... knows just how to make his old man feel like himself again!{p}Don't worry gang, Jack Fenton will {u}never{/u} give up on his ghost hunting dreams!"
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahh{/i}, Maddie, qué hijo tengo... ¡sabe cómo hacer que su viejo vuelva a sentirse lleno de fuerzas!{p} No os preocupéis, Jack Fenton {u}nunca{/u} abandonará su sueño de caza de fantasmas!"
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahh{/i}, Maddie, qué hijo tengo... ¡sabe cómo hacer que su viejo vuelva a sentirse lleno de fuerzas!{p} No os preocupéis, Jack Fenton {u}nunca{/u} abandonará su sueño de caza de fantasmas{/p}!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:349 #-#-# translate crowdin intro_breakfast_089c02b0:
 msgid "[_danny_s_rise_one_s_talk_happy_2_] So, soppy speeches aside, I heard some delicious waffles were in the works?"
