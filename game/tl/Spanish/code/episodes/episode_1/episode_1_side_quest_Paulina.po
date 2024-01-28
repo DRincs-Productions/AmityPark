@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 22:08\n"
+"PO-Revision-Date: 2024-01-28 23:03\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
@@ -22,15 +22,15 @@ msgstr "[_sam_s_talk_frown_] Oh, chico, aquí viene {i}Miss belleza{/i} de nuevo
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:55 #-#-# translate crowdin park_quest_start_87c31bb8:
 msgid "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital \"W\"!"
-msgstr "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Vamos Sam, incluso {i}tú{/i} tienes que admitir que: ¡Paulina es una total {i}espina!{/i}{p}¡Con una \"E\" mayúscula!"
+msgstr "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Vamos Sam, incluso {i}tú{/i} tienes que admitir que: ¡Paulina es una {i}espina en la garganta!{/i} {p}¡Con una \"E\" mayúscula{/p}!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:59 #-#-# translate crowdin park_quest_start_e95377ff:
 msgid "[_danny_] She's not just hot... she's like a fallen angel bathed head to toe in an orange, heavenly glow of light..."
-msgstr "[_danny_] No sólo está caliente... és como un ángel caído, bañado de pies a cabeza en un resplandor anaranjado y celestial de luz..."
+msgstr "[_danny_] No sólo és sexi... és como un ángel caído, bañado de pies a cabeza en un resplandor anaranjado y celestial de luz..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:63 #-#-# translate crowdin park_quest_start_1a6aa5f7:
 msgid "[_sam_] You know, it honestly baffles me how you two seem to worship the ground she walks on when all she does is end up stepping all over you guys!!"
-msgstr "[_sam_] Saben, ¡¡honestamente me desconcierta cómo ustedes dos parecen adorar el suelo que ella pisa cuando todo lo que hace es terminar pisando todo sobre ustedes!!"
+msgstr "[_sam_] Saben, ¡¡honestamente me desconcierta cómo ustedes dos parecen adorar el suelo que ella pisa cuando todo lo que hace es pisar sobre los vosotros!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:69 #-#-# translate crowdin park_quest_start_ed002370:
 msgid "[_paulina_] Hey Loser brigade, why are you all just standing there? Some of us have hallways to sassily strut through!"
@@ -38,19 +38,19 @@ msgstr "[_paulina_] hei, brigada de perdedores, ¿por qué estáis ahí parados?
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:74 #-#-# translate crowdin park_quest_start_cf40c4c6:
 msgid "[_sam_] Sorry Paulina, we were just thinking of ways to {i}avoid{/i} becoming desparately dependent on our physical apperance for {u}literally{/u} everything. You know, like learning to read!"
-msgstr "[_sam_] Lo siento Paulina, sólo estábamos pensando en formas de {i}evitar{/i} volvernos desesperadamente dependientes de la apariencia física para {u}literalmente{/u} todo. Ya sabes, ¡como aprender a leer!"
+msgstr "[_sam_] Lo siento Paulina, sólo estábamos pensando en formas de {i}evitar{/i} volvernos desesperadamente dependientes de la apariencia física para todo {u}literalmente{/u}. Ya sabes, ¡como aprender a leer!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:78 #-#-# translate crowdin park_quest_start_8b8ed7c2:
 msgid "[_danny_] (Uh oh... not these two going at each other again...)"
-msgstr "[_danny_] (Uh oh... no estos dos van a ir a por otro problema de nuevo...)"
+msgstr "[_danny_] (Uh oh no... esto va a ir a por otro problema de nuevo...)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:83 #-#-# translate crowdin park_quest_start_c1be0ea6:
 msgid "[_paulina_] Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a \"Gothy Goblin\" like you!"
-msgstr "[_paulina_] Bueno, supongo que tiene sentido, ¿sabes? ¡Supongo que no todos tenemos la suerte de tener al menos {u}algo{/u} de belleza para lucir! ¡Supongo que nunca sabré lo que es ser un \"duende gótico\" como tú!"
+msgstr "[_paulina_] Bueno, supongo que tiene sentido, ¿sabes? ¡Supongo que no todas tenemos la suerte de tener {u}algo{/u} de belleza para lucir! ¡Supongo que nunca sabré lo que es ser un \"duende gótico\" como tú!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:87 #-#-# translate crowdin park_quest_start_a279a37f:
 msgid "[_sam_] Why you smug, perky little sack of-!"
-msgstr "[_sam_] qué, pequeño saco presumido de!"
+msgstr "[_sam_] qué astuta, pequeño saco presumido de!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:91 #-#-# translate crowdin park_quest_start_483af9da:
 msgid "[_danny_] Alright now, cease fire ladies! Hey, why don't we all just calm down a bit, huh? Tucker, why don't you take Sam to class and I'll help Paulina to do her strut thing, or whatever it is she'd like me to help out with..."
@@ -62,11 +62,11 @@ msgstr "[_sam_] Espera, vamos Danny, yo"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:100 #-#-# translate crowdin park_quest_start_5ecc6712:
 msgid "[_tucker_] Oh no, you're coming with me, Missy. Be a good wing man on this one Sam."
-msgstr "[_tucker_] Oh no, tú vienes conmigo, Missy. Sé un buen hombre de confianza con Sam."
+msgstr "[_tucker_] Oh no, tú vienes conmigo, Missy. Sé buena Sam."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:104 #-#-# translate crowdin park_quest_start_6fb8585c:
 msgid "[_sam_] Bu-but, I was-"
-msgstr "[_sam_] Pero, yo estaba"
+msgstr "[_sam_] P-pero, yo estaba"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:113 #-#-# translate crowdin park_quest_start_e2d40b35:
 msgid "[_danny_] So, my dearest Paulina, what could I humbly do for you this fine morning?"
@@ -74,7 +74,7 @@ msgstr "[_danny_] Así que, mi queridísima Paulina, ¿qué podría hacer humild
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:117 #-#-# translate crowdin park_quest_start_79842400:
 msgid "[_paulina_] Okay, first of all, {u}back up{/u}, you're clearly {i}way{/i} too up in my personal space right now."
-msgstr "[_paulina_] Bueno, en primer lugar, {u}retroceder{/u}, tú estás claramente cogiendo {i}camino{/i} hacia mi espacio personal."
+msgstr "[_paulina_] Bueno, en primer lugar, {u}retroceder{/u}, tú estás claramente haciéndote {i}sitio{/i} en mi espacio personal."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:123 #-#-# translate crowdin park_quest_start_13746f73:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_happy_] Secondly, what would I need help with from such a geek like {i}you{/i}? Trick question: I {u}wouldn't!{/u} {i}*Giggle*{/i}"
@@ -82,11 +82,11 @@ msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_happy_] En segundo lugar, ¿p
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:127 #-#-# translate crowdin park_quest_start_fb9157b5:
 msgid "[_paulina_] ({i}Hmm{/i}… but then again... he could be useful for carrying the other boxes... and he'd like, totally do it for free too!)"
-msgstr "[_paulina_] ({i}Hmm{/i}… pero bien pensado... podría ser útil para llevar las otras cajas... ¡y le gustaría hacerlo totalmente gratis también!)"
+msgstr "[_paulina_] ({i}Hmm{/i}… pero bien pensado... podría ser útil para llevar las cajas... ¡y le gustaría hacerlo totalmente gratis también!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:132 #-#-# translate crowdin park_quest_start_8ae4b689:
 msgid "[_paulina_] Okay, fine. Come to the {b}Public Park{/b} later tonight. I need help carrying some new makeup I bought in bulk. I live across the road, but I don't really {i}lift{/i} heavy boxes myself, you know?"
-msgstr "[_paulina_] Bien, de acuerdo. Ven al {b}parque público{b/} más tarde esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{i/} cajas pesadas, ¿sabes?"
+msgstr "[_paulina_] Bien, de acuerdo. Ven al {b}parque público{/b} esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{i/} cajas pesadas, ¿sabes?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:137 #-#-# translate crowdin park_quest_start_d8236cab:
 msgid "[_danny_] No yeah, I getcha! Sure Paulina, I'll be there! I'd love to help out however I can! I'll see you after school then!"
@@ -98,11 +98,11 @@ msgstr "[_danny_] Muy bien, voy a reunirme con Paulina. Será agradable tener po
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:185 #-#-# translate crowdin park_quest_prefight_3f4ceb46:
 msgid "[_danny_] {i}Hmmm{/i}... but I don't see her anywhere..."
-msgstr "[_danny_] {i}Hmmm{/i}... pero no la veo por ningún lado..."
+msgstr "[_danny_] {i}Hmmm{/i}... no la veo por ningún lado..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:188 #-#-# translate crowdin park_quest_prefight_54682e3a:
 msgid "[_danny_] She said she'd be coming to the Park right... she just didn't say {i}where{/i} in the Park exactly. Kind of an important detail you shouldn't forget to ask, Fenton."
-msgstr "[_danny_] Dijo que vendría al Parque... sólo que no dijo {i}en qué parte {i/} del parque exactamente. Un detalle importante que no deberías olvidar preguntar, Fenton."
+msgstr "[_danny_] Dijo que vendría al Parque... sólo que no dijo {i}en qué parte {/i} del parque exactamente. Un detalle importante que no deberías olvidar preguntar, Fenton."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:191 #-#-# translate crowdin park_quest_prefight_2982a22d:
 msgid "[_danny_] {i}Ugh{/i}, if I had just asked for her number, this wouldn't have even been an issue."
@@ -138,11 +138,11 @@ msgstr "[_danny_] {i}Woah{/i}, cielos Paulina, ¡¡esto es {i}realmente{/i} pesa
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:245 #-#-# translate crowdin park_quest_prefight_a21c1eb0:
 msgid "[_paulina_] Oh {i}puh-leeze{/i}, Danny! It's really not {i}that{/i} much... just a couple of new brushes, twenty-five pounds of cleansers, a few dozen different lipsticks, a couple bottles of deep skin cleansers, about thirty-"
-msgstr "[_paulina_] ¡Oh {i}puh-leeze{/i}, Danny! Realmente no és {i}tanto{/i}... sólo un par de cepillos nuevos, veinticinco kilos de limpiadores, unas docenas de barras de labios diferentes, un par de botellas de limpiadores de piel profunda, unos treinta"
+msgstr "[_paulina_] ¡Oh {i}puh-leeze{/i}, Danny! No és {i}tanto{/i}... sólo un par de cepillos nuevos, veinticinco kilos de limpiadores, unas docenas de barras de labios diferentes, un par de botellas de limpiadores de piel profunda, unos treinta-"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:255 #-#-# translate crowdin park_quest_prefight_2a22c38e:
 msgid "[_danny_] Okay, okay, I think I get the point! But, you know, even I know makeup's not inexpensive. How're you able to afford all this?"
-msgstr "[_danny_] Vale, vale, ¡creo que entiendo el tema! Pero, ya sabes, incluso yo sé que el maquillaje no es barato. ¿Cómo puedes permitirte todo esto?"
+msgstr "[_danny_] Vale, vale, ¡creo que entiendo el tema! Pero, ya sabes, incluso yo sé que el maquillaje no és barato. ¿Cómo puedes permitirte todo esto?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:259 #-#-# translate crowdin park_quest_prefight_90782caa:
 msgid "[_paulina_] T-that's none of your business, Danny! I have some spare cash lying around, so what?! What are you, like, the allowance commissioner or something?"
@@ -158,7 +158,7 @@ msgstr "[_danny_] De acuerdo, entonces, ¿volvemos a tu casa? ¿Para dejar estas
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:274 #-#-# translate crowdin park_quest_prefight_43825780:
 msgid "[_paulina_] No, we're going to wait here to pick up a special tank-top from one of the other delivery boys I hired, then we'll take it {i}all{/i} back to my house."
-msgstr "[_paulina_] No, vamos a esperar aquí para recoger una camiseta especial de uno de los repartidores que contraté, y luego la llevaremos {i}todo{i/} a mi casa."
+msgstr "[_paulina_] No, vamos a esperar aquí para recoger una camiseta especial de un repartidor que contraté, y luego lo llevaremos {i}todo{/i} a mi casa."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:282 #-#-# translate crowdin park_quest_prefight_f583dfb2:
 msgid "[_danny_] Wait... {i}other{/i} delivery boys? W-who else did you ask to help you out...?"
@@ -210,7 +210,7 @@ msgstr "[_dash_] ¡Claro que sí, Paulina! Venía en esta pequeña caja. ¡El ti
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:385 #-#-# translate crowdin park_quest_prefight_a926a1a2:
 msgid "[_paulina_] {i}Ooooh!{/i} How lovely~! I can't wait to try it on!{p}I'm gonna open it up right now!"
-msgstr "[_paulina_] {i}¡Ooooh!{/i}¡Qué romántico~! ¡No puedo esperar a probármelo!{p}¡Voy a abrirlo ahora mismo!"
+msgstr "[_paulina_] {i}¡Ooooh!{/i}¡Qué romántico~! ¡No puedo esperar a probármelo!{p}¡Voy a abrirlo ahora mismo{/p}!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:392 #-#-# translate crowdin park_quest_prefight_e6db5aec:
 msgid "[_danny_] ({i}Hmm...?{/i} Why does it feel so... {b}cold{/b} all of a sudden?)"
