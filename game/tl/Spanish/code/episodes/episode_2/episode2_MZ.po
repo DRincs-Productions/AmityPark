@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 15:06\n"
+"PO-Revision-Date: 2024-01-29 14:50\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -26,7 +26,7 @@ msgstr "[_danny_s_sad_s_towards_s_talk_happy_] ...¡No puedo creer que llegué a
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:17 #-#-# translate crowdin ectopuss_fishing_intro_f7cfefe7:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] {i}Ugh{/i}, gross Fenton, don't be such a creep!"
-msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] {i}Ugh {/i}, Gross Fenton, ¡no seas como un gusano!"
+msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] {i}Ugh {/i}, Gross Fenton, ¡no seas gusano!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:20 #-#-# translate crowdin ectopuss_fishing_intro_3951965f:
 msgid "[_danny_s_ahegao_s_sad_s_talk_amused_] ...I also can't believe Paulina actually kissed me!"
@@ -70,7 +70,7 @@ msgstr "[_danny_s_wondering_s_towards_s_frown_2_s_wondering_] (Vale, {i}definiti
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:31 #-#-# translate crowdin ectopuss_fishing_intro_635a20ec:
 msgid "[_danny_s_down_s_wondering_s_talk_consternation_] I'm sure Mom and Dad would be proud... that is, if I could even {i}tell{/i} them about any of this stuff.{p}Fat chance though... they'd just build some gadget to keep me caged up in until I graduated school..."
-msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] Estoy seguro de que mamá y papá estarían orgullosos... es decir, si tan siquiera pudiera {i}contarles{/i} todo esto.{p} Mala idea... construirían algún artilugio para mantenerme enjaulado hasta que me graduara..."
+msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] Estoy seguro de que mamá y papá estarían orgullosos... es decir, si tan siquiera pudiera {i}contarles{/i} todo esto.{p} Mala idea... construirían algún artilugio para mantenerme enjaulado hasta que me graduara{/p}..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:57 #-#-# translate crowdin danny_we_need_to_talk_intro_90a841bd:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_frown_] Hey, Danny... can I, {i}uh{/i}... can I talk to you?"
@@ -114,7 +114,7 @@ msgstr "[_danny_s_at_danny_s_blush_s_talk_frown_2_s_rise_one_] Sí, claro que lo
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:77 #-#-# translate crowdin danny_we_need_to_talk_intro_21658af1:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_bite_] Hey, I'm sorry! I'm not trying to pry! It probably wasn't the best time to talk to you about... well...{p}Can you meet me later after school?"
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_bite_] Eh, ¡lo siento! ¡No estoy intentando obligarte a hablar! Probablemente no es el mejor momento para hablarte de... bueno...{p}¿Puedes reunirte conmigo después de la escuela?"
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_bite_] Eh, ¡lo siento! ¡No estoy intentando obligarte a hablar! Probablemente no es el mejor momento para hablarte de... bueno...{p}¿Puedes reunirte conmigo después de la escuela{/p}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:79 #-#-# translate crowdin danny_we_need_to_talk_intro_fe7785c4:
 msgid "[_danny_s_down_s_wondering_s_talk_frown_] {i}Uhm{/i}, s-sure, if you want to, I guess."
@@ -122,7 +122,7 @@ msgstr "[_danny_s_down_s_wondering_s_talk_frown_] {i}Uhm{/i}, s-seguro, si quier
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:81 #-#-# translate crowdin danny_we_need_to_talk_intro_5844936f:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Cool!{p}I mean, great! I'll see you then!"
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] ¡Genial!{p}Quiero decir, ¡genial! ¡Nos vemos entonces!"
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] ¡Genial!{p}Quiero decir, ¡genial!{/p} ¡Nos vemos entonces!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:83 #-#-# translate crowdin danny_we_need_to_talk_intro_1ac984c9:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_] H-hey, Sam, wait..."
@@ -146,7 +146,7 @@ msgstr "[_danny_s_towards_s_angry_s_talk_happy_] ¿{i}Te{/i} encuentras bien?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:93 #-#-# translate crowdin danny_we_need_to_talk_intro_57187532:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_happy_] I think so...? I mean, yeah, I'm alright.{p}{i}Uhm{/i}, well how about the Park? At {b}night{/b}, when it's just turned dark..."
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Creo que sí... Quiero decir, sí, estoy bien.{p}{i}Uhm{/i}, bien, ¿ que te parecería el parque? Por la {b}noche{/b}, cuando oscurezca..."
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Creo que sí... Quiero decir, sí, estoy bien.{p}{i}Uhm{/i}, bien{/p}, ¿ que te parecería el parque? Por la {b}noche{/b}, cuando oscurezca..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:95 #-#-# translate crowdin danny_we_need_to_talk_intro_14386687:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] The Park? At night?"
@@ -162,7 +162,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] {i}Okaaay{/i}, suena má
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:101 #-#-# translate crowdin danny_we_need_to_talk_intro_d030fd4d:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_happy_] I think I can keep myself safe from some slimeball ghost, don't worry.{p}Anyway, I'll see you later!"
-msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_happy_] Creo que puedo mantenerme a salvo de algún fantasma baboso, no te preocupes.{p}Decidido, ¡hasta luego!"
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_happy_] Creo que puedo mantenerme a salvo de algún fantasma baboso, no te preocupes.{p}Decidido{/p}, ¡hasta luego!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:103 #-#-# translate crowdin danny_we_need_to_talk_intro_cebeaf66:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Sam, we're both going to the {u}same{/u} class right now."
@@ -170,7 +170,7 @@ msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Sam, los dos estamos 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:105 #-#-# translate crowdin danny_we_need_to_talk_intro_cd0e84f7:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_bite_s_blush_] Oh, yeah, {i}heh{/i}, duh. I'll just, {i}uhhh{/i}... go to the bathroom first, I guess.{p}I'll see you in class then. And tonight, don't forget!"
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_bite_s_blush_] Oh, sí, {i}heh{/i}, duh. Voy a, {i}uhhh{/i}... ir al baño primero, supongo.{p}Te veré en clase entonces. Y esta noche, ¡no te olvides!"
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_bite_s_blush_] Oh, sí, {i}heh{/i}, duh. Voy a, {i}uhhh{/i}... ir al baño primero, supongo.{p}Te veré en clase entonces{/p}. Y esta noche, ¡no te olvides!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:107 #-#-# translate crowdin danny_we_need_to_talk_intro_1e83da7e:
 msgid "[_danny_s_towards_s_talk_happy_s_wondering_] Alright, later Sam."
@@ -178,7 +178,7 @@ msgstr "[_danny_s_towards_s_talk_happy_s_wondering_] De acuerdo, hasta luego Sam
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:113 #-#-# translate crowdin danny_we_need_to_talk_intro_d11db1f4:
 msgid "[_danny_s_at_player_s_sad_s_talk_consternation_] Oh man, has Sam {i}already{/i} figured out my big secret? I thought I'd have it to myself a little longer than a few days..."
-msgstr "[_danny_s_at_player_s_sad_s_talk_consternation_] Oh tío, ¿ha descubierto Sam mi gran secreto {i}ya{/i}? Pensé que sería para mí un poco más que unos pocos días..."
+msgstr "[_danny_s_at_player_s_sad_s_talk_consternation_] Oh tío, ¿{i}ya{/i} ha descubierto Sam mi gran secreto? Pensé que sería para mí algo más que unos pocos días..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:115 #-#-# translate crowdin danny_we_need_to_talk_intro_e990cef4:
 msgid "[_danny_s_at_self_s_neutral_s_consternation_] (...I'm talking to myself again, aren't I?)"
@@ -198,7 +198,7 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] ¡Eh, Sam! ¡Aquí estoy!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:146 #-#-# translate crowdin danny_we_need_to_talk_prefight_1377942a:
 msgid "[_sam_s_co_s_towards_s_angry_s_talk_frown_s_blush_] {size=+12}{i}AGH!!{/i}{/size}{p}Jeez, Danny, you scared the crap out of me!"
-msgstr "[_sam_s_co_s_towards_s_angry_s_talk_frown_s_blush_] {size=+12}{i}¡AHH!{/i}{/size}{p}¡Joder!, Danny, ¡me has dado un susto de muerte!"
+msgstr "[_sam_s_co_s_towards_s_angry_s_talk_frown_s_blush_] {size=+12}{i}¡AHH!{/i}{/size}{p}¡Joder!{/p}, Danny, ¡me has dado un susto de muerte!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:148 #-#-# translate crowdin danny_we_need_to_talk_prefight_ebf834e5:
 msgid "[_danny_s_talk_happy_s_sad_] Well hey, you're the one who wanted to meet in a poorly lit Park at this hour. What's the matter? Is the \"Mistress of the Night\" actually afraid of the dark or something?"
@@ -214,15 +214,15 @@ msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] ¿Qué quieres decir?
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:154 #-#-# translate crowdin danny_we_need_to_talk_prefight_d0f93beb:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_frown_] {u}Ghosts{/u}, Danny! {i}Real{/i} life ghosts!!{p}They're all around town from what I hear, and they could be hiding around any corner, waiting to jump out at any moment!"
-msgstr "[_sam_s_co_s_towards_s_sad_s_talk_frown_] {u}¡Fantasmas{/u}, Danny! ¡Fantasmas de la vida {i}real{/i}!{p}Están por toda la ciudad por lo que he oído, y podrían estar escondidos en cualquier rincón, ¡esperando para atacar cualquier momento!"
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_frown_] {u}¡Fantasmas{/u}, Danny! ¡Fantasmas de la vida {i}real{/i}!{p}Están por toda la ciudad por lo que he oído, y podrían estar escondidos en cualquier rincón, ¡esperando para atacar cualquier momento{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:156 #-#-# translate crowdin danny_we_need_to_talk_prefight_be1ecca5:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Yeah, so? I mean sure, it's certainly a {i}bit{/i} of a shock at first... but you can't tell me you're honestly surprised, can you?"
-msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Sí, ¿y? Quiero decir, claro, sin duda da un {i}poco{/i} de un shock al principio... puedes decir honestamente que estás sorprendida, ¿verdad?"
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Sí, ¿y? Quiero decir, claro, sin duda da un {i}poco{/i} de un shock al principio... no puedes decir honestamente que estás sorprendida, ¿verdad?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:158 #-#-# translate crowdin danny_we_need_to_talk_prefight_8c1487bb:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_frown_] Ghosts aren't {i}supposed{/i} to be real, Danny!!"
-msgstr "[_sam_s_co_s_towards_s_confused_s_talk_frown_] Los fantasmas no se {i}supone{/i} que sean reales,¡¡ Danny!!"
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_frown_] Los fantasmas no se {i}supone{/i} que son reales,¡¡ Danny!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:160 #-#-# translate crowdin danny_we_need_to_talk_prefight_d5ef3a22:
 msgid "[_danny_s_talk_frown_2_] Hang on, weren't {i}you{/i} the one talking about how ghosts were totally plausible just the other day?"
@@ -230,7 +230,7 @@ msgstr "[_danny_s_talk_frown_2_] Espera, ¿no eras {i}tú{/i} la que hablaba el 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:162 #-#-# translate crowdin danny_we_need_to_talk_prefight_0482a077:
 msgid "[_sam_s_co_s_towards_s_angry_s_talk_frown_] Yeah, but I didn't actually {u}believe{/u} it! I just thought it was cool to talk about!{p}Ghosts are supposed to be like vampires, just make believe things that we goths simply {u}pretend{/u} to wanna have sex with!!"
-msgstr "[_sam_s_co_s_towards_s_angry_s_talk_frown_] ¡Sí, pero en realidad no lo {u}creo{/u}! ¡Sólo pensé que sería genial hablar de ello!{p} Se supone que los fantasmas son como los vampiros, sólo seres inventados con los que las góticas simplemente ¡¡{u}fingimos{/u} querer tener sexo!!"
+msgstr "[_sam_s_co_s_towards_s_angry_s_talk_frown_] ¡Sí, pero en realidad no lo {u}creo{/u}! ¡Pensé que sería genial hablar de ello! {p} Se supone que los fantasmas son como los vampiros, sólo seres inventados con los que las góticas ¡¡{u}fingimos{/u} querer tener sexo{/p}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:179 #-#-# translate crowdin danny_we_need_to_talk_prefight_566fe3cc:
 msgid "[_sam_s_casual_outfit_s_confused_s_towards_wide_s_talk_frown_] Seriously, what's up with your throat lately? Look, I have some Ludens in my skirt pocket if you need to take-"
@@ -242,7 +242,7 @@ msgstr "[_ectopuss_] ¿He oído a alguien hablar de querer tener {u}sexo{/u} con
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:190 #-#-# translate crowdin danny_we_need_to_talk_prefight_7e924e0a:
 msgid "[_sam_s_co_s_flip_s_towards_wide_s_sad_s_talk_frown_] {size=+24}{i}Ahhh!!!{/i} Danny, it's that creep from TV!!{/size}"
-msgstr "[_sam_s_co_s_flip_s_towards_wide_s_sad_s_talk_frown_] {size=+24}{i}¡Ahhh!{/i} Danny, ¡es eso asqueroso de la TV!{/size}"
+msgstr "[_sam_s_co_s_flip_s_towards_wide_s_sad_s_talk_frown_] {size=+24}{i}¡Ahhh!{/i} Danny, ¡es eso asqueroso en la TV!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:193 #-#-# translate crowdin danny_we_need_to_talk_prefight_bd6f9266:
 msgid "[_ectopuss_] Why, Ghost Boy, you brought yet {u}another{/u} feeble girl for me to have fun with? Awe, you shouldn't have!"
@@ -262,7 +262,7 @@ msgstr "[_sam_s_frown_] (¿¡¿Qué demonios está pasando aquí?!?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:242 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_504939c9:
 msgid "[_danny_s_p28_] Dang! He got away again!!{p}{size=+12}Hey, come back here, you ink squirting coward!!{/size}"
-msgstr "[_danny_s_p28_] ¡Maldición! ¡¡Se escapó otra vez!! {p}{size=+12}¡¡Hey, vuelve aquí cobarde escupidor de tinta!!{/size}"
+msgstr "[_danny_s_p28_] ¡Maldición! ¡¡Se escapó otra vez!! {p}{size=+12}¡¡Hey, vuelve aquí cobarde escupidor de tinta{/p}!!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:247 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_5679e068:
 msgid "[_sam_] What.{p}The.{p}{u}Fuck?!{/u}"
@@ -274,7 +274,7 @@ msgstr "[_danny_s_pf15_] Oh, {i}uh{/i}... hey, Sam..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:253 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_40e2bc2a:
 msgid "[_sam_s_co_s_flip_s_towards_s_confused_s_talk_frown_] Danny... {i}you're{/i} Inviso-Bill?!"
-msgstr "[_sam_s_co_s_flip_s_towards_s_confused_s_talk_frown_] Danny... {i}¡¿Eres{i/} Inviso-Bill?!"
+msgstr "[_sam_s_co_s_flip_s_towards_s_confused_s_talk_frown_] Danny... {i}¡¿Eres{/i} Inviso-Bill?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:255 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_8e907469:
 msgid "[_danny_s_pf30_] Listen, I'll be honest, I'm really not a big fan of that name, but more or less, yeah."
@@ -302,11 +302,11 @@ msgstr "[_sam_s_co_s_flip_s_towards_s_neutral_s_talk_happy_] Guau, vale... esto 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:268 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_29fcfe86:
 msgid "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_consternation_] I don't {i}think{/i} so? I'd like to think of myself as more \"half ghost\" than \"half dead\".{p}Makes it somewhat easier to swallow."
-msgstr "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_consternation_] No sé que {i}pensar{/i}. Creo que soy más \"medio fantasma\" que \"medio muerto\".{p} Así se hace algo más fácil de digerir."
+msgstr "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_consternation_] No sé que {i}pensar{/i}. Creo que soy más \"medio fantasma\" que \"medio muerto\".{p} Así se hace algo más fácil de digerir{/p}."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:270 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_f5e43c0c:
 msgid "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] Woah, this is so {i}freaking{/i} rad!!"
-msgstr "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] ¡¡Woah!!, ¡¡esto es muy {i}demoledor{/i}!!"
+msgstr "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] ¡¡Woah!!, ¡¡esto es {i}demoledor{/i}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:272 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_bb040e2f:
 msgid "[_danny_s_flip_s_towards_s_unhappy_s_talk_consternation_] Glad to see you're taking this all in pretty well..."
@@ -362,7 +362,7 @@ msgstr "[_danny_s_flip_s_towards_wide_s_wondering_s_talk_happy_] Sí, lo haré. 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:333 #-#-# translate crowdin in_hot_water_intro_465c2e0f:
 msgid "[_danny_] (Oh great. Sounds like Jazz is taking her sweet time in the bathtub again. It's not fair! She takes forever, uses up all the hot water, and I'm left with nothing but a cold shower!)"
-msgstr "[_danny_] (Valla. Parece que Jazz se está tomando su tiempo en la bañera otra vez. No es justo. Tarda una eternidad, gasta toda el agua caliente y yo me tengo que duchar con agua fría)"
+msgstr "[_danny_] (Valla. Parece que Jazz se está tomando baño otra vez. No es justo. Tarda una eternidad, gasta toda el agua caliente y yo me tengo que duchar con agua fría)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:340 #-#-# translate crowdin in_hot_water_intro_3ac6fcd1:
 msgid "[_danny_] (Well you know what? Jazz's reign of hygienic tyranny comes to an end! One way or another!)"
@@ -386,7 +386,7 @@ msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] ¿¡Qué!? ¡Ni ha
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:367 #-#-# translate crowdin in_hot_water_altintro_48b0c8e3:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_consternation_] Well, maybe you should just try taking your showers early in the morning then??{p}Now get {i}out{/i} already!!"
-msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_consternation_] Bueno, ¿podrías quizá ducharte temprano por la mañana. ¡¡{p}Ahora vete {i}fuera{/i} ya!!"
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_consternation_] Bueno, ¿podrías quizá ducharte temprano por la mañana. ¡¡{p}Ahora vete {i}fuera{/i} ya{/p}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:374 #-#-# translate crowdin in_hot_water_altintro_8511c5d0:
 msgid "[_danny_] (That's it, she's gone {i}too{/i} far this time!)"
@@ -398,7 +398,7 @@ msgstr "[_danny_] (¡Voy a entrar ahí y patear su pecoso trasero, de una forma 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:395 #-#-# translate crowdin in_hot_water_lay_in_wait_e2cf7fb5:
 msgid "[_danny_] {i}Hah!{/i} You're a genius, Fenton! If you just wait here {u}before{/u} the afternoon, you don't {u}need{/u} to find a way in!! She can't just kick me out of the bathroom I'm currently using, right?!"
-msgstr "[_danny_] {i}¡Ja!{/i} ¡Eres un genio, Fenton! Si esperas aquí {u}antes{/u} de la tarde, ¡¡no {u}necesitarás{/u} encontrar una manera de entrar!! No puede echarme del baño que estoy usando, ¡¿verdad?!"
+msgstr "[_danny_] {i}¡Ja!{/i} ¡Eres un genio, Fenton! Si esperas aquí {u}antes{/u} de que llegue la tarde, ¡¡no {u}necesitarás{/u} encontrar una manera de entrar!! No puede echarme del baño que estoy usando, ¡¿verdad?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:397 #-#-# translate crowdin in_hot_water_lay_in_wait_88f07eef:
 msgid "[_danny_] Sometimes I impress even myself."
