@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-30 13:56\n"
+"PO-Revision-Date: 2024-01-30 15:26\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -506,7 +506,7 @@ msgstr "[_danny_] (Oh tío, esto es muy extraño, ¡¡no debería estar mirando!
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:592 #-#-# translate crowdin in_hot_water_peek_22f7d940:
 msgid "[_ectopuss_] {i}*Kersplash*{/i} Hey baby, don't you know it's pretty dangerous to be lounging in the water all alone when there's nasty {b}Etopus{/i} like me swimming around?!"
-msgstr "[_ectopuss_] {i}*Salpicaduras de baba* {/i} Oye nena, ¿no sabes que es bastante peligroso estar descansando en el agua sola cuando hay un desagradable {b}Pulpo como yo nadando alrededor?!"
+msgstr "[_ectopuss_] {i}*Salpicaduras de baba* {/i} Oye nena, ¿no sabes que es bastante peligroso estar descansando en el agua sola cuando hay un desagradable {b}Pulpo como yo{/p} nadando alrededor?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:596 #-#-# translate crowdin in_hot_water_peek_b22ac48d:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] {size=+12}WHAT THE-?! HE-HELP!! S-SOMEBODY!!! HELP ME!!!{/size}"
@@ -522,15 +522,15 @@ msgstr "[_danny_] ¡No hay tiempo para juegos, Fenton! ¡Cuanto más espere, men
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:622 #-#-# translate crowdin in_hot_water_barge_in_257a9c55:
 msgid "[_danny_] Come on, Jazz! Get out of the-"
-msgstr "[_danny_] ¡Vamos, Jazz! Salir de la-"
+msgstr "[_danny_] ¡Vamos, Jazz! Sal de la-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:624 #-#-# translate crowdin in_hot_water_barge_in_c892226a:
 msgid "[_danny_] {i}Woah!!{/i}"
-msgstr "[_danny_] {i}Ahh ~!! {/i}"
+msgstr "[_danny_] {i}¡¡Woahh ~!! {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:644 #-#-# translate crowdin in_hot_water_barge_in_a2c768fa:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+12}{i}AAAAAAAAAH!!{/i} DANNY, GET THE HELL OUT!!!{/size}"
-msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+12}{i}¡¡¡AAAAAAAAAH!!! DANNY, ¡¡¡SAL DE AQUÍ!!!{/size}"
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+12}{i}¡¡¡AAAAAAAAAH!!!{/i} DANNY, ¡¡¡SAL DE AQUÍ!!!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:646 #-#-# translate crowdin in_hot_water_barge_in_ec5c93e3:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] N-no, Jazz! Y-you need to learn to, to stop using all the hot water before I even get to take my-"
@@ -542,11 +542,11 @@ msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+24}¡¡¡VET
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:650 #-#-# translate crowdin in_hot_water_barge_in_bbc3b214:
 msgid "[_danny_s_down_s_angry_s_talk_consternation_] Ugh, {i}Fine{/i}!!"
-msgstr "[_danny_s_down_s_angry_s_talk_consternation_] ¡¡Ugh, {i}Fine{/i}!!"
+msgstr "[_danny_s_down_s_angry_s_talk_consternation_] ¡¡Ugh, {i}vale{/i}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:657 #-#-# translate crowdin in_hot_water_barge_in_a0ed5962:
 msgid "[_ectopuss_] {i}Hech heh hehh...{/i} good thinking making the kid leave, babe! Now we're finally all alone to take our {i}romantic{/i} bath together..."
-msgstr "[_ectopuss_] {i}¡Hech heh hehh...{/i} bien pensado haciendo que el niño se vaya, nena! Ahora por fin estamos solos para tomar nuestro {i}romántico{/i} baño juntos..."
+msgstr "[_ectopuss_] {i}¡Hech heh hehh...{/i} bien pensado haciendo que el chico se vaya, nena! Ahora por fin estamos solos para tomar nuestro {i}romántico{/i} baño juntos..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:662 #-#-# translate crowdin in_hot_water_barge_in_8c49f431:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] {size=+24}DANNY!! SOMEBODY HELP!! GHOST!!!{/size}"
@@ -574,7 +574,7 @@ msgstr "[_danny_] ¡Eh, espera! ¡Vuelve aquí!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:712 #-#-# translate crowdin in_hot_water_postfight_d4b3026d:
 msgid "[_danny_s_p16_] Oh, {i}uhm{/i}... gr-greetings, nearly naked citizen!"
-msgstr "[_danny_s_p16_] Oh, {i}uhm{/i}... gr-saludos, ¡ciudadano casi desnudo!"
+msgstr "[_danny_s_p16_] Oh, {i}uhm{/i}... sa-saludos, ¡ciudadana casi desnuda!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:714 #-#-# translate crowdin in_hot_water_postfight_2761f934:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] HELP!! GHOST PERVERT!! HELP!!"
@@ -590,7 +590,7 @@ msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+24}¡¡¡MAM
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:729 #-#-# translate crowdin in_hot_water_postfight_e2df5b65:
 msgid "[_danny_s_p31_] (Oh man, that could have gone really bad, in a lot of ways. I'm lucky Mom or Dad didn't hear her scream just now. Better change back to normal before anybody comes looking for me.)"
-msgstr "[_danny_s_p31_] (Oh tío, esto podría haber acabado muy mal en muchos sentidos. Tengo suerte de que mamá o papá no la hayan oído gritar hace un momento. Mejor vuelvo a la normalidad antes de que alguien venga a buscarme)"
+msgstr "[_danny_s_p31_] (Oh tío, esto podría haber acabado muy mal en muchos sentidos. Tengo suerte de que mamá o papá no la hayan oído gritar. Mejor vuelvo a la normalidad antes de que alguien venga a buscarme)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:735 #-#-# translate crowdin in_hot_water_postfight_def9fc59:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] {i}Danny{/i}!! Thank goodness! Where were you?!"
@@ -602,7 +602,7 @@ msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Oh, {i}uh {/i}, 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:739 #-#-# translate crowdin in_hot_water_postfight_bf3d049a:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_displeased_] \"What were those noises\"?! I was screaming for help, balled up in a corner of the bathroom!! Two ghosts were actually {u}fighting{/u} over which one would get to have their way with me first!!"
-msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_displeased_] \"¡¿qué eran esos ruidos\"?! ¡¡Yo estaba gritando ayuda desde una esquina del baño mientras ¡¡ dos fantasmas de verdad estaban {u}luchando {/u} por mí y que me violara el vencedor!!"
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_displeased_] \"¡¿qué eran esos ruidos\"?! ¡¡Yo estaba gritando ayuda desde una esquina del baño mientras ¡¡ dos fantasmas de verdad estaban {u}luchando {/u} por mí para violarme el vencedor!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:741 #-#-# translate crowdin in_hot_water_postfight_9042f8fd:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] ...{i}riiiiight{/i}. Yeah, {i}sure{/i} there were Jazz."
@@ -614,11 +614,11 @@ msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_displeased_] {i}¿Qué?! {/i} ¡
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:745 #-#-# translate crowdin in_hot_water_postfight_387d6d2c:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Well I mean, c'mon, you really expect me to believe that there were {u}two{/u} ghosts actually fighting it out over for your virginity? Get real Jazz."
-msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Bueno yo quiero decir, vamos, ¿realmente espera que yo crea que hubo {u}dos {/u} fantasmas que peleaban por tu virginidad? Sé realista Jazz."
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Bueno yo quiero decir, vamos, ¿realmente esperas que yo crea que hubo {u}dos {/u} fantasmas que peleaban por tu virginidad? Sé realista Jazz."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:747 #-#-# translate crowdin in_hot_water_postfight_5264545e:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] But it's true! I mean, the town is {i}actually{/i} filled with ghosts now, like the news said... I mean, how is this scenario not even {i}slightly{/i} plausible to you?!"
-msgstr "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] ¡Pero es verdad! Te digo que el pueblo está {i}actulamente{/i} lleno de fantasmas como las noticias dijeron... No te entiendo, ¡¿cómo puede ser que no creas ni una {i}pizca{/i} de todo esto?!"
+msgstr "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] ¡Pero és verdad! Te digo que el pueblo está {i}actulamente{/i} lleno de fantasmas tal como las noticias dijeron... No te entiendo, ¡¿cómo puede ser que no creas ni una {i}pizca{/i} de todo esto?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:750 #-#-# translate crowdin in_hot_water_postfight_9dbd99a4:
 msgid "[_danny_s_rise_one_s_talk_happy_2_s_towards_] Sure, alright, it happened, I believe you. So, are you done with your bath finally? I'd kinda like to take a nice, {u}hot{/u} shower now."
@@ -678,7 +678,7 @@ msgstr "[_danny_s_towards_wide_s_angry_s_talk_frown_] ¿Qué?! ¡¿Dash me {u}ay
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:905 #-#-# translate crowdin tuckerPDA_handjob_2759ee14:
 msgid "[_kate_s_towards_s_sad_s_talk_happy_s_blush_] {i}Shhhh{/i}, Danny please, don't strain yourself. Trust me, I know {i}all{/i} about Mr. Baxter's habit for administering beatings to studen-{p}{i}*Gasp*{/i} ...oh my, what is {u}this{/u}?"
-msgstr "[_kate_s_towards_s_sad_s_talk_happy_s_blush_] {i}Shhhh {/i}, Danny por favor, no hagas esfuerzos. Confía en mí, sé {i}todo{/i} sobre el hábito del Sr. Baxter para administrar palizas a estudiantes-{p}{i}*Gasp * {/i} ... oh cielos, ¿qué es {u}esto{/u}?"
+msgstr "[_kate_s_towards_s_sad_s_talk_happy_s_blush_] {i}Shhhh {/i}, Danny por favor, no hagas esfuerzos. Confía en mí, sé {i}todo{/i} sobre el hábito del Sr. Baxter para administrar palizas a estudiantes-{p}{i}*Gasp * {/i} ... oh cielos, ¿qué es {u}esto{/u}{/p}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:907 #-#-# translate crowdin tuckerPDA_handjob_79e92778:
 msgid "[_danny_s_down_s_talk_happy_2_s_wondering_] Oh man, yeah, I'm sorry Kate, it just... sorta has a mind of it's own, ya know..."
@@ -730,7 +730,7 @@ msgstr "[_kate_] Dime, Danny... ¿és esta tu primera vez con una chica como yo?
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:941 #-#-# translate crowdin tuckerPDA_handjob_4ae0095c:
 msgid "[_danny_] W-well, yeah, nobody's ever touched me like this before...."
-msgstr "[_danny_] Bu bueno, sí, nadie me ha tocado nunca de esta forma antes...."
+msgstr "[_danny_] Bu-bueno, sí, nadie me ha tocado nunca de esta forma antes...."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:943 #-#-# translate crowdin tuckerPDA_handjob_af29de3d:
 msgid "[_kate_] Really?! Oh my goodness, then that makes this {i}that{/i} much more special! I could have sworn your {b}girlfriend{/b} would have gotten to you before I had the chance!"
@@ -738,7 +738,7 @@ msgstr "[_kate_] ¡¿de verdad?! Oh, dioses, ¡¡entonces hace que {i}esto{/i} s
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:944 #-#-# translate crowdin tuckerPDA_handjob_6b9e968a:
 msgid "[_kate_] I can't imagine how she's so far passed up playing with an {i}amazing{/i} cock like this..."
-msgstr "[_kate_] No puedo entender cómo ha evitado tu novia de jugar con una {i}increíble {/i} polla como esta..."
+msgstr "[_kate_] No puedo entender cómo tu novia ha evitado jugar con una {i}increíble {/i} polla como esta..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:946 #-#-# translate crowdin tuckerPDA_handjob_ac2cfc98:
 msgid "[_danny_] My... my g-girlfriend...?"
@@ -774,7 +774,7 @@ msgstr "[_jazz_] {size=24}{i}Ahhhghhh!!! {/i} {/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:962 #-#-# translate crowdin tuckerPDA_handjob_aa1d069d:
 msgid "[_danny_] W-what was that noise?! It almost sounded like-"
-msgstr "[_danny_] W-¿Qué era ese ruido?! Sonaba parecido a-"
+msgstr "[_danny_]¿Q-qué era ese ruido?! Sonaba parecido a-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:964 #-#-# translate crowdin tuckerPDA_handjob_2f526ea6:
 msgid "[_kate_] Oh, ignore that, please Danny, let somebody else deal with it... just you sit back, relax, and enjoy as I-"
@@ -786,7 +786,7 @@ msgstr "[_jazz_] {size=24} ¡¡que alguien me ayudeeee!! {/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:968 #-#-# translate crowdin tuckerPDA_handjob_de594954:
 msgid "[_danny_] That was {u}defintely{/u} Jazz!{p}I'm sorry Kate, but I need to go!"
-msgstr "[_danny_] Esa es {u}definitivamente {/u} Jazz! {p}Lo siento Kate, ¡pero tengo que ir!"
+msgstr "[_danny_] Esa es {u}definitivamente {/u} Jazz! {p}Lo siento Kate, ¡pero tengo que ir{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:970 #-#-# translate crowdin tuckerPDA_handjob_6e0e0a70:
 msgid "[_kate_] No, wait, you don't have to leave just ye-!"
@@ -794,7 +794,7 @@ msgstr "[_kate_] No, espera, ¡no te puedo dejar ir todavía-!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:994 #-#-# translate crowdin tuckerPDA_sex_34fd7f67:
 msgid "[_danny_s_talk_frown_s_rise_one_s_at_player_] Now, where did he leave this PDA of his? I've gotta find it fast before I get caught or something."
-msgstr "[_danny_s_talk_frown_s_rise_one_s_at_player_] Ahora, ¿dónde dejó su PDA? Tengo que buscarlo rápido antes de que me pille o algo."
+msgstr "[_danny_s_talk_frown_s_rise_one_s_at_player_] Ahora, ¿dónde dejó su PDA? Tengo que buscarlo rápido antes de que me pillen o algo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:996 #-#-# translate crowdin tuckerPDA_sex_b88d642d:
 msgid "[_danny_] ..."
@@ -854,11 +854,11 @@ msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] Jazz, ¡sal de aqu
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1064 #-#-# translate crowdin tuckerPDA_fight_ef6a75a7:
 msgid "[_ectodash_] Awww, why make {i}her{/i} leave?? We were just about to have some {u}real{/u} fun together!!{p}Guess I'll settle for rattling you around, kid!"
-msgstr "[_ectodash_] Aww, ¿¿por qué {i}la {/i} obligas a irse?? Estábamos a punto de tener una {u}auténcia{/u} diversión!!{p} ¿Adivinas?... ¡me voy a conformar con sacudirte niño!"
+msgstr "[_ectodash_] Aww, ¿¿por qué {i}la {/i} obligas a irse?? Estábamos a punto de tener una {u}auténcia{/u} diversión!!{p} ¿Adivinas?... ¡me voy a conformar con sacudirte chico{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1066 #-#-# translate crowdin tuckerPDA_fight_dbb2a79a:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] You're not laying a hand on my sister, creep!!"
-msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] No estás ayudando a mi hermana, ¡¡asqueroso!!"
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] No vas a poner una mano encima de mi hermana, ¡¡asqueroso!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1068 #-#-# translate crowdin tuckerPDA_fight_975ae911:
 msgid "[_danny_s_talk_frown_s_closed_s_angry_] I'm going ghost!"
@@ -870,11 +870,11 @@ msgstr "[_ectodash_s_m2_] ¿Qué? ¡El Chico Fantasma?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1078 #-#-# translate crowdin tuckerPDA_fight_45dd3179:
 msgid "[_danny_s_p28_] That's right! You picked the {i}wrong{/i} girl to perv on, creep! I don't know what's wrong with you Dash, but I'm gonna finally knock your block off!!"
-msgstr "[_danny_s_p28_] ¡Está bien! Has elegido a la chica {i}incorrecta{/i} para pervertir, ¡asqueroso! No sé qué te ha pasado pero, Dash, pero te voy a derribar!!"
+msgstr "[_danny_s_p28_] ¡ves bien! Has elegido a la chica {i}incorrecta{/i} para pervertir, ¡asqueroso! No sé qué te ha pasado pero, Dash, pero te voy a derribar!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1084 #-#-# translate crowdin tuckerPDA_fight_e4a4f73b:
 msgid "[_dash_] {i}Heh hech heh!{/i} Alright kid, then let's see what you {u}got{/u}!!"
-msgstr "[_dash_] {i}Heh hech heh! {/i} Bien niño, ¡¡entonces vamos a ver lo que puedes {u}hacer{/u}!!"
+msgstr "[_dash_] {i}Heh hech heh! {/i} Bien chico, ¡¡entonces vamos a ver lo que puedes {u}hacer{/u}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1124 #-#-# translate crowdin tuckerPDA_afterpostfight_239106df:
 msgid "[_ectopuss_] You won't always win our little tussles together, Ghost Boy! I'll be back!!"
@@ -894,7 +894,7 @@ msgstr "[_danny_s_p36_] (Oh tío, parece que Dash está despertando. Mejor cambi
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1133 #-#-# translate crowdin tuckerPDA_afterpostfight_643314fc:
 msgid "[_dash_s_blank_stare_s_unhappy_s_talk_consternation_] {i}Ugh{/i}... wh... where am I...?"
-msgstr "[_dash_s_blank_stare_s_unhappy_s_talk_consternation_] {i}Ugh {/i}... don... ¿dónde estoy...?"
+msgstr "[_dash_s_blank_stare_s_unhappy_s_talk_consternation_] {i}Ugh {/i}... ¿don... dónde estoy...?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1134 #-#-# translate crowdin tuckerPDA_afterpostfight_d39bc164:
 msgid "[_dash_s_towards_s_rise_s_talk_displeased_] F-Fenton? What the heck... what happened to me?"
@@ -902,19 +902,19 @@ msgstr "[_dash_s_towards_s_rise_s_talk_displeased_] ¿F-Fenton? Qué diablos... 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1136 #-#-# translate crowdin tuckerPDA_afterpostfight_d3c01d5a:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Well you, {i}uh{/i}, you tried to start a fight with me and, well, I sorta... knocked you out."
-msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Pues tú, {i}uh {/i}, trataste de empezar una pelea conmigo y, bueno, yo ordené... te dejé inconsciente."
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Pues tú, {i}uh {/i}, trataste de empezar una pelea conmigo y, bueno, yo como que... te dejé ko."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1138 #-#-# translate crowdin tuckerPDA_afterpostfight_4cf073a4:
 msgid "[_dash_s_away_s_rise_s_talk_distraught_] What?!{p}Nah, no way, that doesn't make any sense at all..."
-msgstr "[_dash_s_away_s_rise_s_talk_distraught_] ¡¿Qué?!{p}Nah, de ninguna manera, eso no tiene absolutamente ningún sentido..."
+msgstr "[_dash_s_away_s_rise_s_talk_distraught_] ¡¿Qué?! {p}Nah, de ninguna manera, eso no tiene absolutamente ningún sentido{/p}..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1140 #-#-# translate crowdin tuckerPDA_afterpostfight_f7c00da0:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] Yeah, well, it happened. S-so I hope you learned your lesson, {i}uh{/i}... buster!"
-msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] Sí, bueno, sucedió. A-así que espero que aprendas la lección, {i}uh {/i}... ¡ruín!"
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] Sí, sucedió. A-así que espero que aprendas la lección, {i}uh {/i}... ¡ruín!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1142 #-#-# translate crowdin tuckerPDA_afterpostfight_c296fd9b:
 msgid "[_dash_s_blank_stare_s_unhappy_s_talk_consternation_] No... I... I was going to the bathroom... then I thought I saw this... this weird {b}green monster thing{/b} with all these nasty arms, and then I..."
-msgstr "[_dash_s_blank_stare_s_unhappy_s_talk_consternation_] No... yo... Yo iba al cuarto de baño... entonces creo que que vi ese... ese extraño {b} monstruo verde {/b} con todos esos tentáculos desagradables, y entonces yo..."
+msgstr "[_dash_s_blank_stare_s_unhappy_s_talk_consternation_] No... yo... yo iba al cuarto de baño... entonces creo que que vi ese... ese extraño {b} monstruo verde {/b} con todos esos tentáculos desagradables, y entonces yo..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1144 #-#-# translate crowdin tuckerPDA_afterpostfight_ef6cfd62:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh no Dash, you're clearly out of it right now! Guess I really over did it, huh? How about you just go and get some rest, buddy. You're imagining things is all."
@@ -1002,7 +1002,7 @@ msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] Oh perfecto. ¿ {i}Ah
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1261 #-#-# translate crowdin master_plan_tired_4b9c0149:
 msgid "[_maddie_] Danny! Could you get the door, sweetie? We're in the middle of a {b}ecto-fungal{/b} experiment down here currently!"
-msgstr "¡[_maddie_] ¡Danny! ¿Podrías abrir la puerta cariño? Ahora estamos aquí abajo en medio de un experimento de {b}ecto-micótico {/b}!"
+msgstr "[_maddie_] ¡Danny! ¿Podrías abrir la puerta cariño? Ahora estamos aquí abajo en medio de un experimento de {b}ecto-micótico {/b}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1262 #-#-# translate crowdin master_plan_tired_f2a2ea7f:
 msgid "[_danny_s_frown_2_s_at_player_s_rise_one_] (But who on earth could be visiting us at this hour...?)"
@@ -1014,7 +1014,7 @@ msgstr "[_doorsound_] {i}*Puerta abriendo*{/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1269 #-#-# translate crowdin master_plan_tired_6cb1c0c0:
 msgid "[_vlad_s_f6_] Oh, why {i}hello{/i}, young man! Wait, wait, don't tell me, let me guess!{p}{i}You{/i} must be {b}Daniel{/b}, I presume?"
-msgstr "[_vlad_s_f6_] Oh, ¿por qué? ¡{i}hola {/i} joven! Espera, espera, no me digas, ¡déjame adivinar!{p}{i}Tú{/i} debes de ser {b}Daniel {/b}, ¿lo adivino?"
+msgstr "[_vlad_s_f6_] Oh, pero, ¡{i}hola {/i} joven! Espera, espera, no me digas, ¡déjame adivinar!{p}{i}Tú{/i} debes de ser {b}Daniel {/b}, ¿lo adivino{/p}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1274 #-#-# translate crowdin master_plan_tired_be1b530a:
 msgid "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_consternation_] What the- {b}Vlad Masters{/b}?! You know my name? Vlad Masters knows {i}my{/i} name??"
@@ -1022,7 +1022,7 @@ msgstr "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_consternation_] ¿Qué - 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1276 #-#-# translate crowdin master_plan_tired_27f79799:
 msgid "[_vlad_s_f24_] Quite right, my boy! And clearly, you've heard of mine, aye?"
-msgstr "[_vlad_s_f24_] Muy bien mi chico!, y claramente has oído hablar mío, ¿no?"
+msgstr "[_vlad_s_f24_] Muy bien chico!, y claramente has oído hablar del mío, ¿no?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1278 #-#-# translate crowdin master_plan_tired_f8817e07:
 msgid "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_consternation_] Well yeah... and... you know my parents, right?"
@@ -1066,11 +1066,11 @@ msgstr "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] Yo {b}odiaría{/b} que te
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1313 #-#-# translate crowdin master_plan_tired_573541e8:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] No, it's alright, I'll let you three catch up. I wouldn't wanna impose on you guys catching up together."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] No, está bien, Voy a dejar que los tres se pongan al día. No me gustaría obligarles a que se pongan al día juntos."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] No, así está bien, Voy a dejar que los tres se pongan al día. No me gustaría impedir que se pongan al día juntos."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1315 #-#-# translate crowdin master_plan_tired_9335c6b4:
 msgid "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh, well that's just too bad, I had really hoped to spend some quality {b}bonding{/b} time with you quite soon... just young Daniel and his dear old {u}Uncle{/u} Vlad..."
-msgstr "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh, bueno eso es muy malo, tengo la esperanza de pasar algo de tiempo {b}intimando{/b} contigo pronto... solos el joven Daniel y su querido viejo {u}Tío {/u} Vlad..."
+msgstr "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh, bueno eso és muy malo, tengo la esperanza de pasar algo de tiempo {b}intimando{/b} contigo pronto... solos el joven Daniel y su querido viejo {u}Tío {/u} Vlad..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1317 #-#-# translate crowdin master_plan_tired_81ee0013:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] {i}Uhm{/i}... yeah... cool... I mean {b}no{/b}, but cool..."
@@ -1078,7 +1078,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] {i}Uhm {/i}... yeah... b
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1319 #-#-# translate crowdin master_plan_tired_5fbb01de:
 msgid "[_danny_s_towards_wide_s_wondering_s_displeased_] (Hmm... maybe I {i}should{/i} stick around... something about this is fishier than that octopus ghost... wait, are octopuses even fish? Is an Ectopus a {i}ghost{/i} fish...?)"
-msgstr "[_danny_s_towards_wide_s_wondering_s_displeased_] (Hmm... tal vez {i}debería {/i} seguir merodeando... para pescar ese fantasma pulpo... espera, ¿son los pulpos los peces? ¿Es Ectopus el {i}fantasma {/i} de un pez...?)"
+msgstr "[_danny_s_towards_wide_s_wondering_s_displeased_] (Hmm... tal vez {i}debería {/i} seguir merodeando... para pescar ese fantasma pulpo... espera, ¿son los pulpos peces? ¿Es Ectopus el {i}fantasma {/i} de un pez...?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1320 #-#-# translate crowdin master_plan_tired_1ccfaf16:
 msgid "[_danny_s_at_danny_s_frown_2_s_sad_2_] (Come on, Danny, focus!)"
@@ -1110,7 +1110,7 @@ msgstr "[_vlad_s_closed_s_unhappy_s_talk_happy_] Oh, ¿quieres decir el fantasma
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1352 #-#-# translate crowdin master_plan_tired_2166e95c:
 msgid "[_jack_s_flip_s_towards_wide_s_sad_s_talk_displeased_] You caught one {b}already{/b}?! Ahh, damn it all... just as we were finishing up the {b}\"Fenton Ghost Fisher\"{/b} too."
-msgstr "[_jack_s_flip_s_towards_wide_s_sad_s_talk_displeased_] ¡¿Has atrapado uno {b}ya {/b}?! Ahh, maldita sea... casi teníamos terminando el {b}\"Pescador de fantasmas Fenton\" {/b}."
+msgstr "[_jack_s_flip_s_towards_wide_s_sad_s_talk_displeased_] ¡¿Has atrapado uno {b}ya {/b}?! Ahh, maldita sea... casi teníamos terminado el {b}\"Pescador de fantasmas Fenton\" {/b}."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1354 #-#-# translate crowdin master_plan_tired_f1acc9e9:
 msgid "[_vlad_s_closed_s_unhappy_s_talk_frown_] Oh, I do apologize for your frustration, Jack. You always were the one most {b}gung-ho{/b} about the real {i}'chase'{/i} of a good ghost hunt. I myself often just prefer to lay clever traps for them..."
@@ -1122,7 +1122,7 @@ msgstr "[_maddie_s_flip_s_towards_s_sad_s_talk_happy_] Oh, ya sabes cómo és el
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1359 #-#-# translate crowdin master_plan_tired_8744b671:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] Yes, I completely understand... which is why I thought it'd be sporting to {i}bring{/i} you said spectral encounter with me."
-msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Sí, entiendo completamente... por eso pensé que sería un buen ejercicio {i}traer {/i} un encuentro espectral conmigo."
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Sí, entiendo completamente... por eso pensé que sería un buen ejercicio {i}traer {/i} un espectro conmigo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1362 #-#-# translate crowdin master_plan_tired_bb316e68:
 msgid "[_jack_s_flip_s_stare_s_angry_s_talk_happy_] You did?? Here, with you?? Which one? Oh, I hope it's that Phantasmal Pervert!!"
@@ -1142,7 +1142,7 @@ msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] No quiero ser presuntuoso ni n
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1371 #-#-# translate crowdin master_plan_tired_0b4743c7:
 msgid "[_jack_s_flip_s_closed_s_sad_s_talk_happy_] Of course, what's mine is yours, V-Man!"
-msgstr "[_jack_s_flip_s_closed_s_sad_s_talk_happy_] Por supuesto, lo mío es tuyo, ¡V-tío!"
+msgstr "[_jack_s_flip_s_closed_s_sad_s_talk_happy_] Por supuesto, lo mío es tuyo, ¡t-tío!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1373 #-#-# translate crowdin master_plan_tired_de5f41df:
 msgid "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh good... I'd {i}hoped{/i} as much..."
@@ -1150,7 +1150,7 @@ msgstr "[_vlad_s_towards_s_neutral_s_talk_happy_] Oh bueno... No {i}esperaba {/i
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1376 #-#-# translate crowdin master_plan_tired_150619c1:
 msgid "[_vlad_s_towards_s_unhappy_s_talk_happy_] So, without further ado, I suppose I should go about showing you the blasted thing..."
-msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] Así que, sin más, supongo que debería mostrarte estas cosa maldita..."
+msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] Así que, sin más, supongo que debería mostrarte esta cosa maldita..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1377 #-#-# translate crowdin master_plan_tired_9d977fbc:
 msgid "[_vlad_s_towards_s_neutral_s_talk_happy_] ...it was actually thanks to your old schematics, Madeline, that I was able to create a working {b}Thermos{/b}..."
@@ -1166,7 +1166,7 @@ msgstr "[_vlad_s_towards_s_sad_s_talk_happy_] Oh, tomaría {b}largo{/b} y extens
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1383 #-#-# translate crowdin master_plan_tired_6972457d:
 msgid "[_maddie_s_flip_s_towards_s_sad_s_talk_frown_] ...are you sure that's a good idea, Vlad? Is it safe to just release one out of a Thermos?"
-msgstr "[_maddie_s_flip_s_towards_s_sad_s_talk_frown_] ... ¿estás seguro de que es una buena idea, Vlad? ¿Es seguro liberar uno de los termos?"
+msgstr "[_maddie_s_flip_s_towards_s_sad_s_talk_frown_] ... ¿estás seguro de que es una buena idea, Vlad? ¿Es seguro liberar uno de los thermos?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1386 #-#-# translate crowdin master_plan_tired_d1ea2ad9:
 msgid "[_jack_s_flip_s_closed_s_wondering_s_talk_happy_] Of course it is, sweetie! Vlad knows what he's doing!"
@@ -1182,7 +1182,7 @@ msgstr "[_maddie_s_flip_s_towards_s_neutral_s_talk_happy_] Muy bien, ¡todo pare
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1404 #-#-# translate crowdin master_plan_tired_45f889b8:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Well, all that's left to do now is to hook the containment field up to the Thermos properly and release the creature from inside."
-msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Bueno, todo lo que queda hacer ahora es unir el campo de contención al Termo adecuadamente y liberar a la criatura del interior."
+msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Bueno, todo lo que queda hacer ahora es unir el campo de contención al Thermo adecuadamente y liberar a la criatura del interior."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1406 #-#-# translate crowdin master_plan_tired_96b9f9b0:
 msgid "[_jack_s_flip_s_stare_s_angry_s_talk_happy_] You got it Vladdie! Let's do-it to-it, V-Man!!"
@@ -1190,7 +1190,7 @@ msgstr "[_jack_s_flip_s_stare_s_angry_s_talk_happy_] ¡Lo conseguiste Vladdie! �
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1408 #-#-# translate crowdin master_plan_tired_324f9edc:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_frown_] Oh, settle down, Jack! Don't be so overly eager! We don't need {i}another{/i} lab accident to occur due to your giddiness..."
-msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_frown_] ¡Oh, calma, Jack! ¡No estés tan ansiosos! No necesitamos que se produzca {i}otro{/i} accidente de laboratorio debido a tu nerviosismo..."
+msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_frown_] ¡Oh, calma, Jack! ¡No estés tan ansioso! No necesitamos que se produzca {i}otro{/i} accidente de laboratorio debido a tu nerviosismo..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1410 #-#-# translate crowdin master_plan_tired_38acc818:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Madeline, would {i}you{/i} kindly do the honors? None of this would have happened without {i}your{/i} brilliant ingenuity after all."
@@ -1198,15 +1198,15 @@ msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Madeline, ¿ po
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1413 #-#-# translate crowdin master_plan_tired_0a135f37:
 msgid "[_maddie_] Oh! Well I-I suppose I {i}could{/i}... my, such a {b}gentleman{/b}."
-msgstr "[_maddie_] ¡Oh! Bien y-yo supongo que {i}podría {/i}... mi, como un {b}caballero{/b}."
+msgstr "[_maddie_] ¡Oh! Bien y-yo supongo que {i}podría {/i}... mi, como buen {b}caballero{/b}."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1419 #-#-# translate crowdin master_plan_tired_e404b60c:
 msgid "[_maddie_s_rise_one_3_s_talk_happy_2_] Now, is it {b}this{/b} button here that will allow us to attach the containment field connector? Or do we need to go through some sort of safety procedures to properly disable the Thermos'-"
-msgstr "[_maddie_s_rise_one_3_s_talk_happy_2_] Ahora, ¿es {b}este {/b} botón el que nos permitirá unir el termo al campo de contención? O tenemos que pasar por algún tipo de procedimientos de seguridad para desactivar adecuadamente el Termo\"-"
+msgstr "[_maddie_s_rise_one_3_s_talk_happy_2_] Bien, ¿es {b}este {/b} botón el que nos permitirá unir el thermo al campo de contención? O tenemos que pasar por algún tipo de procedimientos de seguridad para desactivar adecuadamente el Thermo\"-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1422 #-#-# translate crowdin master_plan_tired_9dc1411c:
 msgid "[_danny_] (Man, this is getting pretty boring honestly... guess my hunch was off, nothing too fishy going on here. Just some old friends mingling together after a long time apart... I feel like I'll just head back upstairs silently...)"
-msgstr "[_danny_] (tio, honestamente esto se está volviendo bastante aburrido... tengo el carazón dormido, no hay nada interesante por aquí. Sólo unos viejos amigos que se relacionan después de un largo tiempo... Subiré a casa...)"
+msgstr "[_danny_] (tío, honestamente esto se está volviendo bastante aburrido... tengo el corazón dormido, no hay nada interesante por aquí. Solo unos viejos amigos que se relacionan después de un largo tiempo... Subiré a casa...)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1426 #-#-# translate crowdin master_plan_tired_135e0000:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] No, no, you're quite right, madeline, it's just a simple press of the button. Yes, just press down on {b}that{/b} button there..."
@@ -1226,19 +1226,19 @@ msgstr "[_ectopuss_] {b}A fiiiiiiinnnnnnnnn!!{b} ¿Tenéis alguna idea de lo apr
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1458 #-#-# translate crowdin master_plan_tired_473794a8:
 msgid "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_distraught_] Vlad? Jack?!{p}Oh no, Jack's been knocked unconcious!! But where's Vlad?!"
-msgstr "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_distraught_] ¿Vlad? ¿Jack?!{p}¡Oh no, Jack ha sido noqueado y está inconsciente! Pero, ¿dónde está Vlad?!"
+msgstr "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_distraught_] ¿Vlad? ¿Jack?!{p}¡Oh no, Jack ha sido noqueado y está inconsciente{/p}! Pero, ¿dónde está Vlad?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1461 #-#-# translate crowdin master_plan_tired_949fe537:
 msgid "[_ectopuss_] Well {i}hello{/i} there miss jumpsuit... don't you look nice and tasty..."
-msgstr "[_ectopuss_] Bueno {i}hola {/i} mis traje espacial... no pareces buena y sabrosa..."
+msgstr "[_ectopuss_] Bueno {i}hola {/i} mis traje espacial... pareces buena y sabrosa..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1463 #-#-# translate crowdin master_plan_tired_9916a853:
 msgid "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] Oh, {i}uhm{/i}... {i}hello{/i} there... I'm actually a living, breathing person, and I'd prefer {b}NOT{/b} to get munched... or... {i}anything{/i} else, really..."
-msgstr "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] Oh, {i}uhm {/i}... {i}hola {/i} allí... Soy en realidad una persona viva, respirando, y preferiría {b}NO {/b} ser masticada... o... {i}cualquier cosa {/i} parecida, realmente..."
+msgstr "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] Oh, {i}uhm {/i}... {i}hola {/i} aquí... Soy en realidad una persona viva, respirando, y preferiría {b}NO {/b} ser masticada... o... {i}cualquier cosa {/i} parecida, realmente..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1467 #-#-# translate crowdin master_plan_tired_e904533c:
 msgid "[_danny_] (Jeez, I'm only halfway up the stairs, and {b}this{/b} happens?? This isn't going to end well... man, Ectopus seems a lot tougher looking, and with Mom here... I need to figure out a plan, fast!!)"
-msgstr "[_danny_] (Jeez, sólo estoy a medio camino de las escaleras¿y {b}esto{/b} sucede?? Esto no va a terminar bien... tio, Ectopus parece excitado, y con mamá aquí... necesito averiguar sus planes ¡¡rápido!!)"
+msgstr "[_danny_] (Jeez, sólo estoy a medio camino de las escaleras ¿y {b}esto{/b} sucede?? Esto no va a terminar bien... tio, Ectopus parece excitado, y con mamá aquí... necesito averiguar sus planes ¡¡rápido!!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1512 #-#-# translate crowdin master_plan_maddie_x_ecto_6805fe84:
 msgid "[_ectopuss_] Yes! A perfect MILF body for me to play with... how delectable!"
@@ -1286,7 +1286,7 @@ msgstr "[_maddie_] Sin..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1532 #-#-# translate crowdin master_plan_maddie_x_ecto_682c0685:
 msgid "[_maddie_] ...without {b}violating{/b} me?"
-msgstr "[_maddie_] ...sin {b}violarme{/b}?"
+msgstr "[_maddie_] ...sin ¿{b}violarme{/b}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1534 #-#-# translate crowdin master_plan_maddie_x_ecto_1a58e576:
 msgid "[_ectopuss_] What's wrong, don't you want to find out what it's like to be stuffed full of ghostly tentacles?"
@@ -1306,7 +1306,7 @@ msgstr "[_maddie_] Eso eso... no... ¡eso no puede ser verdad!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1542 #-#-# translate crowdin master_plan_maddie_x_ecto_6916ccf1:
 msgid "[_ectopuss_] Oh but it is! After only a few thrurst inside, you'll be begging me to never stop... and trust me, I'm looking to pump you {b}all night long!!{/b}"
-msgstr "[_ectopuss_] ¡Oh, pero lo és! Después de sólo unas pocas dentro de ti, me estarás rogando que nunca pare... y confía en mí, ¡¡estoy pensando en bombearte {b}toda la noche!! {/b}"
+msgstr "[_ectopuss_] ¡Oh, pero lo és! Después de que entre solo un poco dentro de ti, me estarás rogando que nunca pare... y confía en mí, ¡¡estoy pensando en bombearte {b}toda la noche!! {/b}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1544 #-#-# translate crowdin master_plan_maddie_x_ecto_f5949006:
 msgid "[_maddie_] Please, just let me go..."
@@ -1318,7 +1318,7 @@ msgstr "[_ectopuss_] ¡bien! Te voy a hacer una esclava del placer de las bestia
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1548 #-#-# translate crowdin master_plan_maddie_x_ecto_13d726f5:
 msgid "[_maddie_] Really, pl-please, don't do this..."
-msgstr "[_maddie_] Realmente, por favor, no lo hagas..."
+msgstr "[_maddie_] Realmente, p-por favor, no lo hagas..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1550 #-#-# translate crowdin master_plan_maddie_x_ecto_be67e7a6:
 msgid "[_ectopuss_] You're starting to feel it now, aren't you? Even from the tentacles restraining you, the secretions are working their magic... oh, I can just {b}taste{/b} the sweet Orgone radiating off of you even now."
@@ -1334,7 +1334,7 @@ msgstr "[_ectopuss_] Si me lo pides, te aliviaré algo de tu frustración sexual
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1556 #-#-# translate crowdin master_plan_maddie_x_ecto_f252d926:
 msgid "[_maddie_] G-go to hell... you green... green bastard... {i}mmmphhh{/i}~"
-msgstr "[_maddie_] G-ir al infierno... verde... bastardo verde... {i}mmmphhh {/i} ~"
+msgstr "[_maddie_] Ve-vete al infierno... verde... bastardo verde... {i}mmmphhh {/i} ~"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1558 #-#-# translate crowdin master_plan_maddie_x_ecto_a5a4b9d2:
 msgid "[_ectopuss_] Now, now, that's no way to ask for something you {u}want{/u}, is it...?"
@@ -1374,7 +1374,7 @@ msgstr "[_maddie_] {i}¡¡Ahn ~ Ahn ~ Ahn ~!! {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1576 #-#-# translate crowdin master_plan_maddie_x_ecto_c9173f7a:
 msgid "[_ectopuss_] Look at you. Already addicted to my tentacle, and we haven't even gotten to the {i}really{/i} good stuff yet! Heck, this is just ghost {b}missionary{/b}!!"
-msgstr "[_ectopuss_] Mirate. Ya adicta a mi tentáculo, ¡y no hemos llegado a lo {i}realmente {/i}bueno todavía! Heck, ¡¡esto es sólo la posición fantasma {b}misionero {/b}!!"
+msgstr "[_ectopuss_] Mirate. Ya adicta a mi tentáculo, ¡y no hemos llegado a lo {i}realmente{/i} bueno todavía! Heck, ¡¡esto es sólo la posición fantasma {b}misionero {/b}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1581 #-#-# translate crowdin master_plan_maddie_x_ecto_514d6a68:
 msgid "[_maddie_] No, please~!!"
@@ -1394,7 +1394,7 @@ msgstr "[_ectopuss_] Oh, tendrás que esforzarte mucho más que eso."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1589 #-#-# translate crowdin master_plan_maddie_x_ecto_3483909c:
 msgid "[_maddie_] Please, screw me some more with that throbbing tentacle~!!"
-msgstr "[_maddie_] Por favor, atornillame un poco más con ese tentáculo palpitante ~!!"
+msgstr "[_maddie_] Por favor, fóllame un poco más con ese tentáculo palpitante ~!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1591 #-#-# translate crowdin master_plan_maddie_x_ecto_2df80332:
 msgid "[_ectopuss_] Better... but try again... come on... really sell it to me..."
@@ -1406,11 +1406,11 @@ msgstr "[_maddie_] ¡Te estoy rogando ~! ¡fóllame con tu enorme Ecto-polla~!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1595 #-#-# translate crowdin master_plan_maddie_x_ecto_15ca769a:
 msgid "[_ectopuss_] That's a good girl."
-msgstr "[_ectopuss_] Eso és, una buena chica."
+msgstr "[_ectopuss_] Eso és, buena chica."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1597 #-#-# translate crowdin master_plan_maddie_x_ecto_be27235f:
 msgid "[_ectopuss_] It's always so much better taking Orgone from a {u}willing{/u} source."
-msgstr "[_ectopuss_] Siempre es mucho mejor tomar Orgone de una fuente {u}dispuesta {/u}."
+msgstr "[_ectopuss_] Siempre és mucho mejor tomar Orgone de una fuente {u}dispuesta {/u} a hacerlo voluntariamente."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1598 #-#-# translate crowdin master_plan_maddie_x_ecto_c132a179:
 msgid "[_ectopuss_] Maybe once I'm done with you, I'll try out that pretty redhead upstairs... the one who likes taking baths in the afternoon..."
@@ -1434,7 +1434,7 @@ msgstr "[_ectopuss_] ¡Oh! ¿de verdad? ¡Así que ya eres tan codiciosa que no 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1608 #-#-# translate crowdin master_plan_maddie_x_ecto_9d3036cd:
 msgid "[_ectopuss_] What's wrong? You don't want to watch that hot young thing getting {b}stuffed{/b} full of big, thick tentacles?"
-msgstr "[_ectopuss_] ¿Qué hay de malo? No quieres ver esa joven caliente siendo{b}llenada {/b} de grandes y gruesos tentáculos?"
+msgstr "[_ectopuss_] ¿Qué hay de malo? No quieres ver esa joven caliente siendo {b}llenada {/b} de grandes y gruesos tentáculos?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1609 #-#-# translate crowdin master_plan_maddie_x_ecto_6361cf3b:
 msgid "[_ectopuss_] Oh yeah, I can actually taste how much that idea is turning you on..."
@@ -1442,15 +1442,15 @@ msgstr "[_ectopuss_] Oh sí, puedo sentir lo mucho que esa idea te está dando v
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1610 #-#-# translate crowdin master_plan_maddie_x_ecto_6fe1e7e6:
 msgid "[_ectopuss_] The two of you pressed together, sharing a passionate kiss, staring into her eyes as she loses her virginity to a ghost..."
-msgstr "[_ectopuss_] Los dos juntos, compartiendo un beso apasionado, mirando fijamente a sus ojos mientras pierde su virginidad con un fantasma..."
+msgstr "[_ectopuss_] Los dos juntos, compartiendo un beso apasionado, mirando fijamente a los ojos mientras pierde su virginidad con un fantasma..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1612 #-#-# translate crowdin master_plan_maddie_x_ecto_f00d5b81:
 msgid "[_maddie_] Oh God... oh God, no! N-not... not like this~...!! I'm gonna... I'm- about to... t-to -c-cum-"
-msgstr "[_maddie_] Oh Dios... ¡oh Dios, no! N-no... ¡¡no como esto~...!! Voy a... estoy a punto de... d-de -c-correrme-"
+msgstr "[_maddie_] Oh Dios... ¡oh Dios, no! N-no... ¡¡no de esta forma~...!! Voy a... estoy a punto de... d-de -c-correrme-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1614 #-#-# translate crowdin master_plan_maddie_x_ecto_1c958578:
 msgid "[_danny_] (Is she... is Mom really about to...?)"
-msgstr "[_danny_] (¿Ella se... ¿mamá está a punto de...?)"
+msgstr "[_danny_] (Ella se... ¿mamá está a punto de...?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1615 #-#-# translate crowdin master_plan_maddie_x_ecto_f734c1f6:
 msgid "[_ectopuss_] That's right! Cum for me!! Feed me that delicious Orgone!!"
@@ -1462,7 +1462,7 @@ msgstr "[_vlad_] {b}¡¡No tan rápido, amigo{/b}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1646 #-#-# translate crowdin master_plan_postfight_38abb873:
 msgid "[_danny_] What the heck was that? That was a whole lot tougher! How did you become so strong all of a sudden?"
-msgstr "[_danny_] ¿Qué diablos fue eso? ¡Eso fue mucho más duro! ¿Cómo te has hecho tan fuerte de repente?"
+msgstr "[_danny_] ¿Qué diablos fue eso? ¡me fué más duro vencerte! ¿Cómo te has hecho tan fuerte de repente?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1649 #-#-# translate crowdin master_plan_postfight_337772b1:
 msgid "[_danny_] What the heck is happening? You've never beaten me before... how did you become so strong all of a sudden?"
@@ -1478,7 +1478,7 @@ msgstr "[_maddie_s_flip_s_suspicious_towards_s_aghast_s_talk_frown_] ¡No tan r�
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1660 #-#-# translate crowdin master_plan_postfight_5daca962:
 msgid "[_ectopuss_s_f5_] Oh don't you worry, I'll get to you soon enough, honey. Just let me deal with this brat and I'll make sure you get some good Ecto-loving..."
-msgstr "[_ectopuss_s_f5_] Oh, no te preocupes, llegaré lo suficientemente pronto, dulzura. Sólo déjame tratar con este mocoso y me aseguraré de que tengas un buen ecto-amor..."
+msgstr "[_ectopuss_s_f5_] Oh, no te preocupes, volveré pronto, dulzura. Sólo déjame tratar con este mocoso y me aseguraré de que tengas un buen ecto-amor..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1666 #-#-# translate crowdin master_plan_postfight_8de4c8dc:
 msgid "[_vlad_s_towards_s_angry_s_talk_happy_] Not if I have anything to say about it!"
@@ -1490,7 +1490,7 @@ msgstr "[_ectopuss_s_7_] ¿tú otra vez?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1673 #-#-# translate crowdin master_plan_postfight_cd09e7a5:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] That's right, and it's time for you to go back into your cage, wicked creature!"
-msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Así es, y és hora de que vuelvas a tu jaula, ¡criatura malvada!"
+msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Así és, y és hora de que vuelvas a tu jaula, ¡criatura malvada!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1676 #-#-# translate crowdin master_plan_postfight_131f84e5:
 msgid "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
@@ -1498,7 +1498,7 @@ msgstr "[_v_thermos_] {i}*Wum * *Wum * *Choooooo * {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1679 #-#-# translate crowdin master_plan_postfight_baaa1266:
 msgid "[_ectopuss_] No, wait! This isn't fair!! I didn't even get a lick of her-"
-msgstr "[_ectopuss_] No, espera! ¡Esto no es justo! Ni siquiera me hizo una mamada-"
+msgstr "[_ectopuss_] No, espera! ¡Esto no és justo! Ni siquiera me hizo una mamada-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1683 #-#-# translate crowdin master_plan_postfight_49db56ef:
 msgid "[_maddie_s_flip_s_towards_s_sad_s_talk_happy_] Phew, that was close."
@@ -1518,11 +1518,11 @@ msgstr "[_maddie_s_flip_s_towards_wide_s_neutral_s_talk_frown_] Vlad, ¡rápido,
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1698 #-#-# translate crowdin master_plan_postfight_3d875ad8:
 msgid "[_vlad_s_towards_s_sad_s_talk_frown_] I'm sorry Madeline, but I still haven't worked out all the bugs in the thermos' battery unit yet! It still needs a lot of {b}charging{/b} to do before its next use!"
-msgstr "[_vlad_s_towards_s_sad_s_talk_frown_] Lo siento Madeline, ¡pero todavía no he reparado todos los errores de la batería del termo! ¡Necesita una gran {b}recarga {/b} antes de su próximo uso!"
+msgstr "[_vlad_s_towards_s_sad_s_talk_frown_] Lo siento Madeline, ¡pero todavía no he reparado todos los errores de la batería del thermo! ¡Necesita una gran {b}recarga {/b} antes de su próximo uso!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1701 #-#-# translate crowdin master_plan_postfight_5bb1590d:
 msgid "[_danny_s_p38_] Okay well, good luck with that, gotta go now, bye!"
-msgstr "[_danny_s_p38_] Bien bien, buena suerte con eso, vete ahora, ¡adiós!"
+msgstr "[_danny_s_p38_] Bien, buena suerte, me voy, ¡adiós!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1721 #-#-# translate crowdin master_plan_postscene_391aad02:
 msgid "[_ectopuss_s_11_] You?!"
@@ -1538,15 +1538,15 @@ msgstr "[_v_thermos_] {i}*Wum * *Wum * *Chooooooooooo * {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1728 #-#-# translate crowdin master_plan_postscene_3dfaf82d:
 msgid "[_ectopuss_s_14_] No, it's not fair!! I was so close to getting her to cu-"
-msgstr "[_ectopuss_s_14_] No, ¡no es justo!! Estaba muy cerca de llegar a-"
+msgstr "[_ectopuss_s_14_] No, ¡no és justo!! Estaba muy cerca de hacer que se corrie-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1733 #-#-# translate crowdin master_plan_postscene_6841d8cf:
 msgid "[_maddie_s_cf6_] Vlad, God dammit, where were you?! Couldn't you have gotten here a {b}bit{/b} sooner?! What the hell happened with the Thermos??"
-msgstr "[_maddie_s_cf6_] Vlad, santo dios, ¡¿dónde estabas?! ¡¿No podrías haber actuado un {b}poco{/b} antes?! ¿¿Qué diablos pasó con los Termos??"
+msgstr "[_maddie_s_cf6_] Vlad, santo dios, ¡¿dónde estabas?! ¡¿No podrías haber actuado un {b}poco{/b} antes?! ¿¿Qué diablos pasó con el Thermo??"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1735 #-#-# translate crowdin master_plan_postscene_ac1f8f10:
 msgid "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] Oh Madeline, I'm so {b}terribly{/b} sorry for what happened to you, my dear! The {i}accidental{/i} explosion of the Thermos completely fried its circuits."
-msgstr "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] Oh Madeline, querida, ¡siento {b}terriblemente {/b} lo que te ha pasado! La {i}accidental{/i} explosión del Termo quemó completamente sus circuitos."
+msgstr "[_vlad_s_towards_wide_s_unhappy_s_talk_frown_] Oh Madeline, querida, ¡siento {b}terriblemente {/b} lo que te ha pasado! La {i}accidental{/i} explosión del Thermo quemó completamente sus circuitos."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1736 #-#-# translate crowdin master_plan_postscene_79bd88e9:
 msgid "[_vlad_s_towards_s_rise_s_talk_frown_] I went to grab my spare thermos from my stretch limo as quickly as I could, I swear! That damned ghost, taking advantage of you like that..."
@@ -1594,11 +1594,11 @@ msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] Sí, bueno, tal vez si tú no te 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1766 #-#-# translate crowdin master_plan_postscene_6cb702f7:
 msgid "[_maddie_s_flip_s_towards_s_sad_s_talk_distraught_] Please, you two, no need to argue... I should just go and lay down for a bit... I need to have some proper... {b}self reflection{/b} for a good while... {u}alone{/u}, if possible..."
-msgstr "[_maddie_s_flip_s_towards_s_sad_s_talk_distraught_] Por favor, vosotros dos, no hay necesidad de discutir... Debería ir y acostarme un poco... Necesito tener algo d-de... {b}reflexión {/b} un buen rato... {u}sola{/u}, si es posible..."
+msgstr "[_maddie_s_flip_s_towards_s_sad_s_talk_distraught_] Por favor, vosotros dos, no hay necesidad de discutir... Debería ir y acostarme un poco... Necesito tener algo d-de... {b}reflexión {/b} un buen rato... {u}a solas{/u}, si és posible..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1771 #-#-# translate crowdin master_plan_postscene_47a0889b:
 msgid "[_danny_] (I should get out of here before anybody sees me still down here. The idea of being asked what I just witnessed is a conversation I {i}really{/i} don't want to have... good Lord, Mom was {b}really{/b} into that!)"
-msgstr "[_danny_] (Debo salir de aquí antes de que alguien me vea aquí abajo. La idea de ser interrogado como testigo es una conversación que {i}realmente {/i} no quiero tener...Santo dios, ¡mamá ha estado {b}realmente {/b} en esa situación!)"
+msgstr "[_danny_] (Debo salir de aquí antes de que alguien me vea. La idea de ser interrogado como testigo es una conversación que {i}realmente {/i} no quiero tener...Santo dios, ¡mamá ha estado {b}realmente {/b} en esa situación!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1791 #-#-# translate crowdin e2_end_4eaa776b:
 msgid "[_danny_] Oh man, that was crazy! That thing was a monster, what the heck happened?"
@@ -1606,7 +1606,7 @@ msgstr "[_danny_] ¡Oh tío, es una locura! ¿Esa cosa era un monstruo?, ¿qué 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1793 #-#-# translate crowdin e2_end_cb27415d:
 msgid "[_danny_] It must've been that \"Orgone\" stuff I heard about. It supercharged it somehow..."
-msgstr "[_danny_] Debe haber sido ese \"Orgon\" del que he oído hablar. Lo alimenta de alguna manera..."
+msgstr "[_danny_] Debe haber sido ese \"Orgone\" del que he oído hablar. Lo alimenta de alguna manera..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1795 #-#-# translate crowdin e2_end_dd994f76:
 msgid "[_danny_] Well then, maybe I should start stocking up on some for myself..."
@@ -1638,11 +1638,11 @@ msgstr "¡Recarga enseguida!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:543
 msgid "Just take a peek first... for recon purposes!"
-msgstr "Basta con tomar un vistazo primero... ¡para saber los propósitos de recon!"
+msgstr "Basta con echar un vistazo primero... ¡para saber los propósitos de recon!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:543
 msgid "Back off, I'm not ready yet."
-msgstr "Me aparto, todavía no estoy listo."
+msgstr "Paso, todavía no estoy listo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:786
 msgid "Use the spare key."
@@ -1658,7 +1658,7 @@ msgstr "Déjalo por ahora."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1469
 msgid "What should I do?"
-msgstr "¿Qué puedo hacer?"
+msgstr "¿Qué debería hacer?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1469
 msgid "I have to stay out of this, if she catches me in my ghost form, I'll be busted! (NTR)"
@@ -1666,5 +1666,5 @@ msgstr "Tengo que salir de aquí, si ella me atrapa en mi forma fantasma, ¡voy 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1469
 msgid "I need to do something! That thing isn't going to have another victim on my watch! (Save Mom)"
-msgstr "¡Necesito hacer algo! ¡Voy a tener remordimiento de conciencia por otra víctima de eso! (Salvar a mamá)"
+msgstr "¡Necesito hacer algo! ¡Voy a tener remordimiento de conciencia por otra víctima! (Salvar a mamá)"
 
