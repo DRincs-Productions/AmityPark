@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-31 17:37\n"
+"PO-Revision-Date: 2024-01-31 18:52\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
@@ -330,11 +330,11 @@ msgstr "[_kwan_] {i}MMmph {/i}… sí nena… te la voy... {i}Nnnghh {/i} ... a 
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:445 #-#-# translate crowdin Star_x_Kwan_Locker_Room_a1f0b480:
 msgid "[_star_] (Wow, Kwan's not doing too shabby a job... I'm glad I picked him as my gym partner... I get to see how he works his {i}best{/i} muscle~!)"
-msgstr "[_star_] (Wow, Kwan no está haciendo demasiado mal su entreno... Me alegro de que lo escogiera como mi compañero de gimnasio... Voy a ver como trabaja su {i}mejor{/i} músculo~!)"
+msgstr "[_star_] (Wow, Kwan no está haciendo demasiado mal su trabajo... Me alegro de que lo escogiera como mi compañero de gimnasio... Voy a ver como trabaja su {i}mejor{/i} músculo~!)"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:446 #-#-# translate crowdin Star_x_Kwan_Locker_Room_3636baa2:
 msgid "[_danny_s_pi_113_] (Seriously? Man, I {i}really{/i} didn't need to see this today! Tucker's getting his {i}own{/i} stuff back from now on!)"
-msgstr "[_danny_s_pi_113_] (¿En serio? tio, yo {i}realmente {/i} no necesitaba ver esto hoy! Tucker está recuperando sus {i}propias{/i} cosas!)"
+msgstr "[_danny_s_pi_113_] (¿En serio? tio, yo {i}realmente {/i} no necesitaba ver esto hoy! Tucker va a recuperar sus {i}propias{/i} cosas él solo!)"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:457 #-#-# translate crowdin Star_x_Kwan_Locker_Room_5d0ad85b:
 msgid "[_star_] {i}Uffhhh{/i}, Kwan… you're pounding me so hard… you're... you're getting right up in my guts!!!"
@@ -362,7 +362,7 @@ msgstr "[_star_] Oh Dios, {i}siiiiii~ {/i}... ¡¡¡sigue así!!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:502 #-#-# translate crowdin Star_x_Kwan_Locker_Room_0888320a:
 msgid "[_danny_s_pi_114_] (Jeez... he's really pounding her like a beast. I almost feel bad for Star... but she's certainly taking it like a champ...)"
-msgstr "[_danny_s_pi_114_] (Jeez... él está follando como una bestia. Casi me siento mal por Star... pero ella lo está tomando como un camp...)"
+msgstr "[_danny_s_pi_114_] (Jeez... él se la está follando como una bestia. Casi me siento mal por Star... pero ella lo está tomando como un campe...)"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:510 #-#-# translate crowdin Star_x_Kwan_Locker_Room_3381ac79:
 msgid "[_star_] {i}Haa… ahh… ahhhhh{/i}, fuck!!"
@@ -386,7 +386,7 @@ msgstr "[_kwan_] Entonces iré… {i}mmmphhh {/i}… ¡¡aún más profundo en e
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:549 #-#-# translate crowdin Star_x_Kwan_Locker_Room_687f1913:
 msgid "[_star_] (Jesus Christ, he's slamming it right in now!!)"
-msgstr "[_star_] (¡Jesucristo, me está taladrando ahora mismo!!)"
+msgstr "[_star_] (¡Jesucristo, me está martillando!!)"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:550 #-#-# translate crowdin Star_x_Kwan_Locker_Room_b736aa23:
 msgid "[_star_] (I can barely speak right now, he's just pumping me so full of his cock...~)"
@@ -402,7 +402,7 @@ msgstr "[_star_] Oh… {i}nnngn {/i}… vas... a meterla hasta el fondo…!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:572 #-#-# translate crowdin Star_x_Kwan_Locker_Room_34b14d14:
 msgid "[_star_] {i}Fuuhahh…{p}I…{p}K-Kwaan…{p}hyahhh…{/i}!"
-msgstr "[_star_] {i}Fuuhahh…{p}I…{p}K-Kwaan…{p}hyahhh…{/i}!"
+msgstr "[_star_] {i}Fuuhahh…{p}yo… K-Kwaan… hyahhh…{/p}{/i}!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:575 #-#-# translate crowdin Star_x_Kwan_Locker_Room_9d3cfa09:
 msgid "[_danny_s_pi_32_] (Damn. I don't think Star's going to walk right for awhile after this...)"
@@ -422,11 +422,11 @@ msgstr "[_star_] {i}¡¡Nyannn… hawah… hwwawaaaa…~!! {/i}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:589 #-#-# translate crowdin Star_x_Kwan_Locker_Room_bd7550df:
 msgid "[_star_] Kwan... y-you're slamming… m-my cervix…!!"
-msgstr "[_star_] Kwan... y-estás golpeando… m-mis cervica…!!"
+msgstr "[_star_] Kwan... e-estás golpeando… m-mis cervica…!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:595 #-#-# translate crowdin Star_x_Kwan_Locker_Room_43967f82:
 msgid "[_star_] I can… {i}nyahhah{/i}… feel it all the way… {i}ahhnnn{/i}… at the back!!"
-msgstr "[_star_] ¡¡Puedo… {i}nyahhah{/i}… sentirme toda llena… {i}ahhnnn{/i}… en mi parte trasera!!"
+msgstr "[_star_] ¡¡Puedo… {i}nyahhah{/i}… sentir llena… {i}ahhnnn{/i}… mi parte trasera!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:602 #-#-# translate crowdin Star_x_Kwan_Locker_Room_4b24c35d:
 msgid "[_kwan_] Your walls are squeezing the life outta me… holy shit…!"
@@ -438,7 +438,7 @@ msgstr "[_star_] ¡¡Dame más rápido!! ¡¡{i}Ahhh!! {/i} ¡¡La quiero!! ¡M�
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:628 #-#-# translate crowdin Star_x_Kwan_Locker_Room_03c08fe4:
 msgid "[_kwan_] Yeah?{p}Then I'm gonna {u}give{/u} it to you faster!"
-msgstr "[_kwan_] ¿Sí?{p}Entonces te voy a {u}dar {/u} ¡aún más rápido!"
+msgstr "[_kwan_] ¿Sí?{p}Entonces te voy a {u}dar {/u} ¡aún más rápido{/p}!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:631 #-#-# translate crowdin Star_x_Kwan_Locker_Room_7940bb14:
 msgid "[_star_] Kwan… {i}Kwaannnnn…!! Hnnnn{/i}…!!"
@@ -454,7 +454,7 @@ msgstr "[_star_] {i}Nnn… nhhaaahhhh… nhaaaghhhh…{/i}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:638 #-#-# translate crowdin Star_x_Kwan_Locker_Room_64af9086:
 msgid "[_star_] I can feel it… I can feel it so deep... {i}ahhh!!{/i}"
-msgstr "[_star_] La puedo sentir… La puedo sentir tan profundo... {i}ahhh!! {/i}"
+msgstr "[_star_] La puedo sentir… La puedo sentir tan profunda... {i}ahhh!! {/i}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:639 #-#-# translate crowdin Star_x_Kwan_Locker_Room_0df0a225:
 msgid "[_star_] I can't think anymore… {i}hyannnnn{/i}... I... I..."
@@ -482,7 +482,7 @@ msgstr "[_star_] {i}Unnnf {/i}… me estás destrozando… me siento tan bien, �
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:665 #-#-# translate crowdin Star_x_Kwan_Locker_Room_55e17b31:
 msgid "[_kwan_] Y-yeah, I want your dripping pussy to cum for me, Star!"
-msgstr "[_kwan_] y-yeah, ¡quiero que tu coño mojado se corra para mí, Estrella!"
+msgstr "[_kwan_] y-yeah, ¡quiero que tu coño mojado se corra para mí, Star!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:670 #-#-# translate crowdin Star_x_Kwan_Locker_Room_d1cbc233:
 msgid "[_star_] {i}Hnnghhh{/i}… my pussy is gonna cum all over your dick!!"
@@ -514,7 +514,7 @@ msgstr "[_kwan_] Lo siento, ¡¡pero estoy a punto de explotar~!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:735 #-#-# translate crowdin Star_x_Kwan_Locker_Room_1c396fc4:
 msgid "[_danny_s_pi_114_] (Holy... his rhythm is crazy! He's going to totally destroy Star!!{p}...wait, why the heck am I still watching...?)"
-msgstr "[_danny_s_pi_114_] (Dios... ¡su ritmo és una locura! Va a destruir a Star!!{p}... espera, ¿por qué narices sigo viendo esto...?)"
+msgstr "[_danny_s_pi_114_] (Dios... ¡su ritmo és una locura! Va a destruir a Star!!{p}... espera, ¿por qué narices sigo viendo esto...?{/p})"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:738 #-#-# translate crowdin Star_x_Kwan_Locker_Room_a2753a4c:
 msgid "[_star_] {i}Nnnmmmm… hauuuu{/i}… it's so fast!! I'm literally shaking!!"
@@ -538,7 +538,7 @@ msgstr "[_kwan_] {i}Ahhh {/i}... jeez... esto fu lo mejor... Me corrí como un c
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:788 #-#-# translate crowdin Star_x_Kwan_Locker_Room_af1b2005:
 msgid "[_star_] {i}*Huff* *Huff*{/i}{p}…oh… you... idiot, Kwan... you're lucky I'm on the pill... holy fuck..."
-msgstr "[_star_] {i}*Huff * *Huff*{/i}{p}…oh… tú... idiota, Kwan... tienes suerte de que tomo la píldora... santas pollas..."
+msgstr "[_star_] {i}*Huff * *Huff*{/i}{p}…oh… tú... idiota{/p}, Kwan... tienes suerte de que tomo la píldora... santas pollas..."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:799 #-#-# translate crowdin Star_x_Kwan_Locker_Room_38fa1dc3:
 msgid "[_kwan_] {i}Heh heh{/i}… yeah… I know, babe…"
@@ -546,7 +546,7 @@ msgstr "[_kwan_] {i}Heh heh {/i}… yeah… Io sé, nena…"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:802 #-#-# translate crowdin Star_x_Kwan_Locker_Room_ac7b8cf5:
 msgid "[_danny_s_pi_50_] (Well, I'll be honest... that was actually pretty impressive... but not something I should have been watching out in the open. I better leave before Kwan catches me and bashes my head in.)"
-msgstr "[_danny_s_pi_50_] (Bueno, siendo... eso fue realmente impresionante... pero no debería haber estado observando sin ocultarme. Me voy mejor antes de que Kwan me atrape y me aporree la cabeza.)"
+msgstr "[_danny_s_pi_50_] (Bueno, seré honesto... eso fue realmente impresionante... pero no debería haber estado observando sin ocultarme. Me voy mejor antes de que Kwan me atrape y me aporree la cabeza.)"
 
 # §translate crowdin strings: #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
 msgid "Bargain with Dash."
