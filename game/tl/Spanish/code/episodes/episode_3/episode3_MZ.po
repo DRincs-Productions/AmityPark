@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-02 19:47\n"
+"PO-Revision-Date: 2024-02-02 20:46\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -1739,7 +1739,7 @@ msgstr "[_kate_s_down_s_talk_frown_s_sad_] No, no tengo ninguna pista. No es nad
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2230 #-#-# translate crowdin kates_quest_1_2d0e5d53:
 msgid "[_kate_s_closed_s_neutral_]  I really hope I won't get fired for this, but I'm going to need to report it missing sooner or later… ugh. I'm gonna be {i}so{/i} fired."
-msgstr "[_kate_s_closed_s_neutral_] Espero que no me despidan por esto. Tengo que informar de este suceso tarde o temprano… ugh. Voy a ser {i}seguro{/i} despedida."
+msgstr "[_kate_s_closed_s_neutral_] Espero que no me despidan por esto. Tengo que informar de este suceso tarde o temprano… ugh. Voy a ser despedida {i}seguro{/i}."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2232 #-#-# translate crowdin kates_quest_1_21223094:
 msgid "[_danny_s_rise_one_s_talk_happy_] Don't worry Kate, I will totally help you find the box. I promise."
@@ -1775,7 +1775,7 @@ msgstr "[_danny_s_talk_frown_s_wondering_] Nope, todavía no se ha resuelto el m
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2283 #-#-# translate crowdin kates_hero_not_yet_87e556bb:
 msgid "[_danny_s_rise_one_s_talk_happy_] But don't worry Kate, I'm sure I'm gonna find it soon. Someone may have taken it, but I'm gonna get it back from them!"
-msgstr "[_danny_s_rise_one_s_talk_happy_] Pero no te preocupes Kate, estoy seguro de que lo voy a encontrar pronto. ¡Puede que alguien lo haya cogido, pero yo lo voy a recuperar para ti!"
+msgstr "[_danny_s_rise_one_s_talk_happy_] Pero no te preocupes Kate, estoy seguro de que la voy a encontrar pronto. ¡Puede que alguien lo haya cogido, pero yo lo voy a recuperar para ti!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2285 #-#-# translate crowdin kates_hero_not_yet_49af345b:
 msgid "[_kate_s_talk_frown_s_down_s_sad_2_] I really hope you can Danny... otherwise I'm pretty much screwed. Thanks for trying though..."
@@ -1807,11 +1807,11 @@ msgstr "[_danny_s_talk_frown_2_s_neutral_] ¿Has oído hablar de esa nueva tiend
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2325 #-#-# translate crowdin kates_hero_the_box_returns_316e1e04:
 msgid "[_kate_s_sad_2_s_talk_frown_] You had to buy it off of him? Even though it was clearly stolen? Oh that's awful Danny, I'm so sorry! I'll repay you for what it cost!"
-msgstr "[_kate_s_sad_2_s_talk_frown_] ¿Tenías que comprarla de él? ¿A pesar de que fue claramente robada? ¡Oh, és horrible Danny!, ¡lo siento mucho! ¡Te devolveré lo que costó!"
+msgstr "[_kate_s_sad_2_s_talk_frown_] ¿Tenías que comprarla a él? ¿A pesar de que fue claramente robada? ¡Oh, és horrible Danny!, ¡lo siento mucho! ¡Te devolveré lo que costó!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2327 #-#-# translate crowdin kates_hero_the_box_returns_0c0088c1:
 msgid "[_danny_s_talk_happy_2_s_rise_one_] It's really not a big deal Kate, don't worry about it. This means you aren't going to get fired, and we get to still see each other at school. Sounds like a sweet enough deal to me."
-msgstr "[_danny_s_talk_happy_2_s_rise_one_] Realmente no és caro Kate, no te preocupes por ello. Esto significa que no vas a ser despedida, y todavía nos veremos en la escuela. Con esto ya tengo suficiente recompensa."
+msgstr "[_danny_s_talk_happy_2_s_rise_one_] Realmente no és cara Kate, no te preocupes por ello. Esto significa que no vas a ser despedida, y todavía nos veremos en la escuela. Con esto ya tengo suficiente recompensa."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2330 #-#-# translate crowdin kates_hero_the_box_returns_f710981c:
 msgid "[_kate_s_talk_happy_2_s_neutral_] Ugh, you are such a sweet boy..."
@@ -1975,7 +1975,7 @@ msgstr "[_danny_] ¡Sam! ¡Espera!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2548 #-#-# translate crowdin kates_hero_blowjob_eb730419:
 msgid "[_kate_] Danny, wait! Oh shoot, why does this keep happening?"
-msgstr "[_kate_] Danny, ¡espera! Habla ya, ¿por qué esto sigue sucediendo?"
+msgstr "[_kate_] Danny, ¡espera! joder, ¿por qué esto sigue sucediendo?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2568 #-#-# translate crowdin kittys_revange_the_morning_after_the_speech_16929b0e:
 msgid "[_tucker_s_talk_happy_s_sad_] Hey guys!"
@@ -2039,7 +2039,7 @@ msgstr "[_tucker_s_ahegao_s_talk_happy_s_sad_] Sí, imagino que mi parte moribun
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2610 #-#-# translate crowdin kittys_revange_the_morning_after_the_speech_ae5d4249:
 msgid "[_sam_] Gross, Tucker, you are {i}such{/i} a perv!!"
-msgstr "[_sam_] Gross, ¡¡Tucker, eres {i} igual {/i} que un pervertido!!"
+msgstr "[_sam_] Gross, ¡¡Tucker, eres un {i} auténtico {/i} pervertido!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2612 #-#-# translate crowdin kittys_revange_the_morning_after_the_speech_442a3a1e:
 msgid "[_tucker_s_talk_happy_s_towards_s_neutral_] Hey, don't hate the ghost player, hate the ghost game. {i}*Hehehe*{/i}"
@@ -2079,7 +2079,7 @@ msgstr "[_johnny_s_talk_frown_s_angry_3_] Sí, bueno, realmente no me importa, �
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2679 #-#-# translate crowdin kittys_revange_flirting_at_school_dbf5f915:
 msgid "[_sam_s_talk_frown_s_towards_] Wait... Johnny, you weren't trying to {b}hit{/b} on me, were you? I thought that you and Kitty were dating though, I'm confused..."
-msgstr "[_sam_s_talk_frown_s_towards_] Espera... Johnny, tú no estabas intentando {b}ligar {/b} conmigo, ¿verdad? Pensé que tú y Kitty estabais saliendo juntos, estoy confundida..."
+msgstr "[_sam_s_talk_frown_s_towards_] Espera... Johnny, tú no estarás intentando {b}ligar {/b} conmigo, ¿verdad? Pensé que tú y Kitty estabais saliendo juntos, estoy confundida..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2681 #-#-# translate crowdin kittys_revange_flirting_at_school_0b3d7173:
 msgid "[_johnny_s_sad_s_talk_happy_] Hey, don't worry about her, babe... she's like, more of a friend than anything else..."
@@ -2147,7 +2147,7 @@ msgstr "[_sam_] Uhm, disculpa ¿Me acabas de llamar puta?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2722 #-#-# translate crowdin kittys_revange_flirting_at_school_5de7bfeb:
 msgid "[_kitty_s_idle__s_talk_frown_2_] Uhm, duh? Anybody who would dare to dress as tacky as you has {i}got{/i} to be a huge cock slobbering {b}butt slut{/b}! Wouldn't you agree, you {u} trashy plaid wearing whore{/u}?"
-msgstr "[_kitty_s_idle__s_talk_frown_2_] Uhm, ¿duh? Cualquiera que se atreva a vestir un vestido tan ajustado como el tuyo {i}tiene{/i} que ser una babosa de {b} putos culos{/b} y pollas enormes! ¿No estás de acuerdo {u} puta basura a cuadros {/u}?"
+msgstr "[_kitty_s_idle__s_talk_frown_2_] Uhm, ¿duh? Cualquiera que se atreva a vestir un vestido tan ajustado como el tuyo {i}tiene{/i} que ser una {b} lame culos {/b} de pollas enormes! ¿No estás de acuerdo {u} puta basura a cuadros {/u}?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2725 #-#-# translate crowdin kittys_revange_flirting_at_school_9933797a:
 msgid "[_kitty_s_towards_right_s_talk_frown_] No point in dragging this conversation out any longer. Me and Johnny are leaving!"
@@ -2191,7 +2191,7 @@ msgstr "[_sam_s_talk_happy_] Tienes razón. Gracias Danny. Te veré más tarde."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2841 #-#-# translate crowdin kittys_revange_sam_s_reputation_3cfaff43:
 msgid "[_tucker_s_towards_wide_s_talk_frown_s_sad_] Dude, you won't {b}believe{/b} what's happening right now!"
-msgstr "[_tucker_s_towards_wide_s_talk_frown_s_sad_] Nen, no te vas a {b}creer {/b} lo que está sucediendo en este momento!"
+msgstr "[_tucker_s_towards_wide_s_talk_frown_s_sad_] Tío, no te vas a {b}creer {/b} lo que está sucediendo en este momento!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2843 #-#-# translate crowdin kittys_revange_sam_s_reputation_2d931fec:
 msgid "[_danny_s_wondering_s_talk_frown_] Why, what's wrong Tucker?"
@@ -2199,7 +2199,7 @@ msgstr "[_danny_s_wondering_s_talk_frown_] ¿qué, qué sucede Tucker?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2845 #-#-# translate crowdin kittys_revange_sam_s_reputation_6a665f4c:
 msgid "[_tucker_s_neutral_s_talk_frown_] It's Sam, dude! She is acting {i}way{/i} differently than usually, like a totally different person and everything! Dude, and her outfit, it is completely…"
-msgstr "[_tucker_s_neutral_s_talk_frown_] ¡Es Sam, tío! Ella está {i}actuando{/i} de manera diferente, és como una persona totalmente diferente y todo! Dude, y su ropa, és completamente…"
+msgstr "[_tucker_s_neutral_s_talk_frown_] ¡Es Sam, tío! Ella está {i}actuando{/i} de manera diferente, és como una persona totalmente diferente y todo! Tío, y su ropa, és completamente…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2846 #-#-# translate crowdin kittys_revange_sam_s_reputation_6777bec9:
 msgid "[_tucker_s_blank_stare_s_talk_happy_s_wondering_] ...I mean, I actually {b}really{/b} dig her new outfit but still, she's become way too..."
