@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-01 16:05\n"
+"PO-Revision-Date: 2024-02-02 19:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -1631,7 +1631,7 @@ msgstr "[_danny_] {i}Huuhh {/i}... sí, esto és grande Kate... {i}unnf {/i}..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2135 #-#-# translate crowdin kates_hero_handjob_72586e98:
 msgid "[_kate_] You know, I was so impressed by you, taking on that big bully Dash. Was he tough to beat?"
-msgstr "[_kate_] Sabes, estuve muy impresionada contigo, escarmentando ese gran Dash. ¿Fue difícil de vencer?"
+msgstr "[_kate_] Sabes, estuve muy impresionada contigo cuando escarmentaste a ese gran Dash. ¿Fue difícil de vencer?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2137 #-#-# translate crowdin kates_hero_handjob_adbfe3a0:
 msgid "[_danny_] Yuh-huh, h-he sure wuh-was..."
@@ -1663,11 +1663,11 @@ msgstr "[_danny_] Oh sí... Realmente sí, Kate. Se siente... se siente muy bien
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2149 #-#-# translate crowdin kates_hero_handjob_2395754d:
 msgid "[_kate_] {i}Mmhmmm{/i}... ugh, I haven't had such fun in a damn good while... you know I {b}only{/b} do this for you, right?"
-msgstr "[_kate_] {i}Mmhmmm {/i}... ugh, no he tenido tal diversión desde hace tiempo... sabes que yo {b}sólo {/b} hago esto para ti ¿verdad?"
+msgstr "[_kate_] {i}Mmhmmm {/i}... ugh, no he tenido esta diversión desde hace tiempo... sabes que yo {b}sólo {/b} hago esto para ti ¿verdad?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2151 #-#-# translate crowdin kates_hero_handjob_3581311c:
 msgid "[_danny_] R-really? Wh-why's that? There are other g-guys here better looking than me..."
-msgstr "[_danny_] ¿R-realmente? ¿Por qué? Hay otros g-chicos aquí mejor que yo..."
+msgstr "[_danny_] ¿R-realmente? ¿Por qué? Hay otros o-chicos aquí más guapos que yo..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2153 #-#-# translate crowdin kates_hero_handjob_b606d426:
 msgid "[_kate_] Oh, Danny. Don't be so hard on yourself, you're a very handsome young man!"
@@ -1683,7 +1683,7 @@ msgstr "[_kate_] Además, los otros chicos no són tan lindos como tú puedes se
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2159 #-#-# translate crowdin kates_hero_handjob_a89498d4:
 msgid "[_danny_] Ahh, go-gosh K-Kate, you d-don't really meeaaan-"
-msgstr "[_danny_] Ahh, go-gosh K-Kate, n-no lo dices en seriooooo-"
+msgstr "[_danny_] Ahh, d-dios K-Kate, n-no lo dices en seriooooo-"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2161 #-#-# translate crowdin kates_hero_handjob_0dcb7ce4:
 msgid "[_kate_] ...especially that face you make... {b}right{/b} before you're about to shoot your {u}hot{/u} load... {i}all over me{/i}...~"
@@ -1699,7 +1699,7 @@ msgstr "[_danny_s_talk_happy_] Hola, Kate."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2204 #-#-# translate crowdin kates_hero_the_stolen_box_a351f54d:
 msgid "[_danny_s_talk_frown_s_sad_] Hey, is something wrong? You're looking a bit blue today."
-msgstr "[_danny_s_talk_frown_s_sad_] Hey, ¿és algo malo? Hoy pareces un poco irritable."
+msgstr "[_danny_s_talk_frown_s_sad_] Hey, ¿hay algo mal? Hoy pareces un poco irritable."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2206 #-#-# translate crowdin kates_hero_the_stolen_box_6d6e14af:
 msgid "[_kate_s_talk_frown_s_towards_s_neutral_] Oh, hi Danny."
