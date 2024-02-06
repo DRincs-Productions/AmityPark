@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:40\n"
+"PO-Revision-Date: 2024-01-19 14:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
 msgid "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
@@ -34,7 +34,7 @@ msgstr "[_danny_s_rise_one_s_talk_frown_] \"¿Thermo Fentom?\" ¿Cómo la cosa q
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:32 #-#-# translate crowdin cylindrical_container_scene_1_lab_2dc47832:
 msgid "[_maddie_] {b}Exactly{/b} like it in fact! The thermos designs were actually originally {i}my{/i} creation when the three of us were all in college."
-msgstr "[_maddie_] ¡{b}Exacto {/b}! Los diseños de thermos eran originalmente de {i}mi{/i} creación {/i} cuando los tres estábamos en la universidad."
+msgstr "[_maddie_] ¡{b}Exacto {/b}! Los diseños de thermos eran originalmente de {i}mi{/i} creación cuando los tres estábamos en la universidad."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:35 #-#-# translate crowdin cylindrical_container_scene_1_lab_fb666146:
 msgid "[_maddie_] Vlad figured out how to get it to work in principal, but his model is still suffering from the persistent recharging issue, unfortunately. Capturing ghosts uses a {b}lot{/b} of power, obviously."
@@ -798,11 +798,11 @@ msgstr "[_danny_s_at_danny_s_talk_frown_2_s_rise_one_] Es sólo eso... bueno el 
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:633 #-#-# translate crowdin cylindrical_container_scene_5_lab_624c75bb:
 msgid "[_danny_s_towards_s_talk_frown_s_wondering_] He's just trying to make a living to support his family while they try their best to fend off giant moose attacks back home, ya know? I don't know, call me a big softie, but I just felt sorta bad is all."
-msgstr "[_danny_s_towards_s_talk_frown_s_wondering_] Sólo está tratando de ganarse la vida para apoyar a su familia que hace grandes esfuerzos para defenderse de los ataques de alces gigantes, ¿ya sabéis? No sé, llámadme blando pero da pena su situación."
+msgstr "[_danny_s_towards_s_talk_frown_s_wondering_] Sólo está tratando de ganarse la vida para apoyar a su familia que hace grandes esfuerzos para defenderse de los ataques de alces gigantes, ¿ya sabéis? No sé, llamadme blando pero da pena su situación."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:636 #-#-# translate crowdin cylindrical_container_scene_5_lab_271069e2:
 msgid "[_maddie_] Oh my goodness, Danny..."
-msgstr "[_maddie_] Oh, Dios míop, Danny..."
+msgstr "[_maddie_] Oh, Dios mío, Danny..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:639 #-#-# translate crowdin cylindrical_container_scene_5_lab_bc039c04:
 msgid "[_maddie_] That is so {i}sweet{/i} of you! {i}*Tsck*{/i} Oh, you are just becoming {b}more{/b} and more of a gentleman like your father every day!"
@@ -1070,7 +1070,7 @@ msgstr "..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:859 #-#-# translate crowdin cylindrical_container_scene_5_lab_54174ce7:
 msgid "[_danny_s_talk_frown_] Oh man... what just happened?"
-msgstr "[_danny_s_talk_frown_] Oh tóa... ¿qué ha pasado?"
+msgstr "[_danny_s_talk_frown_] Oh tía... ¿qué ha pasado?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:860 #-#-# translate crowdin cylindrical_container_scene_5_lab_316852cc:
 msgid "[_danny_s_sad_s_ahegao_s_talk_frown_2_] Jeez, that light was so bright! It nearly blinded me!"

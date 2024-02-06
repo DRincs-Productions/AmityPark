@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2024-01-10 12:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/school/school_misc.rpy:6 #-#-# translate crowdin schools_closed_6d531cde:
 msgid "[_danny_] The school's closing soon, I need to get out of here before I get locked in."
@@ -46,5 +46,5 @@ msgstr "[_danny_] (Tengo que ir a recoger a Sam antes de ir al baile)."
 
 # game/code/locations/school/school_misc.rpy:76 #-#-# translate crowdin locked_school_3f5d82f8:
 msgid "[_danny_] (The school is closed for today.)"
-msgstr "[_danny_] (La escuela está cerrada por hoy)."
+msgstr "[_danny_] (La escuela está cerrada hoy)"
 

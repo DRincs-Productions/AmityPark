@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:41\n"
+"PO-Revision-Date: 2024-01-08 13:16\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # §translate crowdin strings: #|#|# # game/code/episodes/episodes_selection.rpy:202
 msgid "Paulina was in trouble! What did I do?!"
-msgstr "¡Paulina estaba en problemas! ¿Qué hice ya?!"
+msgstr "¡Paulina estaba en problemas! ¿Qué hice?!"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Saved her immediately!"
-msgstr "¡La salvó inmediatamente!"
+msgstr "¡La salvé inmediatamente!"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Waited to see what happens..."
-msgstr "Esperado para ver lo que pasa..."
+msgstr "Esperé para ver lo que pasaba..."
 
 # game/code/episodes/episodes_selection.rpy:245
 msgid "Did I save Maddie from Ectopuss in the basement?"
-msgstr "¿He salvado a Maddie de Ectopuss en el sótano?"
+msgstr "¿Salvé a Maddie de Ectopuss en el sótano?"
 
 # game/code/episodes/episodes_selection.rpy:330
 msgid "Did I prank Sam at Star's request?"
-msgstr "¿He picado Sam a petición de Star?"
+msgstr "¿He fastidiado Sam a petición de Star?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Who did I take to the school dance?"
@@ -46,5 +46,5 @@ msgstr "¿Me involucré románticamente con Maddie?"
 
 # game/code/episodes/episodes_selection.rpy:440
 msgid "Who did I get my second orgone charge from?"
-msgstr "¿De quién he recibido mi segundo cargo de orgone?"
+msgstr "¿De quién he recibido mi segunda carga de orgone?"
 

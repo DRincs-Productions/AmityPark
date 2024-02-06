@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-01-10 14:05\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
@@ -59,7 +59,7 @@ msgstr "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/butto
 
 # §translate crowdin strings: #|#|# # game/code/base/screens.rpy:298
 msgid "Back"
-msgstr "Back"
+msgstr "Retroceder"
 
 # game/code/base/screens.rpy:299
 msgid "History"
@@ -67,7 +67,7 @@ msgstr "Historial"
 
 # game/code/base/screens.rpy:300
 msgid "Skip"
-msgstr "Skip"
+msgstr "Saltar dialogo"
 
 # game/code/base/screens.rpy:301
 msgid "Auto"
@@ -83,7 +83,7 @@ msgstr "Q.Guardar"
 
 # game/code/base/screens.rpy:304
 msgid "Q.Load"
-msgstr "Q.Carga"
+msgstr "Q.Cargar"
 
 # game/code/base/screens.rpy:305
 msgid "Prefs"
@@ -107,7 +107,7 @@ msgstr "Opciones"
 
 # game/code/base/screens.rpy:365
 msgid "End Replay"
-msgstr "Terminar repetición"
+msgstr "Terminar repetición escena"
 
 # game/code/base/screens.rpy:369
 msgid "Main Menu"
@@ -115,7 +115,7 @@ msgstr "Menú Principal"
 
 # game/code/base/screens.rpy:371
 msgid "Credits"
-msgstr "Credits"
+msgstr "Creditos"
 
 # game/code/base/screens.rpy:373
 msgid "About"
@@ -169,7 +169,7 @@ msgstr "                     {b}Lostraven{/b}, Escritor\n"
 
 # game/code/base/screens.rpy:742
 msgid "{b}Special Thanks:{/b}"
-msgstr "{b}Especial agradecimiento:{/b}"
+msgstr "{b}Especial agradecimiento a:{/b}"
 
 # game/code/base/screens.rpy:743
 msgid "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
@@ -279,7 +279,7 @@ msgstr "El historial de archivos está vacío."
 
 # game/code/base/screens.rpy:1166
 msgid "Keyboard"
-msgstr "Teclados"
+msgstr "Teclado"
 
 # game/code/base/screens.rpy:1167
 msgid "Mouse"
@@ -384,7 +384,7 @@ msgstr "Haz click con la rueda del ratón"
 
 # game/code/base/screens.rpy:1246
 msgid "Mouse Wheel Down"
-msgstr "Retrocede con la ruedad el ratón"
+msgstr "Retrocede con la rueda el ratón"
 
 # game/code/base/screens.rpy:1253
 msgid "Right Trigger\n"
@@ -398,7 +398,7 @@ msgstr "Haz click en el botón izquierdo del ratón"
 
 # game/code/base/screens.rpy:1261
 msgid "Right Shoulder"
-msgstr "Right Shoulder"
+msgstr "Mano izquierda"
 
 # game/code/base/screens.rpy:1266
 msgid "D-Pad, Sticks"

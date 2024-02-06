@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:42\n"
+"PO-Revision-Date: 2024-01-10 12:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
 msgid "[_box_ghost_s_talk_] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
@@ -90,7 +90,7 @@ msgstr "[_box_ghost_s_talk_frown_2_s_confused_] Uhm, si te lo dijera que ya no s
 
 # game/code/locations/mystery_shop_MZ.rpy:97 #-#-# translate crowdin stolen_or_not_2_baf019c1:
 msgid "[_danny_] I'm not interested, I was just looking around. See yah."
-msgstr "[_danny_] No me interesa, sólo estaba mirando."
+msgstr "[_danny_] No me interesa nada, sólo estaba mirando."
 
 # game/code/locations/mystery_shop_MZ.rpy:114 #-#-# translate crowdin not_ready_fc6fda39:
 msgid "[_box_ghost_s_talk_] Hey there! Thank you for visiting \"The Mystery Shop\" today."
@@ -134,7 +134,7 @@ msgstr "¿Lo has robado?"
 
 # game/code/locations/mystery_shop_MZ.rpy:54
 msgid "Fine, pretend I never asked!"
-msgstr "Muy bien, ¡fingir que no le preguntado!"
+msgstr "Muy Bien, ¡fingir que no pregunté!"
 
 # game/code/locations/mystery_shop_MZ.rpy:61
 msgid "Do I have any proof that this guy stole the box?"

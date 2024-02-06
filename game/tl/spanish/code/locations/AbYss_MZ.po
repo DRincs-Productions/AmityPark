@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:41\n"
+"PO-Revision-Date: 2024-01-10 12:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
 msgid "[_sales_lady_s_talk_happy_s_at_player_2_s_wondering_] Hi there, welcome to AbYss! How can I help you today?"
@@ -26,15 +26,15 @@ msgstr "[_danny_] Se llama Sam Manson. Debería ser un traje de animadora."
 
 # game/code/locations/AbYss_MZ.rpy:26 #-#-# translate crowdin buy_1_6a72ab5f:
 msgid "[_sales_lady_s_talk_happy_] Sounds great, I'll go and grab it for you right away from the back!"
-msgstr "[_sales_lady_s_talk_happy_] Muy bien, ¡voy a cogerlo ahora mismo de la parte de atrás!"
+msgstr "[_sales_lady_s_talk_happy_] Muy bien, ¡voy a cogerlo ahora mismo del almacén!"
 
 # game/code/locations/AbYss_MZ.rpy:33 #-#-# translate crowdin buy_1_7c98462f:
 msgid "[_sales_lady_s_at_player_2_s_talk_happy_s_wondering_] I believe {b}this{/b} is what you're looking for! It's all been prepaid already, so you're all set to go! Take care now!"
-msgstr "[_sales_lady_s_at_player_2_s_talk_happy_s_wondering_] ¡Creo que és {b}esto{/b} lo que estás buscando! Ya está todo prepagado, ¡así que todo listo! Cuídate!"
+msgstr "[_sales_lady_s_at_player_2_s_talk_happy_s_wondering_] ¡Creo que és {b}esto{/b} lo que estás buscando! Ya está todo pagado, ¡así que todo listo! Cuídate!"
 
 # game/code/locations/AbYss_MZ.rpy:37 #-#-# translate crowdin buy_1_136dc5ff:
 msgid "[_danny_] Alright, thank you! (Hey, this ain't too bad an outfit... again, it'll definitely be interesting to actually see her wear something like this...)"
-msgstr "[_danny_] ¡Muy bien, gracias! (Hey, no és algo tan malo un traje..., sin duda será interesante verla con él puesto...)"
+msgstr "[_danny_] ¡Muy bien, gracias! (Hey, no és tan mal traje..., sin duda será interesante verla con él puesto...)"
 
 # game/code/locations/AbYss_MZ.rpy:73 #-#-# translate crowdin buying_cloth_42482319:
 msgid "[_sales_lady_s_idle__s_at_player_2_s_talk_happy_] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
@@ -130,11 +130,11 @@ msgstr "¿Qué le gustaría ponerse a Desiree?"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Top"
-msgstr "Arriba"
+msgstr "Sueter"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Bottom"
-msgstr "Inferior"
+msgstr "Pantalón"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Accessory"
@@ -158,7 +158,7 @@ msgstr "Traje de baño ($50)"
 
 # game/code/locations/AbYss_MZ.rpy:106
 msgid "School Top ($50)"
-msgstr "Top escolar (50 $)"
+msgstr "Camisa escolar (50 $)"
 
 # game/code/locations/AbYss_MZ.rpy:144
 msgid "Skirt ($20)"
@@ -170,7 +170,7 @@ msgstr "Falda Escolar ($30)"
 
 # game/code/locations/AbYss_MZ.rpy:144
 msgid "Mini Panties ($40)"
-msgstr "Minibragas (40 $)"
+msgstr "Mini Panties (40 $)"
 
 # game/code/locations/AbYss_MZ.rpy:173
 msgid "Stockings ($20)"

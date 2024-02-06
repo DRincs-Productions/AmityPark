@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:42\n"
+"PO-Revision-Date: 2024-01-10 12:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/home/house_misc.rpy:8 #-#-# translate crowdin locked_34880f71:
 msgid "[_danny_] (Jazz keeps her door locked most of the time. She doesn't like me snooping in on her. Whatever, like I'd even care!)"
@@ -34,7 +34,7 @@ msgstr "[_danny_] Nah, no estoy cansado."
 
 # game/code/locations/home/house_misc.rpy:144 #-#-# translate crowdin mess_around_08844b41:
 msgid "[_danny_] (The Fenton Ghost Portal. It's what gave me my powers, but it's been broken since then. No ghosts to stop coming through here. Maybe Dad'll get around to fixing it in the future, who knows?)"
-msgstr "[_danny_] (El Portal Fantasma de Fenton. Es lo que me dio mis poderes, pero está roto desde entonces. No hay fantasmas puedan por él. Quizá papá lo arregle en el futuro, quién sabe)"
+msgstr "[_danny_] (El Portal Fantasma de Fenton. Es lo que me dio mis poderes, pero está roto desde entonces. No hay fantasmas que puedan pasar por él. Quizá papá lo arregle en el futuro, quién sabe)"
 
 # game/code/locations/home/house_misc.rpy:159 #-#-# translate crowdin optimal_temperature_f0696bec:
 msgid "[_danny_] Dad wouldn't want me messing with the thermostat in the lab. He says it keeps the vials of ectoplasm at an optimal temperature.{p}Honestly, I just think he doesn't like paying for heat down here."
@@ -114,7 +114,7 @@ msgstr "Dormir hasta mañana."
 
 # game/code/locations/home/house_misc.rpy:289
 msgid "Skip until it's time for the dance."
-msgstr "Saltar en el juego hasta que llegue el momento del baile."
+msgstr "Saltar tiempo hasta el baile."
 
 # game/code/locations/home/house_misc.rpy:289
 msgid "It's time for the dance!"
@@ -122,5 +122,5 @@ msgstr "¡Es el momento del baile!"
 
 # game/code/locations/home/house_misc.rpy:324
 msgid "Skip until Saturday."
-msgstr "Salta hasta el sábado."
+msgstr "Saltar tiempo hasta el sábado."
 

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-01-12 18:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -30,11 +30,11 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] ¿El... el qué? ¿De qu�
 
 # game/code/battleoverhaul/newbattle.rpy:38 #-#-# translate crowdin newbattletutorial_5e74f432:
 msgid "[_epa_] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
-msgstr "[_epa_] Quién soy no es importante Danny, lo que es {i}importante{/i} es que he estado escuchando rumores acerca de tus técnicas de lucha que son \"aplastantes\" y simplemente \" duras\".{p}Bueno, ¡espero que todo eso cambie a partir de hoy!"
+msgstr "[_epa_] Quién soy no es importante Danny, lo que es {i}importante{/i} es que he estado escuchando rumores acerca de tus técnicas de lucha que son \"aplastantes\" y \"duras\". {p}Bueno, ¡espero que todo eso cambie a partir de hoy!"
 
 # game/code/battleoverhaul/newbattle.rpy:40 #-#-# translate crowdin newbattletutorial_8fbd33fc:
 msgid "[_danny_s_down_s_angry_s_talk_displeased_] {i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
-msgstr "[_danny_s_down_s_angry_s_talk_displeased_] {i}*refunfuño*{/i} Bueno, pensé que estaba haciendo un buen trabajo por mi cuenta. {i}*refunfuño*"
+msgstr "[_danny_s_down_s_angry_s_talk_displeased_] {i}*refunfuño*{/i} Bueno, pensé que estaba haciendo un buen trabajo. {i}*refunfuño*{/i}"
 
 # game/code/battleoverhaul/newbattle.rpy:43 #-#-# translate crowdin newbattletutorial_f8d29441:
 msgid "[_epa_] Nonsense Danny, you can do way better! And I'm here to show you how!"
@@ -42,7 +42,7 @@ msgstr "[_epa_] Tonterías Danny, ¡puedes hacerlo mucho mejor! ¡Y estoy aquí 
 
 # game/code/battleoverhaul/newbattle.rpy:46 #-#-# translate crowdin newbattletutorial_c1834891:
 msgid "[_epa_] Danny, you need to learn to stop blocking attacks and just learn to use {b}Intangibility{/b} like any other ghost!"
-msgstr "[_epa_] ¡Danny, tienes que aprender a dejar de bloquear los ataques y aprender a usar {b}Intangibilidad{/b} como cualquier otro fantasma!"
+msgstr "[_epa_] ¡Danny, tienes que aprender a dejar de bloquear los ataques y aprender a usar la {b}Intangibilidad{/b} como cualquier otro fantasma!"
 
 # game/code/battleoverhaul/newbattle.rpy:48 #-#-# translate crowdin newbattletutorial_d3c72019:
 msgid "[_danny_s_at_player_s_rise_s_talk_displeased_] What? \"Intangible\"? But doesn't that cost ecto-power to do? Also, wasn't it called \"Invisibility\" before?"
@@ -50,7 +50,7 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_displeased_] ¿Qué? ¿\"Intangible\"?
 
 # game/code/battleoverhaul/newbattle.rpy:51 #-#-# translate crowdin newbattletutorial_7ab24936:
 msgid "[_epa_] We're changing a few things around! Trust me, I've seen you go perving around your house by peaking your head and hands through walls... so just do that in combat too!{p}It costs {u}nothing{/u} at all to use now!"
-msgstr "[_epa_] ¡Vamos a cambiar algunas cosas! Confía en mí, te he visto ir a espiar por tu casa asomando la cabeza y las manos por las paredes... ¡así que hazlo también en el combate!{p}¡Ahora no cuesta nada usarlo {u}!"
+msgstr "[_epa_] ¡Vamos a cambiar algunas cosas! Confía en mí, te he visto ir a espiar por tu casa asomando la cabeza y las manos por las paredes... ¡así que hazlo también en el combate! ¡Ahora no {p}cuesta {u}nada{/u} usarlo!"
 
 # game/code/battleoverhaul/newbattle.rpy:53 #-#-# translate crowdin newbattletutorial_7e6c2730:
 msgid "[_danny_s_down_s_neutral_s_talk_displeased_] Okay, I guess I could try that..."
@@ -170,19 +170,19 @@ msgstr "[_epa_] Eso vendrá en futuras actualizaciones y no deberíais preocupar
 
 # game/code/battleoverhaul/newbattle.rpy:126 #-#-# translate crowdin newbattletutorial_b50585dc:
 msgid "[_epa_] Oh yes, and before we get too far from it... I should give you an explanation on how your Orgone boost now works."
-msgstr "[_epa_] Ah, sí, y antes de que nos vayamos demasiado lejos... debería darte una explicación sobre cómo funciona ahora tu impulso de Orgón."
+msgstr "[_epa_] Ah, sí, y antes de que nos vayamos demasiado lejos... debería darte una explicación sobre cómo funciona ahora tu impulso de Orgone."
 
 # game/code/battleoverhaul/newbattle.rpy:129 #-#-# translate crowdin newbattletutorial_190d92a3:
 msgid "[_epa_] You now have an Orgone Capacity, so you can only maintain the fully boosted Orgone state for a {u}limited{/u} amount of time. Sorry if this sounds like a bummer."
-msgstr "[_epa_] Ahora tienes una capacidad de Orgón, por lo que sólo puedes mantener el estado de Orgón totalmente potenciado durante una cantidad de tiempo {u}limitada{/u}. Lo siento si esto suena como un fastidio."
+msgstr "[_epa_] Ahora tienes una capacidad de Orgone, por lo que sólo puedes mantener el estado de Orgone totalmente potenciado durante una cantidad de tiempo {u}limitado{/u}. Lo siento si esto suena como un fastidio."
 
 # game/code/battleoverhaul/newbattle.rpy:131 #-#-# translate crowdin newbattletutorial_85dd90f0:
 msgid "[_epa_] Each turn you take will burn through your Orgone reserves until eventually the effect will fade, so play smart to finish the fight before you lose the boost."
-msgstr "[_epa_] Cada turno que tomes gastarás tus reservas de Orgón hasta que se gaste. Así que juega inteligentemente para terminar la pelea antes de gastarlo."
+msgstr "[_epa_] Cada turno que tomes gastarás tus reservas de Orgone hasta que se gaste. Así que juega inteligentemente para terminar la pelea antes de gastarlo."
 
 # game/code/battleoverhaul/newbattle.rpy:134 #-#-# translate crowdin newbattletutorial_c3738b58:
 msgid "[_epa_] Now alongside the new limit, the Orgone Boost has been increased to be more {u}powerful{/u}. It'll provide you with ecto-power regeneration, shield you from damage, and increase your attack power."
-msgstr "[_epa_] Ahora se ha aumentado el impulso de orgón para que sea más potente {u}. Te proporcionará regeneración de ectopoder, te protegerá del daño y aumentará tu poder de ataque."
+msgstr "[_epa_] Ahora se ha aumentado el impulso de orgone para que sea más {u}potente{/u}. Te proporcionará regeneración de ectopoder, te protegerá del daño y aumentará tu poder de ataque."
 
 # game/code/battleoverhaul/newbattle.rpy:137 #-#-# translate crowdin newbattletutorial_0762f23d:
 msgid "[_epa_] Hopefully those little improvements will make you more at ease about having a limited amount of time."

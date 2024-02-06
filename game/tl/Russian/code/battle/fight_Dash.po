@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-10-18 06:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_Dash.rpy:71 #-#-# translate crowdin start_fight_Dash_ff2940fc:
 msgid "[_danny_] Time for some well deserved payback, Dash!"
-msgstr ""
+msgstr "[_danny_] Настал час расплаты, Дэш!"
 
 # game/code/battle/fight_Dash.rpy:82 #-#-# translate crowdin fight_main_dash_e4d8a7f3:
 msgid "[_danny_] Man... and I thought his punches {i}before{/i} stung!"
