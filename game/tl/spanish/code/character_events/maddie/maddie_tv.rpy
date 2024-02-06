@@ -4,13 +4,13 @@
 translate spanish maddie_sunday_tv_sleep_first_time_f84d361d:
 
     # danny f offscreen idle displeased "({i}Jeez{/i}... Mom must have been exhausted, she just passed out here with the TV still on.)"
-    danny f offscreen idle displeased "({i}Jeez{/i}... Mamá debía de estar agotada, acaba de quedarse dormida aquí con la televisión encendida)"
+    danny f offscreen idle displeased "({i}Jeez{/i}... Mamá debía de estar agotada, se ha quedado dormida con la televisión encendida)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:16
 translate spanish maddie_sunday_tv_sleep_first_time_40b1a40a:
 
     # danny f offscreen down sad consternation "(Guess that's bound to happen when you're on patrol with Dad all the time at all times of the day and night.)"
-    danny f offscreen down sad consternation "(Supongo que eso es normal cuando estás de patrulla con papá todo el tiempo a todas horas del día y de la noche)"
+    danny f offscreen down sad consternation "(Supongo que eso es normal cuando estás de patrulla con papá todo el tiempo y a todas horas del día y de la noche)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:18
 translate spanish maddie_sunday_tv_sleep_first_time_0c90f31a:
@@ -22,13 +22,13 @@ translate spanish maddie_sunday_tv_sleep_first_time_0c90f31a:
 translate spanish maddie_sunday_tv_sleep_first_time_6812d275:
 
     # danny f offscreen aheago sad bite "(Man... look at her... the way her breasts just heave up and down while she's lying down like that...~)"
-    danny f offscreen aheago sad bite "(mírala... la forma en que sus pechos se levantan y bajan mientras está acostada así...~)"
+    danny f offscreen aheago sad bite "(mírala... la forma en que sus pechos se mueven mientras está acostada así...~)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:22
 translate spanish maddie_sunday_tv_sleep_first_time_2dc1d70d:
 
     # danny f offscreen closed sad frown_2 "(Damn it, why am I so horny right now?)"
-    danny f offscreen closed sad frown_2 "(Maldita sea, ¿por qué estoy tan caliente ahora mismo?)"
+    danny f offscreen closed sad frown_2 "(Maldita sea, ¿por qué estoy tan escitado ahora mismo?)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:24
 translate spanish maddie_sunday_tv_sleep_first_time_e80288f1:
@@ -88,13 +88,13 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_217312fa:
 
     # danny "(Amazing... so soft against my dick, even through the spandex jumpsuit!)"
-    danny "(Increíble... tan suave contra mi polla. Incluso a través del mono de tela)"
+    danny "(Increíble... és tan suave al tacto de mi polla. Incluso a través del mono de tela)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:61
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_3046064a:
 
     # danny "(I can even barely fit them both in my hands while I wrap them around...)"
-    danny "(apenas me caben en las manos...)"
+    danny "(no me caben en las manos...)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:66
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_b380ed62:
@@ -148,7 +148,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_5792a8c7:
 
     # danny "{i}*Huff* *Huff*{/i}{p}(God bless these tits...!)"
-    danny "{i}*Huff* *Huff*{/i}{p}(¡Dios bendiga estas tetas...!)"
+    danny "{i}*Huff* *Huff*{/i}{p}(¡Dios bendiga estas tetas...!{/p})"
 
 # game/code/character_events/maddie/maddie_tv.rpy:87
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_7dc38f29:
@@ -184,7 +184,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_a1e9f649:
 
     # maddie "{i}...Daniel Fenton?!{/i} ...{u}what{/u} exactly, are you doing...??"
-    maddie "{i}...¡¿Daniel Fenton?! {/i}...{u}¿qué estás haciendo exactamente...??"
+    maddie "{i}...¡¿Daniel Fenton?! {/i}...{u}¿qué{/u} estás haciendo...??"
 
 # game/code/character_events/maddie/maddie_tv.rpy:107
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_2bcf0b85:
@@ -196,13 +196,13 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bbf17532:
 
     # danny "{i}*Ahem*{/i} S-sorry Mom... I just, sorta... saw an opportunity?"
-    danny "{i}*Ahem*{/i} Lo siento, mamá... Yo solo, como que... vi una oportunidad?"
+    danny "{i}*Ahem*{/i} Lo siento, mamá... Yo solo, como que... ¿vi una oportunidad?"
 
 # game/code/character_events/maddie/maddie_tv.rpy:113
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bad65bbf:
 
     # maddie "Well, what in the-!{p}I mean, what happens if someone were to walk in on us like this, Danny?!"
-    maddie "Bueno, ¿qué...?{p}Quiero decir, ¡¿qué pasaría si alguien entrara así, Danny?!"
+    maddie "Bueno, ¿qué...?{p}Quiero decir, ¡¿qué pasaría si alguien bajara y nos viera, Danny?{/p}?!"
 
 # game/code/character_events/maddie/maddie_tv.rpy:117
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_6a193270:
@@ -250,19 +250,19 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_d0861181:
 
     # danny "{i}Ughh{/i}, Mom, you're the best!!"
-    danny "{i}Ughh {/i}, mamá, ¡eres el mejor!!"
+    danny "{i}Ughh {/i}, mamá, ¡eres la mejor!!"
 
 # game/code/character_events/maddie/maddie_tv.rpy:145
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_b8e19432:
 
     # maddie "(I still can't get over how brazen my little boy has become...)"
-    maddie "(Todavía no puedo superar lo descarado que se ha vuelto mi pequeño...)"
+    maddie "(Todavía no puedo creer lo descarado que se ha vuelto mi pequeño...)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:147
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_fc34f3d7:
 
     # maddie "(He used to be so reserved around women, and now... a little horn dog he's become...)"
-    maddie "(Antes era muy reservado con las mujeres, y ahora... un amante cornudo se ha convertido...)"
+    maddie "(Antes era muy reservado con las mujeres, y ahora... se ha convertido en un semental...)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:149
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_0098aab9:
@@ -274,7 +274,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_6ad42ed8:
 
     # maddie "(I should really talk to him and scold this kind of... illicit behavior...~)"
-    maddie "(Realmente debería hablar con él y regañar este tipo de... comportamiento ilegal... ~)"
+    maddie "(Debería hablar con él y regañar este tipo de... comportamiento ilegal... ~)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:155
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_7d68a559:
@@ -298,7 +298,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_55e28058:
 
     # maddie "{i}*Giggling*{/i} That's nice... I like wearing this material for that reason too..."
-    maddie "{i}*Giggling*{/i} Eso es muy bueno... Me gusta llevar este traje por esa razón también..."
+    maddie "{i}*risas*{/i} Eso es muy bueno... Me gusta llevar este traje por esa razón también..."
 
 # game/code/character_events/maddie/maddie_tv.rpy:171
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_150b096b:
@@ -364,7 +364,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_fdb85875:
 
     # maddie "My word... you certainly came a {i}lot{/i} over an activity not even skin-to-skin contact based..."
-    maddie "Joder..... ciertamente corriste sobre mí, y {i}mucho{/i}. Y sin tocarme siquiera la piel..."
+    maddie "Joder..... te corriste sobre mí, y {i}mucho{/i}. Y sin tocarme siquiera la piel..."
 
 # game/code/character_events/maddie/maddie_tv.rpy:210
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_e1188587:
@@ -376,7 +376,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_cc881c49:
 
     # maddie "{i}*Chuckles*{/i} This momma loves her boy just as much.{p}{nw}"
-    maddie "{i}*Chuckles*{/i} Esta mamá ama a su hijo tanto como él a ella.{p}{nw}"
+    maddie "{i}*risas*{/i} Esta mamá ama a su hijo tanto como él a ella.{p}{nw}"
 
 # game/code/character_events/maddie/maddie_tv.rpy:218
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_243cabad:
@@ -400,7 +400,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_refus
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_refuse_39b537d8:
 
     # danny f offscreen at_player rise_one consternation "(...and I don't want to think of the kind of trouble I'd get into for titty fucking her out of a nice dream...)"
-    danny f offscreen at_player rise_one consternation "(...y no quiero pensar en la clase de problemas en los que me metería por follármela mientras tiene un bonito sueño...)"
+    danny f offscreen at_player rise_one consternation "(...y no quiero pensar en la clase de problemas en los que me metería por follarme sus tetas mientras tiene un bonito sueño...)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:249
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_0224cabc:
@@ -424,7 +424,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_post_climax_8e7c6115:
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_d1fdcae8:
 
     # maddie "I should be more mad that you woke me up from a pretty... similar dream, if anything..."
-    maddie "Debería estar más enfadada porque me has despertado de un bonito sueño bastante... parecido a estos momentos..."
+    maddie "Debería estar enfadada porque me has despertado de un bonito sueño bastante... parecido a estos momentos..."
 
 # game/code/character_events/maddie/maddie_tv.rpy:265
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_9fe8f8d9:
@@ -442,7 +442,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_post_climax_4cf50cc7:
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_d633d4cb:
 
     # maddie "...a {u}number{/u} of my sons, in fact."
-    maddie "...varios {u}números{/u} de hijos, de hecho."
+    maddie "...varios hijos {u}más{/u}, de hecho."
 
 # game/code/character_events/maddie/maddie_tv.rpy:277
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_6bd2b6f2:
@@ -454,7 +454,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_post_climax_6bd2b6f2:
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_8dbb43bf:
 
     # maddie "{i}*Giggles*{/i} I don't know! I suppose so! It was certainly out there, even for some of my more perverse fantasies!"
-    maddie "{i}*Giggles*{/i}¡No lo sé! Supongo que sí. ¡Ciertamente estaba soñando en una de mis fantasías más perversas!"
+    maddie "{i}*Risas*{/i}¡No lo sé! Supongo que sí. ¡Ciertamente estaba soñando una de mis fantasías más perversas!"
 
 # game/code/character_events/maddie/maddie_tv.rpy:285
 translate spanish maddie_sunday_tv_sleep_first_time_post_climax_26ec5a92:

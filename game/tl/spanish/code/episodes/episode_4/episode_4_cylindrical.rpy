@@ -34,7 +34,7 @@ translate spanish cylindrical_container_scene_1_lab_24525642:
 translate spanish cylindrical_container_scene_1_lab_2dc47832:
 
     # maddie "{b}Exactly{/b} like it in fact! The thermos designs were actually originally {i}my{/i} creation when the three of us were all in college."
-    maddie "¡{b}Exacto {/b}! Los diseños de thermos eran originalmente de {i}mi{/i} creación {/i} cuando los tres estábamos en la universidad."
+    maddie "¡{b}Exacto {/b}! Los diseños de thermos eran originalmente de {i}mi{/i} creación cuando los tres estábamos en la universidad."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:35
 translate spanish cylindrical_container_scene_1_lab_fb666146:
@@ -1180,13 +1180,13 @@ translate spanish cylindrical_container_scene_5_lab_faf4db30:
 translate spanish cylindrical_container_scene_5_lab_624c75bb:
 
     # danny towards talk_frown wondering "He's just trying to make a living to support his family while they try their best to fend off giant moose attacks back home, ya know? I don't know, call me a big softie, but I just felt sorta bad is all."
-    danny towards talk_frown wondering "Sólo está tratando de ganarse la vida para apoyar a su familia que hace grandes esfuerzos para defenderse de los ataques de alces gigantes, ¿ya sabéis? No sé, llámadme blando pero da pena su situación."
+    danny towards talk_frown wondering "Sólo está tratando de ganarse la vida para apoyar a su familia que hace grandes esfuerzos para defenderse de los ataques de alces gigantes, ¿ya sabéis? No sé, llamadme blando pero da pena su situación."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:636
 translate spanish cylindrical_container_scene_5_lab_271069e2:
 
     # maddie "Oh my goodness, Danny..."
-    maddie "Oh, Dios míop, Danny..."
+    maddie "Oh, Dios mío, Danny..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:639
 translate spanish cylindrical_container_scene_5_lab_bc039c04:
@@ -1588,7 +1588,7 @@ translate spanish cylindrical_container_scene_5_lab_a20cefa7_1:
 translate spanish cylindrical_container_scene_5_lab_54174ce7:
 
     # danny talk_frown "Oh man... what just happened?"
-    danny talk_frown "Oh tóa... ¿qué ha pasado?"
+    danny talk_frown "Oh tía... ¿qué ha pasado?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:860
 translate spanish cylindrical_container_scene_5_lab_316852cc:

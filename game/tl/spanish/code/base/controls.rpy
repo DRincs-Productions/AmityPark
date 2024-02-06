@@ -16,7 +16,7 @@ translate spanish menu_Ghost_Choice_fceed870:
 translate spanish menu_Ghost_Choice_e132bb66:
 
     # danny f offscreen at_player wondering distraught "I should get the guitar before I talk to Ember again."
-    danny f offscreen at_player wondering distraught "Debería darle la guitarra antes de hablar con ella."
+    danny f offscreen at_player wondering distraught "Debería dar a Ember la guitarra antes de hablar con ella."
 
 # game/code/base/controls.rpy:199
 translate spanish menu_Ghost_Choice_c9cefaf3:

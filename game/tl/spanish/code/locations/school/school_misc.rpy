@@ -52,5 +52,5 @@ translate spanish locked_school_f4224db0:
 translate spanish locked_school_3f5d82f8:
 
     # danny "(The school is closed for today.)"
-    danny "(La escuela está cerrada por hoy)."
+    danny "(La escuela está cerrada hoy)"
 

@@ -256,7 +256,7 @@ translate spanish Wish_you_the_Best_classroom_2b174756:
 translate spanish Wish_you_the_Best_classroom_35ac8a44:
 
     # lancer talk_frown rise_one "You simply {b}ignored{/b} all the other students in the halls, who had suddenly started filing into classrooms for some {b}apparent{/b} reason?!"
-    lancer talk_frown rise_one "¡¿has {b}ignorado{/i} a todos los demás estudiantes en los pasillos, que de repente habían empezado a meterse en las aulas por alguna {b}aparente{/b} razón?!"
+    lancer talk_frown rise_one "¡¿has {b}ignorado{/b} a todos los demás estudiantes en los pasillos, que de repente habían empezado a meterse en las aulas por alguna {b}aparente{/b} razón?!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:152
 translate spanish Wish_you_the_Best_classroom_a509e7f0:
@@ -436,7 +436,7 @@ translate spanish Wish_you_the_Best_classroom_33c151db:
 translate spanish Wish_you_the_Best_classroom_991f8d46:
 
     # danny "Sam, what the heck?! You {b}know{/b} we didn't do anything to Paulina and Star."
-    danny "Sam, ¡¿qué demonios?! {b}Sabes{/i} que no hicimos nada a Paulina y Star."
+    danny "Sam, ¡¿qué demonios?! {b}Sabes{/b} que no hicimos nada a Paulina y Star."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:266
 translate spanish Wish_you_the_Best_classroom_e4fd23f3:
@@ -514,7 +514,7 @@ translate spanish Wish_you_the_Best_classroom_56e58696:
 translate spanish Wish_you_the_Best_classroom_180405eb:
 
     # tucker "...I'm not {i}that{/i} easy to read, am I?"
-    tucker "...no soy {i}tan fácil de prever, ¿verdad?"
+    tucker "...no soy {i}tan{/i} fácil de prever, ¿verdad?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:331
 translate spanish Wish_you_the_Best_classroom_b5ecbeda:
@@ -604,7 +604,7 @@ translate spanish Wish_you_the_Best_classroom_d84e6a96:
 translate spanish Wish_you_the_Best_classroom_3481b43d:
 
     # lancer rise_one at_player_2 "...or was Ms. Manson {b}also{/b} looking to join you boys this Friday afternoon?"
-    lancer rise_one at_player_2 "...¿o la Srta. Manson {b}también{/i} quiere unirse con ustedes este viernes por la tarde?"
+    lancer rise_one at_player_2 "...¿o la Srta. Manson {b}también{/b} quiere unirse con ustedes este viernes por la tarde?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:398
 translate spanish Wish_you_the_Best_classroom_78e31d90:
@@ -628,7 +628,7 @@ translate spanish Wish_you_the_Best_classroom_0280afdc:
 translate spanish Wish_you_the_Best_classroom_f1371689:
 
     # lancer closed idle_ talk_happy "{i}*Ahem*{/i} Now, where was I...? Ahh yes, now who can tell me where Oedipus went wrong...?"
-    lancer closed idle_ talk_happy "{i}*Ahem* Ahora, ¿dónde estaba yo...? Ahh sí, ¿quién puede decirme dónde se equivocó Edipo...?"
+    lancer closed idle_ talk_happy "{i}*Ahem*{/i} Ahora, ¿dónde estaba yo...? Ahh sí, ¿quién puede decirme dónde se equivocó Edipo...?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:410
 translate spanish Wish_you_the_Best_classroom_754737cc:
@@ -904,7 +904,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_3be504c5:
 translate spanish Wish_you_the_Best_scene_3_stadium_5026ff4b:
 
     # tucker talk_frown "Man, I can actually {b}hear{/b} the discs in my spine grinding against each other."
-    tucker talk_frown "{b}Tío, puedo oír las vértebras de mi columna chocando entre sí."
+    tucker talk_frown "Tío, puedo {b}oír{/b} las vértebras de mi columna chocando entre sí."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:611
 translate spanish Wish_you_the_Best_scene_3_stadium_751899ae:
@@ -988,7 +988,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_33f4f657:
 translate spanish Wish_you_the_Best_scene_3_stadium_dc7a53a4:
 
     # tucker talk_happy sad "{i}Hah{/i}! A billionaire with ghost powers? Yeah right! That's total make believe dude, only in comics and kids shows. Can you imagine someone like Vlad Masters floating through walls?"
-    tucker talk_happy sad "{i}¡Ja! ¿Un multimillonario con poderes fantasmales? ¡Si, claro! Eso es pura fantasía, sólo en cómics y programas infantiles. ¿Te imaginas a alguien como el maestro Vlad flotando a través de las paredes?"
+    tucker talk_happy sad "{i}¡Ja!{/i} ¿Un multimillonario con poderes fantasmales? ¡Si, claro! Eso es pura fantasía, sólo en cómics y programas infantiles. ¿Te imaginas a alguien como el maestro Vlad flotando a través de las paredes?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:641
 translate spanish Wish_you_the_Best_scene_3_stadium_dcd21432:
@@ -1012,7 +1012,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_fe208f10:
 translate spanish Wish_you_the_Best_scene_3_stadium_1bd6d529:
 
     # babazita angry talk_happy towards_wide_3 "{b}Boo{/b}!!"
-    babazita angry talk_happy towards_wide_3 "{b}¡¡Boo!!"
+    babazita angry talk_happy towards_wide_3 "¡¡{b}Boo{/b}!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:664
 translate spanish Wish_you_the_Best_scene_3_stadium_8acf2f1b:
@@ -1192,7 +1192,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_0bedf13a:
 translate spanish Wish_you_the_Best_scene_3_stadium_e514c72c:
 
     # tucker closed talk_frown neutral "Ergh, yeah, it's certainly... a lamp... {i}*Whispering*{/i} ...more of a {b}bottle{/b}, really."
-    tucker closed talk_frown neutral "Ergh, sí, és ciertamente... una lámpara... {i}*cuchicheo*{/i}... parecida más bien a una {b}botella{/b}."
+    tucker closed talk_frown neutral "Ergh, sí, és ciertamente... una lámpara... {i}*susurrando*{/i}... parecida más bien a una {b}botella{/b}."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:778
 translate spanish Wish_you_the_Best_scene_3_stadium_c85dddd4:
@@ -1342,7 +1342,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_12fcef50:
 translate spanish Wish_you_the_Best_scene_3_stadium_3930f5a2:
 
     # tucker towards talk_frown angry "The wish granting harem genie-spirit girl Desiree... is in {u}this{/u} bottle?"
-    tucker towards talk_frown angry "Desiree, la genio-espíritu del harén que concede deseos... ¿está en {u}esta botella?"
+    tucker towards talk_frown angry "Desiree, la genio-espíritu del harén que concede deseos... ¿está en {u}esta{/u} botella?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:846
 translate spanish Wish_you_the_Best_scene_3_stadium_d4fe76fa:
@@ -1378,7 +1378,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_3bfd0cb6:
 translate spanish Wish_you_the_Best_scene_3_stadium_7dfe5a73:
 
     # babazita talk_frown wondering_2 "Your friend... he is, how you say... a bit of a {b}dick{/b}, no?"
-    babazita talk_frown wondering_2 "Tu amigo... es, ¿cómo se dice...? un cabrón {b}, ¿no?"
+    babazita talk_frown wondering_2 "Tu amigo... es, ¿cómo se dice...? un {b}cabrón{/b}, ¿no?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:864
 translate spanish Wish_you_the_Best_scene_3_stadium_aaa33a77:
@@ -1444,7 +1444,7 @@ translate spanish Wish_you_the_Best_buy_the_lamp_c4120f64:
 translate spanish Wish_you_the_Best_buy_the_lamp_d5c8c26e:
 
     # babazita talk_happy wondering_2 closed "Very good, young man! Here is lovely lamp for you! Please enjoy! {i}*Whispering*{/i} Remember, no refunds..."
-    babazita talk_happy wondering_2 closed "¡Muy bien, joven! ¡Aquí tienes una preciosa lámpara! ¡Por favor disfrútala! {i}*cuchicheo*{/i} Recuerda, no hago devoluciones..."
+    babazita talk_happy wondering_2 closed "¡Muy bien, joven! ¡Aquí tienes una preciosa lámpara! ¡Por favor disfrútala! {i}*susurrando*{/i} Recuerda, no hago devoluciones..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:948
 translate spanish Wish_you_the_Best_buy_the_lamp_4ea20189:
@@ -1480,7 +1480,7 @@ translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_752ac2d0:
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_f6cf214a:
 
     # tucker talk_frown angry "Ugh, man, can you {i}believe{/i} that absolute con artist? Trying to sell me her \"Party City\" hot garbage? Only an {b}idiot{/b} would buy her stuff, right Danny?"
-    tucker talk_frown angry "Ugh, hombre, ¿puedes {i}creer{/i} a esa estafadora? ¿Intentando venderme su basura \"fiesta loca\"? Sólo un idiota {b}compraría{/b} sus cosas, ¿verdad Danny?"
+    tucker talk_frown angry "Ugh, hombre, ¿puedes {i}creer{/i} a esa estafadora? ¿Intentando venderme su basura \"fiesta loca\"? Sólo un {b}idiota{/b} compraría sus cosas, ¿verdad Danny?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:997
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_44321046:
@@ -1588,7 +1588,7 @@ translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_de317dde:
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_b5c080c1:
 
     # magiclamp "{i}*Shatter*{/i}"
-    magiclamp "{i}*se rompe*{/i}"
+    magiclamp "{i}*quebrar*{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1037
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_211ba832:
@@ -2284,7 +2284,7 @@ translate spanish Wish_you_the_Best_scene_4_boys_bathroom_0ae22474:
 translate spanish Wish_you_the_Best_scene_4_boys_bathroom_0e48ba89:
 
     # danny talk_frown_2 "You're not {b}going{/b} to do it! {u}Period{/u}!"
-    danny talk_frown_2 "¡No vas a {b}hacerlo! {u} y Punto!"
+    danny talk_frown_2 "¡No {b}vas{/b} a hacerlo! {u} ¡y Punto{/u}!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1470
 translate spanish Wish_you_the_Best_scene_4_boys_bathroom_a9680623:
@@ -2548,7 +2548,7 @@ translate spanish Wish_you_the_Best_postfight_d14f0cd1:
 translate spanish Wish_you_the_Best_postfight_32757d32:
 
     # danny sad_2 at_player_wide talk_frown_2 "{i}*Gulp*{/i} Oh boy..."
-    danny sad_2 at_player_wide talk_frown_2 "{i}*Gulp* Oh tío..."
+    danny sad_2 at_player_wide talk_frown_2 "{i}*Gulp*{/i} Oh tío..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1654
 translate spanish Wish_you_the_Best_postfight_2_81c65d0d:
@@ -2656,7 +2656,7 @@ translate spanish Wish_you_the_Best_postfight_2_09db1b53:
 translate spanish Wish_you_the_Best_postfight_2_ee6bf8c7:
 
     # danny closed_sad talk_frown neutral "{i}Agh{/i}... man, Tucker {b}really{/b} did a number on me... I should try to rest up before I try something stupid."
-    danny closed_sad talk_frown neutral "{i}Agh... tio Tucker {b}realmente{/b} me dejo roto... Debo descansar antes de intentar algo."
+    danny closed_sad talk_frown neutral "{i}Agh{/i}... tio Tucker {b}realmente{/b} me dejo roto... Debo descansar antes de intentar algo."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1705
 translate spanish Wish_you_the_Best_postfight_2_97165b25:
@@ -2986,7 +2986,7 @@ translate spanish Wish_you_the_Best_kate_titjob_a56fa682:
 translate spanish Wish_you_the_Best_kate_titjob_7126f203:
 
     # kate "{i}Mmhmmm{/i}... well, I've had plenty of practice."
-    kate "{i}Mmhmmm... bueno, he tenido mucha práctica."
+    kate "{i}Mmhmmm{/i}... bueno, he tenido mucha práctica."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1892
 translate spanish Wish_you_the_Best_kate_titjob_ca2f0a60:
@@ -3142,7 +3142,7 @@ translate spanish Wish_you_the_Best_kate_titjob_b49be737:
 translate spanish Wish_you_the_Best_after_titjob_kate_c2e358e3:
 
     # kate closed rise_one talk_happy "Well then... I guess I really don't need to worry about whether you find me attractive anymore. You certainly stated your true feelings loud and clear just now... {i}*Chuckles*{/i}"
-    kate closed rise_one talk_happy "Bueno, entonces... ya no necesito preocuparme de si me encuentras atractiva. Has expresado tus verdaderos sentimientos en alto y claro... {i}*risa*{/i}"
+    kate closed rise_one talk_happy "Bueno, entonces... ya no necesito preocuparme de si me encuentras atractiva. Has expresado tus verdaderos sentimientos en alto y claro... {i}*risas*{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1974
 translate spanish Wish_you_the_Best_after_titjob_kate_27d663af:
@@ -3406,7 +3406,7 @@ translate spanish Wish_you_the_Best_scene_7_mall_b6e2e0b7:
 translate spanish Wish_you_the_Best_scene_7_mall_003ce2bc:
 
     # stranger "{i}Aghhh{/i}!! Everyone run!! The prankster ghost goblin is now a {b}huge{/b} prankster ghost goblin, and he's attacking the mall!!"
-    stranger "{i}¡Aghhh! ¡¡corran!! El duende fantasma bromista és ahora un {b}enorme{/b} duende fantasma bromista, ¡¡y está atacando el centro comercial!!"
+    stranger "{i}¡Aghhh!{/i} ¡¡corran!! El duende fantasma bromista és ahora un {b}enorme{/b} duende fantasma bromista, ¡¡y está atacando el centro comercial!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2145
 translate spanish Wish_you_the_Best_scene_7_mall_8d924987:
@@ -3532,7 +3532,7 @@ translate spanish Wish_you_the_Best_postfight_3_499a989f:
 translate spanish Wish_you_the_Best_postfight_3_640e8ec6:
 
     # desiree talk_frown_2 "{b}Ugh!!{/b} Pathetic, snivelling weakling!! You are {u}worthless{/u} to me, boy! You and your perverse kind are all the same!! You can't do a {b}damned{/b} thing without my help!!"
-    desiree talk_frown_2 "{b}¡Ugh! ¡¡Patético llorica!! ¡Eres {u}algo sin valor{/u} para mí! ¡Los de tu perversa clase son todos iguales! ¡No puedes hacer {b}nada{/b} sin mi ayuda!!"
+    desiree talk_frown_2 "{b}¡Ugh!{/b} ¡¡Patético llorica!! ¡Eres {u}algo sin valor{/u} para mí! ¡Los de tu perversa clase son todos iguales! ¡No puedes hacer {b}nada{/b} sin mi ayuda!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2242
 translate spanish Wish_you_the_Best_postfight_3_0e92c475:
@@ -3736,13 +3736,13 @@ translate spanish Wish_you_the_Best_postfight_4_8873dd32:
 translate spanish Wish_you_the_Best_postfight_4_3d4f0df6:
 
     # desiree "{b}-beeeeeeeee!!!{/b} {i}*Whooooooosh*{/i}"
-    desiree "{b}-¡¡¡beeeeeeeee!!! {i}*Whooooooosh*{/i}"
+    desiree "{b}-¡¡¡beeeeeeeee!!!{/b} {i}*Whooooooosh*{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2390
 translate spanish Wish_you_the_Best_postfight_4_45519a9f:
 
     # thermos "{i}*Bing*{/i} {b}Ghost Successfully Captured{/b}"
-    thermos "{i}*Bing* {b}Fantasma capturado con éxito"
+    thermos "{i}*Bing*{/i} {b}Fantasma capturado con éxito{/b}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2396
 translate spanish Wish_you_the_Best_postfight_4_02d8964f:
@@ -3904,7 +3904,7 @@ translate spanish Wish_you_the_Best_postfight_4_f7ffb8ea:
 translate spanish Wish_you_the_Best_postfight_4_07cfb7ba:
 
     # danny towards_wide sad_2 talk_frown "{i}Whaaaaat{/i}!! I mean, you already showed it to me, and what's done is done, so..."
-    danny towards_wide sad_2 talk_frown "{i}¡¡¡Queeeeé!!! Quiero decir, me lo has enseñado, y lo hecho, hecho está, así que...."
+    danny towards_wide sad_2 talk_frown "{i}¡¡¡Queeeeé!!!{/i} Quiero decir, me lo has enseñado, y lo hecho, hecho está, así que..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2472
 translate spanish Wish_you_the_Best_postfight_4_4858ddba:
@@ -4156,7 +4156,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_a2154e2b:
 translate spanish Wish_you_the_Best_scene_8_bedroom_03554174:
 
     # desiree towards_wide talk_frown angry "{b}YOU{/B}!!!"
-    desiree towards_wide talk_frown angry "¡¡¡¡¡ {b}TU{/B}!!!"
+    desiree towards_wide talk_frown angry "¡¡¡¡¡ {b}TU{/b}!!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2601
 translate spanish Wish_you_the_Best_scene_8_bedroom_e52b3243:
@@ -4204,7 +4204,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_0d34c91c:
 translate spanish Wish_you_the_Best_scene_8_bedroom_4504ab88:
 
     # desiree talk_frown at_player "{i}*Sigh*{/i} So you have wished it... so it shall be...."
-    desiree talk_frown at_player "{i}*Suspira*{/i} Así lo has deseado... así será...."
+    desiree talk_frown at_player "{i}*Suspiro*{/i} Así lo has deseado... así será...."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2629
 translate spanish Wish_you_the_Best_scene_8_bedroom_f28058c6:
@@ -4336,7 +4336,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_1a452eb5:
 translate spanish Wish_you_the_Best_scene_8_bedroom_ce5b0a23:
 
     # desiree angry talk_frown_2 "Really, Ghost Child, just how dimwitted {i}are{/i} you? You really believe I would just \"let bygones be bygones\" after today?"
-    desiree angry talk_frown_2 "En serio, chico Fantasma, que merluzo {i}eres? ¿De verdad crees que \"lo pasado, pasado está\" después de lo de hoy?"
+    desiree angry talk_frown_2 "En serio, chico Fantasma, que merluzo {i}eres{/i}? ¿De verdad crees que \"lo pasado, pasado está\" después de lo de hoy?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2672
 translate spanish Wish_you_the_Best_scene_8_bedroom_27418d54:
@@ -4630,7 +4630,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_8e5c0334:
 translate spanish Wish_you_the_Best_scene_8_bedroom_01d21d72:
 
     # danny towards_wide talk_frown "Uhh, j-jeez, sounds like an even {b}worse{/b} version of high school!! Crazy, {i}crazy{/i} stuff... (Oh God, I zoned out for a second! I hope she didn't notice. This {b}is{/b} all pretty interesting, and stuff I really should know about the ghost world to help me learn more...)"
-    danny towards_wide talk_frown "Uhh, j-jeez, ¡¡suena como una versión aún {b}peor{/b} del instituto!! Una locura, {i}una locura... (¡Oh Dios, me he desconectado un segundo! Espero que no se haya dado cuenta. Todo esto {b}és{/b} bastante interesante, són cosas que debo saber sobre el mundo fantasma para ayudarme a aprender más...)"
+    danny towards_wide talk_frown "Uhh, j-jeez, ¡¡suena como una versión aún {b}peor{/b} del instituto!! Una locura, {i}una locura{/i}... (¡Oh Dios, me he desconectado un segundo! Espero que no se haya dado cuenta. Todo esto {b}és{/b} bastante interesante, són cosas que debo saber sobre el mundo fantasma para ayudarme a aprender más...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2793
 translate spanish Wish_you_the_Best_scene_8_bedroom_cac02eec:

@@ -34,7 +34,7 @@ translate spanish not_tired_6410b177:
 translate spanish mess_around_08844b41:
 
     # danny "(The Fenton Ghost Portal. It's what gave me my powers, but it's been broken since then. No ghosts to stop coming through here. Maybe Dad'll get around to fixing it in the future, who knows?)"
-    danny "(El Portal Fantasma de Fenton. Es lo que me dio mis poderes, pero está roto desde entonces. No hay fantasmas puedan por él. Quizá papá lo arregle en el futuro, quién sabe)"
+    danny "(El Portal Fantasma de Fenton. Es lo que me dio mis poderes, pero está roto desde entonces. No hay fantasmas que puedan pasar por él. Quizá papá lo arregle en el futuro, quién sabe)"
 
 # game/code/locations/home/house_misc.rpy:159
 translate spanish optimal_temperature_f0696bec:
@@ -152,7 +152,7 @@ translate spanish strings:
 
     # game/code/locations/home/house_misc.rpy:289
     old "Skip until it's time for the dance."
-    new "Saltar en el juego hasta que llegue el momento del baile."
+    new "Saltar tiempo hasta el baile."
 
     # game/code/locations/home/house_misc.rpy:289
     old "It's time for the dance!"
@@ -160,5 +160,5 @@ translate spanish strings:
 
     # game/code/locations/home/house_misc.rpy:324
     old "Skip until Saturday."
-    new "Salta hasta el sábado."
+    new "Saltar tiempo hasta el sábado."
 

@@ -28,7 +28,7 @@ translate spanish Peeping_Phan_Tom_scene_2_kitchen_e857f264:
 translate spanish Peeping_Phan_Tom_scene_2_kitchen_7c761d7f:
 
     # jazz talk_happy_3 idle_2 "Ahh, {i}good{/i} morning Danny! Glad to finally see you roaming around here."
-    jazz talk_happy_3 idle_2 "Ahh, {i}¡buenos días Danny! Me alegro de verte por fin rondando por aquí."
+    jazz talk_happy_3 idle_2 "Ahh, {i}¡buenos días{/i} Danny! Me alegro de verte por fin rondando por aquí."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:70
 translate spanish Peeping_Phan_Tom_scene_2_kitchen_9ab09c00:
@@ -154,7 +154,7 @@ translate spanish Peeping_Phan_Tom_scene_2_kitchen_ac66c6e4:
 translate spanish Peeping_Phan_Tom_scene_2_kitchen_8370783f:
 
     # jazz towards talk_frown "{b}Wh-what?!{/b} When did he... {u}what?!{/u}"
-    jazz towards talk_frown "{b}¿Q-Qué? ¿Cuándo...? {u}¡¿Qué?!{/u}"
+    jazz towards talk_frown "{b}¿Q-Qué?{/b} ¿Cuándo...? {u}¡¿Qué?!{/u}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:111
 translate spanish Peeping_Phan_Tom_scene_2_kitchen_e7003d03:
@@ -178,7 +178,7 @@ translate spanish Peeping_Phan_Tom_scene_2_kitchen_dbadcd5c:
 translate spanish Peeping_Phan_Tom_scene_2_kitchen_8a6be34c:
 
     # jazz talk_frown "So, {b}did{/b} you give him any of my underwear, Danny?!"
-    jazz talk_frown "Entonces, {b}¡¿Le diste alguna de mi ropa interior?!{/b}"
+    jazz talk_frown "Entonces, ¡¿{b}Le diste{/b} algo de mi ropa interior?!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:125
 translate spanish panties_in_posession_7539e78c:
@@ -334,7 +334,7 @@ translate spanish panties_in_posession_82187471:
 translate spanish panties_in_posession_82e939a3:
 
     # jazz down talk_frown sad "What opinion? It's pretty much fact; nobody at Casper High has {u}ever{/u} asked me out. I must carry some sort of parasite or something. Being related to {i}this{/i} family, it's more than likely, too..."
-    jazz down talk_frown sad "¿Qué opinión? {u}Es un hecho; nadie en el instituto Casper me ha invitado a salir nunca. Debo llevar algún tipo de parásito o algo así. Estando emparentada con {i}esta{/i} familia, és más que probable..."
+    jazz down talk_frown sad "¿Qué opinión? Es un hecho; nadie en el instituto Casper me ha invitado a salir {u}nunca{/u}. Debo llevar algún tipo de parásito o algo así. Estando emparentada con {i}esta{/i} familia, és más que probable..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:175
 translate spanish panties_in_posession_45f7e13e:
@@ -412,7 +412,7 @@ translate spanish panties_in_posession_7723e43b:
 translate spanish panties_in_posession_19ec5c52:
 
     # laptop "{i}*HAHH*{/i} {i}*OHMGMM*{/i} {i}*FUUCK*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*FUUUGH*{/i}"
-    laptop "{i}*HAHH* {i}*OHDIOSMIMM* {i}*JODERRR* {i}*GNNMFH* {i}*YEEAAHH* {i}*AAHNGM* {i}*GASP* {i}*jODEEEGGG*"
+    laptop "{i}*HAHH*{/i} {i}*OHDIOSMIMM*{/i} {i}*JODERRR*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*jODEEEGGG*{/i}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:210
 translate spanish panties_in_posession_4e18a672:
@@ -886,7 +886,7 @@ translate spanish Home_Sisters_Room_Event01_01c04f64:
 translate spanish Home_Sisters_Room_Event01_99e7b804:
 
     # jazz "{i}Uhmmff{/i}... (Just like that... stick it right in there...)"
-    jazz "{i}Uhmmff {/i}... (Sí así... acaricia en ahí...)"
+    jazz "{i}Uhmmff {/i}... (Sí así... acaricia ahí...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:435
 translate spanish Home_Sisters_Room_Event01_cbeb9a4b:
@@ -946,7 +946,7 @@ translate spanish Home_Sisters_Room_Event01_d7b4c1a9:
 translate spanish Home_Sisters_Room_Event01_4754b9fc:
 
     # jazz "I'm about to... {b}fucking Christ{/b}...~!!"
-    jazz "Estoy a punto de... {b}¡¡¡Joder...~!!"
+    jazz "Estoy a punto de... {b}¡¡¡Joder{/b}...~!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:486
 translate spanish Home_Sisters_Room_Event01_bed5c559:

@@ -34,7 +34,7 @@ translate spanish Nesty_Op1_e370138c:
 translate spanish Nesty_Op1_21d8684b:
 
     # danny sad talk_happy_2 "Oh no thank you, I'm good. See you around."
-    danny sad talk_happy_2 "Oh, no gracias. Nos vemos luego."
+    danny sad talk_happy_2 "Oh, gracias. Nos vemos luego."
 
 translate spanish strings:
 

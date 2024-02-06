@@ -10,7 +10,7 @@ translate spanish start_fight_Dash_ff2940fc:
 translate spanish fight_main_dash_e4d8a7f3:
 
     # danny "Man... and I thought his punches {i}before{/i} stung!"
-    danny "¡Hombre... y pensé que sus golpes {i}antes{/i} aturdido!"
+    danny "¡Tío...y pensé que sus golpes {i}antes{/i} aturdían!"
 
 # game/code/battle/fight_Dash.rpy:86
 translate spanish fight_main_dash_868dc067:
@@ -40,7 +40,7 @@ translate spanish player_ghost_ray_dash_6dedd31d:
 translate spanish ghost_attack_dash_f3027409:
 
     # danny "Ooof! The left hook, a classic Dash maneuver! Should have seen that one coming..."
-    danny "¡Oh, oh! ¡El gancho izquierdo, un manuvero clásico de Dash! Debería haber visto a ese venir..."
+    danny "¡Oh, oh! ¡El gancho izquierdo, un clásico de Dash! Debería haber visto a ese venir..."
 
 # game/code/battle/fight_Dash.rpy:536
 translate spanish stop_Running_away_dash_2bc2d4b0:

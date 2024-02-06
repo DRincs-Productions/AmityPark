@@ -52,7 +52,7 @@ translate spanish talk_to_Sam_about_71591366:
 translate spanish talk_to_Sam_about_c2134bb5:
 
     # danny talk_happy rise_one "I probably should get going! Catch you later?"
-    danny talk_happy rise_one "yo debería de irme ya. ¿te cojo más tarde?"
+    danny talk_happy rise_one "yo debería de irme ya. ¿te veo más tarde?"
 
 # game/code/locations/sam_home.rpy:55
 translate spanish talk_to_Sam_about_169ff22c:

@@ -4,7 +4,7 @@
 translate spanish stay_home_216caf44:
 
     # danny sit_0 towards unhappy talk_consternation "If... if you really think I should stay home."
-    danny sit_0 towards unhappy talk_consternation "Sí... realmente creo que debería quedarme en casa."
+    danny sit_0 towards unhappy talk_consternation "Sí... debería quedarme en casa."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:6
 translate spanish stay_home_6fc89a08:
@@ -16,13 +16,13 @@ translate spanish stay_home_6fc89a08:
 translate spanish stay_home_6fa9611f:
 
     # maddie special open_nightgown away rise talk_amused "{i}*Chuckles*{/i}, oh Jack, don't be so fresh...~"
-    maddie special open_nightgown away rise talk_amused "{i}*Chuckles*{/i}, oh Jack, no seas tan fresco"
+    maddie special open_nightgown away rise talk_amused "{i}*risas*{/i}, oh Jack, no seas tan irónico...~"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:10
 translate spanish stay_home_8790b18e:
 
     # maddie special open_nightgown towards sad talk_happy "Go on sweetie, go get some rest for now, I'll call and let the school know you aren't coming in today."
-    maddie special open_nightgown towards sad talk_happy "Vamos cariño, ve a descansar. Yo llamaré para avisar a la escuela que no vas a ir hoy."
+    maddie special open_nightgown towards sad talk_happy "Vamos cariño, ve a descansar. Yo llamaré para avisar al instituto que no vas a ir hoy."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:12
 translate spanish stay_home_98d8d62a:
@@ -34,7 +34,7 @@ translate spanish stay_home_98d8d62a:
 translate spanish staying_home_first_time_6fc0ac88:
 
     # danny down sad talk_displeased "{i}*Sigh*{/i} Well... this kinda sucks... not much I feel like doing just laying in my room, honestly."
-    danny down sad talk_displeased "{i}*Sigh*{/i} Bueno... esto apesta... no hay mucho que me apetezca hacer tumbado en mi habitación."
+    danny down sad talk_displeased "{i}*Suspiro*{/i} Bueno... esto apesta... no hay mucho que me apetezca hacer tumbado en mi habitación."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:41
 translate spanish staying_home_first_time_5cd8e671:
@@ -46,19 +46,19 @@ translate spanish staying_home_first_time_5cd8e671:
 translate spanish staying_home_first_time_6709873a:
 
     # danny at_player rise talk_displeased "...I guess I could go play some videogames for a bit?"
-    danny at_player rise talk_displeased "...supongo que podría ir a jugar un rato a los videojuegos?"
+    danny at_player rise talk_displeased "...supongo que ¿podría ir a jugar un rato a los videojuegos?"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:60
 translate spanish staying_home_first_time_37738386:
 
     # danny "...and that's yet another new speedrun PB on that stupid water level..."
-    danny "...y eso es otro nuevo PB de velocidad en ese nivel estúpido de agua..."
+    danny "...y eso es otro nuevo nivel de velocidad en este estúpido nivel de agua..."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:63
 translate spanish staying_home_first_time_d8c83fa0:
 
     # danny "...yippee.{p}{i}*Sighs*{/i}"
-    danny "...yippee.{p}{i}*Sighs*{/i}"
+    danny "...yippee.{p}{i}*Suspiro*{/i}{/p}"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:66
 translate spanish staying_home_first_time_f320fe66:
@@ -94,7 +94,7 @@ translate spanish staying_home_first_time_5772a1cb:
 translate spanish staying_home_first_time_6e5614ac:
 
     # maddie apron standing by bed arm_up rise talk_excited "Hi dear... you still feeling all {i}hot{/i} and bothered this afternoon?"
-    maddie apron standing by bed arm_up rise talk_excited "Hola querido... ¿todavía te sientes {i}caliente{/i} y molesto esta tarde?"
+    maddie apron standing by bed arm_up rise talk_excited "Hola querido... ¿todavía te sientes {i}caliente{/i} y con molestias esta tarde?"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:92
 translate spanish staying_home_first_time_afb992cd:
@@ -130,7 +130,7 @@ translate spanish staying_home_first_time_c8e3d46a:
 translate spanish staying_home_first_time_be243060:
 
     # danny sitting on bed at_player rise bite "(Jeez, I never knew Mom could be so wild and fun when she wanted to be! At least, before all {i}this{/i} stuff happened...)"
-    danny sitting on bed at_player rise bite "(¡Dios, no sabía que mamá podía ser tan salvaje y divertida cuando quería!. O al menos antes de que sucedieran todas {i}estas{/i} cosas...)"
+    danny sitting on bed at_player rise bite "(¡Dios, no sabía que mamá podía ser tan salvaje y divertida!. O al menos antes de que sucedieran todas {i}estas{/i} cosas...)"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:110
 translate spanish staying_home_first_time_08985b8b:
@@ -160,7 +160,7 @@ translate spanish staying_home_blowjob_a5a7c027:
 translate spanish staying_home_blowjob_47f0b899:
 
     # danny "(Oh man, I know it's messed up, but she looks so hot going all the way down on me like-)"
-    danny "(Oh, hombre, sé que es un desastre, pero ella se ve tan caliente metiéndola toda en su boca-)"
+    danny "(Oh, hombre, sé que no está bien, pero parece tan excitada metiéndosela en su boca-)"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:148
 translate spanish staying_home_blowjob_c842e285:
@@ -184,7 +184,7 @@ translate spanish staying_home_blowjob_b8950822:
 translate spanish staying_home_blowjob_d0ea8424:
 
     # danny "Yes... I really, {i}really{/i} like that..."
-    danny "Sí... Realmente, {i}realmente me gusta..."
+    danny "Sí... Realmente, {i}realmente{/i} me gusta..."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:169
 translate spanish staying_home_blowjob_356e8c96:
@@ -202,7 +202,7 @@ translate spanish staying_home_blowjob_1255a58b:
 translate spanish staying_home_blowjob_94b3b8fc:
 
     # maddie "{i}*Giggles*{/i}"
-    maddie "{i}*Giggles*{/i}"
+    maddie "{i}*risas*{/i}"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:184
 translate spanish staying_home_blowjob_578a0e23:
@@ -214,7 +214,7 @@ translate spanish staying_home_blowjob_578a0e23:
 translate spanish staying_home_blowjob_716a4d1e:
 
     # danny "{u}Awesome...{u}"
-    danny "{u}Impresionante...{u}"
+    danny "{u}Impresionante...{/u}"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:189
 translate spanish staying_home_blowjob_4a0d44a5:
@@ -244,7 +244,7 @@ translate spanish staying_home_blowjob_7c6cf299:
 translate spanish staying_home_blowjob_29fc8a71:
 
     # danny "Oh, fuck, here it comes Mom!"
-    danny "¡Oh, mierda1, ¡aquí viene mamá!"
+    danny "¡Oh, mierda, ¡aquí viene mamá!"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:238
 translate spanish staying_home_blowjob_first_db284c6e:
@@ -274,7 +274,7 @@ translate spanish staying_home_blowjob_first_365ac5f5:
 translate spanish staying_home_blowjob_first_2fa1cef9:
 
     # maddie apron standing by bed arm_down towards idle talk_happy "{i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little \"under the weather.\""
-    maddie apron standing by bed arm_down towards idle talk_happy "{i}*Chuckles*{/i} Bueno, la próxima vez sólo hazme saber que te sientes un poco \"destemplado\""
+    maddie apron standing by bed arm_down towards idle talk_happy "{i}*risas*{/i} Bueno, la próxima vez sólo hazme saber que te sientes un poco \"destemplado\""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:261
 translate spanish staying_home_blowjob_first_72e03050:
@@ -310,19 +310,19 @@ translate spanish staying_home_blowjob_first_fc84445a:
 translate spanish staying_home_blowjob_first_f2abf70b:
 
     # danny sitting on bed closed sad talk_happy "{i}*Phew!*{/i}"
-    danny sitting on bed closed sad talk_happy "{i}*Phew!*{/i}"
+    danny sitting on bed closed sad talk_happy "{i}*¡Suspiro!*{/i}"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:306
 translate spanish staying_home_after_17f8508f:
 
     # maddie apron standing by bed arm_down towards idle talk_happy "{i}Hehe~{/i}... you know {i}just{/i} how to make my day, Danny... thank you for that..."
-    maddie apron standing by bed arm_down towards idle talk_happy "{i}Hehe~{/i}... sabes {i}exacamente{/i} cómo alegrarme el día, Danny... gracias..."
+    maddie apron standing by bed arm_down towards idle talk_happy "{i}Hehe~{/i}... sabes {i}sí{/i} sabes cómo alegrarme el día, Danny... gracias..."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:309
 translate spanish staying_home_after_fe282723:
 
     # danny sitting on bed towards rise talk_happy "Make {i}your{/i} day?! {i}*Laughs*{/i} Man, I can't even imagine what you'd consider doing {u}me{/i} a favor to be!"
-    danny sitting on bed towards rise talk_happy "¡¿Pasar {i}el{/i}día?! {i}*Laughs*{/i} ¡no habría imaginado que {u}me{/i} harías un favor!"
+    danny sitting on bed towards rise talk_happy "¡¿alegrarte {i}el{/i}día?! {i}*Risas*{/i} ¡no habría imaginado que {u}me{/u} harías un favor!"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:312
 translate spanish staying_home_after_eb03d06a:

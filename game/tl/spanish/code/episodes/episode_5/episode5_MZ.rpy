@@ -4,7 +4,7 @@
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 
     # danny sad_2 talk_happy_2 "Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
-    danny sad_2 talk_happy_2 "Ahhh, ¡Buenos días mundo! ¡Otro día glorioso para despertar teniendo todavía poderes fantasmas!"
+    danny sad_2 talk_happy_2 "Ahhh, ¡Buenos días mundo! ¡Otro día glorioso día teniendo poderes fantasmas!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:20
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_9ce1fda6:
@@ -16,13 +16,13 @@ translate spanish A_Stroke_After_Midnight_scene_1_bedroom_9ce1fda6:
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_43d9bbec:
 
     # danny talk_happy_2 sad "This whole superhero thing ain't too bad, honestly! I get to crack a few jokes, throw some sweet punches, save the day from evil..."
-    danny talk_happy_2 sad "¡Todo esto de ser superhéroe no esta tan mal,! Puedo hacer unas bromas, pegar algunos puñetazos, salvar del mal el día..."
+    danny talk_happy_2 sad "¡Todo esto de ser superhéroe no esta tan mal,! Puedo hacer unas bromas, pegar algunos puñetazos, salvar del mal..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:22
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_fe15f67b:
 
     # danny talk_happy neutral closed "...and have everyone fall in love with the sweetheart that is Danny Fenton... or, Inviso-Bill at least. Who could ask for more?"
-    danny talk_happy neutral closed "... y hacer que todos se enamoren de lo dulce de Danny Fenton... o, por lo menos el chico fantasma. ¿Qué más se puede pedir?"
+    danny talk_happy neutral closed "... y hacer que todas se enamoren del dulce Danny Fenton... o, por lo menos el chico fantasma. ¿Qué más se puede pedir?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:23
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_3774ff6d:
@@ -46,7 +46,7 @@ translate spanish A_Stroke_After_Midnight_scene_1_bedroom_25c9662a:
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_e22f0f9e:
 
     # danny sad closed talk_happy "Hah hah, {i}phew{/i}! Now I don't need to worry about screwing myself over with any out loud, overly ironic statements! Everybody knows you're safe if you say jinx though..."
-    danny sad closed talk_happy "Hah hah, {i}Uf{/i}! ¡Ahora no necesito preocuparme por hablar conmigo declaraciones en voz alta y excesivamente irónicas! Todo el mundo sabe que estás seguro si dices jinx aunque..."
+    danny sad closed talk_happy "Hah hah, {i}Uf{/i}! ¡Ahora no necesito preocuparme por hablar conmigo en voz alta y declaraciones irónicas! Todo el mundo sabe que estás seguro si dices jinx aunque..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:29
 translate spanish A_Stroke_After_Midnight_scene_1_bedroom_f750a0f3:
@@ -70,7 +70,7 @@ translate spanish A_Stroke_After_Midnight_scene_2_schoolmainhall_59e8a792:
 translate spanish A_Stroke_After_Midnight_scene_2_schoolmainhall_939c5dcb:
 
     # sam_tucker "\"{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}\""
-    sam_tucker "\"{i}Ah, buenos {b}dias{/b}, oh maravilloso chico espiritu!{/i}\""
+    sam_tucker "\"{i}Ah, buenos {b}dias{/b}, oh maravilloso chico espiritual!{/i}\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:64
 translate spanish A_Stroke_After_Midnight_scene_2_schoolmainhall_a4fe799b:
@@ -808,7 +808,7 @@ translate spanish A_Stroke_After_Midnight_scene_4_abYss_5b10114d:
 translate spanish A_Stroke_After_Midnight_scene_4_abYss_35bef47f:
 
     # dorathea "{i}*Sniff* *Sniffle*{/i} Re-really? You mean I can... go and have fun? At the ball?"
-    dorathea "{i}*Sniff* *Sniffle*{/i} ¿En serio? ¿Quieres decir que puedo... ir y divertirme? ¿En el baile?"
+    dorathea "{i}*Sniff* *Sniff*{/i} ¿En serio? ¿Quieres decir que puedo... ir y divertirme? ¿En el baile?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:532
 translate spanish A_Stroke_After_Midnight_scene_4_abYss_38a92672:
@@ -862,7 +862,7 @@ translate spanish A_Stroke_After_Midnight_scene_4_abYss_c63de172:
 translate spanish A_Stroke_After_Midnight_scene_4_abYss_85626e45:
 
     # star talk_frown confused "{i}*Whispering*{/i} What she said! No 12th century freaks aloud!"
-    star talk_frown confused "{i}*Susurrando* ¡Lo que ella dijo! ¡Nada de monstruos del siglo 12!"
+    star talk_frown confused "{i}*Susurrando*{/i} ¡Lo que ella dijo! ¡Nada de monstruos del siglo 12!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:564
 translate spanish A_Stroke_After_Midnight_scene_4_abYss_fd83641a:
@@ -1144,7 +1144,7 @@ translate spanish A_Stroke_After_Midnight_postfight_218558f3:
 translate spanish A_Stroke_After_Midnight_postfight_52978438:
 
     # dragon "{b}Rwarhhhh!! You don't scare me, mere ghostling! {b}Uch!{/b} This realm is so cruel!! Just like big brother!! May you never cross my path again!!"
-    dragon "{b}¡¡¡Rwarhhhh!!! ¡No me asustas mero fantasma! ¡Uch!{/b} ¡Este reino és muy cruel! ¡Igual que el hermano mayor! ¡¡Nunca vuelvas a cruzarte en mi camino!!"
+    dragon "{b}¡¡¡Rwarhhhh!!!{/b} ¡No me asustas mero fantasma! {b}¡Uch!{/b} ¡Este reino és muy cruel! ¡Igual que el hermano mayor! ¡¡Nunca vuelvas a cruzarte en mi camino!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:759
 translate spanish A_Stroke_After_Midnight_postfight_ce066286:
@@ -3010,7 +3010,7 @@ translate spanish A_Stroke_After_Midnight_scene_10a_schoolhallright_47f44d0c:
 translate spanish A_Stroke_After_Midnight_scene_10a_schoolhallright_5888bc95:
 
     # tucker towards angry "So anyway, when did you two love birds get together then?"
-    tucker towards angry "Así que, ¿cuándo se reunieron las dos perdices amorosas?"
+    tucker towards angry "Así que, ¿cuándo se reunieron las dos perdices enamoradas?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1817
 translate spanish A_Stroke_After_Midnight_scene_10a_schoolhallright_3b5c2fa0:
@@ -3922,7 +3922,7 @@ translate spanish A_Stroke_After_Midnight_scene_11a_stoop_567d4f6d:
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_a96fea7c:
 
     # sam talk_happy_2 sad "Oh, right! Das me! {i}*Snorts* *Laughs*{/i}"
-    sam talk_happy_2 sad "¡Oh, a la derecha! Das me! {i}*Snorts * *Laughs * {/i}"
+    sam talk_happy_2 sad "¡Oh, sí! yo! {i}*eruptos* *risas * {/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2276
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_8c6d203d:
@@ -3934,19 +3934,19 @@ translate spanish A_Stroke_After_Midnight_scene_11a_stoop_8c6d203d:
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_15062d3d:
 
     # sam angry talk_happy_3 drunk_2 "Awww, shud' dah' fuck up, Fenton! Don't tease me! {i}*Giggles*{/i} I can't help it! {i}*Snorts*{/i}"
-    sam angry talk_happy_3 drunk_2 "Awww, dah' fuck up, ¡Fenton! ¡No me tintes! {i}*Gigles*{/i} ¡No puedo ayudarlo! {i}*Snortes*{/i}"
+    sam angry talk_happy_3 drunk_2 "Awww, dah' fuck up, ¡Fenton! ¡No me tintes! {i}*risas*{/i} ¡No puedo ayudarlo! {i}*Snortes*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2280
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_012f3bb2:
 
     # danny wondering closed talk_happy_2 "Come on key fumbler, let me help you out."
-    danny wondering closed talk_happy_2 "Ven a fumbler clave, déjame ayudarte."
+    danny wondering closed talk_happy_2 "Ven, déjame ayudarte."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2282
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_8966f125:
 
     # sam sad drunk talk_bite "Fine, fine, take em'! {i}*Giggles*{/i}"
-    sam sad drunk talk_bite "Fine, fine, take em'! {i}*Giggles*{/i}"
+    sam sad drunk talk_bite "Vale, vale toma! {i}*risas*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2289
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_ea7f0410:
@@ -3964,7 +3964,7 @@ translate spanish A_Stroke_After_Midnight_scene_11a_stoop_1ba232ac:
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_1d0688f6:
 
     # sam sad_2 talk_happy drunk "Yayyy, whadda' magician you are~!"
-    "¡[_sam_s_sad_2_s_talk_happy_s_drunk_] Yayyy, mago de quién eres~!"
+    "¡[_sam_s_sad_2_s_talk_happy_s_drunk_] Yayyy, eres un mago~!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2299
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_df12b109:
@@ -9664,7 +9664,7 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_70f30574:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_d5c7101d:
 
     # paulina dress away rise_one talk_frown_2 "What, do you hang out with them when you're with Fenton or something?"
-    paulina dress away rise_one talk_frown_2 "¿Qué, cuelgues con ellos cuando estás con Fenton o algo?"
+    paulina dress away rise_one talk_frown_2 "¿Qué?, ¿les tienes que aguantar cuando quedas con Fenton o algo así?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5422
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_30b68228:
@@ -9676,31 +9676,31 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_30b68228:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_42f05ee5:
 
     # paulina dress down idle_ talk_frown_2 "I guess you can't get one without the others. They're always with each other."
-    paulina dress down idle_ talk_frown_2 "Supongo que no puedes conseguir uno sin los demás. Siempre están juntos."
+    paulina dress down idle_ talk_frown_2 "Supongo que no puedes estar con uno sin los demás. Siempre están juntos."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5426
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_c7c34135:
 
     # danny phantom_suit towards sad talk_frown_2 "You don't stick close with your friends?"
-    danny phantom_suit towards sad talk_frown_2 "¿No te pegas cerca de tus amigos?"
+    danny phantom_suit towards sad talk_frown_2 "¿Tú no estás siempre con tus amigas?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5428
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_f529461f:
 
     # paulina dress away neutral talk_frown "I mean like yeah, I do, but we're not really that close on a personal level, to be honest."
-    paulina dress away neutral talk_frown "Quiero decir como sí, lo hago, pero no estamos tan cerca a nivel personal, para ser honestos."
+    paulina dress away neutral talk_frown "Quiero decir como, sí, pero para ser honesto no tengo tanta confianza a nivel personal."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5430
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_d22576f1:
 
     # paulina dress away idle_ talk_frown_2 noblush "I think we all mainly hang out together just to maintain the social order."
-    paulina dress away idle_ talk_frown_2 noblush "creo que todos nos estamos quedando juntos principalmente para mantener el orden social."
+    paulina dress away idle_ talk_frown_2 noblush "creo que todos quedamos bien para mantener el orden social."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5432
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_16977892:
 
     # danny phantom_suit towards wondering talk_frown_2 "Oh... so do you have any real friends at that point?"
-    danny phantom_suit towards wondering talk_frown_2 "Oh... ¿así que tienes amigos reales en ese punto?"
+    danny phantom_suit towards wondering talk_frown_2 "Oh... así que ¿tienes amigos reales?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5434
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_f7c71b7b:
@@ -9712,25 +9712,25 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_f7c71b7b:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_11c05b79:
 
     # dash "Paulina!! Who the hell's this guy you came with?!"
-    dash "Paulina!! ¿Con quién viniste el infierno de este tipo?!"
+    dash "¡¡Paulina!! ¡¿Quién demonios és este tipo que viene contigo?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5440
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_22509746:
 
     # danny frown_2 "(Oh crap, it's Dash!!)"
-    danny frown_2 "(¡Oh, ¡¡¡¡es guay!)"
+    danny frown_2 "(¡Oh mierda, és Dash!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5447
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_e43e871c:
 
     # paulina dress towards angry talk_frown_2 blush_1 "Dash, lay off, he's a really nice guy, I don't want you-"
-    paulina dress towards angry talk_frown_2 blush_1 "Vaya, espera, es un tipo muy bonito, no te quiero-"
+    paulina dress towards angry talk_frown_2 blush_1 "Dash, espera, es un tipo majo, no quiero-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5450
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_24447de2:
 
     # dash suit towards_2 rise_one talk_frown_2 "Hey, wait, you're that guy I've seen on the news lately, right? \"Inviso-Bill\", or something?"
-    dash suit towards_2 rise_one talk_frown_2 "Hola, espera, eres ese tipo que he visto en las noticias últimamente, ¿verdad? ¿\"Inviso-Bill\" o algo?"
+    dash suit towards_2 rise_one talk_frown_2 "Hey, espera, eres ese tipo que he visto en las noticias últimamente, ¿verdad? ¿\"Inviso-Bill\" o algo así?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5453
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_cda49d3b:
@@ -9748,7 +9748,7 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_e39a24fa:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_02ab0f13:
 
     # dash suit towards neutral talk_happy_2 "Hey man, you're a hero, dude!! I think you're pretty awesome, if you don't mind me saying so!"
-    dash suit towards neutral talk_happy_2 "Hola hombre, eres un héroe, duro!! Creo que eres genial, si no te importa que lo diga!"
+    dash suit towards neutral talk_happy_2 "Hey tío, ¡¡eres un héroe, nen!! ¡ Eres genial, si no te importa que te lo diga!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5460
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_7ad02ccd:
@@ -9760,55 +9760,55 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_7ad02ccd:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_31689800:
 
     # dash suit towards_2 sad talk_frown "You know Paulina, I uh, I was pretty bummed when I realized you weren't gonna take me out to the formal."
-    dash suit towards_2 sad talk_frown "Conoces a Paulina, uh, me encontré bastante desconcertado cuando me di cuenta de que no iba a llevarme a lo formal."
+    dash suit towards_2 sad talk_frown "Conoces a Paulina, uh, me encontré bastante desconcertado cuando me di cuenta de que no iba a llevarme al baile."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5466
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_2a988599:
 
     # dash suit towards neutral talk_happy "But now that I know you're going with a dude as cool as Inviso-Bill, hey, I can't really be bothered! Hah!"
-    dash suit towards neutral talk_happy "Pero ahora que sé que vas con un dúo tan genial como Inviso-Bill, ¡bueno, no puedo molestarme! ¡Jay!"
+    dash suit towards neutral talk_happy "Pero ahora que sé que va con un tipo tan genial como Inviso-Bill, ¡bueno, no puedo enfadarme! ¡Hah!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5469
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_84adee16:
 
     # paulina dress towards rise_one talk_happy noblush "Gee, Dash, that's pretty mature of you."
-    paulina dress towards rise_one talk_happy noblush "Gee, Dash, eso es bastante maduro de ti."
+    paulina dress towards rise_one talk_happy noblush "Gee, Dash, eso és bonito y maduro por tu parte."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5472
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_8b5466c3:
 
     # dash suit towards neutral talk_happy_2 "Yeah well, I got my boy Kwan here to cheer me up, so I'd like to think of the two of us as civilized and mature bachelors."
-    dash suit towards neutral talk_happy_2 "Sí bien, conseguí que mi niño Kwan me animara, Así que me gustaría pensar en los dos como baceleros civilizados y maduros."
+    dash suit towards neutral talk_happy_2 "Sí, bueno, conseguí que mi colega Kwan me animara, así que me gusta pensar en los dos como solteros civilizados y maduros."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5477
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_daa80c64:
 
     # kwan "Yo, Baxter! I yoinked this sweet t-shirt cannon from outta the storage closet! Go long dude!!"
-    "¡[_kwan_] Yo, ¡Baxter! ¡He entrometido este cañón de camiseta dulce desde outta el armario de almacenamiento! ¡¡¡¡¡Da un buen dudo!!"
+    "¡[_kwan_] Tú, ¡Baxter! ¡Me he puesto esta caña de camiseta de mi armario! ¡¡Da buena impresión tío!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5480
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_b2bd93cb:
 
     # dash suit towards neutral talk_happy "I hope you two enjoy your night."
-    dash suit towards neutral talk_happy "Espero que disfrutes dos de tu noche."
+    dash suit towards neutral talk_happy "Espero que disfrutéis de la noche."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5486
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_35d081cc:
 
     # dash suit towards rise_one talk_happy_2 "{b}Aim high bro, I'm going long!!{/b}"
-    dash suit towards rise_one talk_happy_2 "{b}Bro alto, voy largo!!{/b}"
+    dash suit towards rise_one talk_happy_2 "{b}¡¡aim hermano mayor, me largo!!{/b}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5489
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_ce1c56b3:
 
     # danny phantom_suit towards wondering talk_frown "Yeah, I can see how it might be hard to relate to your friends if those are the guys you mainly hang out with."
-    danny phantom_suit towards wondering talk_frown "Sí, puedo ver cómo podría ser difícil relacionarse con tus amigos si estos son los chicos con los que te pasas el rato."
+    danny phantom_suit towards wondering talk_frown "Sí, puedo entender cómo podría ser de difícil relacionarse con tus amigos si estos son los chicos con los que te pasas el rato."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5491
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_3cc9806c:
 
     # paulina dress away idle_ talk_frown noblush "They're alright I guess, they're just such boys."
-    paulina dress away idle_ talk_frown noblush "Ellos están bien, supongo, son tan chicos."
+    paulina dress away idle_ talk_frown noblush "Ellos están bien, son solo chicos."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5493
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_067568f3:
@@ -9820,7 +9820,7 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_067568f3:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_f78c9b3e:
 
     # paulina dress closed wondering talk_frown_2 noblush "...but at least you have real people to talk to about how you're doing."
-    paulina dress closed wondering talk_frown_2 noblush "...pero al menos tienes gente real con la que hablar sobre cómo estás haciendo."
+    paulina dress closed wondering talk_frown_2 noblush "...pero al menos tienes gente real con la que hablar sobre cómo estás."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5497
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_6926d16a:
@@ -9832,25 +9832,25 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_6926d16a:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_9b6645fb:
 
     # paulina dress away neutral talk_frown_2 noblush "Star and I, my friend from the Mall, ya know? We're not on the best of terms behind the scenes right now."
-    paulina dress away neutral talk_frown_2 noblush "Star y yo, mi amigo del centro comercial, ¿ya lo sabe? No estamos en los mejores términos detrás de las escenas en este momento."
+    paulina dress away neutral talk_frown_2 noblush "Star y yo, mi amiga del centro comercial, ya sabes. No estamos en las mejores relaciones tras de la fachada de buena relación."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5501
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_7ceff7e3:
 
     # paulina dress away rise_one talk_frown noblush "...as you can probably tell from the interactions we've had in front of you."
-    paulina dress away rise_one talk_frown noblush "...como probablemente puedas saber por las interacciones que hemos tenido delante de ti."
+    paulina dress away rise_one talk_frown noblush "...como probablemente puedas ya haber deducido por las interacciones que hemos tenido delante de ti."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5503
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_8a32af4f:
 
     # danny phantom_suit at_danny sad_2 talk_frown "Yeah, at best, I think it can be described as a little... catty. No offense."
-    danny phantom_suit at_danny sad_2 talk_frown "Sí, en el mejor de los casos, creo que puede describirse como un poco... ganado. Sin ofensa."
+    danny phantom_suit at_danny sad_2 talk_frown "Sí, en el mejor de los casos, creo que puede describirse como un poco... malicioso. Sin ofender."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5505
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_e2724a31:
 
     # paulina dress away idle_2 talk_frown noblush "None taken. It's just that... we've been arguing a lot lately. Over you."
-    paulina dress away idle_2 talk_frown noblush "Ninguno. Es sólo eso... últimamente hemos estado argumentando. Sobre ti."
+    paulina dress away idle_2 talk_frown noblush "Nada más. Es sólo eso... últimamente hemos estado discutiendo mucho. Sobre ti."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5507
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_ce6bef5b:
@@ -9862,13 +9862,13 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_ce6bef5b:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_2b694f6b:
 
     # paulina dress away wondering talk_frown blush_1 "We both think you're really sweet and cute... sorry if that's a little forward."
-    paulina dress away wondering talk_frown blush_1 "Ambos pensamos que eres realmente dulce y lindo ... lo siento si eso es un poco adelante."
+    paulina dress away wondering talk_frown blush_1 "Ambas pensamos que eres realmente dulce y lindo... lo siento si eso és un poco atrevido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5511
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_fff3e0b6:
 
     # danny phantom_suit towards_wide wondering talk_happy_2 "Not at all. I think you're cute too."
-    danny phantom_suit towards_wide wondering talk_happy_2 "No en absoluto. Creo que también eres lindo."
+    danny phantom_suit towards_wide wondering talk_happy_2 "En absoluto. Creo que también eres linda."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5513
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_fefcaa79:
@@ -9880,13 +9880,13 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_fefcaa79:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_98902800:
 
     # danny phantom_suit at_danny sad_2 talk_frown "Would you... would you like to dance?"
-    danny phantom_suit at_danny sad_2 talk_frown "¿Te gustaría bailar?"
+    danny phantom_suit at_danny sad_2 talk_frown "¿Te gustaría.... te gustaría bailar?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5517
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_881dce44:
 
     # danny phantom_suit towards wondering talk_frown "I know slow jams aren't really your thing and all, but-"
-    danny phantom_suit towards wondering talk_frown "Sé que los atascos lentos no son realmente tu cosa y todo, pero-"
+    danny phantom_suit towards wondering talk_frown "Sé que los atascos y lentitud son realmente propios de ti y todo, pero-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5519
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_cb2f0b6d:
@@ -9910,61 +9910,61 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_4cb73bb6:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_ed929ae8:
 
     # danny "(Paulina and I had a lovely evening together, dancing to a slow melody.)"
-    danny "(Paulina y yo tuvimos una hermosa velada juntos, bailando a una melodía lenta.)"
+    danny "(Paulina y yo tuvimos una hermosa velada juntos bailando a una melodía lenta.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5527
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_b06d0b73:
 
     # danny "(It was really amazing to be able to just hold her in my arms for a good while.)"
-    danny "(Fue realmente increíble poder tenerla en mis brazos por un buen momento.)"
+    danny "(Fue increíble poder tenerla en mis brazos por un momento.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5528
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_4a68e4ce:
 
     # danny "(Honestly, I was half worried I was going to wake up from it any moment, back to my normal life before the accident.)"
-    danny "(Honestamente, estaba medio preocupado que iba a despertarme de ella en cualquier momento, de vuelta a mi vida normal antes del accidente.)"
+    danny "(Honestamente, estaba medio preocupado que iba a despertarme en cualquier momento, de vuelta a mi vida normal antes del accidente.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5529
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_34bde0e1:
 
     # danny "(But having her rest her head down on my shoulder was all I needed to know that it was real as could be.)"
-    danny "(Pero descansar su cabeza abajo sobre mi hombro era todo lo que necesitaba saber que era real como podía ser.)"
+    danny "(Pero descansar su cabeza sobre mi hombro era todo lo que necesitaba saber que era tan real como podía ser.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5530
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_73ad8c36:
 
     # danny "(I'm not the best dancer or anything, but I just made sure to phase my feet so I wouldn't step on her shoes. Nifty little trick.)"
-    danny "(No soy la mejor bailarina ni nada, pero sólo me aseguré de poner en fase mis pies para que no pisara sus zapatos. Poco truco ingenioso.)"
+    danny "(No soy el bailarín, pero me aseguré de poner vigilar mis pies para que no pisaran sus zapatos. Truco un poco ingenioso.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5531
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_4bd96d2d:
 
     # danny "(After a good while of dancing, Paulina and I headed out of the school. We took Dash in tow, as it became pretty clear he needed some help getting home...)"
-    danny "(Después de un buen rato de baile, Paulina y yo salimos de la escuela. Tomamos Dash a remolque, ya que quedó bastante claro que necesitaba algo de ayuda para llegar a casa ...)"
+    danny "(Después de un buen rato de baile, Paulina y yo salimos de la escuela. Llevamos Dash como un remolque, ya que quedó bastante claro que necesitaba algo de ayuda para llegar a casa...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5559
 translate spanish A_Stroke_After_Midnight_scene_11c_park_6488826c:
 
     # dash suit blush blank_stare neutral talk_happy_2 "Ohhh maaaan... what a party..."
-    dash suit blush blank_stare neutral talk_happy_2 "Ohhh maaan... qué fiesta... qué fiesta..."
+    dash suit blush blank_stare neutral talk_happy_2 "Ohhh tíiiiio... qué fiesta... qué fiesta..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5562
 translate spanish A_Stroke_After_Midnight_scene_11c_park_0099a5da:
 
     # danny phantom_suit towards_wide rise_one talk_frown "Do you think he's going to be alright? How'd he get like this even?"
-    danny phantom_suit towards_wide rise_one talk_frown "¿Crees que va a estar bien? ¿Cómo se convertiría en este par?"
+    danny phantom_suit towards_wide rise_one talk_frown "¿Crees que estará bien? ¿Cómo se ha emborrachado?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5564
 translate spanish A_Stroke_After_Midnight_scene_11c_park_05d11a2e:
 
     # paulina dress towards idle_ talk_frown_2 noblush "I don't know... I never saw him with a flask or anything tonight..."
-    paulina dress towards idle_ talk_frown_2 noblush "no sé... nunca lo vi con un frasco ni con nada esta noche..."
+    paulina dress towards idle_ talk_frown_2 noblush "no lo sé... no lo vi con un frasco ni con nada esta noche..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5566
 translate spanish A_Stroke_After_Midnight_scene_11c_park_a389041e:
 
     # paulina dress towards rise_one talk_frown noblush "Dash... were you drinking anything tonight?"
-    paulina dress towards rise_one talk_frown noblush "guay... ¿Estabas bebiendo algo esta noche?"
+    paulina dress towards rise_one talk_frown noblush "Dash... ¿Bebiste algo esta noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5569
 translate spanish A_Stroke_After_Midnight_scene_11c_park_9bf2f84d:
@@ -9976,7 +9976,7 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_9bf2f84d:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_d6e1a17b:
 
     # danny phantom_suit at_danny wondering talk_frown_2 "Hmmm... somebody might've really spiked the punch in a bad way."
-    danny phantom_suit at_danny wondering talk_frown_2 "Hmmm... alguien podría haber pinchado el golpe de una manera mala."
+    danny phantom_suit at_danny wondering talk_frown_2 "Hmmm... alguien podría haber saboteado la fuente de bebidas."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5574
 translate spanish A_Stroke_After_Midnight_scene_11c_park_8e4d73bf:
@@ -9988,25 +9988,25 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_8e4d73bf:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_2c1a3e97:
 
     # dash suit towards sad_2 talk_happy "Uhhh, yeah, I think thassa... that's a pretty good idea..."
-    dash suit towards sad_2 talk_happy "Uhhh, sí, creo que thassa... eso es una idea bastante buena..."
+    dash suit towards sad_2 talk_happy "Uhhh, sí, creo que estaaaa... estaaa és una buena idea..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5579
 translate spanish A_Stroke_After_Midnight_scene_11c_park_4c7fdc88:
 
     # dash suit towards neutral talk_happy_2 "{i}*Hic*{/i} You're a real... real swell guy, Inviso-Bob."
-    dash suit towards neutral talk_happy_2 "{i}*Hic*{/i} Eres un real... verdadero chico de swell, Inviso-Bob."
+    dash suit towards neutral talk_happy_2 "{i}*Hic*{/i} Eres un... verdadero macho, Inviso-Bob."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5581
 translate spanish A_Stroke_After_Midnight_scene_11c_park_e276825c:
 
     # danny phantom_suit towards neutral talk_happy_2 "Uh huh, yeup, just trying my best to help."
-    danny phantom_suit towards neutral talk_happy_2 "Uh eh, sí, simplemente haciendo todo lo posible para ayudar."
+    danny phantom_suit towards neutral talk_happy_2 "Uh eh, sí, sólo hago todo lo posible para ayudar."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5584
 translate spanish A_Stroke_After_Midnight_scene_11c_park_cd039b8f:
 
     # paulina dress towards wondering talk_frown noblush "I'll call him an Uber home."
-    paulina dress towards wondering talk_frown noblush "lo llamaré una casa Uber."
+    paulina dress towards wondering talk_frown noblush "llamaré un Uber para que le lleve a casa."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5587
 translate spanish A_Stroke_After_Midnight_scene_11c_park_f64801fa:
@@ -10018,13 +10018,13 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_f64801fa:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_e8d86b6f:
 
     # dash suit up_wide rise_one talk_happy "Thissus the best night of my life!"
-    dash suit up_wide rise_one talk_happy "¡Esto es la mejor noche de mi vida!"
+    dash suit up_wide rise_one talk_happy "¡Estaaa és la mejor noche de mi vida!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5593
 translate spanish A_Stroke_After_Midnight_scene_11c_park_cfdda2eb:
 
     # dash suit towards neutral talk_happy "I got some of my best pals in the whole world here!"
-    "¡[_dash_s_suit_s_towards_s_neutral_s_talk_happy_] conseguí algunos de mis mejores pales de todo el mundo aquí!"
+    "¡[_dash_s_suit_s_towards_s_neutral_s_talk_happy_] conseguí algunos de mis mejores amigos de todo el mundo aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5595
 translate spanish A_Stroke_After_Midnight_scene_11c_park_5d15b0ae:
@@ -10042,13 +10042,13 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_7e14d73a:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_6ce19fe6:
 
     # danny phantom_suit towards_wide neutral talk_frown_2 "So... ETA on that Uber ride at all?"
-    danny phantom_suit towards_wide neutral talk_frown_2 "So... ETA en ese viaje de Uber en absoluto?"
+    danny phantom_suit towards_wide neutral talk_frown_2 "vamos... ¿entrarás en el Uber?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5619
 translate spanish A_Stroke_After_Midnight_scene_11c_park_210b18c5:
 
     # danny phantom_suit towards neutral talk_happy "Take care Dash, get home safe!"
-    danny phantom_suit towards neutral talk_happy "¡Cuidado, ve a casa a salvo!"
+    danny phantom_suit towards neutral talk_happy "¡Cuidate Dash, ve a casa a salvo!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5621
 translate spanish A_Stroke_After_Midnight_scene_11c_park_8ee2041f:
@@ -10060,31 +10060,31 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_8ee2041f:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_50d109aa:
 
     # dash "Okay Boots... let's put on our seatbelts... so we can be safe!!"
-    dash "Botas de acuerdo... pongámonos en nuestros cinturones de seguridad... ¡¡¡¡¡¡así podremos estar seguros!!"
+    dash "ok chicos... ¡¡pongámonos en nuestros cinturones de seguridad... así podremos estar seguros!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5626
 translate spanish A_Stroke_After_Midnight_scene_11c_park_aeea713b:
 
     # uber "Look buddy, just don't puke in my car, alright?"
-    uber "Mira a tu amigo, simplemente no te pones en mi coche, ¿verdad?"
+    uber "Mira amigo, no vomites en mi coche, ¿vale?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5631
 translate spanish A_Stroke_After_Midnight_scene_11c_park_c05e2e02:
 
     # paulina dress away idle_2 talk_frown noblush "Phew... glad that's over with."
-    paulina dress away idle_2 talk_frown noblush "Phew... contento de que eso haya terminado."
+    paulina dress away idle_2 talk_frown noblush "Phew... estoy contenta de que haya terminado."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5633
 translate spanish A_Stroke_After_Midnight_scene_11c_park_25fa4d5e:
 
     # danny phantom_suit towards wondering talk_happy "He wasn't all bad."
-    danny phantom_suit towards wondering talk_happy "Él no estaba todo mal."
+    danny phantom_suit towards wondering talk_happy "Él no estaba del todo mal."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5635
 translate spanish A_Stroke_After_Midnight_scene_11c_park_df47236d:
 
     # paulina dress towards_wide idle_2 talk_frown_2 noblush "No, but having to deal with a big gorilla his size, when he's drunk? Not exactly what I'd call an easy going night."
-    paulina dress towards_wide idle_2 talk_frown_2 noblush "No, ¿pero tener que lidiar con un gran gorilla de su tamaño, cuando está bebido? ¿No es exactamente lo que yo llamaría una noche fácil de pasar."
+    paulina dress towards_wide idle_2 talk_frown_2 noblush "No, ¿pero tener que lidiar con un gran gorila de su tamaño cuando está bebido? ¿No és lo que yo llamaría una noche fácil de pasar."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5637
 translate spanish A_Stroke_After_Midnight_scene_11c_park_d7fdf5a4:
@@ -10102,49 +10102,49 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_a57b01c9:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_f046ab4f:
 
     # paulina dress towards neutral talk_happy noblush "I didn't know you could be so light on your feet!"
-    paulina dress towards neutral talk_happy noblush "¡Yo no sabía que podía ser tan ligero en sus pies!"
+    paulina dress towards neutral talk_happy noblush "¡Yo no sabía que podías pies tan ágiles!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5643
 translate spanish A_Stroke_After_Midnight_scene_11c_park_f9e8413c:
 
     # danny phantom_suit towards wondering talk_happy_2 "Heh, neither did I, honestly."
-    danny phantom_suit towards wondering talk_happy_2 "Él, yo tampoco lo hice, sinceramente."
+    danny phantom_suit towards wondering talk_happy_2 "Heh, sinceramente yo tampoco lo sabía."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5646
 translate spanish A_Stroke_After_Midnight_scene_11c_park_868bd744:
 
     # danny phantom_suit at_danny sad_2 talk_frown "So, uhh... I don't mean to be too forward, in fact, quite the opposite, but uh..."
-    danny phantom_suit at_danny sad_2 talk_frown "Entonces, uhh... no pretendo ser demasiado adelante, de hecho, bastante opuesto, pero uh..."
+    danny phantom_suit at_danny sad_2 talk_frown "Entonces, uhh... no pretendo ser demasiado atrevido, de hecho, todo lo contrario, pero uh..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5648
 translate spanish A_Stroke_After_Midnight_scene_11c_park_f5629377:
 
     # danny phantom_suit towards_wide rise_one talk_frown "You wouldn't mind if I walked you home, would you?"
-    danny phantom_suit towards_wide rise_one talk_frown "No te importaría si te paseara a casa, ¿tú?"
+    danny phantom_suit towards_wide rise_one talk_frown "¿No te importaría si te acompaño a casa?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5650
 translate spanish A_Stroke_After_Midnight_scene_11c_park_8fadff45:
 
     # paulina dress towards wondering talk_happy noblush "No, not at all. It's not that far from here actually..."
-    paulina dress towards wondering talk_happy noblush "No, en absoluto. En realidad no está tan lejos de aquí..."
+    paulina dress towards wondering talk_happy noblush "No, en absoluto. no está tan lejos de aquí..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5652
 translate spanish A_Stroke_After_Midnight_scene_11c_park_5d50d9c6:
 
     # danny phantom_suit closed_happy wondering talk_happy "Great. I'd just like to make sure you got home after all... what with the threat of perverted ghosts about..."
-    danny phantom_suit closed_happy wondering talk_happy "Genial. Solo me gustaría asegurarme de que llegaste a casa después de todo... qué con la amenaza de fantasmas perversas..."
+    danny phantom_suit closed_happy wondering talk_happy "Genial. Me gustaría asegurarme de que llegas a casa después de todo... és por las amenazas de fantasmas perversos..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5654
 translate spanish A_Stroke_After_Midnight_scene_11c_park_553b34ac:
 
     # paulina dress towards wondering talk_happy blush_1 "Oh, it's so nice to have such a kind escort take care of me..."
-    paulina dress towards wondering talk_happy blush_1 "Oh, es muy agradable tener una escolta de este tipo me cuidará..."
+    paulina dress towards wondering talk_happy blush_1 "Oh, és muy agradable tener un escolta de este tipo que me cuide..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5656
 translate spanish A_Stroke_After_Midnight_scene_11c_park_c6a7f676:
 
     # paulina dress towards rise_one talk_bite blush_2 "So... that's all you wanna make sure happens tonight...? To make sure that I get home alright?"
-    paulina dress towards rise_one talk_bite blush_2 "Así que... eso es todo lo que quieres que pase esta noche...? ¿Para asegurarme de que llegué a casa bien?"
+    paulina dress towards rise_one talk_bite blush_2 "Así que... ¿eso és todo lo que quieres que pase esta noche...? ¿Asegurarte de que llegue a casa bien?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5658
 translate spanish A_Stroke_After_Midnight_scene_11c_park_48344e48:
@@ -10156,13 +10156,13 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_48344e48:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_e595c3b0:
 
     # danny phantom_suit at_danny rise_one talk_happy_2 "I wouldn't lie and say... it would be nice if we had the chance to have some more... private time together."
-    danny phantom_suit at_danny rise_one talk_happy_2 "Yo no mintiría y digo... sería bueno que tuviéramos la oportunidad de tener algo de tiempo privado juntos."
+    danny phantom_suit at_danny rise_one talk_happy_2 "Yo no mentiría y digo... podría ser bueno si tenemos la oportunidad de tener algo de tiempo privado."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5662
 translate spanish A_Stroke_After_Midnight_scene_11c_park_727ef447:
 
     # paulina dress towards wondering talk_happy blush_1 "{i}*Giggles*{/i} Well... I wouldn't lie either..."
-    paulina dress towards wondering talk_happy blush_1 "{i}*Giggles*{/i} Bueno... tampoco mientería..."
+    paulina dress towards wondering talk_happy blush_1 "{i}*Risas*{/i} Bueno... tampoco te mentiría..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5664
 translate spanish A_Stroke_After_Midnight_scene_11c_park_fad3e25d:
@@ -10174,31 +10174,31 @@ translate spanish A_Stroke_After_Midnight_scene_11c_park_fad3e25d:
 translate spanish A_Stroke_After_Midnight_scene_11c_park_2a2be305:
 
     # danny phantom_suit towards_wide rise_one talk_happy "Well, then I'd simply say that the night is still young..."
-    danny phantom_suit towards_wide rise_one talk_happy "Bueno, entonces simplemente diría que la noche sigue siendo joven..."
+    danny phantom_suit towards_wide rise_one talk_happy "Bueno, entonces diría que la noche sigue siendo joven..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5668
 translate spanish A_Stroke_After_Midnight_scene_11c_park_45504c10:
 
     # paulina dress towards neutral talk_happy noblush "I suppose you're right... after you, my strong ghost hero... I'm right down the road..."
-    paulina dress towards neutral talk_happy noblush "Supongo que tienes razón... después de ti, mi fuerte héroe fantasma... Estoy justo abajo..."
+    paulina dress towards neutral talk_happy noblush "Supongo que tienes razón... después de ti, mi fuerte héroe fantasma... Estoy a tu lado..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5670
 translate spanish A_Stroke_After_Midnight_scene_11c_park_ba046cd7:
 
     # danny phantom_suit at_player_wide wondering bite "(This is gonna be {i}good{/i}...)"
-    danny phantom_suit at_player_wide wondering bite "(Esto es {i}bueno{/i}...)"
+    danny phantom_suit at_player_wide wondering bite "(Esto va a ser {i}bueno{/i}...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5679
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f8e96aeb:
 
     # paulina "{i}Over here! C'mon!{/i}"
-    paulina "¡ {i}aquí! ¡C'mon!{/i}"
+    paulina "{i}¡aquí! ¡vamos!{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5680
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_7ec44a9f:
 
     # danny "{i}Oh, this way? Okay.{/i}"
-    danny "{i}Oh, ¿de esta manera? Vale.{/i}"
+    danny "{i}Oh, ¿por ahí? Vale.{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5681
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_1084f971:
@@ -10210,7 +10210,7 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_1084f971:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_53c5414f:
 
     # danny "{i}Wow... really nice house you have!{/i}"
-    danny "{i}Wow... ¡casa muy bonita que tienes!{/i}"
+    danny "{i}¡Wow... que casa más bonita tienes!{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5683
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_09dc9cf4:
@@ -10222,7 +10222,7 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_09dc9cf4:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_d6b5346c:
 
     # danny "{i}Oh, okay, yeah, gotta be quiet. Heh.{/i}"
-    danny "{i}Oh, bueno, sí, hay que callarse. Heh.{/i}"
+    danny "{i}Oh, bueno, vale, hay que estar en silencio. Heh.{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5685
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_ca6999ec:
@@ -10258,25 +10258,25 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_e4fa837a:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_1a035ed3:
 
     # paulina dress towards rise_one talk_frown noblush "Really girly room?"
-    "¿[_paulina_s_dress_s_towards_s_rise_one_s_talk_frown_s_noblush_] Una habitación realmente jiron?"
+    paulina dress towards rise_one talk_frown noblush "¿Una verdadera habitación femenina?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5710
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_9ece8efa:
 
     # danny phantom_suit towards sad_2 talk_happy "I was gonna say it's more just... really {i}you{/i}."
-    danny phantom_suit towards sad_2 talk_happy "Me quedé fuera de casa decir que es más justo... realmente {i}tú{/i}."
+    danny phantom_suit towards sad_2 talk_happy "Quise decir és más parecido... realmente {i}a tí{/i}."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5712
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_b7dd97be:
 
     # danny phantom_suit towards neutral talk_happy_2 "So in that sense, it's perfect."
-    danny phantom_suit towards neutral talk_happy_2 "Así que en ese sentido, es perfecto."
+    danny phantom_suit towards neutral talk_happy_2 "Así que en ese sentido, és perfecta."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5714
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_d0ff1f8c:
 
     # paulina dress towards wondering talk_happy noblush "{i}*Chuckles*{/i} Well wonderful, I'm glad you like it..."
-    paulina dress towards wondering talk_happy noblush "{i}*Chuckles * {/i} Bien maravilloso, me alegro de que te guste ..."
+    paulina dress towards wondering talk_happy noblush "{i}*Risas* {/i} Maravilloso, me alegro de que te guste..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5716
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_519d46f2:
@@ -10294,49 +10294,49 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f883cdee:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_7ce90524:
 
     # paulina nude towards rise_one talk_happy blush_1 "So then... how about it, Danny?"
-    paulina nude towards rise_one talk_happy blush_1 "Entonces, entonces... ¿qué pasa con eso, Danny?"
+    paulina nude towards rise_one talk_happy blush_1 "Entonces, entonces... ¿qué opinas de esto, Danny?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5727
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_d8804f1e:
 
     # danny phantom_suit towards wondering talk_happy "H-h-how 'bout what, e-exactly?"
-    danny phantom_suit towards wondering talk_happy "H-h-how 'bout qué, e-exactamente?"
+    danny phantom_suit towards wondering talk_happy "¿O-o-opinar sobre que, e-exactamente?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5729
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f1dae8e2:
 
     # paulina nude towards wondering talk_happy noblush "How about you lay me down on that bed there..."
-    paulina nude towards wondering talk_happy noblush "Que tal si me metes en esa cama..."
+    paulina nude towards wondering talk_happy noblush "Que tal si me metes en la cama..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5731
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f9f61740:
 
     # paulina nude towards rise_one talk_bite blush_2 "...and make sweet love to me?"
-    paulina nude towards rise_one talk_bite blush_2 "...y hazme amor dulce?"
+    paulina nude towards rise_one talk_bite blush_2 "...y me haces el amor dulcemente?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5733
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_4c195663:
 
     # danny phantom_suit towards_wide rise_one talk_happy "R-really?!"
-    "¡[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_] ¿Realmente?!"
+    "¡[_danny_s_phantom_suit_s_towards_wide_s_rise_one_s_talk_happy_]¡¿En serio?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5735
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_3886149e:
 
     # paulina nude away neutral talk_frown blush_1 "Oh sure... that is... only if you're up for i-"
-    paulina nude away neutral talk_frown blush_1 "Oh seguro... eso es... solo si estás listo para i-"
+    paulina nude away neutral talk_frown blush_1 "Oh seguro... sí... solo si estás listo para hac-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5737
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_3e45d010:
 
     # danny phantom_suit towards_wide angry talk_happy_2 "{b}Y-YES, ABSOLUTELY, I'M READY!! TOTALLY!!{/b}"
-    danny phantom_suit towards_wide angry talk_happy_2 "{b}Y-YES, ABSOLUTAMENTE, ESTOY LISTO!! ¡TOTALMENTE!! {/b}"
+    danny phantom_suit towards_wide angry talk_happy_2 "{b}¡¡S-SI, ABSOLUTAMENTE, ESTOY LISTO!! ¡TOTALMENTE!! {/b}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5739
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_ccf20b18:
 
     # paulina nude towards_wide idle_2 talk_frown_2 noblush "{i}Danny!! Shhhh!!{/i}"
-    paulina nude towards_wide idle_2 talk_frown_2 noblush "{i}Danny!! Shhhh!!{/i}"
+    paulina nude towards_wide idle_2 talk_frown_2 noblush "{i}¡¡Danny!! ¡¡Shhhh!!{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5741
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_7e046819:
@@ -10354,13 +10354,13 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_d610e779:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_069fac1b:
 
     # pauldad "Paulina? Is that you? Who was that a second ago? I strictly said not a single boy in this room tonight!!"
-    pauldad "Paulina? ¿Es eso tú? ¿Quién era un segundo antes? ¡No dije estrictamente a un solo niño en esta sala esta noche!!"
+    pauldad "¿Paulina? ¿eres tú? ¿Quién era antes? ¡Te dije estrictamente que ni un solo chico en ti habitación esta noche!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5750
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_fd691468:
 
     # paulina nude towards_wide wondering talk_frown noblush "No papi, it was nobody!"
-    paulina nude towards_wide wondering talk_frown noblush "No hay papi, ¡no era nada!"
+    paulina nude towards_wide wondering talk_frown noblush "No hay papi, ¡no fue nada!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5753
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f60150e1:
@@ -10372,7 +10372,7 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f60150e1:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_491727a9:
 
     # paulina nude away wondering talk_frown_2 blush_1 "N-no, you can't, I'm n-naked right now! It was just a video on my phone that played real loud! I'm sorry, I'll turn it down!"
-    paulina nude away wondering talk_frown_2 blush_1 "N-no, no puedes, ¡estoy desnuda ahora mismo! Fue sólo un vídeo en mi teléfono que reprodujo en voz alta! Lo siento, ¡lo desactivaré!"
+    paulina nude away wondering talk_frown_2 blush_1 "N-no, no puedes, ¡estoy desnuda ahora mismo! ¡Fue sólo un vídeo en mi teléfono que reprodujo en voz alta! Lo siento, ¡lo desactivaré!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5757
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_a04a6d1f:
@@ -10384,19 +10384,19 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_a04a6d1f:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_7c7f346e:
 
     # pauldad "Alright then pumpkin, no problem! Hope you had a fun night tonight with whoever you went with."
-    pauldad "¡Muy bien entonces calabaza, no hay problema! Espero que te diviertas esta noche con quien fuiste."
+    pauldad "¡Muy bien tesoro, no hay problema! Espero que te diviertas esta noche con tu pareja de baile."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5762
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f2745468:
 
     # pauldad "Night night, sweetie!"
-    pauldad "noches nocturnas, ¡semanas de noche!"
+    pauldad "Felices sueños, dulzura!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5764
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_e6c1c688:
 
     # paulina nude towards_wide neutral talk_happy noblush "Y-yeah, goodnight!!"
-    paulina nude towards_wide neutral talk_happy noblush "Y-sí, bien!!"
+    paulina nude towards_wide neutral talk_happy noblush "¡¡S-sí, buenas noches!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5765
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_a6b2905e:
@@ -10414,79 +10414,79 @@ translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_a543cd4a:
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_6cbfdbf5:
 
     # danny_paul "{i}*Pheeeeeew*{/i}!!"
-    danny_paul "{i}*Pheeeeew*{/i}!!"
+    danny_paul "¡¡{i}*Uffffffff*{/i}!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5771
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_764b7f4f:
 
     # paulina nude towards_wide neutral talk_frown noblush "Oh my goodness, my heart beat!"
-    paulina nude towards_wide neutral talk_frown noblush "¡Oh mi bondad, mi corazón golpea!"
+    paulina nude towards_wide neutral talk_frown noblush "¡Oh dios mío, mi corazón por poco explota!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5773
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_7ddd01db:
 
     # danny phantom_suit closed_sad rise_one talk_frown "I think I just gained a fear boner out of instinct!"
-    danny phantom_suit closed_sad rise_one talk_frown "¡Creo que acabo de ganar un boner de miedo por instinto!"
+    danny phantom_suit closed_sad rise_one talk_frown "¡Creo que acabo de perder la erección instintivamente con el susto!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5775
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_7960b488:
 
     # paulina nude towards_wide rise_one talk_bite blush_1 "Oh... really now?"
-    paulina nude towards_wide rise_one talk_bite blush_1 "Oh... ¿realmente ahora?"
+    paulina nude towards_wide rise_one talk_bite blush_1 "Oh... ¿ahora?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5777
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_34c5c486:
 
     # danny phantom_suit at_danny wondering talk_frown_2 "Y-yeah, it's just that I was sorta-"
-    danny phantom_suit at_danny wondering talk_frown_2 "Y-sí, es sólo que yo estaba sorta-"
+    danny phantom_suit at_danny wondering talk_frown_2 "S-sí, és sólo que yo estaba como-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5779
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_f9c14343:
 
     # paulina nude towards_wide wondering talk_bite blush_2 "Well then, shouldn't we put that thing to good use then?"
-    paulina nude towards_wide wondering talk_bite blush_2 "Bueno, entonces, ¿no deberíamos hacer un buen uso de esa cosa?"
+    paulina nude towards_wide wondering talk_bite blush_2 "Bueno, ¿no deberíamos dar un buen uso de esa cosa?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5781
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_ae144873:
 
     # danny phantom_suit at_danny rise_one talk_happy_2 "Heh... s-suppose we should..."
-    danny phantom_suit at_danny rise_one talk_happy_2 "Heh... -supongamos que deberíamos..."
+    danny phantom_suit at_danny rise_one talk_happy_2 "Heh... s-supongo que deberíamos..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5782
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_64f8b740:
 
     # danny phantom_suit towards_wide wondering bite "(Oh man, this is it! I'm really about to go all the way with my ultimate dream girl!)"
-    danny phantom_suit towards_wide wondering bite "(¡Oh, hombre, esto es! ¡Estoy a punto de ir hasta el final con mi chica de sueño!)"
+    danny phantom_suit towards_wide wondering bite "(¡Oh, tío, esto és! ¡Estoy a punto de llegar hasta el final con la chica de mis sueños!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5783
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_8fbf9dc1:
 
     # danny phantom_suit at_player_wide angry frown_2 "(Don't screw this up, Fenton!)"
-    danny phantom_suit at_player_wide angry frown_2 "(No atornille esto, ¡Fenton!)"
+    danny phantom_suit at_player_wide angry frown_2 "(No metas la pata, ¡Fenton!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5785
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_2b206a12:
 
     # paulina nude towards_wide wondering talk_bite blush_1 "Right over here, cutie..."
-    paulina nude towards_wide wondering talk_bite blush_1 "aquí mismo, cuti..."
+    paulina nude towards_wide wondering talk_bite blush_1 "aquí, lindo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5786
 translate spanish A_Stroke_After_Midnight_scene_12c_paulinaroom_1d3de160:
 
     # danny phantom_suit towards angry talk_happy_2 "Don't need to tell me twice."
-    danny phantom_suit towards angry talk_happy_2 "No es necesario que me digas dos veces."
+    danny phantom_suit towards angry talk_happy_2 "No hace falta que me lo digas dos veces."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5794
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_739f5838:
 
     # danny "Okay... hold still for a moment..."
-    danny "Vale... mantén presionado por un momento..."
+    danny "Vale... presiono un momento..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5795
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_eb1188db:
 
     # paulina "Oh... put it in slowly..."
-    paulina "Oh... ponlo lentamente..."
+    paulina "Oh... hazlo poco a poco..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5796
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_9b9f6a2f:
@@ -10498,13 +10498,13 @@ translate spanish A_Stroke_After_Midnight_paulina_sex_first_9b9f6a2f:
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_6f238cb9:
 
     # paulina "Are you gonna-"
-    paulina "¿Eres tú gonna?"
+    paulina "¿Vas a -"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5798
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_d9886c71:
 
     # paulina "Unnhhh!!~"
-    paulina "Unnhhh!!~"
+    paulina "¡¡Unnhhh!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5803
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_e3fcb4b5:
@@ -10522,7 +10522,7 @@ translate spanish A_Stroke_After_Midnight_paulina_sex_first_77010f69:
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_c75a058b:
 
     # danny "Slipped right in... mmmhhh...~"
-    danny "Deslizado justo en... mmhhhh...~"
+    danny "Deslizo en... mmhhhh...~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5807
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_a000a877:
@@ -10534,61 +10534,61 @@ translate spanish A_Stroke_After_Midnight_paulina_sex_first_a000a877:
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_7e2bb471:
 
     # danny "Yeah, just... like... this?"
-    danny "Sí, sólo... me gusta... esto?"
+    danny "Sí, ¿te... te gusta... así?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5810
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_9152ef49:
 
     # paulina dancesex slow talk "Just... like... yeahhh...~"
-    paulina dancesex slow talk "Sust... me gusta... yeahh...~"
+    paulina dancesex slow talk "me... me gusta... yeahh...~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5812
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_05b0ada7:
 
     # danny "(This is nuts. I can't believe I'm inside my crush since middle school.)"
-    danny "(Esto es tuercas. No puedo creer que estoy dentro de mi crush desde la escuela secundaria.)"
+    danny "(Esto es un delirio. No puedo creer que esté dentro de mi deseada chica desde la escuela secundaria.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5813
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_a2ec74b8:
 
     # danny "(Oh... can't think of that right now...)"
-    danny "(Oh... no se puede pensar en eso ahora mismo...)"
+    danny "(Oh... no puedo pensar en eso ahora mismo...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5814
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_847737d5:
 
     # danny "(For the moment... need to lay this pipe. Heh.)"
-    danny "(Por el momento... necesita poner esta tubería. Heh.)"
+    danny "(Por el momento... necesito usar mi polla. Heh.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5815
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_96aa9f22:
 
     # danny "Thanks for... bringing me out tonight Paulina... I really... enjoyed it..."
-    danny "Gracias por... sacándome esta noche Paulina... realmente lo disfrutaba..."
+    danny "Gracias por... salir conmigo noche Paulina... he... he disfrutado mucho..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5816
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_f66346a5:
 
     # paulina dancesex slow talk "Oofff... of c-course Danny, you... you made my night t-toooo..."
-    paulina dancesex slow talk "Desconectado... de c-curso Danny, tú... has hecho mi noche t-toooe..."
+    paulina dancesex slow talk "per...... perdona Danny, tú... tú haces mi noche muyyyy..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5817
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_fca10f79:
 
     # paulina dancesex slow talk "And this is... ohh!! This is making... my fucking week...~"
-    paulina dancesex slow talk "Y esto es... oh!! Esto está haciendo... mi semana de fucking...~"
+    paulina dancesex slow talk "Y esto es... ¡¡oh!! Estás haciendo... mi jodida semana...~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5819
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_c510d7c7:
 
     # danny "Yeah, am I doing alright?"
-    danny "Sí, ¿estoy haciendo bien?"
+    danny "Sí, ¿ te estoy follando bien?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5820
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_4bc16daa:
 
     # paulina dancesex slow talk "Sooo good... yes..."
-    paulina dancesex slow talk "Bien... si..."
+    paulina dancesex slow talk "Muy bieeenn... sí..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5822
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_18e33194:
@@ -10600,7 +10600,7 @@ translate spanish A_Stroke_After_Midnight_paulina_sex_first_18e33194:
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_12797656:
 
     # paulina dancesex fast talk "Jeezus... yes... keep stroking it inside me like that..."
-    paulina dancesex fast talk "Jeezus... si... sigue acariciándolo dentro de mí así..."
+    paulina dancesex fast talk "Jeesus... sí... sigue acariciando dentro de mí así..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5827
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_ceccc848:
@@ -10612,7 +10612,7 @@ translate spanish A_Stroke_After_Midnight_paulina_sex_first_ceccc848:
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_ae8d835e:
 
     # paulina dancesex fast talk "Fuck... it feels... so good... having you deep inside me..."
-    paulina dancesex fast talk "Suerte... se siente... tan bueno... teniendote dentro de mí..."
+    paulina dancesex fast talk "Joder... se siente... tan bien... tenerte dentro de mí..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5830
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_bb864378:
@@ -10624,49 +10624,49 @@ translate spanish A_Stroke_After_Midnight_paulina_sex_first_bb864378:
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_34d3917c:
 
     # danny "Oh... woahh shit... I think I'm gonna..."
-    danny "Oh... mierda de woahh... Creo que estoy gonna..."
+    danny "Oh... woahh mierda... Creo que voy..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5832
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_f81f90b7:
 
     # paulina dancesex fast talk "Keep going... don't stop..."
-    paulina dancesex fast talk "Siguiente... no pares..."
+    paulina dancesex fast talk "Sigue... no pares..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5834
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_c71173ed:
 
     # danny "But... shit... I'm gonna lose it any second, P-Paulina!"
-    danny "Pero... mierda... ¡Me voy a perder cualquier segundo, P-Paulina!"
+    danny "Pero... mierda... ¡Me voy a correr en cualquier momento, P-Paulina!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5835
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_21711b72:
 
     # paulina dancesex fast talk "Danny... c-cum... cum all over me!!~"
-    paulina dancesex fast talk "Danny... c-cum... cum por todo!!~"
+    paulina dancesex fast talk "¡¡Danny... c-correte... correte sobre mí!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5837
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_fae1b261:
 
     # danny "I will!! I'm gonna cum!!~"
-    "¡¡[_danny_] lo haré!! ¡Estoy gonna cum!!~"
+    "¡¡[_danny_] ¡¡lo haré!! ¡¡Voy a correrme!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5838
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_24bcab82:
 
     # paulina dancesex fast talk "Do it! Do it on my belly!! I want it!!~"
-    paulina dancesex fast talk "¡Hazlo! Hazlo en mi vientre!! I want it!! ~"
+    paulina dancesex fast talk "¡Hazlo! Hazlo en mi vientre!! ¡¡lo quiero aquí!! ~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5847
 translate spanish A_Stroke_After_Midnight_paulina_sex_first_f2702424:
 
     # paulina "(Oh... oh my... so hot... just like a real boy's...~)"
-    paulina "(Oh... oh mi... tan caliente ... al igual que un niño de verdad...~)"
+    paulina "(Oh... oh mi... que placer... casi como un hombre de verdad...~)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5865
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_302a1a9b:
 
     # danny phantom closed_happy wondering talk_happy_2 "Ahhh man. That was incredible."
-    danny phantom closed_happy wondering talk_happy_2 "Ahhhh man. Eso fue increíble."
+    danny phantom closed_happy wondering talk_happy_2 "Ahhhh tío. Eso fue increíble."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5867
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_87feb5a2:
@@ -10678,31 +10678,31 @@ translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_87feb5a2:
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_8661693c:
 
     # danny phantom towards_wide sad talk_frown_2 "Was it alright? You're not saying anything."
-    danny phantom towards_wide sad talk_frown_2 "¿Estaba bien? No estás diciendo nada."
+    danny phantom towards_wide sad talk_frown_2 "¿Estuvo bien? No dices nada."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5871
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_e39fd65e:
 
     # paulina nude towards_wide wondering talk_bite blush_2 "Trust me... more than alright."
-    paulina nude towards_wide wondering talk_bite blush_2 "Confíe en mí... más que bien."
+    paulina nude towards_wide wondering talk_bite blush_2 "Confía en mí... más que bien."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5873
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_96defcb5:
 
     # paulina nude towards wondering talk_frown blush_1 "I'm... still sorta shaking. Jello legs too."
-    paulina nude towards wondering talk_frown blush_1 "yo... todavía sorta agitando. Jello pata también."
+    paulina nude towards wondering talk_frown blush_1 "yo... todavía me tiemblan las piernas."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5875
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_95f59d2f:
 
     # paulina nude towards wondering talk_bite blush_2 "You were so great..."
-    paulina nude towards wondering talk_bite blush_2 "Usted fue tan grande ..."
+    paulina nude towards wondering talk_bite blush_2 "Fue muy bueno..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5877
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_47cfe740:
 
     # danny phantom towards rise_one talk_happy_2 "You were even better. I honestly can't think of a better way to lose my V-card."
-    danny phantom towards rise_one talk_happy_2 "Usted fue aún mejor. Sinceramente no puedo pensar en una mejor manera de perder mi tarjeta V."
+    danny phantom towards rise_one talk_happy_2 "Tú fuiste aún mejor. Sinceramente no puedo pensar en una mejor manera de perder mi tarjeta de virginidad."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5879
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_0e15e7d6:
@@ -10714,61 +10714,61 @@ translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_0e15e7d6:
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_708f8937:
 
     # paulina nude towards rise_one_2 talk_frown noblush "Wait. V-card? You mean you've never had-"
-    paulina nude towards rise_one_2 talk_frown noblush "Espera. ¿Tarjeta V? Quisas decir que nunca has tenido"
+    paulina nude towards rise_one_2 talk_frown noblush "Espera. ¿Tarjeta virginidad? Quieres decir que nunca has tenido"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5884
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_2814d84d:
 
     # pauldad "Okay, now I just {b}know{/b} you're talking to somebody in there."
-    pauldad "Vale, ahora solo sé {b}{/b} que estás hablando con alguien allí."
+    pauldad "Vale, ahora sí lo {b}sé{/b} que estás hablando con alguien ahí."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5887
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_67291617:
 
     # pauldad "{b}Paulina, sweetheart, open up this door!!{/b}"
-    pauldad "{b}Paulina, teatro, abre esta puerta!!{/b}"
+    pauldad "{b}¡¡Paulina, corazón, abre esta puerta!!{/b}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5889
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_c46db671:
 
     # paulina nude towards_wide idle_ talk_frown blush_1 "No, Daddy, I'm still naked! Just give me a minute!!"
-    paulina nude towards_wide idle_ talk_frown blush_1 "No, Daddy, ¡sigo desnudo! ¡¡¡¡¡¡Dame un minuto!!"
+    paulina nude towards_wide idle_ talk_frown blush_1 "No, Papi, ¡sigo desnuda! ¡¡¡¡¡¡Dame un minuto!!!!!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5891
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_2f4b6967:
 
     # paulina nude away idle_ talk_frown blush_2 "{i}I'm so sorry about this, but would you mind terribly-{/i}"
-    paulina nude away idle_ talk_frown blush_2 "{i}Lo siento mucho, pero te importaría terriblemente-{/i}"
+    paulina nude away idle_ talk_frown blush_2 "{i}Lo siento mucho, pero te importaría lamentablemente-{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5893
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_64ad7656:
 
     # danny phantom towards sad_2 talk_happy "{i}Don't worry. I'll just phase through the wall for tonight.{/i}"
-    danny phantom towards sad_2 talk_happy "{i}No te preocupe. Solo atravesaré la pared esta noche.{/i}"
+    danny phantom towards sad_2 talk_happy "{i}No te preocupes. Atravesaré la pared.{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5895
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_dd3c90e3:
 
     # danny phantom at_danny sad talk_frown "{i}Sorry if this seems like I'm cutting and running.{/i}"
-    danny phantom at_danny sad talk_frown "{i}Lo siento si parece que estoy cortando y corriendo.{/i}"
+    danny phantom at_danny sad talk_frown "{i}Lo siento si parece que soy brusco y salgo corriendo.{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5897
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_d96e899a:
 
     # paulina nude towards rise_one talk_happy noblush "{i}Trust me, super powers or not, you don't want my dad to get his hands around your neck.{/i}"
-    paulina nude towards rise_one talk_happy noblush "{i}Confía en mí, superpoderes o no, no quieres que mi papá tenga las manos alrededor de tu cuello.{/i}"
+    paulina nude towards rise_one talk_happy noblush "{i}Confía en mí, superpoderes o no, no querrás que mi papá tenga sus manos en tu cuello.{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5899
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_507d12d9:
 
     # danny phantom towards_wide rise_one talk_happy "{i}I'll take your word. Good night Paulina.{/i}"
-    danny phantom towards_wide rise_one talk_happy "{i}tomaré tu palabra. Buena noche Paulina.{/i}"
+    danny phantom towards_wide rise_one talk_happy "{i}Confío en tí. Buenas noches Paulina.{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5901
 translate spanish A_Stroke_After_Midnight_after_paulina_sex_first_04373ab8:
 
     # paulina nude towards wondering talk_bite blush_2 "{i}Goodnight my sweet Ghost Boy...{/i}"
-    paulina nude towards wondering talk_bite blush_2 "{i}Buena noche mi dulce Chico Fantasma...{/i}"
+    paulina nude towards wondering talk_bite blush_2 "{i}Buenas noches mi dulce Chico Fantasma...{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5929
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_9ac92080:
@@ -10780,55 +10780,55 @@ translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_9ac92080:
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_88529bd2:
 
     # danny at_player wondering talk_happy_2 blush_3 "I really slept with Paulina Sanchez. I actually did that!"
-    danny at_player wondering talk_happy_2 blush_3 "Me dormí realmente con Paulina Sanchez. ¡Lo hice realmente!"
+    danny at_player wondering talk_happy_2 blush_3 "Me acosté con Paulina Sanchez. ¡Lo hice!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5931
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_e05ad943:
 
     # danny at_player wondering talk_happy blush_2 "{i}*Sigh*{/i} I don't think life can get any sweeter than this..."
-    danny at_player wondering talk_happy blush_2 "{i}*Sigh * {/i} No creo que la vida pueda conseguir más dulce que esta ..."
+    danny at_player wondering talk_happy blush_2 "{i}*Suspiro* {/i} No creo que la vida pueda darme algo más dulce que esto..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5932
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_69414554:
 
     # danny at_danny wondering talk_happy -blush_2 "To think just a few weeks ago, I was a total nobody!"
-    danny at_danny wondering talk_happy -blush_2 "¡Para pensar hace tan solo unas semanas, no era un todo absoluto!"
+    danny at_danny wondering talk_happy -blush_2 "¡Y pensar que hace tan solo unas semanas, era un don nadie!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5933
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_00d13622:
 
     # danny closed wondering talk_frown "And now I'm..."
-    danny closed wondering talk_frown "Y ahora yo..."
+    danny closed wondering talk_frown "Y ahora soy..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5934
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_e1a68a22:
 
     # danny closed rise_one talk_frown_2 "Well, I'm still a nobody, but it's like... a nobody..."
-    danny closed rise_one talk_frown_2 "Bueno, todavía no soy un cuerpo, pero es así... un todo..."
+    danny closed rise_one talk_frown_2 "Bueno, todavía no soy nadie, pero és parecido... a un don nadie..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5935
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_112757ad:
 
     # danny at_player wondering talk_happy_2 "...with an awesome secret identity! Alright!"
-    "¡[_danny_s_at_player_s_wondering_s_talk_happy_2_] ...con una increíble identidad secreta! ¡Muy bien!"
+    "¡[_danny_s_at_player_s_wondering_s_talk_happy_2_] ...¡con una increíble identidad secreta! ¡Muy bien!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5936
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_09a60d00:
 
     # danny at_danny sad talk_frown "Still a nobody, but..."
-    danny at_danny sad talk_frown "Todavía no hay nadie, pero..."
+    danny at_danny sad talk_frown "Todavía un don nadie, pero..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5937
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_551f1492:
 
     # danny at_player rise_one talk_happy_2 "Ehh, you take the victories that you can get."
-    danny at_player rise_one talk_happy_2 "Ehh, tomas las victorias que puedes obtener."
+    danny at_player rise_one talk_happy_2 "Ehh, toma las victorias que puedas obtener."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5938
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_d963f946:
 
     # danny towards neutral talk_happy "Alright, time to relax, get into bed, and let this whole day just lull me to sleep..."
-    danny towards neutral talk_happy "Bien, hora de relajarse, sube a la cama y deja que todo este día me lancen a dormir..."
+    danny towards neutral talk_happy "Bien, hora de relajarse, subir a la cama y dejar que todo este día de ganas de dormir..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5939
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_3bc2e359:
@@ -10840,25 +10840,25 @@ translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_3bc2e359:
 translate spanish A_Stroke_After_Midnight_scene_13c_bedroom_6289b831:
 
     # danny at_player wondering talk_happy_2 "Everything's turning up Fenton!"
-    danny at_player wondering talk_happy_2 "¡Todo está apareciendo en el Fentón!"
+    danny at_player wondering talk_happy_2 "¡Todo se está volviendo Fentón!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5962
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_6be32256:
 
     # danny at_player sad talk_displeased "Alrighty... asking Star to the dance... oh man, what's Sam gonna think?"
-    danny at_player sad talk_displeased "Muy bien... preguntando a la estrella del baile... oh hombre, ¿qué piensa Sam gonna?"
+    danny at_player sad talk_displeased "Muy bien... preguntando a Start sobre el baile... oh tío, ¿qué pensará Sam?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5963
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_c379a3b7:
 
     # danny down idle talk_displeased "Well... I guess I'll find out later, but I doubt she's gonna be too thrilled."
-    danny down idle talk_displeased "Bueno... supongo que lo veré más tarde, pero dudo que se vaya demasiado emocionada."
+    danny down idle talk_displeased "Bueno... supongo que lo descubriré más tarde, pero dudo que se emocione demasiado."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5964
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_6ab6aaa1:
 
     # danny at_player rise talk_displeased "In fact, Sam might not even go to the dance at this point, right?"
-    danny at_player rise talk_displeased "De hecho, Sam podría ni siquiera ir al baile en este momento, ¿verdad?"
+    danny at_player rise talk_displeased "De hecho, Sam ni siquiera podría ir al baile, ¿no?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5969
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_76b2fe88:
@@ -10870,7 +10870,7 @@ translate spanish A_Stroke_After_Midnight_scene_6d_starphone_76b2fe88:
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_a792add9:
 
     # billspook "Hey, Star." (multiple=2)
-    billspook "Hey, estrella." (multiple=2)
+    billspook "Hey, Start." (multiple=2)
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5973
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_1672c189:
@@ -10882,43 +10882,43 @@ translate spanish A_Stroke_After_Midnight_scene_6d_starphone_1672c189:
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_6808148d:
 
     # billspook "Ayyee Star. You there?"
-    billspook "Estrella Ayyee. ¿Ahí está?"
+    billspook "Ayyee Start. ¿Estás ahí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5975
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_cc7ea7a0:
 
     # starspook "Oh yeah, my bad. Was just using the bathroom, and I don't text on the toilet. Sorry lolz"
-    starspook "Oh sí, mi mal. Estaba usando el cuarto de baño, y no escribo en el baño. Disculpe lolz"
+    starspook "Oh sí, joder. Estaba usando el cuarto de baño, y no escribo en el lavabo. Disculpa"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5976
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_cff4d14e:
 
     # billspook "Germs?"
-    "¿[_billspook_] gérmenes?"
+    "¿[_billspook_] ¿gérmenes?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5977
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_3389d623:
 
     # starspook "More so plenty of ruined phones I've dropped."
-    starspook "Más teléfonos arruinados que he soltado."
+    starspook "Más bien por los teléfonos que se me han caído y roto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5978
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_67e5305f:
 
     # starspook "So, what's up?"
-    starspook "Entonces, ¿qué pasa?"
+    starspook "Entonces, ¿qué tal va todo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5979
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_73bdf209:
 
     # billspook "Well, I was wondering if you'd like to go to the dance with me, like you were asking about."
-    billspook "Bueno, me preguntaba si te gustaría ir al baile conmigo, como lo estaba preguntando."
+    billspook "Bueno, me preguntaba si te gustaría ir al baile conmigo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5980
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_ee9b3d41:
 
     # starspook "Oh yeah! Oh, I would really like that, totally..."
-    starspook "¡Oh sí! Oh, realmente me gustaría eso..."
+    starspook "¡Oh sí! Oh, me gustaría eso..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5981
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_fbe30047:
@@ -10930,67 +10930,67 @@ translate spanish A_Stroke_After_Midnight_scene_6d_starphone_fbe30047:
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_02f619b8:
 
     # billspook "Something the matter?"
-    billspook "¿Algo importa?"
+    billspook "¿Sucede algo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5983
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_536c4831:
 
     # starspook "No, it's all good! I wanna go with you!"
-    "¡[_starspook_] No, está bien! ¡Quiero ir contigo!"
+    "¡[_starspook_] No, ¡está bien! ¡Quiero ir contigo!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5984
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_260926b2:
 
     # starspook "Speaking of which, I still haven't found a dress to go in. Would you mind helping out Billy?"
-    starspook "Hablando de los cuales, todavía no he encontrado un buen ritmo. ¿Te importaría ayudar a Billy?"
+    starspook "Hablando de esto, todavía no he encontrado un buen vestido. ¿Te importaría ayudarme Billy?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5985
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_70a89b07:
 
     # billspook "Uhm, don't see why not! How am I going to... help you, exactly?"
-    billspook "Uhm, ¡No veas por qué no! ¿Cómo voy a ... ayudarte, exactamente?"
+    billspook "Uhm, ¡No veo por qué no! ¿Cómo puedo... ayudarte?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5986
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_77ab4e2d:
 
     # starspook "Just meet me at the mall in the {i}afternoon{/i}."
-    starspook "Únete a mí en el centro comercial de la {i}por la tarde{/i}."
+    starspook "Únete a mí en el centro comercial por la {i}tarde{/i}."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5987
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_6b105203:
 
     # starspook "We'll go to AbYss together, and then I'll try some stuff on for you, see if you like it..."
-    starspook "Vamos a ir a AbYss juntos, y luego voy a probar algunas cosas para ti, ver si te gusta ..."
+    starspook "Vamos a ir a AbYss juntos, y luego voy a probarme  algunas para ti, para ver si te gustan..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5988
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_a6154bb6:
 
     # billspook "Oh, yeah, of course! I'd love to give my insight into your look!"
-    billspook "¡Oh, sí, por supuesto! ¡Me encantaría dar mi visión de tu vista!"
+    billspook "¡Oh, sí, por supuesto! ¡Me encantaría dar mi punto de tu vista!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5989
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_f1906161:
 
     # starspook "Lol I'm sure you'd love to... ;)"
-    starspook "Lol estoy seguro de que te encantarías... ;)"
+    starspook "Lol estoy seguro de que te encantará... ;)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5991
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_738ef452:
 
     # starspook "So yeah, just meet me there!! I gotta go though, so talk to you laters. Bye Billy!!"
-    starspook "Así que sí, solo me encuentro allí!! Tengo que ir allá, así que habla contigo más tarde. ¡Aye Billy!!"
+    starspook "Así que sí, ¡¡nos vemos allí!! Tengo que irme, hablaré contigo más tarde. ¡¡Adiós Billy!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5993
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_4b51c3fd:
 
     # billspook "Yeah, see ya then!!"
-    billspook "Sí, ¡échale un vistazo!"
+    billspook "Sí, ¡¡nos vemos!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6000
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_b267a7cb:
 
     # danny talk_happy "Oh man, I get to watch Star put on multiple outfits? That's gonna be nice..."
-    danny talk_happy "Oh man, ¿puedo ver a la estrella puesta en varios atuendos? Eso es bueno que sea así..."
+    danny talk_happy "Oh tío, ¿puedo ver a la Start llevar varios atuendos? Eso va a ser bueno..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6001
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_5982c7c8:
@@ -11008,73 +11008,73 @@ translate spanish A_Stroke_After_Midnight_scene_6d_starphone_5f0fafd5:
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_1c73cd96:
 
     # danny at_player neutral talk_happy "Anyway, I don't need to worry about it. She said yes, and now I've got a date!"
-    danny at_player neutral talk_happy "De todos modos, no tengo que preocuparme por ello. Ella dijo que sí, ¡y ahora tengo una fecha!"
+    danny at_player neutral talk_happy "Va, no necesito preocuparme por ello. Ella dijo que sí, ¡y ahora tengo una cita!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6004
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_b63b83ed:
 
     # danny towards neutral talk_happy_2 "Guess I just gotta meet her at the mall then."
-    danny towards neutral talk_happy_2 "Supongo que sólo tengo que conocerla en el centro comercial entonces."
+    danny towards neutral talk_happy_2 "Sólo tengo que quedar con ella en el centro comercial."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6023
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_65c2195f:
 
     # danny phantom towards neutral talk_frown "Okay, I'm here in my ghost form... just... waiting around for Star."
-    danny phantom towards neutral talk_frown "Vale, estoy aquí en mi forma fantasma... sólo... esperando a la estrella."
+    danny phantom towards neutral talk_frown "Vale, estoy aquí en mi forma fantasma... sólo... esperando a la Start."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6024
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_7c34df6d:
 
     # danny phantom at_player_wide sad talk_frown_2 "Man, this is weird... what if someone just comes up to me, and starts asking me questions?"
-    danny phantom at_player_wide sad talk_frown_2 "Hombre, esto es extraño... ¿qué pasa si alguien me llega y empieza a hacerme preguntas?"
+    danny phantom at_player_wide sad talk_frown_2 "Tío, esto és extraño... ¿qué pasa si alguien llega y empieza a hacerme preguntas?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6025
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_ef35d45e:
 
     # danny phantom at_danny neutral talk_frown "It must not be often that mall security has to deal with a ghost floating around here."
-    danny phantom at_danny neutral talk_frown "No debe ser frecuente que la seguridad comercial tenga que lidiar con un fantasma flotando por aquí."
+    danny phantom at_danny neutral talk_frown "No debe ser frecuente que el de seguridad tenga que lidiar con un fantasma flotando por aquí."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6026
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_ac61ff8e:
 
     # danny phantom towards_wide sad_2 talk_frown_2 "Actually, as of late, it's been quite often, sadly."
-    danny phantom towards_wide sad_2 talk_frown_2 "En realidad, a partir de tarde, ha sido bastante a menudo, triste."
+    danny phantom towards_wide sad_2 talk_frown_2 "Aunque últimamente ha sido bastante a menudo, que triste."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6027
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f0c17ce3:
 
     # danny phantom at_player_wide wondering talk_frown "Still, I feel sorta naked just hanging around waiting for-"
-    danny phantom at_player_wide wondering talk_frown "Aún así, me siento desnudo de estar esperando -"
+    danny phantom at_player_wide wondering talk_frown "Aún así, me siento al descubierto mientras estoy esperando -"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6031
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_15795ddd:
 
     # star "Hey Billy!! What's up, cutie??"
-    star "Hey Billy!! ¿Qué pasa, cutie??"
+    star "¡¡Hey Billy!! ¿¿Qué pasa, lindo??"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6033
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_b0367b33:
 
     # danny phantom towards neutral talk_happy "Oh, hey Star. I'm fine. Excited for today is all."
-    danny phantom towards neutral talk_happy "Oh, hey Star. Estoy bien. Excitado por hoy es todo."
+    danny phantom towards neutral talk_happy "Oh, hey Star. Estoy bien. Excitado por el encuentro."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6035
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_41c6e20d:
 
     # star normal towards rise_one talk_frown noblush "Yeah, I can tell already!"
-    star normal towards rise_one talk_frown noblush "Sí, ¡ya puedo contarlo!"
+    star normal towards rise_one talk_frown noblush "Sí, ¡yo también!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6037
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_6e8d80d0:
 
     # danny phantom at_danny sad talk_frown "Oh, y-you can? Oh, I'm s-so sorry, I didn't mean to embarass-"
-    danny phantom at_danny sad talk_frown "Oh, ¿o puedes? Oh, lo siento, no quería embarcarme-"
+    danny phantom at_danny sad talk_frown "Oh, ¿o puedes? Oh, lo siento, no quería avergonzart-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6039
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_ff3baf57:
 
     # star normal towards neutral_2 talk_happy_2 noblush "Hahah dude, calm down, I'm just messing with you!"
-    star normal towards neutral_2 talk_happy_2 noblush "dudo de Hahah, ¡calma, estoy embrujando contigo!"
+    star normal towards neutral_2 talk_happy_2 noblush "¡Hahah tío, calma, estoy embrujada por ti!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6041
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_58f5023f:
@@ -11086,7 +11086,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_58f5023f:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_63a37244:
 
     # danny phantom towards_wide wondering frown_3 "(Oh boy...)"
-    danny phantom towards_wide wondering frown_3 "(Oh boy...)"
+    danny phantom towards_wide wondering frown_3 "(Oh nen...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6055
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_96def407:
@@ -11098,7 +11098,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_96def407:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_8ba9f7bc:
 
     # sales_lady towards wondering talk_happy "Ehrm, if I can be so frank as to ask, you wouldn't happen to be a ghost by chance, would you sir?"
-    sales_lady towards wondering talk_happy "Ehrm, si puedo ser tan franco como para preguntar, no pasaría a ser un fantasma por casualidad, ¿querrías ser?"
+    sales_lady towards wondering talk_happy "Ehrm, si puedo ser franca para preguntar, podrías ser un fantasma por casualidad, ¿podrías ser?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6060
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_c4621ef6:
@@ -11110,37 +11110,37 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_c4621ef6:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_1bea7dc3:
 
     # star normal towards confused_2 talk_happy noblush "Oh no, this is just my albino friend, he's got a weird complexion... and even stranger fashion sense..."
-    star normal towards confused_2 talk_happy noblush "Oh no, esto es sólo mi amigo albino, tiene una extraña complejidad... y aún más extraña forma de moda..."
+    star normal towards confused_2 talk_happy noblush "Oh no, és sólo mi amigo albino, tiene una extraña complejidad... y aún más extraña forma de moda..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6066
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_632e8e8f:
 
     # sales_lady towards wondering talk_happy "Oh, I see, but... is he glowing a little around his edges?"
-    sales_lady towards wondering talk_happy "Oh, veo, pero... ¿está brillando un poco alrededor de sus bordes?"
+    sales_lady towards wondering talk_happy "Oh, veo, pero... ¿le estás brillando un poco lo ojos?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6069
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_b14a431d:
 
     # star normal towards_wide confused talk_frown noblush "Well yeah, he's also Russian, and his parents grew up in a village close by to Chernobyl, so..."
-    star normal towards_wide confused talk_frown noblush "Bueno, sí, también es ruso, y sus padres crecieron en un pueblo cerca de Chernóbil..."
+    star normal towards_wide confused talk_frown noblush "Bueno, sí, también és ruso, y sus padres crecieron en un pueblo cerca de Chernóbil..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6072
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_0fbaa822:
 
     # sales_lady towards neutral talk_happy "Ohhhh, I see!! My mistake sir, welcome to AbYss!!"
-    sales_lady towards neutral talk_happy "Ohhhhh, ¡Vo!! Mi señor, bienvenido a Abys!!"
+    sales_lady towards neutral talk_happy "¡¡Ohhhhh, ya entiendo!! ¡¡Mis disculpas señor, bienvenido a Abys!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6074
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_788d90b4:
 
     # danny phantom blank_stare wondering frown_2 "(What some people will believe on a whim, I swear.)"
-    danny phantom blank_stare wondering frown_2 "(Lo que algunas personas creerán por capricho, juro.)"
+    danny phantom blank_stare wondering frown_2 "(Lo que algunas personas se llegan a creer por antojo, lo juro.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6076
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_46ea51fb:
 
     # star normal towards neutral_2 talk_happy noblush "So, today, we're looking for something for me to wear at the upcoming dance..."
-    star normal towards neutral_2 talk_happy noblush "Así que, hoy, estamos buscando algo que me lleve en el próximo baile..."
+    star normal towards neutral_2 talk_happy noblush "Así que, hoy, estoy buscando algo para el próximo baile..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6078
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_de30a674:
@@ -11152,13 +11152,13 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_de30a674:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_41308a53:
 
     # star normal towards angry talk_happy_2 noblush "I need a couple of things to choose from. Give me the best of what you've got. My friend's going to be giving me his opinion."
-    star normal towards angry talk_happy_2 noblush "Necesito un par de cosas para elegir. Dame lo mejor de lo que tienes. Mi amigo me va a estar dando su opinión."
+    star normal towards angry talk_happy_2 noblush "Necesito un par de cosas para elegir. Dame lo mejor que tengas. Mi amigo me va ir dando su opinión."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6083
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_ad9a5d4d:
 
     # sales_lady towards neutral talk_happy "Alrighty! Let's head on over to the changing room, shall we?"
-    sales_lady towards neutral talk_happy "¡Bien! Vamos al vestuario, ¿verdad?"
+    sales_lady towards neutral talk_happy "¡Bien! Vamos al vestuario, ¿me sigues?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6098
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_1563aad5:
@@ -11170,37 +11170,37 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_1563aad5:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_d335bea6:
 
     # star normal towards angry talk_frown noblush "Now, again, the best you have here in stock would be appreciated."
-    star normal towards angry talk_frown noblush "Ahora, de nuevo, lo mejor que tienes aquí en stock sería apreciado."
+    star normal towards angry talk_frown noblush "Ahora, bueno, apreciaré lo mejor que tengas en stock."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6102
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_10747f91:
 
     # sales_lady towards wondering talk_happy "Yes ma'am, I'll lend you some over the top shelf for you to try on."
-    sales_lady towards wondering talk_happy "Sí ma'am, te prestaré algo por encima de la protección superior para que lo pruebes."
+    sales_lady towards wondering talk_happy "Sí tía, te traeré algo de por encima de lo habitual para que lo pruebes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6105
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_c4d0c444:
 
     # star normal towards rise_one talk_frown noblush "Great, thaaaanks."
-    star normal towards rise_one talk_frown noblush "Genial, thaaaanks."
+    star normal towards rise_one talk_frown noblush "Genial, Graciassss."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6113
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_b02837dc:
 
     # star "Okay, c'mon Billy! Shuffle on inside there!"
-    star "Vale, ¡c'mon Billy! ¡Mezclar dentro de allí!"
+    star "Vale, ¡Vamos! ¡Métete aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6115
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_fa1507ca:
 
     # danny phantom towards wondering talk_happy "Oh, okay then. Yeah, I wanna make sure I help you pick the best outfit to-"
-    danny phantom towards wondering talk_happy "Oh, está bien. Sí, quiero asegurarme de que te ayude a elegir el mejor traje para..."
+    danny phantom towards wondering talk_happy "Oh, está bien. Sí, quiero asegurarme de ayudarte a elegir el mejor traje para"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6117
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_38584fde:
 
     # star normal towards rise_one talk_happy_2 noblush "Hahah, oh Billy, don't be modest. We both know why you're looking forward to watching me change in and out of clothes."
-    star normal towards rise_one talk_happy_2 noblush "Hahah, oh Billy, no te molestes. Ambos sabemos por qué estás deseando verme cambiar de ropa."
+    star normal towards rise_one talk_happy_2 noblush "Hahah, oh Billy, no seas modesto. Ambos sabemos por qué estás deseando verme cambiándome de ropa."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6119
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_a4fc63f1:
@@ -11212,25 +11212,25 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_a4fc63f1:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_68adac4c:
 
     # star normal towards neutral_2 talk_frown noblush "Come on, let's go, get your butt in gear!"
-    star normal towards neutral_2 talk_frown noblush "¡Vamos, vamos, consigue tu trasero en marcha!"
+    star normal towards neutral_2 talk_frown noblush "¡Vamos, vamos, pon tu trasero en marcha!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6123
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_a01ad8a2:
 
     # danny phantom towards rise_one talk_frown "Alright, alright! I'm going!"
-    danny phantom towards rise_one talk_frown "Muy bien, ¡está bien! ¡Voy a hacerlo!"
+    danny phantom towards rise_one talk_frown "Muy bien, ¡está bien! ¡Ya voy!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6133
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_cb591808:
 
     # danny phantom towards_wide rise_one talk_happy "Well, it's uh, at least roomy."
-    danny phantom towards_wide rise_one talk_happy "Bueno, es uh, al menos espacioso."
+    danny phantom towards_wide rise_one talk_happy "Bueno, és uh, espacioso."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6135
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_ed3dbddc:
 
     # star normal towards neutral_2 talk_happy blush_1 "Yeah, but it's still nice and cozy, wouldn't you say?~"
-    star normal towards neutral_2 talk_happy blush_1 "Sí, pero todavía es agradable y acogedor, ¿no dirías?~"
+    star normal towards neutral_2 talk_happy blush_1 "Sí, és agradable y acogedor, ¿no dirás que no?~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6137
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_7325b4da:
@@ -11242,31 +11242,31 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_7325b4da:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_b61aeacf:
 
     # sales_lady "Okay ma'am, I'll leave these four over the edge here for you."
-    sales_lady "Okay ma'am, dejaré estos cuatro encima del borde aquí para ti."
+    sales_lady "Okay chica, dejaré estos cuatro encima de aquí para ti."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6142
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_dabf17c0:
 
     # star normal towards neutral_2 talk_happy noblush "Perfect!! Thanks so much!"
-    star normal towards neutral_2 talk_happy noblush "Perfect!! ¡Muchas gracias!"
+    star normal towards neutral_2 talk_happy noblush "¡¡Perfecto!! ¡Muchas gracias!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6144
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_a16282d8:
 
     # star normal towards neutral talk_happy noblush "Now Billy, would you mind turning around for me while I slip into each one?"
-    star normal towards neutral talk_happy noblush "Ahora bien, ¿te importaría girarme para mí mientras me deslizo en cada una?"
+    star normal towards neutral talk_happy noblush "Ahora bien, ¿te importaría girarme mientras me cambio con cada uno?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6146
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_db68e7e2:
 
     # danny phantom towards rise_one talk_frown_2 "Wouldn't it have been easier to just have me wait outside for that?"
-    danny phantom towards rise_one talk_frown_2 "¿No habría sido más fácil tenerme esperar afuera para eso?"
+    danny phantom towards rise_one talk_frown_2 "¿No habría sido más fácil esperar fuera?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6149
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_df57d556:
 
     # star normal towards confused talk_frown noblush "This is faster, plus, if it's hideous, I don't wanna be caught seen in it."
-    star normal towards confused talk_frown noblush "Esto es más rápido, más, si es escondido, no quiero ser visto en él."
+    star normal towards confused talk_frown noblush "Esto es más rápido, más, escondido, no quiero ser vista haciendo esto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6151
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_189543a0:
@@ -11290,13 +11290,13 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_b88d642d:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_0459aa1d:
 
     # star "Okay, turn around."
-    star "Vale, hazte con eso."
+    star "Vale, gírate."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6169
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_cb637f4a:
 
     # danny phantom towards_wide neutral talk_happy "Woah, that looks pretty good already."
-    danny phantom towards_wide neutral talk_happy "Woah, eso ya se ve bastante bien."
+    danny phantom towards_wide neutral talk_happy "Woah, eso se ve bastante bien."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6171
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_9a7f5857:
@@ -11308,37 +11308,37 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_9a7f5857:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_1f8c117a:
 
     # danny phantom towards neutral talk_happy_2 "I really do!"
-    danny phantom towards neutral talk_happy_2 "¡Realmente lo hago!"
+    danny phantom towards neutral talk_happy_2 "¡Realmente!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6175
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_6fe07957:
 
     # star blackdress towards confused_2 talk_frown noblush "I honestly don't mind the color, it's the hem that's bothering me though, ya know?"
-    star blackdress towards confused_2 talk_frown noblush "Sinceramente no me importa el color, ¿es el sombrero que me molesta, ya lo sabe?"
+    star blackdress towards confused_2 talk_frown noblush "Sinceramente no me importa el color, és el sombrero que me molesta."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6177
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_64252ba9:
 
     # danny phantom blank_stare wondering talk_frown "Uhh... yeah, totally."
-    danny phantom blank_stare wondering talk_frown "Uhh... sí, en total."
+    danny phantom blank_stare wondering talk_frown "Uhh... sí, total."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6179
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_d4a80d9c:
 
     # star blackdress towards neutral_2 talk_happy noblush "Oh Billy, you're so silly."
-    star blackdress towards neutral_2 talk_happy noblush "Oh Billy, estás tan silly."
+    star blackdress towards neutral_2 talk_happy noblush "Oh Billy, estás muy tonto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6181
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f2952d21:
 
     # star blackdress towards neutral talk_frown noblush "Moving on, let's try another. Turn around."
-    star blackdress towards neutral talk_frown noblush "En movimiento, vamos a probar otra. Gira."
+    star blackdress towards neutral talk_frown noblush "Al lío, voy a probar otra. Gírate."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6183
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_05c2b4f3:
 
     # danny phantom towards neutral talk_happy "Gotcha."
-    danny phantom towards neutral talk_happy "Gotcha."
+    danny phantom towards neutral talk_happy "Hecho."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6189
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_a0df2a96_1:
@@ -11368,13 +11368,13 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_2af876ff:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_962e4ea1:
 
     # star bluedress towards neutral talk_happy_2 noblush "Another all around solid hitter, I agree."
-    star bluedress towards neutral talk_happy_2 noblush "Otro golpeador sólido, estoy de acuerdo."
+    star bluedress towards neutral talk_happy_2 noblush "Otro bueno, estoy de acuerdo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6203
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_473582d5:
 
     # star bluedress towards angry talk_frown noblush "Although honestly, it feels like my ass is swallowing the fabric in the back already at this point."
-    star bluedress towards angry talk_frown noblush "Aunque sinceramente, parece que mi culo está tragando la tela en la parte trasera ya en este momento."
+    star bluedress towards angry talk_frown noblush "Aunque, parece que mi culo se está tragando la tela."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6205
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_d45ee2ad:
@@ -11386,25 +11386,25 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_d45ee2ad:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_4f509076:
 
     # star bluedress towards rise_one talk_happy blush_1 "Yes, and before you ask to see it, no. {i}*Giggles*{/i}"
-    star bluedress towards rise_one talk_happy blush_1 "Sí, y antes de pedir verlo, no. {i}*Giggles*{/i}"
+    star bluedress towards rise_one talk_happy blush_1 "Sí, y antes de que tú lo vieras y lo dijeras. {i}*Risas*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6209
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_3130b5b0:
 
     # danny phantom towards_wide angry talk_happy "Hey, I wouldn't have-"
-    danny phantom towards_wide angry talk_happy "Hey, no lo tendría-"
+    danny phantom towards_wide angry talk_happy "Hey, no lo habría-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6211
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_25f451cb:
 
     # star bluedress towards_wide angry talk_frown noblush "Trust me, I can tell you it's definitely not a pretty picture."
-    star bluedress towards_wide angry talk_frown noblush "Confíe en mí, puedo decirle que definitivamente no es una foto bonita."
+    star bluedress towards_wide angry talk_frown noblush "Confía en mí, puedo decirte que no és una foto bonita."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6213
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_be82c872:
 
     # star bluedress towards neutral_2 talk_happy noblush "Alright, turn around once more, please Mr. Ghost Man."
-    star bluedress towards neutral_2 talk_happy noblush "De acuerdo, gire una vez más, por favor señor Ghost Man."
+    star bluedress towards neutral_2 talk_happy noblush "De acuerdo. Por favor señor Ghost Man, gírate una vez más,."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6215
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_dd5faf8a:
@@ -11440,7 +11440,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_5f41bfbd:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_5b3d7afe:
 
     # star "I think either the dressing woman was making a mistake or she's playing a funny joke."
-    star "Creo que o la mujer vestida estaba cometiendo un error o que está jugando un chiste divertido."
+    star "Creo que la dependienta cometió un error o me ha hecho una broma divertida."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6229
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_934ecb81:
@@ -11458,13 +11458,13 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_b88d642d_3:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_0459aa1d_1:
 
     # star "Okay, turn around."
-    star "Vale, hazte con eso."
+    star "Vale, gírate."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6233
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_24bcc036:
 
     # danny phantom towards wondering talk_happy "What's the jok-"
-    danny phantom towards wondering talk_happy "Qué es el chiste-"
+    danny phantom towards wondering talk_happy "Cual és el chiste-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6240
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_2ba6bfd7:
@@ -11476,25 +11476,25 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_2ba6bfd7:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_452892c1:
 
     # danny phantom towards_wide wondering talk_happy_2 "Uhmmm. w-w-well... you look..."
-    danny phantom towards_wide wondering talk_happy_2 "Uhmmm. w-w-well... mira..."
+    danny phantom towards_wide wondering talk_happy_2 "Uhmmm. b-b-bueno... tú pareces..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6244
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_59ecad7f:
 
     # star garter towards rise_one talk_happy noblush "Must've just gotten mixed in with the dresses, right?"
-    star garter towards rise_one talk_happy noblush "Debe haberse mezclado con la vestimenta, ¿verdad?"
+    star garter towards rise_one talk_happy noblush "Debe haber mezclado con la vestimenta, ¿verdad?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6246
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_6d73958c:
 
     # danny phantom blank_stare neutral talk_happy_2 "Y-yeah, just a little mistake, h-harmless o-o-oopsie."
-    danny phantom blank_stare neutral talk_happy_2 "Y-sí, solo un pequeño error, h-inofensivo o-oopsia."
+    danny phantom blank_stare neutral talk_happy_2 "S-sí, solo un pequeño error, i-inofensivo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6248
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_45f36462:
 
     # star garter down neutral talk_frown noblush "Jeez, you're already creaming your loins over there."
-    star garter down neutral talk_frown noblush "Jeez, ya estás creando tus lomos por ahí."
+    star garter down neutral talk_frown noblush "Jeez, ya estás poniéndote burro."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6250
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f11e5205:
@@ -11506,7 +11506,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_f11e5205:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_0095d510:
 
     # star garter towards neutral_2 talk_happy_2 blush_2 "It's okay... I like knowing that you enjoy looking at me like this..."
-    star garter towards neutral_2 talk_happy_2 blush_2 "Está bien... Me gusta saber que me disfrutas mirándome así..."
+    star garter towards neutral_2 talk_happy_2 blush_2 "Está bien... Me gusta saber que me disfrutas mirándome..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6255
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_2c2b7569:
@@ -11518,49 +11518,49 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_2c2b7569:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_bbfb9bed:
 
     # star garter towards rise_one talk_happy noblush "Well I guess I should change into an actual outfit now, huh?"
-    star garter towards rise_one talk_happy noblush "Bueno, supongo que ahora debería cambiar a un equipo real, ¿eh?"
+    star garter towards rise_one talk_happy noblush "Bueno, supongo que ahora debería cambiar a un verdadero vestido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6259
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_e9158781:
 
     # danny phantom towards neutral talk_happy "Sure, I'll turn around again then."
-    danny phantom towards neutral talk_happy "Claro, entonces volveré la vuelta de nuevo."
+    danny phantom towards neutral talk_happy "Claro, entonces volveré a darme la vuelta de nuevo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6268
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_71f73671:
 
     # star dress towards rise_one talk_happy noblush "Alright, for real, what do you think of this one?"
-    star dress towards rise_one talk_happy noblush "Bien, para realistas, ¿qué opinas de este?"
+    star dress towards rise_one talk_happy noblush "Bien, en realidad, ¿qué opinas de este?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6274
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_6d70e4a9:
 
     # danny phantom towards angry talk_happy "Oh wow, yeah, that one looks really nice. I like the color and everything."
-    danny phantom towards angry talk_happy "Oh wow, sí, que uno se ve muy bien. Me gusta el color y todo."
+    danny phantom towards angry talk_happy "Oh wow, sí, se ve muy bien. Me gusta el color."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6276
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_a4b49caf:
 
     # star dress towards angry talk_happy_2 noblush "Yeah, I think it suits me pretty well."
-    star dress towards angry talk_happy_2 noblush "Sí, creo que me conviene bastante bien."
+    star dress towards angry talk_happy_2 noblush "Sí, creo que me conviene bastante."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6278
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_2b344edc:
 
     # danny phantom towards rise_one talk_happy_2 "Again, can't imagine you looking bad in much."
-    danny phantom towards rise_one talk_happy_2 "De nuevo, no se puede imaginar que te parezca mal en mucho."
+    danny phantom towards rise_one talk_happy_2 "De nuevo, no puedo imaginarte fea."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6280
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_9af96901:
 
     # star dress down neutral talk_happy_2 blush_2 "Oh Billy, you flirt."
-    star dress down neutral talk_happy_2 blush_2 "Oh Billy, flirt."
+    star dress down neutral talk_happy_2 blush_2 "Oh Billy, como coqueteas."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6282
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_02a69ea5:
 
     # star dress towards neutral talk_happy noblush "C'mon, let's get outta here, I think I've made my choice."
-    star dress towards neutral talk_happy noblush "C'mon, vayamos aquí, creo que he hecho mi elección."
+    star dress towards neutral talk_happy noblush "Vamos, vámonos de aquí, creo que he hecho mi elección."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6284
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f8fa1064:
@@ -11578,25 +11578,25 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_192783cb:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_55e916db:
 
     # danny phantom towards wondering talk_happy "Y-yeah, definitely... man..."
-    danny phantom towards wondering talk_happy "Y-sí, definitivamente... hombre..."
+    danny phantom towards wondering talk_happy "S-sí, definitivamente... hombre..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6300
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_1b64f122:
 
     # danny phantom towards rise_one talk_happy_2 "You really know how to flaunt what you've got going on."
-    danny phantom towards rise_one talk_happy_2 "Realmente sabes hacer alarde de lo que tienes en marcha."
+    danny phantom towards rise_one talk_happy_2 "Realmente sabes hacer alarde de lo que tienes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6302
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_d9a9f4bd:
 
     # star normal towards neutral talk_happy_2 blush_1 "It's called accentuating. Haha hah."
-    star normal towards neutral talk_happy_2 blush_1 "Se llama acentuante. Haha hah."
+    star normal towards neutral talk_happy_2 blush_1 "Se llama acentuar. Haha hah."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6304
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_2d912f59:
 
     # star normal towards rise_one talk_happy noblush "Okay, so I think I found something that I want. That red orange piece was really nice, don't you think?"
-    star normal towards rise_one talk_happy noblush "Vale, así que creo que encontré algo que quiero. Esa pieza naranja roja fue realmente bonita, ¿no crees?"
+    star normal towards rise_one talk_happy noblush "Vale, creo que encontré algo que quiero. Esa pieza naranja roja és bonita, ¿no crees?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6306
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_8445598e:
@@ -11608,43 +11608,43 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_8445598e:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_0298f2e2:
 
     # star normal down neutral talk_frown noblush "Yeah, I thought so too..."
-    star normal down neutral talk_frown noblush "Sí, yo también lo pensaba..."
+    star normal down neutral talk_frown noblush "Sí, yo también lo pienso..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6310
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_6e32ebad:
 
     # star normal towards neutral talk_happy_2 noblush "Let's go with that then!"
-    star normal towards neutral talk_happy_2 noblush "¡Vamos con eso entonces!"
+    star normal towards neutral talk_happy_2 noblush "¡Vamos entonces!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6312
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_33c26154:
 
     # danny phantom towards angry talk_happy_2 "Sounds great!"
-    "¡[_danny_s_phantom_s_towards_s_angry_s_talk_happy_2_] suena genial!"
+    "¡[_danny_s_phantom_s_towards_s_angry_s_talk_happy_2_] ¡¡suena genial!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6314
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_85ce6cd8:
 
     # star normal towards rise_one talk_frown noblush "Any idea what you're gonna wear?"
-    star normal towards rise_one talk_frown noblush "¿Alguna idea de lo que vas a usar?"
+    star normal towards rise_one talk_frown noblush "¿Alguna idea de lo que llevarás tú?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6316
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_53c2c4a3:
 
     # danny phantom towards_wide sad talk_frown "Well, what do you think I should go in?"
-    danny phantom towards_wide sad talk_frown "Bueno, ¿qué crees que debería entrar?"
+    danny phantom towards_wide sad talk_frown "Bueno, ¿qué crees que debería llevar?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6318
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_7951e75f:
 
     # star normal down neutral talk_frown noblush "{i}Hmmmm{/i}... something nice of course, I really want to show off to everyone..."
-    star normal down neutral talk_frown noblush "{i}Hmmmm{/i}... algo agradable, por supuesto, realmente quiero mostrar a todos..."
+    star normal down neutral talk_frown noblush "{i}Hmmmm{/i}... algo agradable, por supuesto, quiero mostrar a todos..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6320
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f314b753:
 
     # star normal towards_wide neutral talk_frown noblush "That's like, 50 percent of the reason to even go to these stupidly gaudy dances."
-    star normal towards_wide neutral talk_frown noblush "Eso es como el 50 por ciento de la razón para ir incluso a estos bailes estúpidos."
+    star normal towards_wide neutral talk_frown noblush "Eso es como el 50 por ciento de las razones por las que voy a estos estúpidos bailes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6322
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_290c1a70:
@@ -11656,7 +11656,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_290c1a70:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_5da660ad:
 
     # star normal towards_wide neutral talk_happy_2 blush_1 "25 percent to get loaded with booze, and 25 percent to hopefully get laid well."
-    star normal towards_wide neutral talk_happy_2 blush_1 "25 por ciento para cargarse con libro, y 25 por ciento para esperar que se pongan bien."
+    star normal towards_wide neutral talk_happy_2 blush_1 "25 por ciento para tomar alcohol, y 25 para quedar bien."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6326
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_16454e89:
@@ -11674,19 +11674,19 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_a0df2a96_2:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_df05fdb6:
 
     # star normal towards rise_one talk_happy_2 blush_2 "Oh my God, your face is hilarious!"
-    star normal towards rise_one talk_happy_2 blush_2 "¡Oh mi Dios, tu rostro es hilario!"
+    star normal towards rise_one talk_happy_2 blush_2 "¡Oh Dios, tu rostro está hilario!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6332
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_bc5f6b2a:
 
     # star normal towards angry talk_happy noblush "You're so funny to fuck with, Billy."
-    star normal towards angry talk_happy noblush "Eres tan divertido de joder con, Billy."
+    star normal towards angry talk_happy noblush "Eres tan divertido de provocar, Billy."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6334
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_8467ad3e:
 
     # star normal towards rise_one talk_happy blush_1 "Hope you're even better to fuck around with..."
-    star normal towards rise_one talk_happy blush_1 "Espero que incluso más te guste follar con..."
+    star normal towards rise_one talk_happy blush_1 "Espero que seas tan bueno en la cama con..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6336
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_2f944fe9:
@@ -11698,25 +11698,25 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_2f944fe9:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_9ed4720c:
 
     # star normal towards_wide rise_one talk_happy_2 blush_1 "See, I told you! Hah ahah ha!"
-    star normal towards_wide rise_one talk_happy_2 blush_1 "Ve, te dije. ¡Hah háhá!"
+    star normal towards_wide rise_one talk_happy_2 blush_1 "Ves, lo que te decía. ¡Hah háhá!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6340
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_489eec8a:
 
     # star normal towards neutral_2 talk_happy noblush "See you later Billy."
-    star normal towards neutral_2 talk_happy noblush "Nos vemos después de Billy."
+    star normal towards neutral_2 talk_happy noblush "Nos vemos después Billy."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6342
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_7c1cd184:
 
     # danny phantom towards wondering talk_frown_2 "You don't need me to help pay for anything?"
-    danny phantom towards wondering talk_frown_2 "¿No me necesita para ayudar a pagar por nada?"
+    danny phantom towards wondering talk_frown_2 "¿No me necesitas para ayudarte a pagar por nada?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6344
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_543a61ca:
 
     # star normal towards confused talk_frown noblush "What? No, I got it. I'm not like poor or something, I'm good with my money."
-    star normal towards confused talk_frown noblush "¿Qué? No, lo entiendo. No soy como pobre o como algo, estoy bien con mi dinero."
+    star normal towards confused talk_frown noblush "¿Qué?, No lo entiendo. No soy pobre ni nada parecido, estoy bien de dinero."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6346
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_a263ee08:
@@ -11728,7 +11728,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_a263ee08:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_d0ab2048:
 
     # star normal towards neutral_2 talk_happy noblush "Again, I'll see you Saturday night. Meet in front of Casper High around 7:00, okay?"
-    star normal towards neutral_2 talk_happy noblush "De nuevo, te veré el sábado por la noche. Conoce frente a Casper High alrededor de las 7:00, ¿de acuerdo?"
+    star normal towards neutral_2 talk_happy noblush "De nuevo, te veré el sábado por la noche. Recógeme frente a Casper High alrededor de las 7:00, ¿de acuerdo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6352
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_53ff478d:
@@ -11740,7 +11740,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_53ff478d:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_c66fb727:
 
     # star normal towards neutral_2 talk_happy_2 noblush "Cooool. Bye Billy!"
-    star normal towards neutral_2 talk_happy_2 noblush "Cooool. ¡Ayugue!"
+    star normal towards neutral_2 talk_happy_2 noblush "Bieeen. ¡Adiós Billy!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6356
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f5d45d19:
@@ -11752,7 +11752,7 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_f5d45d19:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_6c64ed13:
 
     # danny phantom at_danny neutral talk_frown "Alright then, I guess that's covered and done with."
-    danny phantom at_danny neutral talk_frown "De acuerdo, entonces, supongo que está cubierto y hecho con."
+    danny phantom at_danny neutral talk_frown "De acuerdo, entonces, supongo que está todo atado y bien atado."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6358
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_f4cc434a:
@@ -11764,13 +11764,13 @@ translate spanish A_Stroke_After_Midnight_scene_7d_mall_f4cc434a:
 translate spanish A_Stroke_After_Midnight_scene_7d_mall_d721a0f0:
 
     # danny phantom at_player_wide sad_2 talk_frown_2 "...so, what exactly {i}am{/i} I going to wear?"
-    danny phantom at_player_wide sad_2 talk_frown_2 "...entonces, ¿qué exactamente {i}am{/i} voy a usar?"
+    danny phantom at_player_wide sad_2 talk_frown_2 "...entonces, ¿qué {i}voy{/i} a usar?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6383
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_2ba9c9b6:
 
     # danny phantom_suit towards neutral talk_frown "Alright, I got my outfit together, so..."
-    danny phantom_suit towards neutral talk_frown "Bien, he reunido mi vestuario así que..."
+    danny phantom_suit towards neutral talk_frown "Bien, tengo mi vestido completo así que..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6384
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_d5cb32db:
@@ -11794,31 +11794,31 @@ translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_498ab64d:
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_328d1a86:
 
     # danny phantom_suit at_danny sad_2 talk_frown_2 "{i}*Sigh*{/i}"
-    danny phantom_suit at_danny sad_2 talk_frown_2 "{i}*Suspiro*"
+    danny phantom_suit at_danny sad_2 talk_frown_2 "{i}*Suspiro*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6388
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_d35507a9:
 
     # danny phantom_suit at_player_wide wondering talk_frown "Oh boy..."
-    danny phantom_suit at_player_wide wondering talk_frown "Oh boy..."
+    danny phantom_suit at_player_wide wondering talk_frown "Oh tío..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6389
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_bb0f8e13:
 
     # danny phantom_suit at_player_wide angry frown_2 "(I really hope she's not one of those \"fashionably late\" people...)"
-    danny phantom_suit at_player_wide angry frown_2 "(espero realmente que no sea una de esas personas \"a la moda\")"
+    danny phantom_suit at_player_wide angry frown_2 "(espero que no sea una de esas personas \"modelo que llega siempre tarde\")"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6390
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_41c6fe33:
 
     # danny phantom_suit blank_stare_2 sad frown_2 "(That's totally in the realm of possibility though.)"
-    danny phantom_suit blank_stare_2 sad frown_2 "(Pero eso está totalmente en el reino de la posibilidad.)"
+    danny phantom_suit blank_stare_2 sad frown_2 "(Está completamente dentro de las posibilidad.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6395
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_fd6ac22c:
 
     # star "Billy! Looking {i}good{/i}, baby!!"
-    "¡¡[_star_] bien! ¡¡Mirando {i}bien{/i}, bebé!!"
+    star "¡Billy! ¡¡Te veo muy bien, {i}nene{/i}!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6397
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_4d40f75f:
@@ -11830,7 +11830,7 @@ translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_4d40f75f:
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_9a1c64a9:
 
     # star dress towards rise_one talk_happy_2 noblush "Don't I know it? I try my best to look bitching, whenever possible."
-    star dress towards rise_one talk_happy_2 noblush "¿No lo soy? Intento lo mejor que puedo para parecer amargo, siempre que sea posible."
+    star dress towards rise_one talk_happy_2 noblush "¿No lo sabes? Intento siempre que és posible hacer lo mejor para parecer amarga."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6401
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_d12f3a35:
@@ -11842,13 +11842,13 @@ translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_d12f3a35:
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_6497eb23:
 
     # star dress towards_wide rise_one talk_frown noblush "Well, let's head on in! I don't wanna be waiting out here all night like some loser!"
-    star dress towards_wide rise_one talk_frown noblush "Bueno, ¡vamos a entrar! ¡No quiero estar esperando aquí toda la noche como un perdedor!"
+    star dress towards_wide rise_one talk_frown noblush "Bueno, ¡vamos a entrar! ¡No quiero estar esperando aquí toda la noche como una perdedora!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6405
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_349da93e:
 
     # danny phantom_suit towards_wide wondering talk_frown_2 "Oh, s-sure! My mistake."
-    danny phantom_suit towards_wide wondering talk_frown_2 "Oh, ¡muy seguro! Mi error."
+    danny phantom_suit towards_wide wondering talk_frown_2 "Oh, ¡s-seguro! Error mío."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6406
 translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_43acfd8e:
@@ -11860,7 +11860,7 @@ translate spanish A_Stroke_After_Midnight_scene_8d_schoolfront_43acfd8e:
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_106778d5:
 
     # danny towards "(Oh crap, Lancer's chaperoning tonight!)"
-    danny towards "(¡Oh crap, el taladro de Lancero!)"
+    danny towards "(¡Oh mierda, el taladro de Lancer!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6423
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_52498f91:
@@ -11872,7 +11872,7 @@ translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_52498f91:
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_2c002bd4:
 
     # lancer towards idle_ talk_happy "Well, hello Miss Astray, Mr..."
-    lancer towards idle_ talk_happy "Bueno, hola Miss Astray, mañana..."
+    lancer towards idle_ talk_happy "Bueno, hola Miss Astray, Mr..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6427
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_530e6532:
@@ -11884,19 +11884,19 @@ translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_530e6532:
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_64aeac30:
 
     # lancer towards idle_ talk_frown "Huh... now I'm afraid I don't know you from school."
-    lancer towards idle_ talk_frown "Huh... ahora me temo que no te conozco de la escuela."
+    lancer towards idle_ talk_frown "Huh... me temo que no te conozco de la escuela."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6432
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_d78e3f62:
 
     # danny phantom_suit towards_wide rise_one talk_frown "Really? Uhm, well, that's because-"
-    danny phantom_suit towards_wide rise_one talk_frown "¿Realmente? Uhm, bueno, eso es porqué-"
+    danny phantom_suit towards_wide rise_one talk_frown "¿De verdad? Uhm, bueno, eso és porque-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6435
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_dca34caf:
 
     # star dress towards neutral talk_happy noblush "Yeah, this is Billy, he's a ghost boy, he's my date. I brought him as a guest."
-    star dress towards neutral talk_happy noblush "Sí, esto es Billy, es un chico fantasma, es mi fecha. Lo traí como invitado."
+    star dress towards neutral talk_happy noblush "Sí, este és Billy, és un chico fantasma, es mi cita. Lo traí como invitado."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6437
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_0effcc75:
@@ -11914,7 +11914,7 @@ translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_20223b57:
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_a6ac178e:
 
     # lancer towards wondering talk_frown "So he's a..."
-    lancer towards wondering talk_frown "Así que es ..."
+    lancer towards wondering talk_frown "Así que el és..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6446
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_99992041:
@@ -11926,25 +11926,25 @@ translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_99992041:
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_1bc4dd6a:
 
     # lancer towards angry talk_frown "I'm sorry Miss Astray, but I can't allow you to be bringing in the likes of these phantom perverts!"
-    lancer towards angry talk_frown "Lo siento Miss Astray, ¡pero no puedo permitir que traigas los gustos de estos perversos fantasma!"
+    lancer towards angry talk_frown "Lo siento Miss Astray, ¡pero no puedo permitir que traigas ningún tipo de fantasma perverso!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6452
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_43e7296e:
 
     # star dress towards_wide angry talk_frown noblush "What?? Perverts?! No way, Billy does the total opposite of perv on people!!"
-    star dress towards_wide angry talk_frown noblush "¿¿Qué? ¿Pervertos?! ¡De ninguna manera, lo opuesto a la evolución de la gente!!"
+    star dress towards_wide angry talk_frown noblush "¿¿Qué? ¿Perverso?! ¡De ninguna manera, Billy és totalmente opuesto a lo que piensa la gente!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6455
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_b87bd4ed:
 
     # star dress towards rise_one talk_happy noblush "He's like, a hero who saves people and totally tries to help them out whenever he can!!"
-    star dress towards rise_one talk_happy noblush "Es como un héroe que salva a la gente e intenta ayudarla cuando puede!!"
+    star dress towards rise_one talk_happy noblush "¡¡Es un héroe que salva a la gente e intenta ayudarla cuando puede!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6458
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_95fc8c28:
 
     # star dress towards confused talk_happy_2 noblush "Billy is no pervert, and I'm like, totally serious."
-    star dress towards confused talk_happy_2 noblush "totalmemente no es pervertido, y me gusta, totalmente serio."
+    star dress towards confused talk_happy_2 noblush "Billy no és un pervertido, y me gusta, lo digo en serio."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6461
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_8d0b3ef8:
@@ -11956,73 +11956,73 @@ translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_8d0b3ef8:
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_bff61379:
 
     # lancer towards wondering talk_frown "Well, as much as I'd like to believe in your story Miss Astray..."
-    lancer towards wondering talk_frown "Bueno, tanto como me gustaría creer en tu historia Miss Astray..."
+    lancer towards wondering talk_frown "Bueno, no sé cuanto creer en tu historia Miss Astray..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6467
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_51ffd7b9:
 
     # lancer towards rise_one talk_frown "Your reputation for telling the truth as of late has not been the most reliable or credible in my book."
-    lancer towards rise_one talk_frown "Tu reputación de decir la verdad hasta tarde no ha sido la más confiable o creíble en mi libro."
+    lancer towards rise_one talk_frown "Tu reputación de decir la verdad hasta hoy no ha sido la más confiable o creíble."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6472
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_4fd0eebd:
 
     # lancer towards_wide angry talk_frown "I'm still not going to take the risk of this ghost child to potentially ruin the event or diddle staff and students."
-    lancer towards_wide angry talk_frown "Todavía no voy a correr el riesgo de que este niño fantasma arruine potencialmente el evento o el equipo de trabajo y estudiantes."
+    lancer towards_wide angry talk_frown "No voy a correr el riesgo de que este chico fantasma arruine el evento o el equipo de trabajo y estudiantes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6476
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_8701aa9a:
 
     # lancer towards neutral talk_frown "I'm afraid he'll have to be excluded from tonight's dance. Now if he'd like to file a notice, we'll sometime in the future consider the possibility of-"
-    lancer towards neutral talk_frown "Me temo que tendrá que ser excluido del baile de esta noche. Ahora si desea enviar un aviso, consideraremos en algún momento la posibilidad de -"
+    lancer towards neutral talk_frown "Me temo que tendrá que ser excluido del baile de esta noche. Ahora si desea enviar una reclamación, consideraremos en algún momento la posibilidad de -"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6479
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_58dd1fba:
 
     # star dress towards_wide neutral talk_frown noblush "Look Mr. Lancer!! A giant slab of mutton!!"
-    star dress towards_wide neutral talk_frown noblush "Mira al señor Lancer!! Una losa gigante de mutton!!"
+    star dress towards_wide neutral talk_frown noblush "¡¡Mire señor Lancer!! ¡¡Un filete gigante de cordero!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6482
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_528358fb:
 
     # lancer towards_wide rise_one talk_frown "1984!! Where?!? I need to find it!!"
-    lancer towards_wide rise_one talk_frown "1984!! ¿Dónde? I need to find it!!"
+    lancer towards_wide rise_one talk_frown "¡¡1984!! ¿Dónde? ¡¡Necesito encontralo!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6485
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_05f8377d:
 
     # star dress towards_wide confused talk_frown noblush "I think it was being put somewhere down that hallway!! Towards the cafeteria!!"
-    star dress towards_wide confused talk_frown noblush "Creo que se estaba poniendo en algún lugar abajo de ese hallway!! Hacia la cafeteria!!"
+    star dress towards_wide confused talk_frown noblush "¡¡Creo que se dirigía hacia el fondo del pasillo!! ¡¡Hacia la cafeteria!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6488
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_931742fd:
 
     # lancer towards angry talk_happy "I'll find you, my sweet lamby goodness!!"
-    lancer towards angry talk_happy "¡¡¡¡¡¡Te encontraré!"
+    lancer towards angry talk_happy "¡¡¡¡¡¡Te encontraré!!!!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6491
 translate spanish A_Stroke_After_Midnight_scene_9d_schoolmainhall_ab9d9b92:
 
     # star dress towards_wide angry talk_frown noblush "Tsck, dumbass... okay, c'mon, let's go!"
-    star dress towards_wide angry talk_frown noblush "Tsck, dumbas... ok, c'mon, ¡vamos!"
+    star dress towards_wide angry talk_frown noblush "Tsck, bobo... ok, ¡vamos, ¡vamos!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6500
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_0071fc2f:
 
     # danny phantom_suit towards wondering talk_frown "Woah, how'd you know that was gonna work?"
-    danny phantom_suit towards wondering talk_frown "¿Ah, cómo sabías que no funcionaba?"
+    danny phantom_suit towards wondering talk_frown "¿Ah, cómo sabías que  funcionaría?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6502
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f26b1586:
 
     # star dress towards neutral talk_happy noblush "Dude, Lancer is so easy to trick, trust me."
-    star dress towards neutral talk_happy noblush "Dude, Lancer es tan fácil de engañar, confíe en mí."
+    star dress towards neutral talk_happy noblush "Tío, Lancer és muy fácil de engañar, confía en mí."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6504
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_dffa8cbf:
 
     # star dress towards confused talk_frown noblush "He has an affinity for mutton chops like you've never known anybody to like."
-    star dress towards confused talk_frown noblush "Él tiene una afinidad para chops de mutton como nunca sabías que a nadie le gusta."
+    star dress towards confused talk_frown noblush "Él tiene afinidad para los filetes de cordero como nadie tiene."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6506
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9e17088f:
@@ -12034,25 +12034,25 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9e17088f:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_80c410d2:
 
     # star dress towards angry talk_frown noblush "He's an oaf, it's not hard to figure out how to manipulate oafs."
-    star dress towards angry talk_frown noblush "Él es un juramento, no es difícil averiguar cómo manipular los juramentos."
+    star dress towards angry talk_frown noblush "Él es un zoquete, no és difícil averiguar cómo manipular a los zoquetes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6510
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_e4f7e60b:
 
     # danny phantom_suit at_player_wide rise_one smile "(I'll have to remember that trick for later...)"
-    danny phantom_suit at_player_wide rise_one smile "(tendré que recordar ese truco para más tarde...)"
+    danny phantom_suit at_player_wide rise_one smile "(tendré que recordar ese truco para más adelante...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6512
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d1ec7ab0:
 
     # star dress towards angry talk_happy_2 noblush "So c'mon, let's go!! Still no point just standing around here!"
-    star dress towards angry talk_happy_2 noblush "Así que c'mon, ¡vamos!! ¡Aún no tiene ningún sentido pararse aquí!"
+    star dress towards angry talk_happy_2 noblush "Así que ¡¡vamos, ¡vamos!! No tiene sentido estar aquí parados!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6514
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1ba941c8:
 
     # star dress closed rise_one talk_happy_2 blush_1 "Let's go dance and party!! Ohhh, I'm so ready!!"
-    star dress closed rise_one talk_happy_2 blush_1 "Vamos a bailar y a la fiesta!! Ohhh, estoy tan listo!!"
+    star dress closed rise_one talk_happy_2 blush_1 "¡¡Vamos a bailar y a divertirnos!! Ohhh, ¡¡estoy lista!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6516
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ccdae5e3:
@@ -12064,91 +12064,91 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ccdae5e3:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ab7980c5:
 
     # star dress towards angry talk_frown noblush "Oh my God, they're still playing the same playlist from last year. Lame."
-    star dress towards angry talk_frown noblush "Oh mi Dios, todavía están jugando la misma lista de reproducción del año pasado. Amor."
+    star dress towards angry talk_frown noblush "Oh mi Dios, están usando la misma lista de reproducción del año pasado."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6527
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6f9be752:
 
     # danny phantom_suit towards sad talk_happy "Do you go to a lot of dances at your school?"
-    danny phantom_suit towards sad talk_happy "¿Vas a un montón de bailes en tu escuela?"
+    danny phantom_suit towards sad talk_happy "¿Vas a muchos bailes en tu escuela?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6529
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_e1c50bb8:
 
     # star dress towards confused talk_happy noblush "Pretty sure I haven't missed one, yeah."
-    star dress towards confused talk_happy noblush "Pretty sure I have not missed one, sí."
+    star dress towards confused talk_happy noblush "Ciertamente, no me he perdido ninguno, yeah."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6531
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_5e521265:
 
     # danny phantom_suit towards wondering talk_frown "Oh, so you enjoy hanging out and dancing?"
-    danny phantom_suit towards wondering talk_frown "Oh, ¿para que te guste colgar y bailar?"
+    danny phantom_suit towards wondering talk_frown "Oh, ¿te gusta divertirte y bailar?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6533
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d1aa7969:
 
     # star dress towards confused_2 talk_frown noblush "Dancing? What, no way. I'm a terrible dancer. I only come to places like this to flex on bitches."
-    star dress towards confused_2 talk_frown noblush "¿Bailar? ¿Qué no, de ninguna manera. Soy un bailarín terrible. Sólo vengo a lugares como este para volar con guarras."
+    star dress towards confused_2 talk_frown noblush "¿Bailar? Qué, de ninguna manera. Soy un bailarina terrible. Sólo vengo a lugares como este para pisar perras."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6535
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9b023850:
 
     # star dress towards angry talk_happy noblush "With my outfit tonight, I'm hoping to send a couple girls in particular crying to the bathroom stalls."
-    star dress towards angry talk_happy noblush "Con mi atuendo esta noche, espero enviar un par de chicas en particular a los puestos de baño."
+    star dress towards angry talk_happy noblush "Con mi atuendo esta noche, espero enviar un par de chicas a los baños."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6537
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_8fbc3048:
 
     # danny phantom_suit blank_stare sad talk_frown "Oh... 'kay then."
-    danny phantom_suit blank_stare sad talk_frown "Oh... 'kay then."
+    danny phantom_suit blank_stare sad talk_frown "Oh... 'k."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6539
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_68ec11ed:
 
     # star dress towards neutral_2 talk_happy noblush "Billy, I'm glad you took me out tonight."
-    star dress towards neutral_2 talk_happy noblush "Billy, me alegro de que me hayas sacado esta noche."
+    star dress towards neutral_2 talk_happy noblush "Billy, me alegro de que me hayas traído esta noche."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6541
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_4c87fe4b:
 
     # danny phantom_suit towards_wide wondering talk_happy "Yeah? Really? Well, I'm so glad that you wanted to come with me."
-    danny phantom_suit towards_wide wondering talk_happy "¿Sí? ¿Realmente? Bueno, estoy muy contento de que querías venir conmigo."
+    danny phantom_suit towards_wide wondering talk_happy "¿Sí? ¿Realmente? Bueno, estoy muy contento de que quisieras venir conmigo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6543
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_bf06c4fe:
 
     # star dress towards neutral_2 talk_happy_2 noblush "Oh totally, I definitely wanted you to be my date."
-    star dress towards neutral_2 talk_happy_2 noblush "Oh en total, definitivamente quería que usted fuera mi fecha."
+    star dress towards neutral_2 talk_happy_2 noblush "Oh totalmente, quería que tú fueras mi cita."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6545
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_4b552c52:
 
     # star dress down neutral talk_frown noblush "I'm usually pretty good at getting what I want, so it's no big deal."
-    star dress down neutral talk_frown noblush "Suelo ser bastante bueno para obtener lo que quiero, así que no es gran cosa."
+    star dress down neutral talk_frown noblush "Suelo ser bastante buena para lograr lo que quiero, no és difícil."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6547
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_8c2a25b6:
 
     # danny phantom_suit towards_wide neutral talk_happy_2 "Well, did you want to meet up with any of your friends from school, maybe introduce me or-"
-    danny phantom_suit towards_wide neutral talk_happy_2 "Bueno, ¿quieres reunirte con cualquiera de tus amigos de la escuela, tal vez presentarme o"
+    danny phantom_suit towards_wide neutral talk_happy_2 "Bueno, ¿quieres ver a algún amigo de la escuela?, tal vez presentarme"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6549
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9d2198e2:
 
     # star dress towards_wide confused talk_frown noblush "Oh good God, no."
-    star dress towards_wide confused talk_frown noblush "Oh Dios bueno, no."
+    star dress towards_wide confused talk_frown noblush "Oh Dios, no."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6551
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1c5047f1:
 
     # danny phantom_suit towards_wide sad talk_frown_2 "Oh, really? My bad, I just thought you-"
-    danny phantom_suit towards_wide sad talk_frown_2 "Oh, ¿de verdad? Mi maldad, acabo de pensar que tú-"
+    danny phantom_suit towards_wide sad talk_frown_2 "Oh, ¿de verdad? Valla, pensaba que tú-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6553
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_b186081a:
 
     # star dress towards angry talk_frown noblush "What the hell is she doing here?"
-    star dress towards angry talk_frown noblush "¿Qué infierno está haciendo aquí?"
+    star dress towards angry talk_frown noblush "¿Qué demonios está ella haciendo aquí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6555
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_005d3c83:
@@ -12160,43 +12160,43 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_005d3c83:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9f5105e7:
 
     # kateunk "Oh, {b}there{/b} you are sweetie! I've been looking for you all night!"
-    kateunk "¡Oh, {b}ahí{/b} eres semanal! ¡Te he estado buscando a todos por la noche!"
+    kateunk "¡Oh, estas {b}ahí{/b} cielo! ¡Te he estado buscando toda la noche!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6558
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_c74d734b:
 
     # star dress towards angry talk_frown noblush "{i}Ugh{/i}... just play it cool, I gotta deal with this myself."
-    star dress towards angry talk_frown noblush "{i}Ugh{/i}... simplemente juegue genial, tengo que tratar esto yo mismo."
+    star dress towards angry talk_frown noblush "{i}Ugh{/i}... espera aquí, tengo que tratar esto yo misma."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6569
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a089b6ad:
 
     # kate talk_happy "Well there you are kiddo, I thought that was you!!"
-    kate talk_happy "Bueno, ahí eres un niño, ¡¡¡¡¡pensé que era tú!!"
+    kate talk_happy "Bueno, ahí estás mi niña, ¡pensé que eras tú!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6571
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2a831a2e:
 
     # danny phantom_suit towards rise_one smile "(Woah!! Nurse Kate!! She's chaperoning tonight?)"
-    danny phantom_suit towards rise_one smile "(¡Woah!! Nurse Kate!! ¿She's chaperoning esta noche?)"
+    danny phantom_suit towards rise_one smile "(¡Woah!! La enfermera kate!! ¿Ella és pareja de alguien esta noche?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6573
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3e81b56e:
 
     # danny phantom_suit towards_wide sad grin_happy "(Holy toledo, look at what she's wearing...)"
-    danny phantom_suit towards_wide sad grin_happy "(Santo toledo, mira lo que lleva puesta ...)"
+    danny phantom_suit towards_wide sad grin_happy "(Santo Dios, mira lo que lleva puesto...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6575
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_7b91968f:
 
     # danny phantom_suit at_player_wide sad frown_2 "(Wait, did she just recognize me?! Oh no, my secret ident-)"
-    danny phantom_suit at_player_wide sad frown_2 "(Espera, ¿acabó de reconocerme?! Oh no, mi idente secreto-)"
+    danny phantom_suit at_player_wide sad frown_2 "(Espera, ¿acaba de reconocerme?! Oh no, mi identidad secret-)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6576
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_0d423492:
 
     # star dress towards angry talk_frown noblush "Ugh, just why the hell are you even here tonight?"
-    star dress towards angry talk_frown noblush "Ugh, ¿por qué el infierno estás aquí esta noche?"
+    star dress towards angry talk_frown noblush "Ugh, ¿por qué el demonio está aquí esta noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6578
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_8011d728:
@@ -12208,67 +12208,67 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_8011d728:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_b1ae6240:
 
     # kate nocoat towards sad talk_frown noblush nocum "Well, ya know, I took on one of the chaperon duties for tonight! They asked me, so I volunteered."
-    kate nocoat towards sad talk_frown noblush nocum "Bueno, ya sabe, ¡esta noche asumí uno de los deberes del chaperon! Me preguntaron, así que me volví voluntariamente."
+    kate nocoat towards sad talk_frown noblush nocum "Bueno, ya sabes, ¡esta noche asumí uno de los deberes de una cita! Me preguntaron y vine voluntariamente."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6584
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_5b9d5397:
 
     # kate nocoat towards rise_one talk_frown noblush nocum "Now sweetie, isn't that dress a little revealing for you to be wearing?"
-    kate nocoat towards rise_one talk_frown noblush nocum "semanas ahora, ¿no es eso lo que revela un poco tu uso?"
+    kate nocoat towards rise_one talk_frown noblush nocum "encanto, ¿no es és muy atrevido tu vestido?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6586
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6aedef90:
 
     # danny phantom_suit towards neutral bite "(Jeez, speak for yourself...)"
-    danny phantom_suit towards neutral bite "(Jeez, habla por ti mismo...)"
+    danny phantom_suit towards neutral bite "(Jeez, habla por ti misma...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6587
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_4a1cf137:
 
     # danny phantom_suit at_player_wide sad_2 frown_2 "(Wait... sweetie?!)"
-    danny phantom_suit at_player_wide sad_2 frown_2 "(Wait... sweetie?!)"
+    danny phantom_suit at_player_wide sad_2 frown_2 "(Espera... ¡¿encanto?!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6590
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ea72f78e:
 
     # kate nocoat towards rise_one talk_happy_2 blush nocum "Now aren't you going to introduce me to your rather pale friend here?"
-    kate nocoat towards rise_one talk_happy_2 blush nocum "Ahora no me vas a presentar a tu amigo bastante pálido aquí?"
+    kate nocoat towards rise_one talk_happy_2 blush nocum "¿No me vas a presentar tu pálido amigo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6593
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ee385c5e:
 
     # star dress down angry talk_frown noblush "{i}*Sigh*{/i} Fine... Billy, this is my stupid Mom, Kate."
-    star dress down angry talk_frown noblush "{i}*Alta*{/i} Muy bien... Bien, esta es mi estúpida mamá, Kate."
+    star dress down angry talk_frown noblush "{i}*Suspiro*{/i} Bien... Billy, esta es mi estúpida madre, Kate."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6596
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_0dd68ee5:
 
     # kate nocoat shocked angry talk_frown noblush nocum "Stupid?!"
-    "¡[_kate_s_nocoat_s_shocked_s_angry_s_talk_frown_s_noblush_s_nocum_] estúpido?!"
+    "¡[_kate_s_nocoat_s_shocked_s_angry_s_talk_frown_s_noblush_s_nocum_] ¡¿estúpida?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6600
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_40af9c35:
 
     # star dress towards angry talk_frown noblush "Stupid because you're interrupting my god damn date! You're embarrassing me!!"
-    star dress towards angry talk_frown noblush "Estúpido porque estás interrumpiendo mi maldita cita del dios! Me estás avergonzando!!"
+    star dress towards angry talk_frown noblush "Estúpida porque estás interrumpiendo mi maldita cita! ¡Me estás avergonzando!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6603
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_fcb49aaa:
 
     # danny phantom_suit towards_wide wondering talk_frown_2 "Mom?!?"
-    "¿[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] mamá??"
+    "¿[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] ¿¡¿madre?!?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6606
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2e03e196:
 
     # kate nocoat towards rise_one talk_frown noblush nocum "Are you alright, young man?"
-    kate nocoat towards rise_one talk_frown noblush nocum "¿Estás bien, joven?"
+    kate nocoat towards rise_one talk_frown noblush nocum "¿Estás bien joven?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6609
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3bd035e3:
 
     # danny phantom_suit at_danny sad_2 talk_frown "I just uhh... sorry, that surprised me, I just couldn't see the resemblance at first."
-    danny phantom_suit at_danny sad_2 talk_frown "Solo me uhh... lo siento, eso me sorprendió: al principio no pude ver el resfriado."
+    danny phantom_suit at_danny sad_2 talk_frown "Solo uhh... lo siento, eso me sorprendió: al principio no pude ver el parecido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6612
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_63ee856e:
@@ -12286,115 +12286,115 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a0df2a96:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d964e2a3:
 
     # danny phantom_suit towards rise_one talk_happy "Okay, I guess it should have been obvious actually."
-    danny phantom_suit towards rise_one talk_happy "Vale, supongo que debería haber sido obvio en realidad."
+    danny phantom_suit towards rise_one talk_happy "Vale, supongo que debería haber sido obvio."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6621
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_19837ccc:
 
     # kate nocoat towards sad_2 talk_frown noblush nocum "Billy, was it? Are you feeling okay? I'm actually worried about you. You really do look pale."
-    kate nocoat towards sad_2 talk_frown noblush nocum "Bien, ¿era? ¿Te sientes bien? Realmente estoy preocupado por ti. Realmente te ves pálido."
+    kate nocoat towards sad_2 talk_frown noblush nocum "Billy, ¿Te sientes bien? Estoy preocupada por ti. Te ves muy pálido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6623
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_60167b60:
 
     # kate nocoat towards rise_one talk_frown noblush nocum "Is your... fashionable formal suit constricting blood or something?"
-    kate nocoat towards rise_one talk_frown noblush nocum "¿Es tu... traje formal a la moda que está restringiendo la sangre o algo?"
+    kate nocoat towards rise_one talk_frown noblush nocum "¿Es tu... traje formal que está cortando la circulación de la sangre o algo así?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6625
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_7c9d33ef:
 
     # star dress towards angry talk_frown noblush "He's fine, Mom, we're fine, you don't need to helicopter parent me!"
-    star dress towards angry talk_frown noblush "Está bien, mamá, estamos bien, ¡no necesitas helicópterme a los padres!"
+    star dress towards angry talk_frown noblush "El está bien, mamá, estamos bien, ¡no necesito que nos revises!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6628
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_bdff0ed8:
 
     # danny phantom_suit towards wondering bite "(Personally, I wouldn't mind it if Kate got any closer...)"
-    danny phantom_suit towards wondering bite "(Personalmente, no me importaría si Kate estuviera más cerca...)"
+    danny phantom_suit towards wondering bite "(Personalmente, no me importaría si Kate lo hiciera de cerca...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6630
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_7908fba6:
 
     # kate nocoat towards sad talk_frown noblush nocum "You sure? You kids don't need anything tonight?"
-    kate nocoat towards sad talk_frown noblush nocum "¿Seguro? You kids don't need anything tonight?"
+    kate nocoat towards sad talk_frown noblush nocum "¿Seguro? ¿no necesitáis nada esta noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6633
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_102e23d5:
 
     # danny phantom_suit towards neutral talk_happy_2 "No, I'm sure we'll be fine, but thanks for asking ma'am. It's nice to have met you."
-    danny phantom_suit towards neutral talk_happy_2 "No, estoy seguro de que estaremos bien, pero gracias por preguntar a las ma'am. Es bueno haberte conocido."
+    danny phantom_suit towards neutral talk_happy_2 "No, estoy seguro de que estaremos bien, pero gracias por preguntar ma'am. Me alegra haberte conocido."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6635
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2812e487:
 
     # kate nocoat towards neutral talk_happy_2 blush nocum "Oh absolutely, the pleasure was all mine young man. Well, I guess I can't say you didn't pick a nice boy to-"
-    kate nocoat towards neutral talk_happy_2 blush nocum "Oh, absolutamente, el placer era todo mi joven. Bueno, supongo que no puedo decir que no hayas elegido a un chico bonito-"
+    kate nocoat towards neutral talk_happy_2 blush nocum "Oh, igualmente, el placer fue mío joven. Bueno, no puedo decir que no hayas elegido a un chico guapo-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6638
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_40a9ab51:
 
     # star dress towards rise_one talk_frown noblush "Oh, my God, why are you still here?? Just leave already!!"
-    star dress towards rise_one talk_frown noblush "Oh, Dios mío, ¿por qué todavía estás aquí?? ¡¡¡Solo déjalo ya!!"
+    star dress towards rise_one talk_frown noblush "Oh, Dios mío, ¿¿por qué estás aquí todavía?? ¡¡Olvídanos!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6641
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f3d12e27:
 
     # kate nocoat towards neutral talk_happy noblush nocum "Okay, okay, I'm going, relax! You kiddos have fun tonight alright, but also play it safe!"
-    kate nocoat towards neutral talk_happy noblush nocum "Vale, vale, voy a relajarme! Los niños se divierten esta noche bien, ¡pero también lo juegan seguro!"
+    kate nocoat towards neutral talk_happy noblush nocum "Vale, vale, voy a pasear! Divertios esta noche, ¡y no hagáis trastadas!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6644
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2e795d61:
 
     # danny phantom_suit towards talk_frown sad "Play it safe?"
-    danny phantom_suit towards talk_frown sad "¿Juega seguro?"
+    danny phantom_suit towards talk_frown sad "¿Hacer trastadas?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6646
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_78e04368:
 
     # kate nocoat towards rise_one talk_happy_2 noblush nocum "Well, c'mon, you know, if you're ever gonna {i}ya know{/i}, make sure to use protec-"
-    kate nocoat towards rise_one talk_happy_2 noblush nocum "Bueno, c'mon, ya sabes, si alguna vez te quedas con {i}ya sabe{/i}, asegúrate de usar protección-"
+    kate nocoat towards rise_one talk_happy_2 noblush nocum "Bueno, vamos, ya sabes, si vas a {i}ya sabes{/i}, asegúrate de usar protección-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6649
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2516901e:
 
     # star dress towards angry talk_frown blush_2 "{b}CONVERSATION OFFICIALLY OVER{/B}!!!"
-    star dress towards angry talk_frown blush_2 "{b}CONVERSATION OFICICIALMENTE SVER{/B}!!!"
+    star dress towards angry talk_frown blush_2 "{b}CONVERSACION OFICICIALMENTE FINALIZADA{/B}!!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6655
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_fa42a575:
 
     # star "Billy, please, let's get outta here."
-    star "Por favor, pongámonos aquí."
+    star "Billy, por favor, vámonos de aquí."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6657
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3d053107:
 
     # danny phantom_suit towards sad_2 talk_happy "Uhhh, bye miss."
-    danny phantom_suit towards sad_2 talk_happy "Uhhh, bye miss."
+    danny phantom_suit towards sad_2 talk_happy "Uhhh, adios miss."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6661
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_c7b2f1d0:
 
     # kate nocoat towards neutral bite blush nocum "(That Billy boy sure is cute... is he a student here? Boy, what I wouldn't like to call him in for a checkup or two...)"
-    kate nocoat towards neutral bite blush nocum "(Que Billy niño seguro es lindo ... es un estudiante aquí? Chico, lo que no me gustaría llamarlo para un chequeo o dos ...)"
+    kate nocoat towards neutral bite blush nocum "(Billy seguro és lindo... ¿és un estudiante de aquí? Tía, lo que no me gustaría hacerle un chequeo o dos...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6668
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ce9e868f:
 
     # danny towards neutral talk_happy "So, uhh, she seemed nice."
-    danny towards neutral talk_happy "Así que, uhh, parecía agradable."
+    danny towards neutral talk_happy "uhh, parecía agradable."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6671
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d00aa478:
 
     # star dress towards angry talk_frown noblush "Trust me, be glad you don't have parents to deal with, they can be so fucking embarrassing, I swear."
-    star dress towards angry talk_frown noblush "Confíe en mí, se alegre de que no tienes padres con los que lidiar, pueden ser tan vergonzosos, juro."
+    star dress towards angry talk_frown noblush "Confía en mí, alégrate de que no tienes padres con los que lidiar, puede ser muy vergonzoso, lo juro."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6673
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a5abaf15:
 
     # danny phantom_suit at_danny wondering frown_2 "(Trust {i}me{/i} I know the feeling...)"
-    danny phantom_suit at_danny wondering frown_2 "(Confie en {i}me{/i} Conozco la sensación...)"
+    danny phantom_suit at_danny wondering frown_2 "(Confia en {i}mí{/i} Conozco la sensación...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6675
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_51dcf083:
@@ -12418,55 +12418,55 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_94ee9281:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_22f7b299:
 
     # star dress towards rise_one talk_frown noblush "That's a pretty piss poor ice breaker."
-    star dress towards rise_one talk_frown noblush "Eso es un pobre rompecabezas de hielo."
+    star dress towards rise_one talk_frown noblush "Es un pobre rompecabezas de hielo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6683
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_e41a5dfb:
 
     # danny phantom_suit at_danny sad_2 talk_frown_2 "Oh, my bad."
-    danny phantom_suit at_danny sad_2 talk_frown_2 "Oh, mi mal."
+    danny phantom_suit at_danny sad_2 talk_frown_2 "Oh, mal."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6685
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a6478c69:
 
     # star dress towards neutral_2 talk_happy noblush "Don't worry, I'm just messing with you, Billy."
-    star dress towards neutral_2 talk_happy noblush "No te preocupes, solo estoy haciendo líos."
+    star dress towards neutral_2 talk_happy noblush "No te preocupes, solo estoy jugando contigo, Billy."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6687
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a83be81d:
 
     # danny phantom_suit towards angry talk_frown "You know, by now, you'd think I'd more easily realize when you're doing that."
-    danny phantom_suit towards angry talk_frown "Tú sabes, a estas alturas, creerías que me daría cuenta más fácilmente cuando lo hagas."
+    danny phantom_suit towards angry talk_frown "Sabes, en esta situación complicada, és más fácil hacer algo cuando comienzas a hacerlo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6689
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_59b7bfe9:
 
     # star dress towards neutral talk_happy_2 noblush "Well, if you really want, I think I see a good opportunity to have some fun!"
-    star dress towards neutral talk_happy_2 noblush "Bueno, si realmente lo deseas, ¡creo que veo una buena oportunidad para divertirse!"
+    star dress towards neutral talk_happy_2 noblush "Bueno, si te apetece, ¡veo una buena oportunidad para divertirnos!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6691
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_101e319c:
 
     # danny phantom_suit towards rise_one talk_happy "Yeah, what's that?"
-    danny phantom_suit towards rise_one talk_happy "Sí, ¿qué es eso?"
+    danny phantom_suit towards rise_one talk_happy "Sí, ¿qué hacemos?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6693
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_135b73a9:
 
     # star dress towards neutral talk_happy noblush "Just trust me on this. Follow me!"
-    star dress towards neutral talk_happy noblush "Confíe en esto. ¡Sígueme!"
+    star dress towards neutral talk_happy noblush "Confía en mí. ¡Sígueme!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6710
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1cdf78ce:
 
     # star dress towards angry talk_happy noblush "Hey! Proactiv club! Feast your eyes on this!"
-    star dress towards angry talk_happy noblush "Hey! ¡Proactiv club! ¡Festeja sus ojos en esto!"
+    star dress towards angry talk_happy noblush "Hey! ¡Club proactivo! ¡Disfruta de mí con tus ojos!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6716
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a9622da2:
 
     # tucker suit towards wondering talk_frown "What the- Star?"
-    tucker suit towards wondering talk_frown "¿Qué Estrella- Estrella?"
+    tucker suit towards wondering talk_frown "¿Qué Start?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6720
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3c3dea31:
@@ -12478,37 +12478,37 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3c3dea31:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f76cc65c:
 
     # sam dress base_1 towards_wide neutral talk_frown_2 noblush nocum "Ehrmm, I mean... dat' ghost kid from the news! What are you doing here?"
-    sam dress base_1 towards_wide neutral talk_frown_2 noblush nocum "Ehrmm, quiero decir... ¡chico fantasma de dato de las noticias! ¿Qué estás haciendo aquí?"
+    sam dress base_1 towards_wide neutral talk_frown_2 noblush nocum "Ehrmm, quiero decir... ¡chico fantasma de las noticias! ¿Qué estás haciendo aquí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6728
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1e1051bb:
 
     # star dress towards angry talk_happy noblush "He's my date tonight, pretty flipping obvious at this point if you weren't a freaking spazzmatic idiot."
-    star dress towards angry talk_happy noblush "Él es mi fecha de esta noche, bastante volteando obviamente en este momento si no fuiste un idiota spazzmático freidor."
+    star dress towards angry talk_happy noblush "Él és mi cita de esta noche, bastante obvio de ver si no fueses una maldita idota espasmótica."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6732
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_c39943c1:
 
     # tucker suit towards angry talk_frown "Weren't you held back a year?"
-    tucker suit towards angry talk_frown "¿No has retenido un año?"
+    tucker suit towards angry talk_frown "¿No has repetido curso escolar?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6736
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_0bc41bcd:
 
     # star dress towards angry talk_frown blush_1 "That's a straight up lie, so shut it, Foley!"
-    star dress towards angry talk_frown blush_1 "Eso es una mentira recta, así que cállela, ¡Sí!"
+    star dress towards angry talk_frown blush_1 "Eso és una rotunda mentira, ¡así que cállate,!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6740
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3c3bf76a:
 
     # sam dress base_1 towards confused talk_frown_3 noblush nocum "So, as {i}interesting{/i} as it is to see you two together like this, what's the real reason you're here?"
-    sam dress base_1 towards confused talk_frown_3 noblush nocum "Así que, tan interesante {i}{/i} como para verte dos juntos así, ¿cuál es la verdadera razón por la que estás aquí?"
+    sam dress base_1 towards confused talk_frown_3 noblush nocum "que, {i}interesante {/i} veros juntos así, ¿cuál es la verdadera razón por la que estás aquí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6744
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f709b929:
 
     # star dress towards angry talk_frown blush_1 "Uhm, I told you? We're here together as dates. Duh, listen up, dweeb."
-    star dress towards angry talk_frown blush_1 "Uhm, te dijo? Estamos juntos como fechas. Duh, escucha, dweeb."
+    star dress towards angry talk_frown blush_1 "Uhm, ¿te lo dije? Estamos juntos como cita. Duh, escucha, sorda."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6748
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_49c120a6:
@@ -12520,7 +12520,7 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_49c120a6:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_e0d49e63:
 
     # sam dress base_1 towards neutral talk_frown noblush nocum "Oh, is that {i}so{/i}?"
-    sam dress base_1 towards neutral talk_frown noblush nocum "Oh, ¿ {i}so{/i}?"
+    sam dress base_1 towards neutral talk_frown noblush nocum "Oh, ¿ és eso {i}además{/i}?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6756
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6bb563f0:
@@ -12532,7 +12532,7 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6bb563f0:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_05fe646d:
 
     # sam dress base_1 neutral talk_frown_2 noblush nocum "Well. Awesome. Cool. Glad you could have found someone so nice as to go with you."
-    sam dress base_1 neutral talk_frown_2 noblush nocum ". genial. Genial. Enhorabuena por haber encontrado a alguien tan bonito como para ir contigo."
+    sam dress base_1 neutral talk_frown_2 noblush nocum "Genial. Genial. Enhorabuena por haber encontrado a alguien tan buena para ir contigo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6764
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ae547ad0:
@@ -12544,19 +12544,19 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ae547ad0:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_e66f16a9:
 
     # sam dress base_1 towards neutral talk_frown_2 noblush nocum "Enjoy your night you two."
-    sam dress base_1 towards neutral talk_frown_2 noblush nocum "Disfruta tu noche de dos."
+    sam dress base_1 towards neutral talk_frown_2 noblush nocum "Disfruta tu noche."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6783
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a627af77:
 
     # danny phantom_suit towards_wide sad_2 talk_frown "Sam, no, wait! Tucker, what'd I do?"
-    danny phantom_suit towards_wide sad_2 talk_frown "Sam, no, espera! Tucker, ¿qué haría?"
+    danny phantom_suit towards_wide sad_2 talk_frown "Sam, no,¡espera! Tucker, ¿qué he hecho?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6786
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_01f80a35:
 
     # tucker suit towards sad talk_frown "Uhhh, I had better go stick with her. See ya later."
-    tucker suit towards sad talk_frown "Uhhh, mejor que vayas con ella. Mira más tarde."
+    tucker suit towards sad talk_frown "Uhhh, mejor que vayas con ella. Nos vemos más tarde."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6793
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_29ea5189:
@@ -12574,133 +12574,133 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1f2042c0:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9e8ac5f3:
 
     # star dress towards angry talk_frown noblush "Is this cause you hang out with Fenton too?"
-    star dress towards angry talk_frown noblush "¿Esto también te causa que te quedas al tanto de Fenton?"
+    star dress towards angry talk_frown noblush "¿Es a causa de que te quedas de tanto en tanto con Fenton?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6799
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_01489ef0:
 
     # danny phantom_suit towards neutral talk_happy "Well, yeah, that's about the gist of it. I hang out with him a lot, so his friends are sorta my friends."
-    danny phantom_suit towards neutral talk_happy "Bueno, sí, eso es lo esencial de ella. Yo cuento con él, así que sus amigos son sorta mis amigos."
+    danny phantom_suit towards neutral talk_happy "Bueno, sí, eso és en esencia. Yo cuento con él, así que sus amigos son como mis amigos."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6801
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a25dada1:
 
     # star dress towards angry talk_frown noblush "Alright, well, being friends with Fenton is one thing, but those goons are literally pests."
-    star dress towards angry talk_frown noblush "Bien, ser amigo de Fenton es una cosa, pero esos matones son literalmente pestañas."
+    star dress towards angry talk_frown noblush "Bien, ser amigo de Fenton és una cosa, pero esos matones son literalmente un lastre."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6803
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_99628f0b:
 
     # danny phantom_suit towards wondering talk_frown "So why'd we go over to them then? Shouldn't you avoid things you find that annoy you?"
-    danny phantom_suit towards wondering talk_frown "¿Entonces por qué les pasaríamos entonces? ¿No deberías evitar cosas que te molestan?"
+    danny phantom_suit towards wondering talk_frown "¿Entonces por qué les humillas? ¿No deberías evitar las cosas que te molestan?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6805
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6b179bd6:
 
     # star dress towards confused_2 talk_frown noblush "I don't know Billy, why do lemmings toss themselves off cliffs? It's just part of the high school experience, you seek out what you hate!"
-    star dress towards confused_2 talk_frown noblush "No conozco a Billy, ¿por qué los lemmings se tostan ellos mismos en acantilados? Es sólo parte de la experiencia de la escuela secundaria, ¡buscas lo que odias!"
+    star dress towards confused_2 talk_frown noblush "No lo sé Billy, ¿por qué los lemmings se tostan ellos mismos en acantilados? Es sólo parte de la experiencia de la escuela secundaria, ¡buscas lo que odias!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6807
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_0f5d619f:
 
     # danny phantom_suit towards_wide rise_one talk_frown_2 "I just don't think it was really necessary to bug them like-"
-    danny phantom_suit towards_wide rise_one talk_frown_2 "Simplemente, no creo que fuera realmente necesario erradicarlos como-"
+    danny phantom_suit towards_wide rise_one talk_frown_2 "No creo que fuera necesario erradicarlos como-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6809
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_e1ace7d3:
 
     # star dress towards rise_one talk_happy noblush "Oooh, speaking of which, have we spoken to Paulina tonight? This should really grind her wrong."
-    star dress towards rise_one talk_happy noblush "Oooh, hablando de lo cual, ¿hemos hablado con Paulina esta noche? Esto debería molestarla de verdad."
+    star dress towards rise_one talk_happy noblush "Oooh, hablando de lo cual, ¿hemos hablado con Paulina esta noche? Esto debería joderla."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6811
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1a5c3a1f:
 
     # star dress towards angry talk_happy_2 noblush "C'mon Billy, let's go find her!"
-    star dress towards angry talk_happy_2 noblush "C'mon Billy, vamos a encontrarla!"
+    star dress towards angry talk_happy_2 noblush "Vamos Billy, ¡vamos a encontrarla!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6813
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6da099d0:
 
     # danny phantom_suit towards_wide sad_2 talk_frown "What is with Star and dunking on her own friends? Jeez..."
-    danny phantom_suit towards_wide sad_2 talk_frown "¿Qué es con la Estrella y acechando a sus propios amigos? Jeez..."
+    danny phantom_suit towards_wide sad_2 talk_frown "¿Qué sucede con Start y su acecho a sus amistades? Jeez..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6814
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_bfd04119:
 
     # danny phantom_suit towards sad_2 frown "(Maybe this wasn't the best idea after all...)"
-    danny phantom_suit towards sad_2 frown "(Tal vez esta no era la mejor idea después de todo ...)"
+    danny phantom_suit towards sad_2 frown "(Tal vez esta no era la mejor idea...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6823
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_167f696f:
 
     # star dress towards rise_one talk_happy noblush "So, what's up Paulina, having a good time tonight?"
-    star dress towards rise_one talk_happy noblush "Entonces, ¿qué pasa con Paulina, pasándote bien esta noche?"
+    star dress towards rise_one talk_happy noblush "Entonces, ¿qué tal va todo Paulina?, ¿pasando una buena noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6826
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_24718534:
 
     # paulina dress towards neutral talk_frown noblush "Yeah, it's alright I guess, I just wished I had picked a-"
-    paulina dress towards neutral talk_frown noblush "Sí, creo que está bien, me gustaría que hubiera elegido a-"
+    paulina dress towards neutral talk_frown noblush "Sí, creo que está bien, me gustaría que me hubiera elegido un-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6829
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_73b645dd:
 
     # paulina dress towards_wide rise_one talk_happy blush_1 "{i}*Gasp*{/i} Ghost boy? What are you doing here??"
-    paulina dress towards_wide rise_one talk_happy blush_1 "{i}*¿Un chico fantasma? ¿Qué estás haciendo aquí??"
+    paulina dress towards_wide rise_one talk_happy blush_1 "{i}*jadeo*{/i} ¿Un chico fantasma? ¿¿Qué haces por aquí??"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6832
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f75ddf2f:
 
     # star dress towards angry talk_happy_2 noblush "He's my date tonight. Isn't that something?"
-    star dress towards angry talk_happy_2 noblush "Él es mi fecha esta noche. ¿No es algo así?"
+    star dress towards angry talk_happy_2 noblush "Él és mi cita esta noche. ¿és eso algo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6835
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_7b225c12:
 
     # danny phantom_suit at_danny sad talk_happy_2 "Uh, hi Paulina. You look really nice tonight."
-    danny phantom_suit at_danny sad talk_happy_2 "Uh, hi Paulina. Te ves muy bonito esta noche."
+    danny phantom_suit at_danny sad talk_happy_2 "Uh, hi Paulina. Te ves muy guapa esta noche."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6838
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3fec87bf:
 
     # paulina dress towards angry talk_frown noblush "Well, this is a definite surprise... I really thought you would've made a smarter move when picking dates."
-    paulina dress towards angry talk_frown noblush "Bueno, esta es una sorpresa definida... Realmente pensé que habrías hecho un movimiento más inteligente al elegir fechas."
+    paulina dress towards angry talk_frown noblush "Bueno, esta es una sorpresa... Pensé que habrías hecho un movimiento más inteligente al elegir cita."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6841
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_abf9f055:
 
     # star dress towards angry talk_frown noblush "Uhm, he's very capable of choosing who he really wants to hang with, Pauly. Don't get all moody."
-    star dress towards angry talk_frown noblush "Uhm, es muy capaz de elegir con quién realmente quiere colgar, Pauly. No se siente todo el moody."
+    star dress towards angry talk_frown noblush "Uhm, es muy capaz de elegir con quién realmente quiere quedar, Pauly. No te pongas mal humorada."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6844
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3c2891cb:
 
     # danny phantom_suit towards_wide wondering talk_happy "Hey, ladies, I'm really not worth even slightly fighting over, I'd rather we-"
-    danny phantom_suit towards_wide wondering talk_happy "Hey, señoras, realmente no vale la pena ni siquiera pelear ligeramente, preferiríamos-"
+    danny phantom_suit towards_wide wondering talk_happy "Hey, señoras, no vale la pena pelear ligeramente, preferiría-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6848
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_7508c50a:
 
     # paulina_star "{b}Quiet{/b}!!"
-    paulina_star "{b}Quiet{/b}!!"
+    paulina_star "¡¡{b}Cállate{/b}!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6851
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_47b63d4f:
 
     # danny phantom_suit closed_sad sad talk_frown "Okay then."
-    danny phantom_suit closed_sad sad talk_frown "Vale entonces."
+    danny phantom_suit closed_sad sad talk_frown "Vale."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6854
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_4e1361d9:
 
     # paulina dress towards angry talk_frown_2 noblush "Why do you have to homewreck every relationship you're not apart of??"
-    paulina dress towards angry talk_frown_2 noblush "¿Por qué tienes que hacer naufragar cada relación de la que no estás aparte??"
+    paulina dress towards angry talk_frown_2 noblush "¿Por qué tienes que hacer naufragar cada relación en la que no estás??"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6857
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_75369c7c:
 
     # star dress towards_wide confused talk_frown noblush "Relationship?? What relationship do you possibly have with Billy?"
-    star dress towards_wide confused talk_frown noblush "Relación?? ¿Qué relación puede tener con Billy?"
+    star dress towards_wide confused talk_frown noblush "¿¿Relación?? ¿Qué relación puedes tener con Billy?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6860
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a9d6bdb7:
@@ -12712,43 +12712,43 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a9d6bdb7:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_abe15ba5:
 
     # star dress towards_wide angry talk_frown noblush "That doesn't mean anything! You save a cat from a tree, that mean you gotta take it out to dinner?"
-    star dress towards_wide angry talk_frown noblush "¡Eso no significa nada! Te salvas a un gato de un árbol, eso significa que tienes que sacarlo a la cena?"
+    star dress towards_wide angry talk_frown noblush "¡Eso no significa nada! ¿Que salves a un gato de un árbol significa que le des la cena?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6866
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_361b9f98:
 
     # danny phantom_suit towards wondering talk_happy "Does uh, does anyone want anything from the punch bowl or-"
-    danny phantom_suit towards wondering talk_happy "Hace uh, ¿alguien quiere algo del plato de puñetazo o-"
+    danny phantom_suit towards wondering talk_happy "Hace uh, ¿alguien quiere algo del plato de la fuente-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6869
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_56dee5df:
 
     # star dress down angry talk_happy noblush "You stay there, Billy. I'd rather like to savor this victory."
-    star dress down angry talk_happy noblush "Te quedas allí, Billy. Prefiero saborear esta victoria."
+    star dress down angry talk_happy noblush "Quédate allí, Billy. Prefiero saborear esta victoria."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6872
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f5f1dca0:
 
     # paulina dress towards angry talk_frown noblush "Ugh. Whatever Star, have your little moment. It's not that big a deal."
-    paulina dress towards angry talk_frown noblush "Ugh. Cualquiera que sea la estrella, tenga su pequeño momento. No es tan grande."
+    paulina dress towards angry talk_frown noblush "Ugh. Tienes un pequeño momento Start, no és un gran logro."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6875
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ea120eef:
 
     # star dress towards rise_one talk_happy_2 noblush "Oh, trust me, I'll {b}make{/b} it a big deal."
-    star dress towards rise_one talk_happy_2 noblush "Oh, confía en mí, voy a {b}hacer que {/b} sea un gran problema."
+    star dress towards rise_one talk_happy_2 noblush "Oh, creeme, voy a {b}hacer {/b} que sea un gran logro."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6881
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d11c4094:
 
     # danny phantom_suit towards rise_one talk_happy "Say what now?"
-    danny phantom_suit towards rise_one talk_happy "Decir qué ahora?"
+    danny phantom_suit towards rise_one talk_happy "¿qué digo ahora?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6883
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_496f264b:
 
     # star dress towards neutral_2 talk_happy noblush "Billy, follow me."
-    star dress towards neutral_2 talk_happy noblush "Atentamente, síguenme."
+    star dress towards neutral_2 talk_happy noblush "Billy, sígueme."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6885
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_df68ff63:
@@ -12760,19 +12760,19 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_df68ff63:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_58872360:
 
     # star dress towards angry talk_frown noblush "I've got plans for us. Just shut up and do as I say."
-    star dress towards angry talk_frown noblush "Tengo planes para nosotros. Simplemente cierre y haga lo que digo."
+    star dress towards angry talk_frown noblush "Tengo planes para nosotros. Simplemente no digas nada y haz lo que yo te diga."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6890
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a9a68ea2:
 
     # paulina dress towards angry talk_frown noblush "Where are you two going??"
-    paulina dress towards angry talk_frown noblush "¿A dónde vas dos personas??"
+    paulina dress towards angry talk_frown noblush "¿¿A dónde vais??"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6893
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_fda27804:
 
     # star dress towards rise_one talk_frown noblush "C'mon Billy!!"
-    star dress towards rise_one talk_frown noblush "C'mon Billy!!"
+    star dress towards rise_one talk_frown noblush "¡¡vamos Billy!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6895
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9392b990:
@@ -12784,43 +12784,43 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9392b990:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_77a11ffa:
 
     # danny "(And it was trouble. Of a sort.)"
-    danny "(Y fue un problema. De una clase.)"
+    danny "(Y fue un problema.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6902
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_3e718af8:
 
     # danny "(I had honestly expected my night out to end this quickly.)"
-    danny "(honestamente esperaba que mi noche fuera para terminar rápidamente.)"
+    danny "(Esperaba que mi noche terminara rápidamente.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6903
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_ff143bda:
 
     # danny "(Asides from the couple interactions I had with everyone, I didn't really do much at the dance.)"
-    danny "(Asididos de las interacciones que tuve con todos, no hice mucho en el baile.)"
+    danny "(Aparte de todas las interacciones que tuve con todo el mundo, no bailé mucho.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6904
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_c107f572:
 
     # danny "(Plus, out of the few interactions I did have, not too many of them ended up all that pleasant.)"
-    danny "(Además, de las pocas interacciones que hice, no demasiadas terminaron por ser tan agradables.)"
+    danny "(Además, pocas interacciones terminaron por ser tan agradables.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6905
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2da17264:
 
     # danny "(The thing that happened in the bathroom however... well... sorta made up for it.)"
-    danny "(Lo que pasó en el cuarto de baño... bien... sorta lo compensó.)"
+    danny "(Lo que pasó en el cuarto de baño... bien... me compensó.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6914
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_84e11464:
 
     # star "Ahhh, much better. That dance floor was getting too hot for me."
-    star "Ahhhh, mucho mejor. Esa pista de baile se estaba haciendo demasiado caliente para mí."
+    star "Ahhhh, mucho mejor. Esa pista de baile se estaba haciendo agobiante."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6916
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_09d24c1f:
 
     # danny phantom_suit towards wondering talk_frown "What's going on Star? Why are we in here?"
-    danny phantom_suit towards wondering talk_frown "¿Qué está pasando en Star? ¿Por qué estamos aquí?"
+    danny phantom_suit towards wondering talk_frown "¿Qué está pasando Star? ¿Por qué estamos aquí?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6918
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d5269eee:
@@ -12838,55 +12838,55 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_61869a45:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_31942f3d:
 
     # star dress towards_wide rise_one talk_happy blush_1 "Billy, I'm hot right now. {i}Real{/i} hot."
-    star dress towards_wide rise_one talk_happy blush_1 "Billy, estoy caliente ahora. {i}Real{/i} caliente."
+    star dress towards_wide rise_one talk_happy blush_1 "Billy, estoy caliente. {i}Muy{/i} caliente."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6924
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_00dfe913:
 
     # star dress towards_wide angry talk_happy_2 blush_1 "Showing off in front of Paulina like that, and that Manson chick earlier..."
-    star dress towards_wide angry talk_happy_2 blush_1 "Mostrando delante de Paulina como eso, y ese Manson chick antes..."
+    star dress towards_wide angry talk_happy_2 blush_1 "Mostrarte delante de Paulina, y esa garrula de Manson..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6926
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a5f88a5e:
 
     # star dress towards angry talk_happy blush_2 "It got me going."
-    star dress towards angry talk_happy blush_2 "Me puso en marcha."
+    star dress towards angry talk_happy blush_2 "Me puso cachonda."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6928
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_fba4692e:
 
     # danny phantom_suit at_danny neutral talk_happy "Uh, oh, so you'd like to maybe... try something..."
-    danny phantom_suit at_danny neutral talk_happy "Uh, oh, así que te gustaría probar... prueba algo..."
+    danny phantom_suit at_danny neutral talk_happy "Uh, oh, así que te gustaría probar... probar algo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6930
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_4020075a:
 
     # star dress towards_wide rise_one talk_happy_2 blush_1 "Fuck, Billy. I want you to fuck me."
-    star dress towards_wide rise_one talk_happy_2 blush_1 "Suerte, Billy. Quiero que me folles."
+    star dress towards_wide rise_one talk_happy_2 blush_1 "Joder, Billy. Quiero que me folles."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6932
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_0ed597fb:
 
     # star dress towards neutral_2 talk_happy_2 blush_2 "Right here. Right now."
-    star dress towards neutral_2 talk_happy_2 blush_2 "aquí. Ahora mismo."
+    star dress towards neutral_2 talk_happy_2 blush_2 "Aquí y ahora mismo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6934
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_5f71d4c0:
 
     # danny phantom_suit towards_wide wondering talk_happy_2 "Are- are you serious?!"
-    danny phantom_suit towards_wide wondering talk_happy_2 "Are- ¿eres serio?!"
+    danny phantom_suit towards_wide wondering talk_happy_2 "¿é-és serio?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6936
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6c98fe30:
 
     # star dress towards confused talk_happy_2 blush_2 "Yes. I'm ready for it."
-    star dress towards confused talk_happy_2 blush_2 "Sí. Estoy listo para ello."
+    star dress towards confused talk_happy_2 blush_2 "Sí. Estoy lista."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6938
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_39c23cc2:
 
     # star dress towards neutral_2 talk_happy_2 blush_1 "I'm on the pill, it doesn't matter. Do me up. Fuck my guts out."
-    star dress towards neutral_2 talk_happy_2 blush_1 "Estoy en la píldora, no importa. Hazme. Suerte mis cerebros."
+    star dress towards neutral_2 talk_happy_2 blush_1 "He tomado la píldora. Hazlo. Fóllame a saco."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6940
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a19641fb:
@@ -12898,49 +12898,49 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_a19641fb:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_6998f424:
 
     # danny phantom_suit up_wide wondering talk_happy "I just..."
-    danny phantom_suit up_wide wondering talk_happy "Sinto..."
+    danny phantom_suit up_wide wondering talk_happy "Solo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6944
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_789a48de:
 
     # danny phantom_suit towards_wide wondering talk_happy_2 "Oh-okay then, l-let's-"
-    danny phantom_suit towards_wide wondering talk_happy_2 "Oh-okay entonces, l-let's-"
+    danny phantom_suit towards_wide wondering talk_happy_2 "O-okay entonces, voy"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6945
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2944ee12:
 
     # star dress towards neutral talk_happy_2 blush_1 "Way ahead of you."
-    star dress towards neutral talk_happy_2 blush_1 "Vaya delante de usted."
+    star dress towards neutral talk_happy_2 blush_1 "Voy delante de ti."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6950
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_332928ec:
 
     # danny phantom_suit towards_wide rise_one talk_happy_2 "S-seriously though, right here of all places? You're not worried that somebody might-"
-    danny phantom_suit towards_wide rise_one talk_happy_2 "¿S-seriamente, justo aquí de todos los lugares? No te preocupa que alguien pueda-"
+    danny phantom_suit towards_wide rise_one talk_happy_2 "¿En s-serio?, ¿de todos los lugares en este? No te preocupa que alguien pueda-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6952
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_f529ae5d:
 
     # star nude towards neutral talk_frown noblush "Billy, don't worry. I got Dash to steal me a spare pair of Janitor's keys for tonight."
-    star nude towards neutral talk_frown noblush "No te preocupes, no te preocupes. Tenía Dash para robarme un par de llaves de Janitorio para esta noche."
+    star nude towards neutral talk_frown noblush "No te preocupes, no te preocupes. Hice que Dash robara un par de llaves del conserje para esta noche."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6954
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_d31e061d:
 
     # star nude towards confused talk_happy noblush "Thanks for reminding me though, I should get that taken care of first."
-    star nude towards confused talk_happy noblush "Gracias por recordarme, sin embargo, debería encargarme de eso primero."
+    star nude towards confused talk_happy noblush "Gracias por recordármelo, debo encargarme de eso primero."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6958
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_10150296:
 
     # doorsound "{i}*Jingle* *Jingle* *Ker-Klick*{/i}"
-    doorsound "{i}*Jingle * *Jingle * *Ker-Klick * {/i}"
+    doorsound "{i}*Tintineo * *Tintineo* *Ker-Klick * {/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6963
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_1470f1f8:
 
     # star "Now Mr. Handsome Ghost boy... are you ready for this?"
-    star "Ahora el señor Handsome Ghost muchacho... ¿estás listo para esto?"
+    star "Ahora señor Handsome chico fantasma... ¿está listo para esto?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6965
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_9434c949:
@@ -12958,25 +12958,25 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_4214e39b:
 translate spanish A_Stroke_After_Midnight_star_dogy_9d49acc2:
 
     # danny "Ohh... that's so good..."
-    danny "Ohh... eso es tan bueno..."
+    danny "Ohh... esto és tan bueno..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6981
 translate spanish A_Stroke_After_Midnight_star_dogy_2d044e82:
 
     # star sex doggystyle loop_slow at_player_slow talk_slow "Oh! Yes! Fuck me Billy!"
-    star sex doggystyle loop_slow at_player_slow talk_slow "¡Oh! ¡Sí! ¡Sí! ¡Sí!"
+    star sex doggystyle loop_slow at_player_slow talk_slow "¡Oh! ¡Sí! ¡Fóllame Billy!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6983
 translate spanish A_Stroke_After_Midnight_star_dogy_a5b303f6:
 
     # danny "Jesus... fuck... this is really nice..."
-    danny "Jesús... mierda... esto es realmente agradable..."
+    danny "Jesús... mierda... esto és de puta madre..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6984
 translate spanish A_Stroke_After_Midnight_star_dogy_ba0e07f5:
 
     # star sex doggystyle loop_slow at_player_slow talk_slow "Ohh... yeah, you know how to deep dick me good...!"
-    star sex doggystyle loop_slow at_player_slow talk_slow "Ohh... sí, sabes cómo hacerme una polla profunda...!"
+    star sex doggystyle loop_slow at_player_slow talk_slow "¡Ohh... sí, sabes cómo meterme la polla hasta el fondo y volverme loca...!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6986
 translate spanish A_Stroke_After_Midnight_star_dogy_b34c2653:
@@ -12994,79 +12994,79 @@ translate spanish A_Stroke_After_Midnight_star_dogy_6d1c806b:
 translate spanish A_Stroke_After_Midnight_star_dogy_4b91660c:
 
     # danny "Yeah... you like that...? Uhnnn..."
-    danny "Sí... te gusta eso...? Uhnnn..."
+    danny "Sí... ¿te gusta así...? Uhnnn..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6991
 translate spanish A_Stroke_After_Midnight_star_dogy_36dfffee:
 
     # star sex doggystyle loop_slow up_slow talk_slow "Yeah, it feels so good!"
-    star sex doggystyle loop_slow up_slow talk_slow "Sí, se siente tan bien!"
+    star sex doggystyle loop_slow up_slow talk_slow "¡Sí, se siente fenomenal!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6993
 translate spanish A_Stroke_After_Midnight_star_dogy_d2fd2121:
 
     # danny "You like the way I fuck this pussy?"
-    danny "¿Te gusta la forma de follar este coño?"
+    danny "¿Te gusta como te follo el coño?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6994
 translate spanish A_Stroke_After_Midnight_star_dogy_5750ce05:
 
     # star sex doggystyle loop_slow up_slow talk_slow "Holy shit! Yes, you're fucking me silly!"
-    star sex doggystyle loop_slow up_slow talk_slow "¡Sagita mierda! ¡Sí, me folla bien!"
+    star sex doggystyle loop_slow up_slow talk_slow "¡Santa biblia! ¡Sí, me estás follando de locura!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6995
 translate spanish A_Stroke_After_Midnight_star_dogy_5236eb97:
 
     # star sex doggystyle loop_slow at_player_slow talk_slow "You're so good at this! I love how you take charge!!~"
-    star sex doggystyle loop_slow at_player_slow talk_slow "¡Eres tan bueno en esto! Me encanta cómo te cargas!!~"
+    star sex doggystyle loop_slow at_player_slow talk_slow "¡Eres buenísimo! ¡¡Me encanta cómo me embistes!!~ "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6996
 translate spanish A_Stroke_After_Midnight_star_dogy_de66ebc5:
 
     # star sex doggystyle loop_slow at_player_slow talk_slow "You like my sweet ass, baby?"
-    star sex doggystyle loop_slow at_player_slow talk_slow "¿Te gusta mi dulce culo, bebé?"
+    star sex doggystyle loop_slow at_player_slow talk_slow "¿Te gusta mi dulce culo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6998
 translate spanish A_Stroke_After_Midnight_star_dogy_9391efa2:
 
     # danny "Mmphh.... feels so good... I wanna play with it all night..."
-    danny "Mmphh.... se siente tan bien... Quiero jugar con él toda la noche..."
+    danny "Mmphh.... se siente a gloria... Quiero jugar con él toda la noche..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6999
 translate spanish A_Stroke_After_Midnight_star_dogy_9b0c8e34:
 
     # star sex doggystyle loop_slow at_player_slow talk_slow "You like getting to fuck me, Billy?"
-    star sex doggystyle loop_slow at_player_slow talk_slow "¿Te gusta que me jodas, Billy?"
+    star sex doggystyle loop_slow at_player_slow talk_slow "¿Te gusta que follarme Billy?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7001
 translate spanish A_Stroke_After_Midnight_star_dogy_8ec9ad14:
 
     # danny "I love fucking you... it feels so..."
-    danny "Me encanta follarte... se siente así..."
+    danny "Me encanta follarte... se siente de gloria..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7002
 translate spanish A_Stroke_After_Midnight_star_dogy_127cb752:
 
     # star sex doggystyle loop_slow up_slow talk_slow "Oh fuck... I'm already gonna cum soon..."
-    star sex doggystyle loop_slow up_slow talk_slow "Oh fuck... Ya estoy gonna cum pronto..."
+    star sex doggystyle loop_slow up_slow talk_slow "Oh joder... Voy a correrme otra veza..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7005
 translate spanish A_Stroke_After_Midnight_star_dogy_d7d275a6:
 
     # danny "(This is insanity! This is my first time, and I've lasted even this long??)"
-    danny "(¡Esto es locura! Esta es mi primera vez, y he durado incluso este largo?)"
+    danny "(¡Esto és una locura! Es mi primera vez ¿y he durado mucho?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7007
 translate spanish A_Stroke_After_Midnight_star_dogy_82cecfb8:
 
     # danny "Yeah, c-cum on this dick Star... let me... make you... cum... real good."
-    danny "Sí, c-cum en esta estrella de polla... déjame... hazme... cum... realmente bueno."
+    danny "Sí, c-correte con esta polla Start... déjame... hacerte... correr... de gloria."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7008
 translate spanish A_Stroke_After_Midnight_star_dogy_d9e24a29:
 
     # star sex doggystyle loop_slow up_slow talk_slow "Ohhh.... God... you're... hitting just... the right...!!~"
-    star sex doggystyle loop_slow up_slow talk_slow "Ohhh... Dios... hace... golpeando justo... la derecha...!!~"
+    star sex doggystyle loop_slow up_slow talk_slow "¡¡Ohhh... Dios... estás... embistiendo... la derecha...!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7009
 translate spanish A_Stroke_After_Midnight_star_dogy_8238a82c:
@@ -13078,25 +13078,25 @@ translate spanish A_Stroke_After_Midnight_star_dogy_8238a82c:
 translate spanish A_Stroke_After_Midnight_star_dogy_4bd10d9b:
 
     # star sex doggystyle loop_slow up_slow talk_slow "Huhhh!! Jeeeesus.... fuck...."
-    star sex doggystyle loop_slow up_slow talk_slow "Huhhh!! Jeeeesus.... fuck...."
+    star sex doggystyle loop_slow up_slow talk_slow "Huhhh!! Jeeeesus.... joder...."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7013
 translate spanish A_Stroke_After_Midnight_star_dogy_87d930de:
 
     # danny "(I seriously can't believe this... I just had one of the most popular girls in school...)"
-    danny "(No puedo creer esto en serio... Acabo de tener una de las niñas más populares en la escuela...)"
+    danny "(No puedo creer esto... Acabo de tener una de las chicas más populares de la escuela...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7015
 translate spanish A_Stroke_After_Midnight_star_dogy_063b830c:
 
     # danny "(She just... we just...)"
-    danny "(Él justo... nosotros just...)"
+    danny "(Ella solo... nosotros solo...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7017
 translate spanish A_Stroke_After_Midnight_star_dogy_4cdbf0af:
 
     # danny "(Oh no... I'm gonna... soon...)"
-    danny "(Oh no... soy gonna... pronto...)"
+    danny "(Oh no... voy a... pronto...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7019
 translate spanish A_Stroke_After_Midnight_star_dogy_f7ef0e3c:
@@ -13108,31 +13108,31 @@ translate spanish A_Stroke_After_Midnight_star_dogy_f7ef0e3c:
 translate spanish A_Stroke_After_Midnight_star_dogy_6d33b97f:
 
     # star sex doggystyle loop_fast up_fast talk_fast "Yahhh...??~"
-    star sex doggystyle loop_fast up_fast talk_fast "Yahh...??~"
+    star sex doggystyle loop_fast up_fast talk_fast "¿¿Yahh...??~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7022
 translate spanish A_Stroke_After_Midnight_star_dogy_1700b7de:
 
     # danny "I'm gonna... it's gonna come out..."
-    danny "Soy gonna... va saliendo..."
+    danny "voy a... voy a correrme..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7023
 translate spanish A_Stroke_After_Midnight_star_dogy_7c74d3ba:
 
     # star sex doggystyle loop_fast at_player_fast talk_fast "Fucking do it then! Fucking... shoot it inside me, I wanna feel it inside!!"
-    star sex doggystyle loop_fast at_player_fast talk_fast "¡Que lo hagas entonces! ¡Sucking... disparándolo dentro de mí, quiero sentirlo dentro!!"
+    star sex doggystyle loop_fast at_player_fast talk_fast "¡Joder hazlo entonces! ¡Joder!... ¡¡córrete dentro de mí, quiero sentirlo dentro!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7024
 translate spanish A_Stroke_After_Midnight_star_dogy_5d22c3c0:
 
     # star sex doggystyle loop_fast up_fast talk_fast "I wanna feel iiiit!!!~"
-    star sex doggystyle loop_fast up_fast talk_fast "¡¡¡Quiero sentir iiiit!!!~"
+    star sex doggystyle loop_fast up_fast talk_fast "¡¡¡Quiero sentirlooooo!!!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7026
 translate spanish A_Stroke_After_Midnight_star_dogy_848977fa:
 
     # danny "Uhnnmm.... Ughhhh!!!"
-    danny "Uhnnmm.... Ughhhh!!!"
+    danny "¡¡¡Uhnnmm.... Ughhhh!!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7034
 translate spanish A_Stroke_After_Midnight_star_dogy_7d290651:
@@ -13156,31 +13156,31 @@ translate spanish A_Stroke_After_Midnight_after_star_dogy_159b0f14:
 translate spanish A_Stroke_After_Midnight_after_star_dogy_86efe50a:
 
     # danny phantom towards wondering talk_happy_2 "I mean... that was incredible."
-    danny phantom towards wondering talk_happy_2 "Quiero decir... eso era increíble."
+    danny phantom towards wondering talk_happy_2 "Quiero decir... fue increíble."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7057
 translate spanish A_Stroke_After_Midnight_after_star_dogy_5a79a224:
 
     # star nude towards rise_one talk_happy blush_2 "You weren't too bad yourself, champ. You treat all the ladies that nicely?"
-    star nude towards rise_one talk_happy blush_2 "Usted no era demasiado malo usted mismo, champ. ¿Usted trata a todas las damas que muy bien?"
+    star nude towards rise_one talk_happy blush_2 "No fuiste demasiado malo, campeón. ¿tratas a todas las damas tan bien?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7059
 translate spanish A_Stroke_After_Midnight_after_star_dogy_f3aec4a4:
 
     # danny phantom at_danny neutral talk_frown "I guess... I've never really-"
-    danny phantom at_danny neutral talk_frown "Supongo que nunca lo he hecho en realidad-"
+    danny phantom at_danny neutral talk_frown "Yo adivino... yo nunca he hecho en realidad-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7061
 translate spanish A_Stroke_After_Midnight_after_star_dogy_3ba3ebeb:
 
     # star nude towards confused_2 talk_frown noblush "Okay, not to cut this too short or anything, but I gotta get back to the dance."
-    star nude towards confused_2 talk_frown noblush "Vale, no cortar esto demasiado corto o cualquier cosa, pero tengo que volver a bailar."
+    star nude towards confused_2 talk_frown noblush "Vale, no és que quiera hacer corto este rato, pero tengo que volver a bailar."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7063
 translate spanish A_Stroke_After_Midnight_after_star_dogy_0aad0729:
 
     # star nude towards angry talk_happy noblush "There's a couple of other people I still need to throw my face in."
-    star nude towards angry talk_happy noblush "Hay un par de personas más que todavía tengo que echar la cara."
+    star nude towards angry talk_happy noblush "Hay un par de personas más que todavía tengo que ver."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7065
 translate spanish A_Stroke_After_Midnight_after_star_dogy_ea4a61d7:
@@ -13192,61 +13192,61 @@ translate spanish A_Stroke_After_Midnight_after_star_dogy_ea4a61d7:
 translate spanish A_Stroke_After_Midnight_after_star_dogy_f475d8c8:
 
     # star nude down neutral talk_frown noblush "Oh, sweetie, absolutely no offense, honestly..."
-    star nude down neutral talk_frown noblush "Oh, semanas, absolutamente ninguna ofensa, honestamente..."
+    star nude down neutral talk_frown noblush "Oh, cielo, no me ofende en absoluto, sinceramente..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7069
 translate spanish A_Stroke_After_Midnight_after_star_dogy_87d7a8a0:
 
     # star nude down sad talk_happy noblush "But I'll be good the rest of the night by myself."
-    star nude down sad talk_happy noblush "Pero seré bueno el resto de la noche por mí mismo."
+    star nude down sad talk_happy noblush "Seré buena el resto de la noche conmigo misma."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7071
 translate spanish A_Stroke_After_Midnight_after_star_dogy_b7564d3a:
 
     # danny phantom towards angry talk_frown_2 "What? Seriously? Are you tossing me aside already?"
-    danny phantom towards angry talk_frown_2 "¿Qué? ¿Seriamente ¿Me estás haciendo a un lado ya?"
+    danny phantom towards angry talk_frown_2 "¿Qué? ¿En serio? ¿Me estás dando de lado ya?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7073
 translate spanish A_Stroke_After_Midnight_after_star_dogy_db5bc0a7:
 
     # star nude towards confused_2 talk_frown noblush "No, no, no, it's not like that at all."
-    star nude towards confused_2 talk_frown noblush "No, no, no, no es así en absoluto."
+    star nude towards confused_2 talk_frown noblush "No, no, no, no és eso, en absoluto."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7075
 translate spanish A_Stroke_After_Midnight_after_star_dogy_bd71e2d9:
 
     # star nude towards neutral_2 talk_happy noblush "It's just that, the rest of my plans tonight, I can do by myself."
-    star nude towards neutral_2 talk_happy noblush "Es simplemente eso, el resto de mis planes esta noche, puedo hacer por mí mismo."
+    star nude towards neutral_2 talk_happy noblush "Es solo que, el resto de mis planes esta noche los puedo hacer yo misma."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7077
 translate spanish A_Stroke_After_Midnight_after_star_dogy_2a513453:
 
     # star nude towards rise_one talk_frown noblush "Nobody else really even knows you, outside of Paulina and Fenton's gang."
-    star nude towards rise_one talk_frown noblush "Nadie más te conoce en realidad, fuera de Paulina y del gang de Fenton."
+    star nude towards rise_one talk_frown noblush "Nadie más te conoce bien del todo aparte de Paulina y el lerdo de Fenton."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7079
 translate spanish A_Stroke_After_Midnight_after_star_dogy_f9c2e479:
 
     # star nude towards sad talk_frown noblush "Now that I've already peacocked with them, you'd just be wasting your time hanging out here."
-    star nude towards sad talk_frown noblush "Ahora que ya he tocado con ellos, simplemente estarías perdiendo tu tiempo aquí."
+    star nude towards sad talk_frown noblush "Ahora que ya les he restregado mi relación contigo, estarías perdiendo tu tiempo aquí."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7081
 translate spanish A_Stroke_After_Midnight_after_star_dogy_0135a97a:
 
     # danny phantom towards sad_2 talk_frown "So... you don't even wanna hang out with me?"
-    danny phantom towards sad_2 talk_frown "Así que... ¿Ni siquiera quieres pasar el rato conmigo?"
+    danny phantom towards sad_2 talk_frown "Entonces... ¿Ni siquiera quieres pasar el rato conmigo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7083
 translate spanish A_Stroke_After_Midnight_after_star_dogy_df1fa03d:
 
     # star nude towards_wide neutral talk_happy noblush "You're amazing, Billy! Of course I would!"
-    star nude towards_wide neutral talk_happy noblush "¡Estás asombroso! ¡Por supuesto que lo haría!"
+    star nude towards_wide neutral talk_happy noblush "¡Eres asombroso! ¡Por supuesto que lo haría!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7085
 translate spanish A_Stroke_After_Midnight_after_star_dogy_ee763f5b:
 
     # star nude down confused talk_frown noblush "But I can't imagine being {i}so{/i} selfish as to keep you to myself the rest of the whole night!"
-    star nude down confused talk_frown noblush "Pero no puedo imaginar ser {i}tan {/i} egoísta como para mantenerme a mí mismo el resto de toda la noche!"
+    star nude down confused talk_frown noblush "¡Pero no puedo imaginar ser {i}tan {/i} egoísta para tenerte para mí el resto de la noche!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7087
 translate spanish A_Stroke_After_Midnight_after_star_dogy_c1ed3879:
@@ -13258,13 +13258,13 @@ translate spanish A_Stroke_After_Midnight_after_star_dogy_c1ed3879:
 translate spanish A_Stroke_After_Midnight_after_star_dogy_112290fd:
 
     # danny phantom at_danny sad talk_frown "Uhmmm... I don't really have like, patrols or anything-"
-    danny phantom at_danny sad talk_frown "Uhmmm... Realmente no tengo gustos-patrullas o nada-"
+    danny phantom at_danny sad talk_frown "Uhmmm... Realmente no tengo que patrullar o nada del estilo-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7091
 translate spanish A_Stroke_After_Midnight_after_star_dogy_657f2d6b:
 
     # star nude towards_wide angry talk_happy_2 noblush "Maybe you should! Get into the habit of keeping everyone safe!"
-    star nude towards_wide angry talk_happy_2 noblush "¡Tal vez deberías! ¡Atrévete al hábito de mantener a todo el mundo seguro!"
+    star nude towards_wide angry talk_happy_2 noblush "¡Tal vez deberías! ¡Ponte el hábito de mantener a todo el mundo seguro!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7093
 translate spanish A_Stroke_After_Midnight_after_star_dogy_6f90493f:
@@ -13282,13 +13282,13 @@ translate spanish A_Stroke_After_Midnight_after_star_dogy_e654bdc5:
 translate spanish A_Stroke_After_Midnight_after_star_dogy_2bf73309:
 
     # star nude towards angry talk_happy noblush "Exactly! Awesome! Glad you could understand."
-    "¡[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Exactamente! ¡Fantástico! Te encantaría poder entender."
+    "¡[_star_s_nude_s_towards_s_angry_s_talk_happy_s_noblush_] Exacto! ¡Fantástico! Me encanta que lo entiendas."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7099
 translate spanish A_Stroke_After_Midnight_after_star_dogy_659e9a92:
 
     # star nude down neutral_2 talk_frown noblush "Now, I'll text you next week or something, we'll do lunch. Maybe. If I'm not too busy."
-    star nude down neutral_2 talk_frown noblush "Ahora, te voy a escribir la próxima semana o algo, vamos a almorzar. Tal vez. Si no estoy demasiado ocupado."
+    star nude down neutral_2 talk_frown noblush "Ahora, te escribiré la próxima semana más o menos, e iremos a almorzar tal vez. Si no estoy demasiado ocupada."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7101
 translate spanish A_Stroke_After_Midnight_after_star_dogy_4b4cbb2c:
@@ -13300,37 +13300,37 @@ translate spanish A_Stroke_After_Midnight_after_star_dogy_4b4cbb2c:
 translate spanish A_Stroke_After_Midnight_after_star_dogy_9f46ab56:
 
     # star nude down angry talk_happy noblush "Greeeat! Now, I gotta get changed in the bathroom. You stay safe tonight!"
-    star nude down angry talk_happy noblush "¡Saludo! Ahora, tengo que cambiarme en el baño. ¡Te quedas a salvo esta noche!"
+    star nude down angry talk_happy noblush "¡Genial! Ahora, tengo que cambiarme en el baño. ¡Esta noche dormirás de gloria!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7105
 translate spanish A_Stroke_After_Midnight_after_star_dogy_5ffb53e2:
 
     # star nude towards_wide angry talk_happy_2 noblush "Bye Billy!! See you around!~"
-    star nude towards_wide angry talk_happy_2 noblush "Aye Billy!! ¡Nos vemos a lo que nos rodea!~"
+    star nude towards_wide angry talk_happy_2 noblush "¡¡Adiós Billy!! ¡Nos vemos!~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7107
 translate spanish A_Stroke_After_Midnight_after_star_dogy_2f66ef19:
 
     # danny phantom at_player_wide sad_2 talk_frown "Y-yeah, thanks! I'll just... phase outta here then!"
-    "¡[_danny_s_phantom_s_at_player_wide_s_sad_2_s_talk_frown_] Y-sí, gracias! ¡Listo... fase outta aquí entonces!"
+    "¡[_danny_s_phantom_s_at_player_wide_s_sad_2_s_talk_frown_] s-sí, gracias! ¡solo... saldré de aquí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7108
 translate spanish A_Stroke_After_Midnight_after_star_dogy_239deae3:
 
     # danny phantom at_danny sad talk_frown_2 "...I guess."
-    danny phantom at_danny sad talk_frown_2 "...Supongo que"
+    danny phantom at_danny sad talk_frown_2 "...supongo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7129
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_5c0f7c90:
 
     # danny phantom towards_wide wondering talk_frown "Well... that was something."
-    danny phantom towards_wide wondering talk_frown "Bueno... eso era algo."
+    danny phantom towards_wide wondering talk_frown "Bueno... eso fue algo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7130
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_1d1281cd:
 
     # danny phantom at_player_wide wondering talk_frown "I didn't just get... used, right?"
-    danny phantom at_player_wide wondering talk_frown "no me acababa de usar... ¿verdad?"
+    danny phantom at_player_wide wondering talk_frown "no me acaba de utilizar... ¿verdad?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7131
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_1d8dffaf:
@@ -13342,7 +13342,7 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_1d8dffaf:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_9f7ef968:
 
     # danny phantom at_player_wide angry talk_frown "One would {i}normally{/i} call that getting used..."
-    danny phantom at_player_wide angry talk_frown "Uno sería {i}normalmente {/i} llamada que se utiliza ..."
+    danny phantom at_player_wide angry talk_frown "Uno sería {i}normalmente {/i} descrito como haber sido utilizado..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7133
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_7c963aad:
@@ -13354,7 +13354,7 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_7c963aad:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_5eaad18f:
 
     # danny phantom at_player_wide wondering talk_happy "Oh, what can I really complain about? I got laid!"
-    danny phantom at_player_wide wondering talk_happy "Oh, ¿de qué puedo quejarme realmente? ¡Me han ofrecido!"
+    danny phantom at_player_wide wondering talk_happy "Oh, ¿de qué puedo quejarme realmente? ¡He echado un polvo!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7135
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_332d7b4d:
@@ -13372,25 +13372,25 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_12a82cfc:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_5c6cbf90:
 
     # danny phantom at_danny sad talk_frown "I'll also have to figure out some way I can explain all this to Paulina and Sam & Tuck."
-    danny phantom at_danny sad talk_frown "También tendré que averiguar de alguna manera que pueda explicar todo esto a Paulina y Sam & Tuck."
+    danny phantom at_danny sad talk_frown "También tendré que averiguar de alguna manera de explicar todo esto a Paulina y Sam & Tuck."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7138
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_ca510e4c:
 
     # danny phantom at_player_wide angry talk_frown_2 "I didn't really like the way Star was treating them... felt way too confrontational."
-    danny phantom at_player_wide angry talk_frown_2 "Realmente no me gustó la forma en que Star los estaba tratando... sintiéndose demasiado confrontacional."
+    danny phantom at_player_wide angry talk_frown_2 "No me gustó la forma en que Star los estaba tratando... era demasiado confrontacional."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7139
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_d076ee3b:
 
     # danny phantom at_danny sad talk_frown "Best not think about it tonight, anyway and just go to sleep."
-    danny phantom at_danny sad talk_frown "Mejor no pensarlo esta noche, de todos modos y simplemente ir a dormir."
+    danny phantom at_danny sad talk_frown "Mejor no pensar lo de esta noche, simplemente ir a dormir."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7141
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_9c66656e:
 
     # danny phantom at_player_wide wondering talk_happy_2 "Man... she definitely wiped me out... but I think I even gained some Orgone! Alright!"
-    danny phantom at_player_wide wondering talk_happy_2 "Hombre... ella definitivamente me limpió... ¡pero creo que incluso gané algo de Orgone! ¡De acuerdo!"
+    danny phantom at_player_wide wondering talk_happy_2 "Tío... ella me dejó vacío... ¡pero creo que gané algo de Orgone! ¡Sí!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7143
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_58309785:
@@ -13420,13 +13420,13 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_9d034bdc:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_dc488da6:
 
     # billspook "Uhm... yeah, you are welcome!"
-    billspook "Uhm... sí, ¡eres bienvenido!"
+    billspook "Uhm... sí, ¡me alegra de que me escribas!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7163
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_81e96ee5:
 
     # starspook "Again sorry about leaving you right after our fun time. But I didn't want you to get bored by hanging out with my friends for too much."
-    starspook "de nuevo disculpa por dejarte justo después de nuestro tiempo de diversión. Pero no quería que te aburras colgando con mis amigos demasiado."
+    starspook "de nuevo perdona por dejarte después de nuestro tiempo de diversión. Pero no quería que te aburrieras con mis amigos."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7164
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_2da4b044:
@@ -13444,7 +13444,7 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_076fb0ac:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_e83697d7:
 
     # starspook "But just to make sure you won't forget me so fast I would like to send you a special gift!"
-    starspook "Pero ¡solo para asegurarnos de que no me olvides tan rápido me gustaría enviarte un regalo especial!"
+    starspook "¡para asegurarme de que no me olvides rápido me gustaría enviarte un regalo especial!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7167
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_63c32af3:
@@ -13468,13 +13468,13 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_58309785_1:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_b6ca2c62:
 
     # danny "(Oh, cool Star just sent me a JPEG.)"
-    danny "(Oh, cool Star acaba de enviarme un JPEG.)"
+    danny "(Oh, joder, Star acaba de enviarme un JPEG.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7177
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_c328dc62:
 
     # danny "(Wow!! Nice. Star sure has a nice body!!)"
-    danny "(¡¡¡¡Wow!! Bien hecho!!)"
+    danny "(¡¡¡¡Wow!!! Bien. ¡¡Start tienen un precioso cuerpo!!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7178
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_da04abde:
@@ -13504,37 +13504,37 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_76b2fe88_1:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_80411932:
 
     # starspook "I just thought you deserved something special for today. For your eyes only of course. :P "
-    starspook "Acabo de pensar que merecías algo especial para hoy. Para tus ojos solo por supuesto: P "
+    starspook "Acabo de pensar que merecías algo especial para hoy. Solo para tus ojos por supuesto :P "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7193
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_60fa220b:
 
     # billspook "Thanks, I am definitely looking forward to see you again now."
-    billspook "Gracias, definitivamente estoy deseando verte de nuevo ahora."
+    billspook "Gracias, definitivamente estoy deseando verte de nuevo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7194
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_45f43275:
 
     # starspook "Yeah, me too. Let us go on a date again. I am already looking forward to that <3 "
-    starspook "Sí, yo también. Volvamos otra fecha. Ya estoy deseando que <3 "
+    starspook "Sí, yo también. Tengamos otra cita. Ya estoy deseando que <3 "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7195
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_d1ce52f1:
 
     # billspook "Of course!"
-    "¡[_billspook_] por supuesto!"
+    "¡[_billspook_] ¡por supuesto!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7196
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_1b98d878:
 
     # starspook "Well, I will have to go and sleep now. Good night Billy! Talk to you soon!! <3 "
-    starspook "Bueno, tendré que ir a dormir ahora. ¡Buena noche bien! ¡¡Habla contigo!! <3 "
+    starspook "Bueno, tengo que ir a dormir ahora. ¡Buenas noches Billy! ¡¡Hablaremos pronto!! <3 "
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7202
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_173abacb:
 
     # danny phantom talk_happy "Oh man, that sure was a nice surprise..."
-    danny phantom talk_happy "Oh hombre, eso fue una buena sorpresa..."
+    danny phantom talk_happy "Oh tío, eso fue una buena sorpresa..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7203
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_4d68b158:
@@ -13546,13 +13546,13 @@ translate spanish A_Stroke_After_Midnight_scene_14c_starphone_4d68b158:
 translate spanish A_Stroke_After_Midnight_scene_14c_starphone_9f3414c1:
 
     # danny phantom at_player_wide rise_one talk_happy "All in all... things are looking up for ol' Inviso-Bill."
-    danny phantom at_player_wide rise_one talk_happy "En total... las cosas están buscando la antigua Inviso-Bill."
+    danny phantom at_player_wide rise_one talk_happy "En total... las cosas están buscando a Inviso-Bill."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7232
 translate spanish end_credits_vlad_stinger_76d0b887:
 
     # vlad closed talk_happy sad_2 "Ahhh... finally moved in. Oh, how this just feels so {b}right{/b}! Far better than that lonely old castle mansion..."
-    vlad closed talk_happy sad_2 "Ahhh... finalmente se movió. ¡Oh, cómo se siente tan {b}derecha{/b}! ¡Mucho mejor que esa solitaria mansión de castillo..."
+    vlad closed talk_happy sad_2 "Ahhh... finalmente me mudé. ¡Oh, se siente tan {b}bien{/b}! ¡Mucho mejor que esa solitaria mansión de castillo..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7234
 translate spanish end_credits_vlad_stinger_cbafd59c:
@@ -13570,31 +13570,31 @@ translate spanish end_credits_vlad_stinger_7ea1182c:
 translate spanish end_credits_vlad_stinger_d6086732:
 
     # vlad towards_2 talk_frown "...and for taking away the woman whose heart once belonged to me. All thanks to his idiotic backwards charm!"
-    vlad towards_2 talk_frown "...y por quitar a la mujer cuyo corazón alguna vez me pertenecía. ¡Gracias a su insólito hechizo atrás!"
+    vlad towards_2 talk_frown "...y por quitar a la mujer cuyo corazón alguna vez me perteneció. ¡Gracias a su insólito carisma!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7238
 translate spanish end_credits_vlad_stinger_3a7d0081:
 
     # vlad sad_2 towards talk_frown "...along with the addition of my {b}less{/b} than delightful skin complexion..."
-    vlad sad_2 towards talk_frown "...junto con la adición de mi {b}menos{/b} que la deliciosa complicidad de la piel..."
+    vlad sad_2 towards talk_frown "...junto con los desperfectos de mi {b}tez{/b} de piel deliciosa..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7239
 translate spanish end_credits_vlad_stinger_36acfdce:
 
     # vlad closed sad talk_happy "But how fitting, Jack- no, how {i}poetic{/i} is it that the thing that once ruined my life, would become my greatest weapon against you...?"
-    vlad closed sad talk_happy "Pero cuán apropiado, Jack-no, cómo {i}poético {/i} es que la cosa que una vez arruinó mi vida, se convertiría en mi mayor arma contra ti ...?"
+    vlad closed sad talk_happy "Pero como pudiste, Jack, ¿cómo és de {i}poético {/i} és lo que una vez arruinó mi vida, se convertiría en mi mayor arma contra ti...?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7240
 translate spanish end_credits_vlad_stinger_e2c8bc66:
 
     # vlad angry talk_happy towards_2 "I'll make you {b}pay{/b} Jack Fenton for robbing me... and I'll be taking back what was rightfully mine in the first place..."
-    vlad angry talk_happy towards_2 "Te haré {b}pagaron{/b} Jack Fenton por robarme... y estaré recuperando lo que era acertadamente mío en primer lugar..."
+    vlad angry talk_happy towards_2 "Te haré {b}pagar{/b} Jack Fenton robarme... y estaré recuperando lo que fue acertadamente mío en primer lugar..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7243
 translate spanish end_credits_vlad_stinger_8087a94c:
 
     # vlad sad_2 towards talk_happy "Oh, how I {b}love{/b} a good monologue with wickedly sinister undertones..."
-    vlad sad_2 towards talk_happy "Oh, cómo me encanta {b}{/b} un buen monologue con inicuamente siniestros undertones..."
+    vlad sad_2 towards talk_happy "Oh, cómo me {b}gusta{/b} un buen monólogo con unas inicuamente siniestras piedras subterráneas..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7256
 translate spanish end_credits_vlad_stinger_750008b4:
@@ -13606,27 +13606,27 @@ translate spanish strings:
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:911
     old "Who should I take to the Casper Chill Formal?"
-    new "¿Quién debería llevar al Formal Casper Chill?"
+    new "¿Quién debería llevar al baile Formal Casper Chill?"
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:911
     old "Let's take Paulina!"
-    new "¡Tomemos Paulina!"
+    new "¡Iré con Paulina!"
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:911
     old "Let's take Sam!"
-    new "¡Tomemos Sam!"
+    new "¡Iré con Sam!"
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:911
     old "Let's take Star!"
-    new "¡Tomemos estrella!"
+    new "¡Ire con Star!"
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:911
     old "Let's take Desiree!"
-    new "¡Tomemos Deseo!"
+    new "¡Ire con Desiree!"
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:3155
     old "How do I ask Desiree to open up about her past?"
-    new "¿Cómo le pido a Desiree que se abra sobre su pasado?"
+    new "¿Cómo le pido a Desiree que se me hable de su vida pasada?"
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:3155
     old "What was life like as a harem girl?"
@@ -13634,5 +13634,5 @@ translate spanish strings:
 
     # game/code/episodes/episode_5/episode5_MZ.rpy:3155
     old "It must've been hard for you."
-    new "Debe haber sido difícil para usted."
+    new "Debe haber sido difícil para ti."
 

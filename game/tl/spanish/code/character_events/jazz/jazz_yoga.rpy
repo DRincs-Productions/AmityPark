@@ -4,7 +4,7 @@
 translate spanish jazz_wednesday_yoga_ca95bc43:
 
     # mp3 "{i}Breathe in... and breathe out...{p}...let your body be a guiding hand for your inner self's desires and needs...{p}...breathe in... and release..."
-    mp3 "{i}Inspira... y espira...{p}... deja que tu cuerpo sea una mano que te guíe por los deseos y necesidades de tu yo interior...{p}... inspira... y libera..."
+    mp3 "{i}Inspira... y espira...{/i}... {p}... deja que tu cuerpo sea una mano que te guíe por los deseos y necesidades de tu yo interior{/p}...{p}... inspira... y libera{/p}..."
 
 # game/code/character_events/jazz/jazz_yoga.rpy:12
 translate spanish jazz_wednesday_yoga_a0743fd2:
@@ -22,7 +22,7 @@ translate spanish jazz_wednesday_yoga_1a5f2b1b:
 translate spanish jazz_wednesday_yoga_ab4d50c1:
 
     # danny down idle bite "(She usually wears that sporty little getup when she's doing it too...)"
-    danny down idle bite "(Ella suele usar ese pequeño traje deportivo cuando está haciendo yoga...)"
+    danny down idle bite "(Ella suele usar ese traje deportivo cuando está haciendo yoga...)"
 
 # game/code/character_events/jazz/jazz_yoga.rpy:18
 translate spanish jazz_wednesday_yoga_c4616adf:
@@ -100,7 +100,7 @@ translate spanish strings:
 
     # game/code/character_events/jazz/jazz_yoga.rpy:20
     old "(I gotta make sure she's got the right form!)"
-    new "(¡Tengo que asegurarme de que está en buena forma física!)"
+    new "(¡Tengo que asegurarme de que coja buena forma física!)"
 
     # game/code/character_events/jazz/jazz_yoga.rpy:20
     old "(No, I'm not gonna intrude.)"

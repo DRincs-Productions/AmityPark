@@ -34,7 +34,7 @@ translate spanish maddie_sunday_yoga_first_time_ae4b9814:
 translate spanish maddie_sunday_yoga_first_time_57a9a8cf:
 
     # danny towards idle talk_happy "Morning Mom.{p}Yoga today?"
-    danny towards idle talk_happy "Buenos días mamá.{p}¿Yoga hoy?"
+    danny towards idle talk_happy "Buenos días mamá.{p}¿hoy yoga {/p}?"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:37
 translate spanish maddie_sunday_yoga_first_time_5e502f02:
@@ -76,7 +76,7 @@ translate spanish maddie_sunday_yoga_too_soon_loop_cfe22c72:
 translate spanish maddie_sunday_yoga_too_soon_loop_d5c8c3b0:
 
     # danny f offscreen at_self idle displeased "{i}*Siiigh*{/i}"
-    danny f offscreen at_self idle displeased "{i}*Siiigh*{/i}"
+    danny f offscreen at_self idle displeased "{i}*Suspiiiiro*{/i}"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:121
 translate spanish maddie_sunday_yoga_lewd_c98844aa:
@@ -88,13 +88,13 @@ translate spanish maddie_sunday_yoga_lewd_c98844aa:
 translate spanish maddie_sunday_yoga_lewd_3d4067e1:
 
     # danny "(...and just looking at this sight right now... I mean God, just check out that ass!)"
-    danny "(...y sólo mirando esta vista ahora mismo... Quiero decir ¡joder!, ¡mira ese culo!)"
+    danny "(...y sólo mirando estas vistas ahora mismo... Quiero decir ¡joder!, ¡mira ese culo!)"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:127
 translate spanish maddie_sunday_yoga_lewd_4d6fe6e3:
 
     # danny "(I still know deep down this probably isn't right, but it's too amazing to ignore!)"
-    danny "(Sigo sabiendo en el fondo que esto no es correcto, pero és demasiado sexi para ignorarlo)"
+    danny "(Sigo sabiendo en el fondo que esto no és correcto, pero és demasiado sexi para ignorarlo)"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:133
 translate spanish maddie_sunday_yoga_lewd_6cbe2b0d:
@@ -118,7 +118,7 @@ translate spanish maddie_sunday_yoga_lewd_f001b8a5:
 translate spanish maddie_sunday_yoga_lewd_215c9f35:
 
     # maddie "Do you like the outfit sweetie? Had to pull it out of the closet... it was the popular style at the time..."
-    maddie "¿Te gusta el conjunto, cariño? Tuve que sacarlo del armario... era el estilo popular de la época..."
+    maddie "¿Te gusta mi conjunto, cariño? Tuve que sacarlo del armario... era el estilo popular de la época..."
 
 # game/code/character_events/maddie/maddie_yoga.rpy:145
 translate spanish maddie_sunday_yoga_lewd_8f01bbc4:
@@ -148,7 +148,7 @@ translate spanish maddie_sunday_yoga_lewd_e766b18f:
 translate spanish maddie_sunday_yoga_lewd_b1a1d4ba:
 
     # danny "{i}Really{/i} great... jaw dropping, I'd say."
-    danny "{i}Realmente genial... me quedo con la boca abierta."
+    danny "{i}sobradamente{/i} genial... me quedo con la boca abierta."
 
 # game/code/character_events/maddie/maddie_yoga.rpy:160
 translate spanish maddie_sunday_yoga_lewd_e386f48f:
@@ -160,7 +160,7 @@ translate spanish maddie_sunday_yoga_lewd_e386f48f:
 translate spanish maddie_sunday_yoga_lewd_2da9e3b4:
 
     # maddie "(Oh yeah, Madeline Fenton's {i}stiiill{/i} got it!~)"
-    maddie "(Oh, sí, Madeline Fenton's {i}¡todavíiiiiiiia lo tengo!~)"
+    maddie "(Oh, sí, Madeline Fenton's {i}¡yaaaa{/i} lo tienes!~)"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:166
 translate spanish maddie_sunday_yoga_lewd_7ffbd538:
@@ -190,7 +190,7 @@ translate spanish maddie_sunday_yoga_lewd_96fc7251:
 translate spanish maddie_sunday_yoga_lewd_4b6e558e:
 
     # danny "...{i}oh!{/i} Definitely then!"
-    danny "...{i}¡oh! ¡Definitivamente vamos!"
+    danny "...{i}¡oh{/i}! ¡Definitivamente vamos!"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:181
 translate spanish maddie_sunday_yoga_lewd_65ed13e0:
@@ -238,7 +238,7 @@ translate spanish maddie_sunday_yoga_lewd_67d6437e:
 translate spanish maddie_sunday_yoga_lewd_2020587d:
 
     # maddie "Something the matter sweetie? You seem sorta, {i}*Giggles*{/i} \"pent up\" today... you getting enough sleep lately?"
-    maddie "¿Pasa algo, cariño? Pareces un poco, {i}*Giggles*{/i} \"rigido\" hoy... ¿has dormido lo bien?"
+    maddie "¿Pasa algo, cariño? Pareces un poco, {i}*risas*{/i} \"rigido\" hoy... ¿has dormido lo bien?"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:215
 translate spanish maddie_sunday_yoga_lewd_de107471:
@@ -250,7 +250,7 @@ translate spanish maddie_sunday_yoga_lewd_de107471:
 translate spanish maddie_sunday_yoga_lewd_33899ac5:
 
     # maddie "{i}Awww{/i}, poor thing! Don't worry sweetie, I'll be sure to visit at night again soon! Then I can help ease the tension of whatever's winding you up so much...~"
-    maddie "{i}¡Awww{/i}, ¡pobrecito! No te preocupes cariño, pronto volveré a visitarte por la noche. Así podré ayudarte a aliviar la tensión de lo que sea que te esta molestando tanto...~"
+    maddie "{i}¡Awww{/i}, ¡pobrecito! No te preocupes cariño, pronto volveré a visitarte por la noche. Así podré ayudarte a aliviar la tensión de lo que sea que te está molestando tanto...~"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:221
 translate spanish maddie_sunday_yoga_lewd_19c998d3:
@@ -274,7 +274,7 @@ translate spanish maddie_sunday_yoga_lewd_44f003d7:
 translate spanish maddie_sunday_yoga_lewd_02490d1d:
 
     # maddie "{i}*Sigh*{/i} I guess it can't be helped right now, you're right..."
-    maddie "{i}*Supongo que ahora no lo pudiste evitar. Tienes razón..."
+    maddie "{i}*Suspiro*{/i} supongo que no lo pudiste evitar. Tienes razón..."
 
 # game/code/character_events/maddie/maddie_yoga.rpy:233
 translate spanish maddie_sunday_yoga_lewd_4c35d9f1:
@@ -286,7 +286,7 @@ translate spanish maddie_sunday_yoga_lewd_4c35d9f1:
 translate spanish maddie_sunday_yoga_lewd_f0525fdd:
 
     # danny "{i}M-MOM!! We can't just... right?{/i}{p}I-I mean, alright, but... but what about-"
-    danny "{i}¡¡MAMÁ!! No podemos... ¿verdad?{/i}{p} Quiero decir está bien, pero... pero qué pasa con"
+    danny "{i}¡¡MAMÁ!! No podemos... ¿verdad?{/i}{p} Quiero decir está bien, pero... pero qué pasa con{/p}-"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:239
 translate spanish maddie_sunday_yoga_lewd_db17debd:
@@ -304,7 +304,7 @@ translate spanish maddie_sunday_yoga_lewd_f53c1ab3:
 translate spanish maddie_sunday_yoga_lewd_3d1f7ac6:
 
     # jack offscreen pjs at_player rise talk_happy "{i}*Yaaawn*{/i} Jumping junipers, what a beautiful day! Honey! Get the coffee going!"
-    jack offscreen pjs at_player rise talk_happy "{i}*Yaaawn*{/i} Enebros saltarines, ¡qué hermoso día! ¡Cariño! ¡Pon el café en marcha!"
+    jack offscreen pjs at_player rise talk_happy "{i}*bostezo*{/i} Enebros saltarines, ¡qué hermoso día! ¡Cariño! ¡Pon el café en marcha!"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:295
 translate spanish maddie_sunday_yoga_lewd_fc0c7239:
@@ -328,13 +328,13 @@ translate spanish maddie_sunday_yoga_lewd_end_210a1e23:
 translate spanish maddie_sunday_yoga_lewd_end_3ce3fa6a:
 
     # jack pjs closed idle talk_happy "{i}*Yawn*{/i} Morning Champ. Sweetie."
-    jack pjs closed idle talk_happy "{i}*Yawn*{/i} Buenos días campeón. Cariño."
+    jack pjs closed idle talk_happy "{i}*bostezo*{/i} Buenos días campeón. Cariño."
 
 # game/code/character_events/maddie/maddie_yoga.rpy:334
 translate spanish maddie_sunday_yoga_lewd_end_45095677:
 
     # jack pjs towards sad talk_displeased "{i}*Smack* *Smack*{/i}{p}{i}Blechh{/i}... darn morning mouth!"
-    jack pjs towards sad talk_displeased "{i}*Smack* *Smack*{/i}{p}{i}Blechh{/i}... ¡maldita boca matutina!"
+    jack pjs towards sad talk_displeased "{i}*Smack* *Smack*{/i}{p}{i}Blechh{/i}{/p}... ¡maldita boca matutina!"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:338
 translate spanish maddie_sunday_yoga_lewd_end_d7c9bd11:
@@ -358,7 +358,7 @@ translate spanish maddie_sunday_yoga_lewd_end_e9666e7d:
 translate spanish maddie_sunday_yoga_lewd_end_5cc6b705:
 
     # maddie special yoga towards sad talk_happy blush "Oh, y'know, just overdid it a little with the yoga.{p}G-gotta keep myself in ghost fighting shape though!"
-    maddie special yoga towards sad talk_happy blush "Oh, me pasé un poco con el yoga.{p}¡Pero tengo que mantenerme en forma contra lucha fantasma!"
+    maddie special yoga towards sad talk_happy blush "Oh, me pasé un poco con el yoga.{p}¡Tengo que mantenerme en forma contra lucha fantasma{/p}!"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:355
 translate spanish maddie_sunday_yoga_lewd_end_6e7e489b:
@@ -370,7 +370,7 @@ translate spanish maddie_sunday_yoga_lewd_end_6e7e489b:
 translate spanish maddie_sunday_yoga_lewd_end_09c4041f:
 
     # jack pjs closed idle talk_happy "{i}Ha!{/i} Anything to keep that body still rockin', baby!"
-    jack pjs closed idle talk_happy "{i}¡Ja! ¡Cualquier cosa con tal de mantener ese cuerpo aún rockeando, nena!"
+    jack pjs closed idle talk_happy "{i}¡Ja!{/i} ¡Cualquier cosa con tal de mantener ese cuerpo aún rockeando, nena!"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:364
 translate spanish maddie_sunday_yoga_lewd_end_4236eb41:
@@ -388,7 +388,7 @@ translate spanish maddie_sunday_yoga_lewd_end_80775d9d:
 translate spanish maddie_sunday_yoga_lewd_end_27d1770d:
 
     # maddie special yoga towards sad talk_happy blush "{i}Awww{/i}, you're the sweetest, Jack..."
-    maddie special yoga towards sad talk_happy blush "{i}Awww{/i}Eres el más dulce Jack..."
+    maddie special yoga towards sad talk_happy blush "{i}Awww{/i}. Eres el más dulce Jack..."
 
 # game/code/character_events/maddie/maddie_yoga.rpy:376
 translate spanish maddie_sunday_yoga_lewd_end_62ae282d:
@@ -412,7 +412,7 @@ translate spanish maddie_sunday_yoga_lewd_end_6cfbd3eb:
 translate spanish maddie_sunday_yoga_lewd_end_125e9fe8:
 
     # maddie special yoga towards idle talk_happy "I'll bring your coffee in a minute, Jack."
-    maddie special yoga towards idle talk_happy "Te traeré un poco de café querida."
+    maddie special yoga towards idle talk_happy "Te traeré un poco de café en un minuto, Jack."
 
 # game/code/character_events/maddie/maddie_yoga.rpy:398
 translate spanish maddie_sunday_yoga_lewd_end_9d5ee56b:

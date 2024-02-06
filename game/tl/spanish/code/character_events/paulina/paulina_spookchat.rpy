@@ -10,7 +10,7 @@ translate spanish paulina_selfie_shot_event_bb271ba9:
 translate spanish paulina_selfie_shot_event_c1bbbada:
 
     # danny "Oh, hey, a text from Paulina, sweet."
-    danny "Oh, hey, un texto de Paulina, bien."
+    danny "Oh, hey, un texto de Paulina, genial."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:32
 translate spanish paulina_selfie_shot_event_76b2fe88:
@@ -28,25 +28,25 @@ translate spanish paulina_selfie_shot_event_1e8c695f:
 translate spanish paulina_selfie_shot_event_db99443c:
 
     # billspook "Hey Paulina! Doing okay. Same old nasty ghosts to beat up, as usual. :P"
-    billspook "¡Hey Paulina! Todo bien. Estoy como de costumbre venciendo los mismos viejos y desagradables fantasmas. :P"
+    billspook "¡Hey Paulina!. Estoy como de costumbre venciendo los mismos viejos y desagradables fantasmas. :P"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:37
 translate spanish paulina_selfie_shot_event_d6e03c2c:
 
     # paulinaspook "Ugh, that sucks! But I'm so glad your keeping us all safe! U rule <3"
-    paulinaspook "Ugh, que asco!. ¡Estoy muy contenta de que nos mantengas a salvo!"
+    paulinaspook "Ugh, ¡que asco!. ¡Estoy muy contenta de que nos mantengas a salvo! U rule <3"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:38
 translate spanish paulina_selfie_shot_event_06090104:
 
     # billspook "All in a days work, no worries. B^)"
-    billspook "Es mi trabajo diario, sin preocupaciones.)"
+    billspook "Es mi trabajo diario, sin problema. B^)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:39
 translate spanish paulina_selfie_shot_event_72229306:
 
     # billspook "So, what are you up to?"
-    billspook "Entonces, ¿qué harás hoy?"
+    billspook "Entonces, ¿qué haces hoy?"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:40
 translate spanish paulina_selfie_shot_event_5daa031b:
@@ -58,7 +58,7 @@ translate spanish paulina_selfie_shot_event_5daa031b:
 translate spanish paulina_selfie_shot_event_96d40e8b:
 
     # paulinaspook "Right before cheerleading practice today, I was just like Omg, I look pretty dang hot today!"
-    paulinaspook "Bueno, Justo antes de la práctica de animadoras de hoy era como, Omg, ¡estoy caliente!"
+    paulinaspook "Bueno, antes de la práctica de animadoras de hoy era como, Omg, ¡estoy caliente!"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:42
 translate spanish paulina_selfie_shot_event_e96fb45b:
@@ -100,7 +100,7 @@ translate spanish paulina_selfie_shot_event_5edf02a1:
 translate spanish paulina_selfie_shot_event_ae533f54:
 
     # billspook "Believe me, I so do."
-    billspook "Créeme, yo también lo hago."
+    billspook "Créeme que sí."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:70
 translate spanish paulina_selfie_shot_event_bdddcfc8:
@@ -112,7 +112,7 @@ translate spanish paulina_selfie_shot_event_bdddcfc8:
 translate spanish paulina_selfie_shot_event_3c1dcac0:
 
     # paulinaspook "Just thought you'd like to be reminded of what it is your helping to protect from those other nasty ghosts... >:)"
-    paulinaspook "Pensé que te gustaría que te recordaran que es de gran ayuda tu protección contra esos fantasmas desagradables...)"
+    paulinaspook "Pensé que te gustaría que te recordaran que és de gran ayuda tu protección contra esos desagradables fantasmas...)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:72
 translate spanish paulina_selfie_shot_event_2efbf010:
@@ -142,7 +142,7 @@ translate spanish paulina_selfie_shot_event_74af6199:
 translate spanish paulina_selfie_shot_event_dc9ed1e8:
 
     # danny "(Chalk one up for Inviso-Bill!)"
-    danny "(¡Anotación para Inviso-Bill!)"
+    danny "(¡Punto para Inviso-Bill!)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:88
 translate spanish paulina_selfie_shot_event_d57e43bd:

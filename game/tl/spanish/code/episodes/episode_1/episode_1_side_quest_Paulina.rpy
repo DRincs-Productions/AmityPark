@@ -16,19 +16,19 @@ translate spanish park_quest_start_b2fc9315:
 translate spanish park_quest_start_87c31bb8:
 
     # tucker flip arms_straps towards wondering talk_happy "Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital \"W\"!"
-    tucker flip arms_straps towards wondering talk_happy "Vamos Sam, incluso {i}tú{i/} tienes que admitir que: ¡Paulina es una total {i}espina!{/i}{p}¡Con una \"E\" mayúscula!"
+    tucker flip arms_straps towards wondering talk_happy "Vamos Sam, incluso {i}tú{/i} tienes que admitir que: ¡Paulina es una {i}espina en la garganta!{/i} {p}¡Con una \"E\" mayúscula{/p}!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:59
 translate spanish park_quest_start_e95377ff:
 
     # danny "She's not just hot... she's like a fallen angel bathed head to toe in an orange, heavenly glow of light..."
-    danny "No sólo está caliente... és como un ángel caído, bañado de pies a cabeza en un resplandor anaranjado y celestial de luz..."
+    danny "No sólo és sexi... és como un ángel caído, bañado de pies a cabeza en un resplandor anaranjado y celestial de luz..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:63
 translate spanish park_quest_start_1a6aa5f7:
 
     # sam "You know, it honestly baffles me how you two seem to worship the ground she walks on when all she does is end up stepping all over you guys!!"
-    sam "Saben, ¡¡honestamente me desconcierta cómo ustedes dos parecen adorar el suelo que ella pisa cuando todo lo que hace es terminar pisando todo sobre ustedes!!"
+    sam "Saben, ¡¡honestamente me desconcierta cómo ustedes dos parecen adorar el suelo que ella pisa cuando todo lo que hace es pisar sobre los vosotros!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:69
 translate spanish park_quest_start_ed002370:
@@ -40,25 +40,25 @@ translate spanish park_quest_start_ed002370:
 translate spanish park_quest_start_cf40c4c6:
 
     # sam "Sorry Paulina, we were just thinking of ways to {i}avoid{/i} becoming desparately dependent on our physical apperance for {u}literally{/u} everything. You know, like learning to read!"
-    sam "Lo siento Paulina, sólo estábamos pensando en formas de {i}evitar{/i} volvernos desesperadamente dependientes de la apariencia física para {u}literalmente{/u} todo. Ya sabes, ¡como aprender a leer!"
+    sam "Lo siento Paulina, sólo estábamos pensando en formas de {i}evitar{/i} volvernos desesperadamente dependientes de la apariencia física para todo {u}literalmente{/u}. Ya sabes, ¡como aprender a leer!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:78
 translate spanish park_quest_start_8b8ed7c2:
 
     # danny "(Uh oh... not these two going at each other again...)"
-    danny "(Uh oh... no estos dos van a ir a por otro problema de nuevo...)"
+    danny "(Uh oh no... esto va a ir a por otro problema de nuevo...)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:83
 translate spanish park_quest_start_c1be0ea6:
 
     # paulina "Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a \"Gothy Goblin\" like you!"
-    paulina "Bueno, supongo que tiene sentido, ¿sabes? ¡Supongo que no todos tenemos la suerte de tener al menos {u}algo{/u} de belleza para lucir! ¡Supongo que nunca sabré lo que es ser un \"duende gótico\" como tú!"
+    paulina "Bueno, supongo que tiene sentido, ¿sabes? ¡Supongo que no todas tenemos la suerte de tener {u}algo{/u} de belleza para lucir! ¡Supongo que nunca sabré lo que es ser un \"duende gótico\" como tú!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:87
 translate spanish park_quest_start_a279a37f:
 
     # sam "Why you smug, perky little sack of-!"
-    sam "qué, pequeño saco presumido de!"
+    sam "qué astuta, pequeño saco presumido de!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:91
 translate spanish park_quest_start_483af9da:
@@ -76,13 +76,13 @@ translate spanish park_quest_start_4d19c4d8:
 translate spanish park_quest_start_5ecc6712:
 
     # tucker "Oh no, you're coming with me, Missy. Be a good wing man on this one Sam."
-    tucker "Oh no, tú vienes conmigo, Missy. Sé un buen hombre de confianza con Sam."
+    tucker "Oh no, tú vienes conmigo, Missy. Sé buena Sam."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:104
 translate spanish park_quest_start_6fb8585c:
 
     # sam "Bu-but, I was-"
-    sam "Pero, yo estaba"
+    sam "P-pero, yo estaba"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:113
 translate spanish park_quest_start_e2d40b35:
@@ -94,25 +94,25 @@ translate spanish park_quest_start_e2d40b35:
 translate spanish park_quest_start_79842400:
 
     # paulina "Okay, first of all, {u}back up{/u}, you're clearly {i}way{/i} too up in my personal space right now."
-    paulina "Bueno, en primer lugar, {u}retroceder{/u}, tú estás claramente cogiendo {i}camino{/i} hacia mi espacio personal."
+    paulina "Bueno, en primer lugar, {u}retroceder{/u}, tú estás claramente haciéndote {i}sitio{/i} en mi espacio personal."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:123
 translate spanish park_quest_start_13746f73:
 
     # paulina normal towards idle talk_happy "Secondly, what would I need help with from such a geek like {i}you{/i}? Trick question: I {u}wouldn't!{/u} {i}*Giggle*{/i}"
-    paulina normal towards idle talk_happy "En segundo lugar, ¿para qué necesitaría la ayuda de un friki como {i}tú{/i}? Pregunta con trampa: Yo {u}no lo haría!{i/} {i}*Risilla*{/i}"
+    paulina normal towards idle talk_happy "En segundo lugar, ¿para qué necesitaría la ayuda de un friki como {i}tú{/i}? Pregunta con trampa: Yo {u}no lo haría!{/u} {i}*Risilla*{/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:127
 translate spanish park_quest_start_fb9157b5:
 
     # paulina "({i}Hmm{/i}… but then again... he could be useful for carrying the other boxes... and he'd like, totally do it for free too!)"
-    paulina "({i}Hmm{/i}… pero bien pensado... podría ser útil para llevar las otras cajas... ¡y le gustaría hacerlo totalmente gratis también!)"
+    paulina "({i}Hmm{/i}… pero bien pensado... podría ser útil para llevar las cajas... ¡y le gustaría hacerlo totalmente gratis también!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:132
 translate spanish park_quest_start_8ae4b689:
 
     # paulina "Okay, fine. Come to the {b}Public Park{/b} later tonight. I need help carrying some new makeup I bought in bulk. I live across the road, but I don't really {i}lift{/i} heavy boxes myself, you know?"
-    paulina "Bien, de acuerdo. Ven al {b}parque público{b/} más tarde esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{i/} cajas pesadas, ¿sabes?"
+    paulina "Bien, de acuerdo. Ven al {b}parque público{/b} esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{i/} cajas pesadas, ¿sabes?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:137
 translate spanish park_quest_start_d8236cab:
@@ -130,13 +130,13 @@ translate spanish park_quest_prefight_a7a9bbc9:
 translate spanish park_quest_prefight_3f4ceb46:
 
     # danny "{i}Hmmm{/i}... but I don't see her anywhere..."
-    danny "{i}Hmmm{/i}... pero no la veo por ningún lado..."
+    danny "{i}Hmmm{/i}... no la veo por ningún lado..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:188
 translate spanish park_quest_prefight_54682e3a:
 
     # danny "She said she'd be coming to the Park right... she just didn't say {i}where{/i} in the Park exactly. Kind of an important detail you shouldn't forget to ask, Fenton."
-    danny "Dijo que vendría al Parque... sólo que no dijo {i}en qué parte {i/} del parque exactamente. Un detalle importante que no deberías olvidar preguntar, Fenton."
+    danny "Dijo que vendría al Parque... sólo que no dijo {i}en qué parte {/i} del parque exactamente. Un detalle importante que no deberías olvidar preguntar, Fenton."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:191
 translate spanish park_quest_prefight_2982a22d:
@@ -184,19 +184,19 @@ translate spanish park_quest_prefight_61cd08bd:
 translate spanish park_quest_prefight_d0543448:
 
     # danny "{i}Woah{/i}, jeez Paulina, this is {i}really{/i} heavy!! H-how much makeup is in this box anyway?? Do you powder your nose with bricks or something?!"
-    danny "{i}Woah{i/}, cielos Paulina, ¡¡esto es {i}realmente{i/} pesado!! ¿Cuánto maquillaje hay en esta caja? ¡¿Te empolvas la nariz con ladrillos o algo así?!"
+    danny "{i}Woah{/i}, cielos Paulina, ¡¡esto es {i}realmente{/i} pesado!! ¿Cuánto maquillaje hay en esta caja? ¡¿Te empolvas la nariz con ladrillos o algo así?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:245
 translate spanish park_quest_prefight_a21c1eb0:
 
     # paulina "Oh {i}puh-leeze{/i}, Danny! It's really not {i}that{/i} much... just a couple of new brushes, twenty-five pounds of cleansers, a few dozen different lipsticks, a couple bottles of deep skin cleansers, about thirty-"
-    paulina "¡Oh {i}puh-leeze{/i}, Danny! Realmente no és {i}tanto{i/}... sólo un par de cepillos nuevos, veinticinco kilos de limpiadores, unas docenas de barras de labios diferentes, un par de botellas de limpiadores de piel profunda, unos treinta"
+    paulina "¡Oh {i}puh-leeze{/i}, Danny! No és {i}tanto{/i}... sólo un par de cepillos nuevos, veinticinco kilos de limpiadores, unas docenas de barras de labios diferentes, un par de botellas de limpiadores de piel profunda, unos treinta-"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:255
 translate spanish park_quest_prefight_2a22c38e:
 
     # danny "Okay, okay, I think I get the point! But, you know, even I know makeup's not inexpensive. How're you able to afford all this?"
-    danny "Vale, vale, ¡creo que entiendo el tema! Pero, ya sabes, incluso yo sé que el maquillaje no es barato. ¿Cómo puedes permitirte todo esto?"
+    danny "Vale, vale, ¡creo que entiendo el tema! Pero, ya sabes, incluso yo sé que el maquillaje no és barato. ¿Cómo puedes permitirte todo esto?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:259
 translate spanish park_quest_prefight_90782caa:
@@ -220,13 +220,13 @@ translate spanish park_quest_prefight_5b5af5ea:
 translate spanish park_quest_prefight_43825780:
 
     # paulina "No, we're going to wait here to pick up a special tank-top from one of the other delivery boys I hired, then we'll take it {i}all{/i} back to my house."
-    paulina "No, vamos a esperar aquí para recoger una camiseta especial de uno de los repartidores que contraté, y luego la llevaremos {i}todo{i/} a mi casa."
+    paulina "No, vamos a esperar aquí para recoger una camiseta especial de un repartidor que contraté, y luego lo llevaremos {i}todo{/i} a mi casa."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:282
 translate spanish park_quest_prefight_f583dfb2:
 
     # danny "Wait... {i}other{/i} delivery boys? W-who else did you ask to help you out...?"
-    danny "Espera... {i}¿otro repartidor? ¿A quién más le pediste que te ayudara...?"
+    danny "Espera... {i}¿otro{/i} repartidor? ¿A quién más le pediste que te ayudara...?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:290
 translate spanish park_quest_prefight_4c0cf724:
@@ -250,7 +250,7 @@ translate spanish park_quest_prefight_01276cf9:
 translate spanish park_quest_prefight_7ba65ab1:
 
     # dash "Gee Fenton, I didn't know you applied to be Paulina's little helper elf! Where's your little green elf hat? {i}Ahah hah!!{/i}"
-    dash "Vaya, Fenton, no sabía que habías solicitado ser el pequeño elfo ayudante de Paulina. ¿Dónde está tu pequeño sombrero verde de elfo? {i}¡Ahah hah!{i/}"
+    dash "Vaya, Fenton, no sabía que habías solicitado ser el pequeño elfo ayudante de Paulina. ¿Dónde está tu pequeño sombrero verde de elfo? {i}¡Ahah hah!{/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:328
 translate spanish park_quest_prefight_8a400a51:
@@ -298,7 +298,7 @@ translate spanish park_quest_prefight_d53be9b9:
 translate spanish park_quest_prefight_a926a1a2:
 
     # paulina "{i}Ooooh!{/i} How lovely~! I can't wait to try it on!{p}I'm gonna open it up right now!"
-    paulina "{i}¡Ooooh!{/i}¡Qué romántico~! ¡No puedo esperar a probármelo!{p}¡Voy a abrirlo ahora mismo!"
+    paulina "{i}¡Ooooh!{/i}¡Qué romántico~! ¡No puedo esperar a probármelo!{p}¡Voy a abrirlo ahora mismo{/p}!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:392
 translate spanish park_quest_prefight_e6db5aec:
@@ -322,13 +322,13 @@ translate spanish park_quest_prefight_46fd455e:
 translate spanish park_quest_prefight_21c58766:
 
     # paulina "{i}Ahhgh!!{/i} What the heck is {i}this{/i} nasty thing?!"
-    paulina "{i}¡Ahgh! ¡¿Qué diablos es {i}esta{i/} cosa desagradable?!"
+    paulina "{i}¡Ahgh!{/i} ¡¿Qué diablos es {i}esta{i/} cosa desagradable?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:444
 translate spanish park_quest_prefight_6193a6d7:
 
     # dash "Oh man!! I-it's a real ghost!!{p}Just like the news said!"
-    dash "¡Oh, joder! ¡¡Es un verdadero fantasma!!{p}¡Como dijeron las noticias!"
+    dash "¡Oh, joder! ¡¡Es un verdadero fantasma!!{p}¡Como dijeron las noticias{/p}!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:461
 translate spanish park_quest_prefight_8127a7ab:
@@ -340,19 +340,19 @@ translate spanish park_quest_prefight_8127a7ab:
 translate spanish park_quest_prefight_59eab865:
 
     # ectopuss "Now, with nobody here to stop me... how 'bout you and I have a little {u}fun{/u} together, aye sweetie?!"
-    ectopuss "Ahora, que nada me detiene... ¡¿qué te parece si tú y yo nos {u}divertimos{u/} un poco delicia?!"
+    ectopuss "Ahora, que nada me detiene... ¡¿qué te parece si tú y yo nos {u}divertimos{/u} un poco delicia?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:477
 translate spanish park_quest_prefight_06e6ea82:
 
     # paulina "{size=24}{i}Ahh!!{/i} Put me down, you monster!!{/size}"
-    paulina "{size=24} {i}¡Ah!{i/}, ¡Bájame, monstruo! {/size}"
+    paulina "{size=24} {i}¡Ah!{/i}, ¡Bájame, monstruo! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:481
 translate spanish park_quest_prefight_fbb0c5a9:
 
     # ectopuss "No way, baby! I may have died a virgin, but I ain't looking to {u}stay{/u} that way!! {i}Aheh hah heh!!{/i}"
-    ectopuss "¡De ninguna manera, nena! Puede que haya muerto virgen, pero ¡¡no quiero {u}seguir{/u} siéndolo!! {i}¡Aheh hah heh!{i/}¡"
+    ectopuss "¡De ninguna manera, nena! Puede que haya muerto virgen, pero ¡¡no quiero {u}seguir{/u} siéndolo!! {i}¡Aheh hah heh!{/i}¡"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:483
 translate spanish park_quest_prefight_4e4884a6:
@@ -364,7 +364,7 @@ translate spanish park_quest_prefight_4e4884a6:
 translate spanish park_quest_prefight_264b094b:
 
     # danny "Oh no, Paulina's in trouble! With a {i}real{/i} ghost!! I need to help somehow!"
-    danny "¡Oh no, ¡Paulina está en problemas! ¡¡Con un fantasma {i}real{i/}!! ¡Necesito ayudarla de alguna manera!"
+    danny "¡Oh no, ¡Paulina está en problemas! ¡¡Con un fantasma {i}real{/i}!! ¡Necesito ayudarla de alguna manera!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:504
 translate spanish park_quest_prefight_52e13e25:
@@ -484,7 +484,7 @@ translate spanish paulinapuss_7716b2c5:
 translate spanish paulinapuss_0c140fbc:
 
     # ectopuss "Oh, don't worry! You'll just {u}love{/u} them... when they're all up inside you!!"
-    ectopuss "¡Oh, no te preocupes! ¡¡Tú sólo {u}los amarás {/u}... cuando estén todos dentro de ti!!"
+    ectopuss "¡Oh, no te preocupes! ¡¡Tú {u}los amarás {/u}... cuando estén todos dentro de ti!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:666
 translate spanish paulinapuss_55e08448:
@@ -496,7 +496,7 @@ translate spanish paulinapuss_55e08448:
 translate spanish paulinapuss_5ceec4d5:
 
     # ectopuss "Would you look at this. No, bra!{p}I {i}knew{/i} I smelled slut on you!"
-    ectopuss "Te gustaría ver esto. ¡No, bra!{p}yo {i}supe {/i} que olí a puta en ti!"
+    ectopuss "Te gustaría ver esto. ¡No, bra!{p}yo{/p} {i}sabía {/i} que olías a puta!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:682
 translate spanish paulinapuss_c4217aad:
@@ -526,13 +526,13 @@ translate spanish paulinapuss_e0538654:
 translate spanish paulinapuss_5f41afa5:
 
     # paulina "Someone help!! I'm being molested by a gross squid monster!!"
-    paulina "¡¡que alguien me ayude!! ¡¡Estoy siendo molestada por un grosero monstruoso calamar!!"
+    paulina "¡¡que alguien me ayude!! ¡¡Estoy siendo molestada por un grosero calamar monstruoso!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:702
 translate spanish paulinapuss_05a2ce50:
 
     # ectopuss "Jeez, would you stop screaming already! Nobody's coming to help!{p}Somebody better close your big mouth {i}shut!!{/i}"
-    ectopuss "Jeez, ¡podrías dejar de gritar ya! ¡No va a venir nadie a ayudarte!{p} Mejor cierra tu gran boca, {i}¡¡cállate!! {/i}"
+    ectopuss "Jeez, ¡podrías dejar de gritar ya! ¡No va a venir nadie a ayudarte!{p} Mejor cierra tu gran boca{/p}, {i}¡¡cállate!! {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:718
 translate spanish paulinapuss_bb525563:
@@ -550,7 +550,7 @@ translate spanish paulinapuss_2a56e209:
 translate spanish paulinapuss_21f1cb98:
 
     # paulina "(Help me!! Someone, please!!!)"
-    paulina "(¡¡Ayuda!! ¡¡¡Alguien por favor!!!)"
+    paulina "(¡¡Ayuda!! ¡¡¡por favor!!!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:743
 translate spanish paulinapuss_a0f300ba:
@@ -622,13 +622,13 @@ translate spanish ep1_save_paulina_84eb2ec7:
 translate spanish park_quest_unmolested_8b750bbb:
 
     # paulina "Oh, thank you so, {i}so{/i} much! He almost got his nasty tentacles to expose me out in the open! You're my {u}hero{/u}!!"
-    paulina "Oh, gracias, {i}muchas{/i}muchas gracias.!Él casi tiene sus tentáculos desagradables enseñando mi coño! Eres mi {u}héroe{/u}!!"
+    paulina "Oh, gracias, {i}muchas{/i}muchas gracias.! Él casi mete sus tentáculos desagradables en mi coño! Eres mi {u}héroe{/u}!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:865
 translate spanish park_quest_unmolested_e951197c:
 
     # paulina "If it wasn't for you, I could've ended up in one of those weird Japanese cartoons!"
-    paulina "Si no fuera por ti, ¡podría haber terminado en uno de esos extraños comics japoneses!"
+    paulina "Si no fuera por ti, ¡podría haber terminado como uno de esos extraños comics japoneses!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:872
 translate spanish park_quest_unmolested_89fa0436:
@@ -658,7 +658,7 @@ translate spanish park_quest_unmolested_e081e29f:
 translate spanish park_quest_unmolested_f6c211ee:
 
     # paulina "Oooh, {u}frosty{/u}! {i}Heyy{/i}, kissing your cheek is like kissing a big, cute breath mint!{p}I {i}like{/i} that..."
-    paulina "Oooh, {u}que frío {/u}! {i}Heyy {/i}, besar tu mejilla es como besar un gran caramelo de menta para el aliento!{p} Me {i}gusta{/i} esto..."
+    paulina "Oooh, {u}que frío {/u}! {i}Heyy {/i}, besar tu mejilla es como besar un gran caramelo de menta para el aliento!{p} Me {i}gusta{/i} {/p}esto..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:908
 translate spanish park_quest_unmolested_1a2171c6:
@@ -670,7 +670,7 @@ translate spanish park_quest_unmolested_1a2171c6:
 translate spanish park_quest_unmolested_b2767db1:
 
     # danny "Oh, {i}uh{/i}, Danny? Yeah I saw him safely hiding in some bushes... l-like I told him to do! Hiding bravely was the smartest move! Should be out in a bit now that it's all clear.{p}A-anyway, see yah around!"
-    danny "Oh, {i}uh {/i}, ¿Danny? Sí, lo vi escondido de forma segura en unos arbustos... ¡como le dije que hiciera! ¡Esconderse valientemente fue el movimiento más inteligente! Debería estar de vuelta ahora que todo está despejado.{p}A-De todos modos, ¡miraré por las cercanías!"
+    danny "Oh, {i}uh {/i}, ¿Danny? Sí, lo vi escondido en unos arbustos... ¡como le dije que hiciera! ¡Esconderse valientemente fue el movimiento más inteligente! Debería estar de vuelta ahora que todo está despejado.{p}A-De todos modos{/p}, ¡miraré por las cercanías!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:925
 translate spanish park_quest_unmolested_9ec5ca7a:
@@ -700,7 +700,7 @@ translate spanish park_quest_unmolested_be3d913a:
 translate spanish park_quest_unmolested_330715d3:
 
     # danny "I {i}uhh{/i}… went to call that ghost guy for you! He seemed pretty cool and strong to take on that other ghost, ya know?"
-    danny "I {i}uhh {/i}… ¡fui a llamar a ese tipo fantasma para ti! Parecía bastante fresco y fuerte para vencer ese otro fantasma, ¿ya sabes?"
+    danny "Yo {i}uhh {/i}… ¡fui a llamar a ese tipo fantasma para ti! Parecía bastante fresco y fuerte para vencer ese otro fantasma, ¿ya sabes?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:950
 translate spanish park_quest_unmolested_86fce960:
@@ -718,7 +718,7 @@ translate spanish park_quest_unmolested_ce221cd5:
 translate spanish park_quest_unmolested_86fcad34:
 
     # danny "{i}Uhm{/i}... yeah, I k-kinda know him. He's a distant ghostly friend of the family, sorta... doesn't talk about himself too much.{p}I can maybe help introduce you to-"
-    danny "{i}Uhm {/i}... sí, yo lo lo conozco. Es un lejano amigo fantasma de la familia, solo que... no habla demasiado de sí mismo.{p}Puedo tal vez ayudarte a conocerlo-"
+    danny "{i}Uhm {/i}... sí, yo lo lo conozco. Es un lejano amigo fantasma de la familia, solo que... no habla demasiado de sí mismo.{p}Puedo tal vez ayudarte a conocerlo{/p}-"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:970
 translate spanish park_quest_unmolested_0a05cfae:
@@ -754,7 +754,7 @@ translate spanish park_quest_unmolested_4271c1cb:
 translate spanish park_quest_unmolested_98a7c6fd:
 
     # paulina "Now come on, pick up my stuff and let's get a move on! I live on the third floor, so you'll need to carry that up two flights of steps!"
-    paulina "Ahora vamos, ¡recoge mis cosas y ponte en marcha! Vivo en el tercer piso, ¡así que tendrás que subir eso dos tramos de escalera!"
+    paulina "Ahora vamos, ¡recoge mis cosas y ponte en marcha! Vivo en el tercer piso, ¡así que tendrás que subir esos dos tramos de escalera!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1020
 translate spanish park_quest_unmolested_db7d1280:
@@ -772,7 +772,7 @@ translate spanish park_quest_unmolested_f5f9b214:
 translate spanish park_quest_molested_d6095c57:
 
     # danny "Hey, {i}uhm{/i}, sorry about that creep... are you okay, m-miss?"
-    danny "Hey, {i}uhm {/i}, lo siento por ese gusano... ¿estás bien, señorita?"
+    danny "Hey, {i}uhm {/i}, lo siento por ese gusano... ¿está bien, señorita?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1057
 translate spanish park_quest_molested_2efd6dfd:
@@ -826,7 +826,7 @@ translate spanish park_quest_molested_1a2171c6:
 translate spanish park_quest_molested_b2767db1:
 
     # danny "Oh, {i}uh{/i}, Danny? Yeah I saw him safely hiding in some bushes... l-like I told him to do! Hiding bravely was the smartest move! Should be out in a bit now that it's all clear.{p}A-anyway, see yah around!"
-    danny "Oh, {i}uh {/i}, ¿Danny? Sí, lo vi escondido de forma segura en unos arbustos... ¡como le dije que hiciera! ¡Esconderse valientemente fue el movimiento más inteligente! Debería estar de vuelta ahora que todo está despejado.{p}A-De todos modos, ¡miraré por las cercanías!"
+    danny "Oh, {i}uh {/i}, ¿Danny? Sí, lo vi escondido en unos arbustos... ¡como le dije que hiciera! ¡Esconderse valientemente fue el movimiento más inteligente! Debería estar de vuelta ahora que todo está despejado.{p}A-De todos modos{/p}, ¡miraré por las cercanías!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1115
 translate spanish park_quest_molested_9ec5ca7a:
@@ -874,7 +874,7 @@ translate spanish park_quest_molested_ce221cd5:
 translate spanish park_quest_molested_86fcad34:
 
     # danny "{i}Uhm{/i}... yeah, I k-kinda know him. He's a distant ghostly friend of the family, sorta... doesn't talk about himself too much.{p}I can maybe help introduce you to-"
-    danny "{i}Uhm {/i}... sí, yo lo lo conozco. Es un lejano amigo fantasma de la familia, solo que... no habla demasiado de sí mismo.{p}Puedo tal vez ayudarte a conocerlo-"
+    danny "{i}Uhm {/i}... sí, yo lo lo conozco. Es un lejano amigo fantasma de la familia, solo que... no habla demasiado de sí mismo.{p}Puedo tal vez ayudarte a conocerlo{/p}-"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1161
 translate spanish park_quest_molested_0a05cfae:
@@ -910,7 +910,7 @@ translate spanish park_quest_molested_4271c1cb:
 translate spanish park_quest_molested_98a7c6fd:
 
     # paulina "Now come on, pick up my stuff and let's get a move on! I live on the third floor, so you'll need to carry that up two flights of steps!"
-    paulina "Ahora vamos, ¡recoge mis cosas y ponte en marcha! Vivo en el tercer piso, ¡así que tendrás que subir eso dos tramos de escalera!"
+    paulina "Ahora vamos, ¡recoge mis cosas y ponte en marcha! Vivo en el tercer piso, ¡así que tendrás que subir esos dos tramos de escalera!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1202
 translate spanish park_quest_molested_db7d1280:

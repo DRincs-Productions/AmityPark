@@ -22,19 +22,19 @@ translate spanish buy_1_50395604:
 translate spanish buy_1_6a72ab5f:
 
     # sales_lady talk_happy "Sounds great, I'll go and grab it for you right away from the back!"
-    sales_lady talk_happy "Muy bien, ¡voy a cogerlo ahora mismo de la parte de atrás!"
+    sales_lady talk_happy "Muy bien, ¡voy a cogerlo ahora mismo del almacén!"
 
 # game/code/locations/AbYss_MZ.rpy:33
 translate spanish buy_1_7c98462f:
 
     # sales_lady at_player_2 talk_happy wondering "I believe {b}this{/b} is what you're looking for! It's all been prepaid already, so you're all set to go! Take care now!"
-    sales_lady at_player_2 talk_happy wondering "¡Creo que és {b}esto{/b} lo que estás buscando! Ya está todo prepagado, ¡así que todo listo! Cuídate!"
+    sales_lady at_player_2 talk_happy wondering "¡Creo que és {b}esto{/b} lo que estás buscando! Ya está todo pagado, ¡así que todo listo! Cuídate!"
 
 # game/code/locations/AbYss_MZ.rpy:37
 translate spanish buy_1_136dc5ff:
 
     # danny "Alright, thank you! (Hey, this ain't too bad an outfit... again, it'll definitely be interesting to actually see her wear something like this...)"
-    danny "¡Muy bien, gracias! (Hey, no és algo tan malo un traje..., sin duda será interesante verla con él puesto...)"
+    danny "¡Muy bien, gracias! (Hey, no és tan mal traje..., sin duda será interesante verla con él puesto...)"
 
 # game/code/locations/AbYss_MZ.rpy:73
 translate spanish buying_cloth_42482319:
@@ -146,11 +146,11 @@ translate spanish strings:
 
     # game/code/locations/AbYss_MZ.rpy:103
     old "Top"
-    new "Arriba"
+    new "Sueter"
 
     # game/code/locations/AbYss_MZ.rpy:103
     old "Bottom"
-    new "Inferior"
+    new "Pantalón"
 
     # game/code/locations/AbYss_MZ.rpy:103
     old "Accessory"
@@ -174,7 +174,7 @@ translate spanish strings:
 
     # game/code/locations/AbYss_MZ.rpy:106
     old "School Top ($50)"
-    new "Top escolar (50 $)"
+    new "Camisa escolar (50 $)"
 
     # game/code/locations/AbYss_MZ.rpy:144
     old "Skirt ($20)"
@@ -186,7 +186,7 @@ translate spanish strings:
 
     # game/code/locations/AbYss_MZ.rpy:144
     old "Mini Panties ($40)"
-    new "Minibragas (40 $)"
+    new "Mini Panties (40 $)"
 
     # game/code/locations/AbYss_MZ.rpy:173
     old "Stockings ($20)"

@@ -16,7 +16,7 @@ translate spanish maddie_kitchen_monday_breakfast_a69d985e:
 translate spanish maddie_kitchen_monday_breakfast_02e4a946:
 
     # jack pjs closed idle talk_happy "{i}Ahh{/i}...{p}What a day!!{p}"
-    jack pjs closed idle talk_happy "{i}Ahh...{p}¡¡Qué día!!{p}"
+    jack pjs closed idle talk_happy "{i}Ahh...{p}¡¡Qué día!!{/p}"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:31
 translate spanish maddie_kitchen_monday_breakfast_4c00f240:
@@ -34,7 +34,7 @@ translate spanish maddie_kitchen_monday_breakfast_0baed95c:
 translate spanish maddie_kitchen_monday_breakfast_582b599d:
 
     # danny towards sad talk_happy "{i}Uh{/i}, no thanks, I'm not really very hungry."
-    danny towards sad talk_happy "{i}No, gracias, no tengo mucha hambre."
+    danny towards sad talk_happy "{i}Uh{/i}, gracias, no tengo mucha hambre."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:55
 translate spanish maddie_kitchen_monday_breakfast_7fa06598:
@@ -82,7 +82,7 @@ translate spanish maddie_kitchen_monday_breakfast_treat_161d1914:
 translate spanish maddie_kitchen_monday_breakfast_treat_28d04858:
 
     # jack towards rise talk_happy "So, ready for school, son?"
-    jack towards rise talk_happy "Entonces, ¿estás listo para la escuela hijo?"
+    jack towards rise talk_happy "Entonces, ¿estás listo para al instituto hijo?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:158
 translate spanish maddie_kitchen_monday_breakfast_treat_dae5dc47:
@@ -130,7 +130,7 @@ translate spanish maddie_kitchen_monday_breakfast_treat_60c8099c:
 translate spanish maddie_kitchen_monday_breakfast_treat_7a83c5b1:
 
     # extend "Jeez, Danny, you're not running a fever, right? I haven't seen somebody that red since the Annual Tomato Fest!"
-    extend "Cielos, Danny, no tienes fiebre, ¿verdad? ¡No he visto a alguien tan rojo desde la Fiesta Anual del Tomate!"
+    extend "Cielos, Danny, ¿no tendrás fiebr verdad? ¡No he visto a alguien tan rojo desde la Fiesta Anual del Tomate!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:218
 translate spanish maddie_kitchen_monday_breakfast_treat_c0a97de0:
@@ -148,7 +148,7 @@ translate spanish maddie_kitchen_monday_breakfast_treat_6fca6f7d:
 translate spanish maddie_kitchen_monday_breakfast_treat_080cb3ae:
 
     # maddie special nightgown away rise talk_amused "I don't know Danny, you seem to be getting a little {i}hot and bothered{/i} back there..."
-    maddie special nightgown away rise talk_amused "No sé Danny, parece que te estás poniendo un poco {i}caliente y molesto{/i}..."
+    maddie special nightgown away rise talk_amused "No sé Danny, parece que te estás poniendo un poco {i}caliente y con malestar{/i}..."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:230
 translate spanish maddie_kitchen_monday_breakfast_treat_e398c64c:
@@ -196,13 +196,13 @@ translate spanish maddie_kitchen_monday_stying_home_refuse_a41d04b6:
 translate spanish maddie_kitchen_monday_stying_home_refuse_2523cfef:
 
     # maddie special nightgown towards sad talk_happy "I mean, glad you're feeling well enough to go to School."
-    maddie special nightgown towards sad talk_happy "Me alegro de que te sientas bien para ir a la escuela."
+    maddie special nightgown towards sad talk_happy "Me alegro de que te sientas bien para ir al instituto."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:278
 translate spanish maddie_kitchen_monday_stying_home_refuse_4feb14c9:
 
     # danny sit_0 towards_wide sad talk_displeased "Really, I'm fine, honestly!{p}In fact, {i}uhm{/i}, I better just get going now!"
-    danny sit_0 towards_wide sad talk_displeased "¡De verdad, estoy bien, de verdad!{p}De hecho, {i}uhm{/i}, ¡mejor me voy ya!"
+    danny sit_0 towards_wide sad talk_displeased "¡De verdad, estoy bien, de verdad!{p}De hecho, {i}uhm{/i} {/p}, ¡mejor me voy ya!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:283
 translate spanish maddie_kitchen_monday_stying_home_refuse_e553108e:
@@ -220,7 +220,7 @@ translate spanish maddie_kitchen_monday_stying_home_refuse_8345cc74:
 translate spanish maddie_kitchen_monday_stying_home_refuse_f80e0386:
 
     # danny sit_0 towards sad talk_displeased "I'll eat later! The walk to school should do me some good! Don't wanna be late!"
-    danny sit_0 towards sad talk_displeased "¡Comeré más tarde! La caminata a la escuela me hará sentir mejor. No quiero llegar tarde!"
+    danny sit_0 towards sad talk_displeased "¡Comeré más tarde! La caminata al instituto me hará sentir mejor. No quiero llegar tarde!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:301
 translate spanish maddie_kitchen_monday_stying_home_refuse_d655cd4f:
@@ -250,7 +250,7 @@ translate spanish maddie_kitchen_monday_breakfast_refuse_421d37d9:
 translate spanish maddie_kitchen_monday_breakfast_refuse_0869be24:
 
     # jack towards rise talk_happy "Hey, no big complaints on my end! More for me!"
-    jack towards rise talk_happy "Oye, ¡no hay grandes quejas por mi parte! ¡Más desayuno para mí!"
+    jack towards rise talk_happy "Oye, ¡no hay queja por mi parte! ¡Más desayuno para mí!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:335
 translate spanish maddie_kitchen_monday_breakfast_refuse_8989432f:
@@ -274,5 +274,5 @@ translate spanish strings:
 
     # game/code/character_events/maddie/maddie_breakfast.rpy:249
     old "I really need to get to School."
-    new "Realmente necesito llegar a la escuela."
+    new "Debo ir al instituto."
 

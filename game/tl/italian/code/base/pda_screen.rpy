@@ -46,7 +46,7 @@ translate italian paulina_is_offline_67a4b5a1:
 translate italian paulina_is_offline_9ec90338:
 
     # danny "(I should try messaging her in the {b}afternoon{/b} when she takes a break from them all.)"
-    danny "(Dovrei provare a contattarla nel pomeriggio {b}{/b} quando si prende una pausa da tutti)."
+    danny "(Dovrei provare a contattarla nel {b}pomeriggio{/b} quando si prende una pausa da tutti.)"
 
 # game/code/base/pda_screen.rpy:248
 translate italian star_is_offline_6daf65dd:

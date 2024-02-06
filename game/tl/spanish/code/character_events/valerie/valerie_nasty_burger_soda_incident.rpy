@@ -16,7 +16,7 @@ translate spanish valerie_random_nasty_burger_soda_0ee8319a:
 translate spanish valerie_random_nasty_burger_soda_a3bc0041:
 
     # lily towards sad talk_displeased "This customer ordered an Xtra Large Nasty Orange soda, but the pop machine's not dispensing any."
-    lily towards sad talk_displeased "Este cliente ordenó un Xtra Largo y Grande Refresco de Naranja, pero la máquina pop no está dispensando ninguno."
+    lily towards sad talk_displeased "Este cliente ordenó un Refresco Extra Grande de Naranja, pero la máquina no funciona."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:73
 translate spanish valerie_random_nasty_burger_soda_c272bda9:
@@ -28,31 +28,31 @@ translate spanish valerie_random_nasty_burger_soda_c272bda9:
 translate spanish valerie_random_nasty_burger_soda_f2317501:
 
     # lily towards rise talk_displeased "Yeah, so I just offered him a lemonade for no charge, but we should try to get this fixed quick. Got any ideas?"
-    lily towards rise talk_displeased "Sí, así que le ofrecí una limonada gratis, pero deberíamos tratar de conseguir reparar esta máquina rápido. ¿Tienes alguna idea?"
+    lily towards rise talk_displeased "Sí, le ofrecí una limonada gratis pero deberíamos tratar de reparar esta máquina rápido. ¿Tienes alguna idea?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:79
 translate spanish valerie_random_nasty_burger_soda_4fabd1d1:
 
     # lily towards sad talk_happy "You've mentioned your parents were like, inventors or something, right? I figured you might, I don't know, have some handy skill fixing stuff..."
-    lily towards sad talk_happy "Habías mencionado que tus padres eran como, inventores o algo, ¿verdad? Me imaginé que podrías, no sé, tener algunas herramientas y habilidad..."
+    lily towards sad talk_happy "Habías mencionado que tus padres eran como, inventores o algo, ¿verdad? Me imaginé que podrías, no sé, tener algunas herramientas e idea..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:82
 translate spanish valerie_random_nasty_burger_soda_7f11f939:
 
     # danny burger down sad talk_displeased "Ya know, that's really more {i}their{/i} forte, I don't..."
-    danny burger down sad talk_displeased "sabes, es realmente más {i}su {/i} fuerte, yo no ..."
+    danny burger down sad talk_displeased "sabes, és más {i}su {/i} fuerte, yo no..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:85
 translate spanish valerie_random_nasty_burger_soda_3240cdf2:
 
     # lily towards sad talk_displeased "Dude, please? Stupid Irving will have my ass if he sees I'm comping too many meal items, and the Orange soda's the most popular drink!"
-    lily towards sad talk_displeased "Dude, por favor? ¡ El estúpido Irving tendrá mi culo si ve que estoy trasteando demasiados artículos de comida porque el refresco de naranja és la bebida más popular!"
+    lily towards sad talk_displeased "tio, ¿por favor? ¡ El estúpido Irving me dará en el si ve que solo estoy trasteando artículos de comida, el refresco de naranja és la bebida más popular!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:88
 translate spanish valerie_random_nasty_burger_soda_98b6a67c:
 
     # danny burger towards unhappy talk_happy "{i}Uhhh{/i}...{p}...okay, I'm still not sure, but... here, let me at least try some things..."
-    danny burger towards unhappy talk_happy "{i}Uhhh {/i} ...{p}... bien, estoy seguro, pero ... aquí, déjame probar algunas cosas ..."
+    danny burger towards unhappy talk_happy "{i}Uhhh {/i}...{p}... bien, no estoy seguro, pero... aquí, déjame probar algunas cosas{/p}..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:110
 translate spanish valerie_random_nasty_burger_soda_287a472c:
@@ -76,13 +76,13 @@ translate spanish valerie_random_nasty_burger_soda_e996b487:
 translate spanish valerie_random_nasty_burger_soda_8ae6117f:
 
     # lily away sad talk_happy "Yeah, Danny's trying to help figure it out right now."
-    lily away sad talk_happy "Sí, Danny está ayudando intentando repararlo."
+    lily away sad talk_happy "Sí, Danny está intentando repararla."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:128
 translate spanish valerie_random_nasty_burger_soda_43a2befa:
 
     # valerie "Little baby Einstein Jr.'s gonna try fixing something? Oh, {i}this{/i} should be good."
-    valerie "Pequeño bebe Einstein Jr. ¿Va a intentar arreglar algo? Oh, {i}esto {/i} será divertido."
+    valerie "¿El pequeño Einstein va a intentar arreglar algo? Oh, {i}esto {/i} será divertido."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:132
 translate spanish valerie_random_nasty_burger_soda_1afe3e19:
@@ -100,7 +100,7 @@ translate spanish valerie_random_nasty_burger_soda_b5f4eb3c:
 translate spanish valerie_random_nasty_burger_soda_287c2a83:
 
     # valerie "Gotta be all that extra sugar Irving pours in it. This stuff's thicker than maple syrup!"
-    valerie "Podría ser el azúcar adicional Irving vierte en él. ¡Ese material es más grueso que el jarabe de arce!"
+    valerie "Podría ser el azúcar adicional que Irving pone. ¡Ese material es más grueso que el jarabe de arce!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:145
 translate spanish valerie_random_nasty_burger_soda_252139f1:
@@ -130,13 +130,13 @@ translate spanish valerie_random_nasty_burger_soda_f3c07efa:
 translate spanish valerie_random_nasty_burger_soda_85f67bc6:
 
     # lily down sad talk_displeased "Dang, I might just need to tell Irving to call corporate and order a new-"
-    lily down sad talk_displeased "Dang, es posible que sólo tenga que decirle a Irving que llame a las empresas y pedir un nuevo-"
+    lily down sad talk_displeased "Dang, es posible que sólo tenga que decirle a Irving que llame a la empresa y pedir una nueva-"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:175
 translate spanish valerie_random_nasty_burger_soda_171ec616:
 
     # danny burger towards angry talk_distraught "Well then here, {i}you{/i} try it, if you're such an expert with machines, braniac!"
-    danny burger towards angry talk_distraught "Pues bien, inténtalo {i}tú {/i}, si tú eres una experta con máquinas, genia!"
+    danny burger towards angry talk_distraught "Pues bien, inténtalo {i}tú {/i}, si tú eres una experta con máquinas, tomal!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:179
 translate spanish valerie_random_nasty_burger_soda_8fc3e9a4:
@@ -148,19 +148,19 @@ translate spanish valerie_random_nasty_burger_soda_8fc3e9a4:
 translate spanish valerie_random_nasty_burger_soda_3026897d:
 
     # valerie "Finally! That's about the first thing you've said that's sounded like a good idea!"
-    valerie "¡Por último! ¡Eso es lo primero que has dicho que ha sonado como una buena idea!"
+    valerie "¡al fin! ¡Es es lo primero que has dicho que suena a buena idea!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:200
 translate spanish valerie_random_nasty_burger_soda_7dd2c774:
 
     # valerie "All we need to do is give it a good whack! That's what you do with anything that's not working right!"
-    valerie "Todo lo que tenemos que hacer es darle un buen golpe! ¡Eso es lo que haces con cualquier cosa que no esté funcionando bien!"
+    valerie "¡Todo lo que tenemos que hacer es darle un buen golpe! ¡Eso es lo que haces con cualquier cosa que no esté funcionando bien!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:204
 translate spanish valerie_random_nasty_burger_soda_b8cd01e0:
 
     # danny burger towards rise talk_distraught "You can't just smack stuff around and expect it to start working, Valerie!"
-    danny burger towards rise talk_distraught "No puedes simplemente machacar cosas y esperar que empiece a funcionar, ¡Valerie!"
+    danny burger towards rise talk_distraught "¡No puedes simplemente machacar cosas y esperar que empiece a funcionar, Valerie!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:208
 translate spanish valerie_random_nasty_burger_soda_16301bae:
@@ -190,7 +190,7 @@ translate spanish valerie_random_nasty_burger_soda_1a7f1271:
 translate spanish valerie_random_nasty_burger_soda_5b53ca1a:
 
     # danny burger towards rise talk_happy "{i}Heh{/i}... I guess you {u}can{/u} just smack stuff around and get it to work. Good job Valerie."
-    danny burger towards rise talk_happy "{i}Heh {/i} ... Supongo que tú {u}puedes {/u} simplemente machacar cosas y conseguir que funcionen. Buen trabajo Valerie."
+    danny burger towards rise talk_happy "{i}Heh {/i}... Supongo que tú {u}puedes {/u} machacar cosas y conseguir que funcionen. Buen trabajo Valerie."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:248
 translate spanish valerie_random_nasty_burger_soda_cb0c2a61:
@@ -208,7 +208,7 @@ translate spanish valerie_random_nasty_burger_soda_611e7583:
 translate spanish valerie_random_nasty_burger_soda_c7049d7c:
 
     # valerie "{i}FENTOOOOON!!{/i}"
-    valerie "{i}¡FENTOOOOÓN!"
+    valerie "{i}¡FENTOOOOÓN!!!{/i}"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:261
 translate spanish valerie_random_nasty_burger_soda_3319072c:
@@ -220,7 +220,7 @@ translate spanish valerie_random_nasty_burger_soda_3319072c:
 translate spanish valerie_random_nasty_burger_soda_fa0f4f53:
 
     # valerie "{i}Uchh!{/i} It's all sticky too! This is so nasty!"
-    valerie "{i}¡Uchh! ¡está todo pegajoso! ¡Esto es muy desagradable!"
+    valerie "{i}¡Uchh!{/i} ¡está todo pegajoso! ¡Esto es muy desagradable!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:270
 translate spanish valerie_random_nasty_burger_soda_5d175f26:
@@ -310,7 +310,7 @@ translate spanish valerie_random_nasty_burger_soda_db92f565:
 translate spanish valerie_random_nasty_burger_soda_c1839769:
 
     # danny burger towards sad smile "{i}*Ahem*{/i}{p}{i}Hmmm{/i}..."
-    danny burger towards sad smile "{i}*Ahem*{p}{i}Hmmm{/i}..."
+    danny burger towards sad smile "{i}*Ahem*{/i}{p}{i}Hmmm{/i}{/p}..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:354
 translate spanish valerie_random_nasty_burger_soda_d228efd8:
@@ -322,7 +322,7 @@ translate spanish valerie_random_nasty_burger_soda_d228efd8:
 translate spanish valerie_random_nasty_burger_soda_fc185ca4:
 
     # danny burger down sad displeased "(Hope nothing happened..."
-    danny burger down sad displeased "(Espero que no haya pasado nada..."
+    danny burger down sad displeased "(Espero que no le haya pasado nada..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:359
 translate spanish valerie_random_nasty_burger_soda_6964eb52:
@@ -370,7 +370,7 @@ translate spanish valerie_random_nasty_burger_soda_peek_f73f6536:
 translate spanish valerie_random_nasty_burger_soda_peek_1a3c655e:
 
     # valerie "{i}Ugh{/i}, took me forever to find a spare shirt in my size!{p}Stupid Irving..."
-    valerie "{i}¡Ugh{/i}, me tomó una eternidad encontrar una camisa de repuesto de mi talla!{p}Estúpido Irving..."
+    valerie "{i}¡Ugh{/i}, me tomó una eternidad encontrar una camisa de repuesto de mi talla!{p}Estúpido Irving{/p}..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:406
 translate spanish valerie_random_nasty_burger_soda_peek_bb2988c3:
@@ -382,19 +382,19 @@ translate spanish valerie_random_nasty_burger_soda_peek_bb2988c3:
 translate spanish valerie_random_nasty_burger_soda_peek_5ec933f4:
 
     # valerie "Least I can finally get out of this stupid thing..."
-    valerie "Al menos puedo salir por fin de esto..."
+    valerie "Al final puedo sacarme esta mierda..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:410
 translate spanish valerie_random_nasty_burger_soda_peek_53bd7d2a:
 
     # valerie "That stupid Fenton! He planned this to humiliate me, somehow!"
-    valerie "¡Ese estúpido Fenton! ¡Ha planeado esto para humillarme, de alguna manera!"
+    valerie "¡Ese estúpido Fenton! ¡Ha planeado esto para humillarme de alguna manera!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:412
 translate spanish valerie_random_nasty_burger_soda_peek_8002b4d6:
 
     # danny f offscreen burger towards angry clenchteeth "(I did {u}not{/u}!{p}How was I supposed to know that was going to happen?!)"
-    danny f offscreen burger towards angry clenchteeth "(¡Yo {u}no{/u}!{p}¡¿Cómo iba a saber que eso iba a pasar?!)"
+    danny f offscreen burger towards angry clenchteeth "(¡Yo {u}no{/u}!{p}¡¿Cómo iba a saber que eso iba a pasar?!{/p})"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:414
 translate spanish valerie_random_nasty_burger_soda_peek_0ad81dbb:
@@ -406,7 +406,7 @@ translate spanish valerie_random_nasty_burger_soda_peek_0ad81dbb:
 translate spanish valerie_random_nasty_burger_soda_peek_5cb915b1:
 
     # valerie "Alright, let's get this thing off..."
-    valerie "Muy bien, vamos a sacar esto..."
+    valerie "Muy bien, voy a sacarme esto..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:418
 translate spanish valerie_random_nasty_burger_soda_peek_fa25dbf4:
@@ -424,7 +424,7 @@ translate spanish valerie_random_nasty_burger_soda_peek_281a087e:
 translate spanish valerie_random_nasty_burger_soda_peek_552fa8fb:
 
     # valerie "{i}*Humming*{/i}"
-    valerie "{i}*Humming * {/i}"
+    valerie "{i}*zumbido* {/i}"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:429
 translate spanish valerie_random_nasty_burger_soda_peek_721db068:
@@ -436,13 +436,13 @@ translate spanish valerie_random_nasty_burger_soda_peek_721db068:
 translate spanish valerie_random_nasty_burger_soda_peek_de546400:
 
     # valerie "{i}*Muttering*{/i}...think I should take the bra off too.{p}{i}Ugh{/i}, I really better not \"show\" though..."
-    valerie "{i}*Muttering*{/i}... Creo que debería quitarme el sujetador también.{p}{i}Ugh{/i}, es mejor no \"mostrar\" pero..."
+    valerie "{i}*Murmullo*{/i}... Creo que debería quitarme el sujetador también.{p}{i}Ugh{/i}, es mejor no \"mostrar\" pero{/p}..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:433
 translate spanish valerie_random_nasty_burger_soda_peek_6521b739:
 
     # danny f offscreen burger down sad displeased "(Should I {i}still{/i} be looking...? I only wanted to see if she was alright...)"
-    danny f offscreen burger down sad displeased "(¿Debería {i}seguir{i} buscando...? Sólo quería ver si estaba bien...)"
+    danny f offscreen burger down sad displeased "(¿Debería {i}seguir{/i} mirando...? Sólo quería ver si estaba bien...)"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:442
 translate spanish valerie_random_nasty_burger_soda_peek_5835b16c:
@@ -454,13 +454,13 @@ translate spanish valerie_random_nasty_burger_soda_peek_5835b16c:
 translate spanish valerie_random_nasty_burger_soda_peek_2d140676:
 
     # valerie "{i}*Muttering*{/i} ...well, I don't think it soaked into the bra {i}too{/i} bad, actually..."
-    valerie "{i}*...bueno, no creo que haya empapado {i}mucho{/i} dentro del sujetador..."
+    valerie "{i}*murmullo*{/i}...bueno, no creo que haya empapado {i}mucho{/i} dentro del sujetador..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:446
 translate spanish valerie_random_nasty_burger_soda_peek_d4f80a19:
 
     # valerie "I'll probably just hang it up in the locker for a little bit. Wear it the second half of the shift..."
-    valerie "lo colgaré en la taquilla durante un tiempo. Lo usaré la segunda mitad del turno..."
+    valerie "lo colgaré en la taquilla durante un rato. Lo usaré en la segunda mitad del turno..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:448
 translate spanish valerie_random_nasty_burger_soda_peek_4d474d15:
@@ -478,7 +478,7 @@ translate spanish valerie_random_nasty_burger_soda_peek_8c610059:
 translate spanish valerie_random_nasty_burger_soda_peek_d0e860a4:
 
     # danny f offscreen burger at_player rise grin "(I guess I never really saw Valerie as much of a hotti-)"
-    danny f offscreen burger at_player rise grin "(Supongo que nunca he visto a Valerie con atracción...)"
+    danny f offscreen burger at_player rise grin "(Supongo que nunca he visto a Valerie con atractivo...)"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:454
 translate spanish valerie_random_nasty_burger_soda_peek_e7d52ca5:
@@ -490,7 +490,7 @@ translate spanish valerie_random_nasty_burger_soda_peek_e7d52ca5:
 translate spanish valerie_random_nasty_burger_soda_peek_2f651d69:
 
     # danny f offscreen burger towards sad talk_displeased "{i}Ghch!{/i}{p}Oh, c-coming, sir!"
-    danny f offscreen burger towards sad talk_displeased "{i}¡Ghch!{p}¡Oh, ya vengo, señor!"
+    danny f offscreen burger towards sad talk_displeased "{i}¡Ghch!{/i}{p}¡Oh, ya vengo, señor!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:460
 translate spanish valerie_random_nasty_burger_soda_peek_4324f1df:
@@ -508,7 +508,7 @@ translate spanish valerie_random_nasty_burger_soda_peek_f7350800:
 translate spanish valerie_random_nasty_burger_soda_after_peek_96b8c9b6:
 
     # danny burger burger at_player idle talk_happy "...that'll be $8.40 sir.{p}...out of nine, okay...{p}...and here's your change. Your order will be ready soon, sorry for the hold up..."
-    danny burger burger at_player idle talk_happy "...son 8,40 dólares, señor.{p}...de nueve, bien...{p}...y aquí está su cambio. Su pedido estará listo pronto, perdón por el retraso..."
+    danny burger burger at_player idle talk_happy "...son 8,40 dólares, señor.{p}...me da nueve, bien...{p}...y aquí está su cambio. Su pedido estará listo pronto, perdón por el retraso..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:501
 translate spanish valerie_random_nasty_burger_soda_after_peek_12082cfa:
@@ -520,7 +520,7 @@ translate spanish valerie_random_nasty_burger_soda_after_peek_12082cfa:
 translate spanish valerie_random_nasty_burger_soda_after_peek_0617435d:
 
     # danny burger burger down sad talk_happy "{i}Phew!{/i} That was close."
-    danny burger burger down sad talk_happy "{i}¡Uf! Eso estuvo cerca."
+    danny burger burger down sad talk_happy "{i}¡*suspiro*!{/i} Eso estuvo cerca."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:512
 translate spanish valerie_random_nasty_burger_soda_after_peek_98e04752:
@@ -532,13 +532,13 @@ translate spanish valerie_random_nasty_burger_soda_after_peek_98e04752:
 translate spanish valerie_random_nasty_burger_soda_after_peek_65bb9b5e:
 
     # danny burger down sad talk_happy "Oh, {i}uhm{/i}, yeah, sorry about that. I was just collecting all the dimes from the bathroom locks quickly! M-my bad!"
-    danny burger down sad talk_happy "Oh, {i}uhm{/i}, sí, lo siento. ¡Estaba recogiendo las monedas de los candados del baño! ¡Mi culpa!"
+    danny burger down sad talk_happy "Oh, {i}uhm{/i}, sí, lo siento. ¡Estaba recogiendo las monedas de los candados del baño! ¡perdón!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:523
 translate spanish valerie_random_nasty_burger_soda_after_peek_5ea6b00e:
 
     # lily towards rise talk_displeased "...{i}right{/i}, okay.{p}Well, I'll take back over, you get around to sweeping and wiping again, 'kay?"
-    lily towards rise talk_displeased "...{i}bien{/i}, de acuerdo.{p} Bueno, yo me encargaré de nuevo, tú vuelve a barrer y limpiar, ¿vale?"
+    lily towards rise talk_displeased "...{i}bien{/i}, de acuerdo.{p} Bueno, yo me encargaré de nuevo, tú vuelve a barrer y limpiar{/p}, ¿vale?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:527
 translate spanish valerie_random_nasty_burger_soda_after_peek_7496770b:
@@ -574,7 +574,7 @@ translate spanish valerie_random_nasty_burger_soda_after_peek_20890889:
 translate spanish valerie_random_nasty_burger_soda_after_peek_e5086bd7:
 
     # valerie "{i}FENTON!!{/i}"
-    valerie "{i}¡¡FENTON!!{i}"
+    valerie "{i}¡¡FENTON!!{/i}"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:565
 translate spanish valerie_random_nasty_burger_soda_after_peek_79318ab2:
@@ -694,13 +694,13 @@ translate spanish valerie_random_nasty_burger_soda_after_peek_8de930b9:
 translate spanish valerie_random_nasty_burger_soda_after_peek_7d1b7620:
 
     # valerie "{i}*Sigh*{/i} How about next time, just knock, I guess??"
-    valerie "{i}*Sigh*{/i} ¿Qué tal si la próxima vez llamas en la puerta?"
+    valerie "{i}*Suspiro*{/i} ¿Qué tal si la próxima vez llamas en la puerta??"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:643
 translate spanish valerie_random_nasty_burger_soda_after_peek_ad79cf8e:
 
     # danny burger towards sad talk_happy "Okay, okay, will do!{p}{i}*Ahem*{/i}"
-    danny burger towards sad talk_happy "Vale, vale, ¡lo haré!{p}{i}*Ahem*{/i}"
+    danny burger towards sad talk_happy "Vale, vale, ¡lo haré!{p}{i}*Ahem*{/i}{/p}"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:647
 translate spanish valerie_random_nasty_burger_soda_after_peek_20890889_1:
@@ -712,7 +712,7 @@ translate spanish valerie_random_nasty_burger_soda_after_peek_20890889_1:
 translate spanish valerie_random_nasty_burger_soda_after_peek_0210b993:
 
     # danny burger towards sad talk_happy "Well, I'm gonna get back to it, {i}soooo{/i}..."
-    danny burger towards sad talk_happy "Bueno, voy a volver a ello, {i}así que..."
+    danny burger towards sad talk_happy "Bueno, voy a volver a ello, {i}así{/i} que..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:654
 translate spanish valerie_random_nasty_burger_soda_after_peek_81e39f94:
@@ -730,7 +730,7 @@ translate spanish valerie_random_nasty_burger_soda_after_peek_06d16068:
 translate spanish valerie_random_nasty_burger_soda_after_peek_e439c795:
 
     # danny burger towards unhappy talk_displeased "Me? A weirdo?!"
-    danny burger towards unhappy talk_displeased "¿Yo? ¿Un bicho raro?"
+    danny burger towards unhappy talk_displeased "¿Yo? ¿raro?!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:671
 translate spanish valerie_random_nasty_burger_soda_after_peek_7c823671:
@@ -754,7 +754,7 @@ translate spanish valerie_random_nasty_burger_no_peek_0627842c:
 translate spanish valerie_random_nasty_burger_no_peek_c429c88b:
 
     # danny burger at_player idle talk_happy "...and here's your order miss!{p}Oh, the Nasty sauce packets, right! Pardon me, here you go!{p}Enjoy your meal!"
-    danny burger at_player idle talk_happy "...¡y aquí está su pedido, señorita!{p} . ¡Oh!, los paquetes de salsa Nasty. ¡Perdóneme!, ¡aquí tiene!{p}¡Disfrute de su comida!"
+    danny burger at_player idle talk_happy "...¡y aquí está su pedido, señorita!{p} . ¡Oh!, los paquetes de salsa Nasty.{/p} ¡Perdóneme!, ¡aquí tiene!{p}¡Disfrute de su comida{/p}!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:719
 translate spanish valerie_random_nasty_burger_no_peek_759862d7:
@@ -784,7 +784,7 @@ translate spanish valerie_random_nasty_burger_no_peek_4ecb10d8:
 translate spanish valerie_random_nasty_burger_no_peek_d876db91:
 
     # lily towards rise talk_displeased "Well, it's been a little while, I wonder what-"
-    lily towards rise talk_displeased "Bueno, ha pasado un tiempo, me pregunto qué..."
+    lily towards rise talk_displeased "Bueno, ha pasado un rato, me pregunto qué"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:746
 translate spanish valerie_random_nasty_burger_no_peek_747f6cc9:
@@ -808,7 +808,7 @@ translate spanish valerie_random_nasty_burger_no_peek_ddae3f04:
 translate spanish valerie_random_nasty_burger_no_peek_fb62af5a:
 
     # valerie "{i}*Chuckles*{/i} I know, he's the worst."
-    valerie "{i}*Lo sé, él és de lo peor."
+    valerie "{i}*risas*{/i} Lo sé, él és de lo peor."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:769
 translate spanish valerie_random_nasty_burger_no_peek_128a8228:
@@ -820,7 +820,7 @@ translate spanish valerie_random_nasty_burger_no_peek_128a8228:
 translate spanish valerie_random_nasty_burger_no_peek_a84a45d8:
 
     # valerie "Thanks, they're somewhere there, I just can't find them."
-    valerie "Gracias, están en algún lugar, sólo que no las encuentro."
+    valerie "Gracias, están en algún lugar, és solo que no las encuentro."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:778
 translate spanish valerie_random_nasty_burger_no_peek_c0c78ac6:
@@ -844,7 +844,7 @@ translate spanish valerie_random_nasty_burger_no_peek_5618132a:
 translate spanish valerie_random_nasty_burger_no_peek_2663e233:
 
     # danny burger sad talk_displeased "N-no, nothing, I was just...{p}Nope, I'm good."
-    danny burger sad talk_displeased "N-no, nada, sólo estaba...{p}No, estoy bien."
+    danny burger sad talk_displeased "N-no, nada, sólo estaba...{p}No{/p}, estoy bien."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:800
 translate spanish valerie_random_nasty_burger_no_peek_835865b6:
@@ -862,7 +862,7 @@ translate spanish strings:
 
     # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
     old "(Peek in the back room?)"
-    new "(¿Mirar en la trastienda?)"
+    new "(¿Mirar en la parte de atrás?)"
 
     # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
     old "Yeah, just to make sure she's okay."
@@ -870,5 +870,5 @@ translate spanish strings:
 
     # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
     old "No, I'm sure she's fine."
-    new "No, estoy seguro de que esté bien."
+    new "No, estoy seguro de que está bien."
 
