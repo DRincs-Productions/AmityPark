@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-10 14:05\n"
+"PO-Revision-Date: 2024-02-07 11:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
@@ -23,7 +23,7 @@ msgstr "ypos 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 025b4ae1:
 msgid "spacing 0"
-msgstr "spacing"
+msgstr "espacio 0"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 727f6ef2:
 msgid "add \"gui/game_title.png\""
@@ -211,7 +211,7 @@ msgstr "Pantalla completa"
 
 # game/code/base/screens.rpy:911
 msgid "Rollback Side"
-msgstr "Lado de retroceso"
+msgstr "Retroceso"
 
 # game/code/base/screens.rpy:912
 msgid "Disable"
