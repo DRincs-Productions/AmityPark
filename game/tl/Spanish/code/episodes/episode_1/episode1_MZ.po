@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-28 23:03\n"
+"PO-Revision-Date: 2024-02-07 13:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -54,7 +54,7 @@ msgstr "[_danny_s_p7_] ¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy {
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:102 #-#-# translate crowdin intro_82c577de:
 msgid "[_jack_] {i}DANNY!!{/i} I'm getting a reading from the {b}Fenton Finder{/b} that there's a ghost in your room!{p}Try to fend it off with your weaponized teenage hormones while your mother and I grab our ghost hunting gear! Good luck, son!!"
-msgstr "[_jack_] {i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!{/p}. ¡Buena suerte, hijo!!"
+msgstr "[_jack_] {i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!.  ¡Buena suerte, hijo!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:106 #-#-# translate crowdin intro_5501def0:
 msgid "[_danny_] Oh man! If Mom and Dad catch me like this, I'm toast!"
@@ -90,7 +90,7 @@ msgstr "[_maddie_s_flip_s_towards_wide_up_s_neutral_s_talk_distraught_] No te pr
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:170 #-#-# translate crowdin intro_bf734b4a:
 msgid "[_maddie_s_flip_s_closed_s_neutral_s_talk_amused_] Right now, let's all just go downstairs and have some breakfast to cool down from this little false alarm!{p}I'll even make a fresh batch of waffles for you boys!"
-msgstr "[_maddie_s_flip_s_closed_s_neutral_s_talk_amused_] Bien, ahora bajemos todos a desayunar para calmarnos de esta pequeña falsa alarma.{p}¡Haré un lote de gofres{/p}!"
+msgstr "[_maddie_s_flip_s_closed_s_neutral_s_talk_amused_] Bien, ahora bajemos todos a desayunar para calmarnos de esta pequeña falsa alarma.{p}¡Haré un lote de gofres !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:175 #-#-# translate crowdin intro_429d8c16:
 msgid "[_jack_] {i}Leaping log-cabins{/i}, that sounds {u}great{/u} honey! See yah Danny!! Last one downstairs is a rotten Belgian!"
