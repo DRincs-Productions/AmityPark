@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-12 17:28\n"
+"PO-Revision-Date: 2024-02-07 11:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:69 #-#-# translate crowdin functionlabel_CalledBattle_d97cd968:
 msgid "You've earned [earnedEXP] experience points!"
@@ -30,7 +30,7 @@ msgid "Congratulations you are now level [dannyCombat[Level]]\n"
 "Gained 1 Passive Point!"
 msgstr "Enhorabuena, ahora tienes nivel [dannyCombat[Level]]\n"
 " ¡Has ganado 1 punto de habilidad!\n"
-"Has ganado 1 punto pasivo!"
+"¡Has ganado 1 punto pasivo!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:182 #-#-# translate crowdin menu_LoseMenu_51aecfb7:
 msgid "Time to run..."
@@ -54,7 +54,7 @@ msgid "Congratulations you are now level [dannyCombat[Level]]\n"
 "Gained 1 Passive Point!"
 msgstr "Enhorabuena, ahora tienes nivel [dannyCombat[Level]]\n"
 " ¡Has ganado 1 punto de habilidad!\n"
-"Has ganado 1 punto pasivo!"
+"¡Has ganado 1 punto pasivo!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:289 #-#-# translate crowdin functionlabel_TrainingBattle_3337726c_1:
 msgid "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] All that training paid off, but I didn't learn anything from that fight."
