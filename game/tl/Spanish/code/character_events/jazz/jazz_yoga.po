@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 16:38\n"
+"PO-Revision-Date: 2024-02-07 13:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jazz/jazz_yoga.rpy:10 #-#-# translate crowdin jazz_wednesday_yoga_ca95bc43:
 msgid "[_mp3_] {i}Breathe in... and breathe out...{p}...let your body be a guiding hand for your inner self's desires and needs...{p}...breathe in... and release..."
-msgstr "[_mp3_] {i}Inspira... y espira...{/i}... {p}... deja que tu cuerpo sea una mano que te guíe por los deseos y necesidades de tu yo interior{/p}...{p}... inspira... y libera{/p}..."
+msgstr "[_mp3_] {i}Inspira... y espira...{/i}... {p}... deja que tu cuerpo sea una mano que te guíe por los deseos y necesidades de tu yo interior... {p}... inspira... y libera..."
 
 # game/code/character_events/jazz/jazz_yoga.rpy:12 #-#-# translate crowdin jazz_wednesday_yoga_a0743fd2:
 msgid "[_danny_s_towards_s_rise_s_smile_] (Huh? Oh, sounds like Jazz is practicing yoga in her room again...)"
