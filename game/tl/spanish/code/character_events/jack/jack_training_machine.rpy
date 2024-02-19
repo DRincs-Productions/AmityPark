@@ -28,7 +28,7 @@ translate spanish training_machine_intro_66506d61:
 translate spanish training_machine_intro_bfc7a71e:
 
     # jack towards rise talk_displeased "Oh, Danny! Before you go, take a look at my latest invention!{p}I call it the {b}Fenton Battle Simulator{/b}!"
-    jack towards rise talk_displeased "¡Oh, Danny! Antes de ir, ¡echa un vistazo a mi último invento!{p}Lo llamo el {b}Simulador de Batallás Fenton{/b}{/p}!"
+    jack towards rise talk_displeased "¡Oh, Danny! Antes de ir, ¡ echa un vistazo a mi último  invento!{p}Lo llamo el {b}Simulador de Batallás Fenton{/b}"
 
 # game/code/character_events/jack/jack_training_machine.rpy:22
 translate spanish training_machine_intro_76e60fc6:
@@ -52,5 +52,5 @@ translate spanish training_machine_intro_18c9b7d3:
 translate spanish training_machine_intro_9588b93c:
 
     # danny towards rise frown "({i}Hmm{/i}... the Fenton Battle Simulator... maybe it could help me out as well?){p}(Let's give it a try later at night, once everyone is asleep...)"
-    danny towards rise frown "({i}Hmm {/i}... el Simulador de Batalla de Fenton... tal vez podría ayudarme también?){p}(Probaré por la noche una oportunidad, cuando todo el mundo esté dormido...{/p})"
+    danny towards rise frown "({i}Hmm {/i}... el Simulador de Batalla de Fenton... tal vez podría ayudarme también?){p}(Probaré por la noche una oportunidad, cuando todo el mundo esté dormido... )"
 

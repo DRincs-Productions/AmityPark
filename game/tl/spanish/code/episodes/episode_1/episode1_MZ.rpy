@@ -64,7 +64,7 @@ translate spanish intro_61804c48:
 translate spanish intro_82c577de:
 
     # jack "{i}DANNY!!{/i} I'm getting a reading from the {b}Fenton Finder{/b} that there's a ghost in your room!{p}Try to fend it off with your weaponized teenage hormones while your mother and I grab our ghost hunting gear! Good luck, son!!"
-    jack "{i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!{/p}. ¡Buena suerte, hijo!!"
+    jack "{i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!.  ¡Buena suerte, hijo!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:106
 translate spanish intro_5501def0:
@@ -118,7 +118,7 @@ translate spanish intro_53b42b8b:
 translate spanish intro_bf734b4a:
 
     # maddie flip closed neutral talk_amused "Right now, let's all just go downstairs and have some breakfast to cool down from this little false alarm!{p}I'll even make a fresh batch of waffles for you boys!"
-    maddie flip closed neutral talk_amused "Bien, ahora bajemos todos a desayunar para calmarnos de esta pequeña falsa alarma.{p}¡Haré un lote de gofres{/p}!"
+    maddie flip closed neutral talk_amused "Bien, ahora bajemos todos a desayunar para calmarnos de esta pequeña falsa alarma.{p}¡Haré un lote de gofres !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:175
 translate spanish intro_429d8c16:
@@ -160,7 +160,7 @@ translate spanish intro_bb976c92:
 translate spanish intro_9ce4ccb2:
 
     # danny sad_2 towards frown_grin "(Jeez, that was a close one. If I'm not careful about keeping... {u}whatever's{/u} happened to me secret, I'll wind up as one of my parents' crazy science experiments.)"
-    danny sad_2 towards frown_grin "(Cielos, eso estuvo cerca. Si no tengo cuidado de mantener en secreto... {u}lo que sea{u/} que me haya pasado, acabaré siendo uno de los locos experimentos científicos de mis padres)."
+    danny sad_2 towards frown_grin "(Cielos, eso estuvo cerca. Si no tengo cuidado de mantener en secreto... {u}lo que sea{/u} que me haya pasado, acabaré siendo uno de los locos experimentos científicos de mis padres)."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:222
 translate spanish intro_5f1748d7:
@@ -226,7 +226,7 @@ translate spanish intro_breakfast_3b28b7de:
 translate spanish intro_breakfast_c47f7104:
 
     # danny towards_wide wondering talk_happy "Oh come on, Jazz, they aren't crazy, they're {b}scientists{/b}! They've been working on this kinda stuff since they went to college.{p}Of course they're going to seem a {i}little{/i} weird compared to other parents, but it's all in the pursuit of scientific research!"
-    danny towards_wide wondering talk_happy "Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {i/} en comparación con otros padres{/p}, pero és solo investigación científica!"
+    danny towards_wide wondering talk_happy "Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {/i} en comparación con otros padres{/p}, pero és solo investigación científica!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:291
 translate spanish intro_breakfast_80181d42:
@@ -778,13 +778,13 @@ translate spanish intro_classroom_f53b2978:
 translate spanish intro_classroom_0a3ea84f:
 
     # tucker "Come on Sam, we {i}all{/i} know about Vlad Masters. There's no need to patronize us."
-    tucker "Vamos Sam, {i}todos{i/} nosotros conocemos al maestro Vlad. No hay necesidad de que le patrocines."
+    tucker "Vamos Sam, {i}todos{/i} nosotros conocemos al maestro Vlad. No hay necesidad de que le patrocines."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:923
 translate spanish intro_classroom_78207827:
 
     # sam "Yeah, yeah, I know, billionare, brilliant inventor, silver fox type, kinda hard to forget, I'm sorry. Well, what you might {i}not{/i} know is that he's invested millions in research towards the study of para-pscyhology and the paranormal."
-    sam "Sí, sí, lo sé, multimillonario, brillante inventor, tipo Edison, un poco difícil de olvidar, lo siento. Bueno, lo que tal vez {i}no{i/} sepas es que ha invertido millones en investigación para el estudio de la parapsicología y lo paranormal."
+    sam "Sí, sí, lo sé, multimillonario, brillante inventor, tipo Edison, un poco difícil de olvidar, lo siento. Bueno, lo que tal vez {i}no{/i} sepas es que ha invertido millones en investigación para el estudio de la parapsicología y lo paranormal."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:928
 translate spanish intro_classroom_f8035959:
@@ -796,7 +796,7 @@ translate spanish intro_classroom_f8035959:
 translate spanish intro_classroom_70145443:
 
     # sam "Yeah, well maybe that's because he knows some stuff we {i}don't!{/i} Or Danny's parents who have been working at this stuff for years too! Are {i}they{/i} crazy too...?"
-    sam "Sí, bueno, tal vez es porque él sabe algunas cosas que nosotros {i}no{i/}. ¡O los padres de Danny que han estado trabajando en esto durante años también! ¿Están {i}ellos{/i} también locos...?"
+    sam "Sí, bueno, tal vez es porque él sabe algunas cosas que nosotros {i}no{/i}. ¡O los padres de Danny que han estado trabajando en esto durante años también! ¿Están {i}ellos{/i} también locos...?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:938
 translate spanish intro_classroom_ff7a0a67:
@@ -820,7 +820,7 @@ translate spanish intro_classroom_00269548:
 translate spanish intro_classroom_b1b11617:
 
     # danny towards talk_frown_2 sad_2 "{i}Uhhhm{/i}... no, yeah, I'm fine Mr. Lancer, I just gotta...{p}...just gotta..."
-    danny towards talk_frown_2 sad_2 "{i}Uhhhm{i/}... no, sí, estoy bien Sr. Lancer, sólo tengo...{p}...sólo tengo{/p}..."
+    danny towards talk_frown_2 sad_2 "{i}Uhhhm{/i}... no, sí, estoy bien Sr. Lancer, sólo tengo...{p}...sólo tengo{/p}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:991
 translate spanish intro_classroom_63127c2d:
@@ -832,7 +832,7 @@ translate spanish intro_classroom_63127c2d:
 translate spanish intro_classroom_3e5162ff:
 
     # lancer "{b}FOR WHOM THE BELL TOLLS!!{/b} Mr. Fenton, are you alright?!"
-    lancer "{b}¡SANTO DIOS! {b/} Sr. Fenton, ¡¿está usted bien?!"
+    lancer "{b}¡SANTO DIOS! {/b} Sr. Fenton, ¡¿está usted bien?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:995
 translate spanish intro_classroom_ea65742d:
@@ -862,7 +862,7 @@ translate spanish intro_nurseoffice_7c143238:
 translate spanish intro_nurseoffice_5307150e:
 
     # kate "{i}*Ahem*{/i} A very minor concussion is no excuse to stare {i}this{/i} long, young man. {i}*Chuckle*{/i}"
-    kate "{i}*tosido*{/i} Una conmoción cerebral muy leve no es excusa para {i}mirar{i/}tanto tiempo, joven. {i}*risas*{/i}"
+    kate "{i}*tosido*{/i} Una conmoción cerebral muy leve no es excusa para {i}mirar{/i}tanto tiempo, joven. {i}*risas*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1092
 translate spanish intro_nurseoffice_f6eb2831:
@@ -928,7 +928,7 @@ translate spanish intro_nurseoffice_aa0dd79b:
 translate spanish intro_nurseoffice_4a45c87c:
 
     # kate towards rage talk_happy blush "Wonderful. Now please, go home early today and get some rest.{p}And Danny, I really do mean you can stop by for {i}any{/i} reason..."
-    kate towards rage talk_happy blush "Maravilloso. Ahora, por favor, vete a casa temprano hoy y descansa un poco.{p}Y Danny, quiero decir que puedes pasar por {i}cualquier{i/} razón{/p}..."
+    kate towards rage talk_happy blush "Maravilloso. Ahora, por favor, vete a casa temprano hoy y descansa un poco.{p}Y Danny, quiero decir que puedes pasar por {i}cualquier{/i} razón{/p}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1168
 translate spanish intro_dinner_519df999:
@@ -946,7 +946,7 @@ translate spanish intro_dinner_056d24eb:
 translate spanish intro_dinner_8ae036b1:
 
     # newscaster 9 "Breaking news report! Channel 4 News has received multiple reports of what appears to be a green, {i}floating{/i} octopus-like creature observed terrorizing the city! Footage captured using hand held cameras, as well as eye witness-"
-    newscaster 9 "¡Noticia de última hora! Canal 4 ha recibido múltiples informes de lo que parece ser una criatura verde, {i}flotante{i/}, parecida a un pulpo y ¡aterrorizando la ciudad!. Las imágenes han sido grabadas con cámaras de mano, de testigos oculares"
+    newscaster 9 "¡Noticia de última hora! Canal 4 ha recibido múltiples informes de lo que parece ser una criatura verde, {i}flotante{/i}, parecida a un pulpo y ¡aterrorizando la ciudad!. Las imágenes han sido grabadas con cámaras de mano, de testigos oculares"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1185
 translate spanish intro_dinner_0dd34039:
@@ -958,13 +958,13 @@ translate spanish intro_dinner_0dd34039:
 translate spanish intro_dinner_7749f032:
 
     # maddie "Jack! Oh my gosh, Jack!! This is it! The validation of our {u}entire{/u} life's work!"
-    maddie "¡Jack! Oh, Dios mío, ¡¡Jack!! ¡Esto és! ¡La prueba del trabajo de {u}toda{u/} nuestra vida!"
+    maddie "¡Jack! Oh, Dios mío, ¡¡Jack!! ¡Esto és! ¡La prueba del trabajo de {u}toda{/u} nuestra vida!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1195
 translate spanish intro_dinner_e85d6cf4:
 
     # jack "{i}YEEESS!!{/i} Oh yeah, they laughed at ol' Jack Fenton, calling me a crazy failure! Well guess who's laughing {i}and{/i} crazy now, baby?!"
-    jack "{i}¡SIIIIIII!{/i} Oh sí, se rieron del viejo Jack Fenton llamándole ¡loco fracasado!. ¡¿Adivina nena quién se ríe ahora {i}y{i/} quiénes no?!"
+    jack "{i}¡SIIIIIII!{/i} Oh sí, se rieron del viejo Jack Fenton llamándole ¡loco fracasado!. ¡¿Adivina nena quién se ríe ahora {i}y{/i} quiénes no?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1198
 translate spanish intro_dinner_630209af:
@@ -982,7 +982,7 @@ translate spanish intro_dinner_910391ca:
 translate spanish intro_dinner_78c5821c:
 
     # newscaster 7 "...a man who has come under {i}numerous{/i} scrutinous and critical attacks due to his steadfast belief in ghostly apparitions..."
-    newscaster 7 "...un hombre que ha sido objeto de {i}numerosos{i/} escrutadores y críticos ataques debido a su firme creencia en las apariciones fantasmales..."
+    newscaster 7 "...un hombre que ha sido objeto de {i}numerosos{/i} escrutadores y críticos ataques debido a su firme creencia en las apariciones fantasmales..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1209
 translate spanish intro_dinner_dc0ee7d8:
@@ -1006,7 +1006,7 @@ translate spanish intro_dinner_53d4b3f3:
 translate spanish intro_dinner_6f305843:
 
     # newscaster 9 "...billionaire, philanthropist, and Fortunate Magazine's \"Man of the Year\" ten years running...{p}{u}Vlad Masters{/u}!"
-    newscaster 9 "...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{u/}{/p}!"
+    newscaster 9 "...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{/u}{/p}!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1224
 translate spanish intro_dinner_ccd74309:
@@ -1036,7 +1036,7 @@ translate spanish intro_dinner_2c3bc203:
 translate spanish intro_dinner_5da60161:
 
     # jack "Heck, I guess it {i}has{/i} been ages!!"
-    jack "Diablos, creo que ¡¡{i}hace{i/} una eternidad!!"
+    jack "Diablos, creo que ¡¡{i}hace{/i} una eternidad!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1251
 translate spanish intro_dinner_5e1b3843:
@@ -1078,7 +1078,7 @@ translate spanish intro_dinner_8247dfd7:
 translate spanish intro_dinner_9e0e3b0d:
 
     # jazz towards wondering talk_frown blush "I seriously can't believe this... is this real life? Ghosts? Ghosts are {i}really{/i} real?? How the... how is this {u}possible{/u}?!?"
-    jazz towards wondering talk_frown blush "No puedo creer todo esto seriamente... ¿és esto la vida real? ¿Fantasmas? ¿Los fantasmas son {i}realmente{i/} reales? ¿¡¿Cómo... cómo es {u}posible{u/} esto?!?"
+    jazz towards wondering talk_frown blush "No puedo creer todo esto seriamente... ¿és esto la vida real? ¿Fantasmas? ¿Los fantasmas son {i}realmente{/i} reales? ¿¡¿Cómo... cómo es {u}posible{/u} esto?!?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1284
 translate spanish intro_dinner_c02fdb3e:
@@ -1090,7 +1090,7 @@ translate spanish intro_dinner_c02fdb3e:
 translate spanish intro_dinner_79b90990:
 
     # jazz towards wondering talk_frown blush "I was... actually {u}wrong{/u}?? This whole time?! This doesn't make any sense at all... oh God, I feel faint..."
-    jazz towards wondering talk_frown blush "¿Yo estaba... en realidad {u}equivocada{u/}? ¡¿Todo este tiempo?! Esto no tiene ningún sentido en absoluto... oh Dios, me siento débil..."
+    jazz towards wondering talk_frown blush "¿Yo estaba... en realidad {u}equivocada{/u}? ¡¿Todo este tiempo?! Esto no tiene ningún sentido en absoluto... oh Dios, me siento débil..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1295
 translate spanish intro_dinner_2a396f11:
@@ -1108,7 +1108,7 @@ translate spanish intro_dinner_26b6492e:
 translate spanish intro_dinner_7ea6b172:
 
     # jack stare angry talk_happy "Come on Maddie! To the {b}Fenton Family Ghost Assault Vehicle{/b}!!"
-    jack stare angry talk_happy "¡Vamos Maddie! ¡¡{b}Al vehículo de asalto fantasma de la familia Fenton, {b/}!!"
+    jack stare angry talk_happy "¡Vamos Maddie! ¡¡{b}Al vehículo de asalto fantasma de la familia Fenton, {/b}!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1312
 translate spanish intro_dinner_a6c7ef74:
@@ -1132,19 +1132,19 @@ translate spanish redux_valerie_intro_47c70335:
 translate spanish redux_valerie_intro_919b3656:
 
     # star closed idle talk_displeased "{i}Ewww{/i}, nasty."
-    star closed idle talk_displeased "{i}Ewww{i/}, asqueroso."
+    star closed idle talk_displeased "{i}Ewww{/i}, asqueroso."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1380
 translate spanish redux_valerie_intro_4a6a919e:
 
     # valerie "...that wouldn't really make it much of an {i}\"octo\"{/i}-pus then, would it? If it has a {u}hundred{/u} tentacles?"
-    valerie "...eso no lo convierte en algo más que un {i}\"octo\"{/i}-podo entonces, ¿verdad? ¿Si tiene {u}cientos {u/} de tentáculos?"
+    valerie "...eso no lo convierte en algo más que un {i}\"octo\"{/i}-podo entonces, ¿verdad? ¿Si tiene {u}cientos {/u} de tentáculos?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1384
 translate spanish redux_valerie_intro_beddc4ad:
 
     # kwan towards rise talk_happy "No, no, sure, but these ones are like, really tiny, on {i}top{/i} of the eight normal ones."
-    kwan towards rise talk_happy "No, no, claro, pero los de este son muy pequeños, y están {i}encima{i/} de los ocho normales."
+    kwan towards rise talk_happy "No, no, claro, pero los de este son muy pequeños, y están {i}encima{/i} de los ocho normales."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1389
 translate spanish redux_valerie_intro_a31f1e67:
@@ -1162,19 +1162,19 @@ translate spanish redux_valerie_intro_12d91120:
 translate spanish redux_valerie_intro_e091fd95:
 
     # star down angry talk_distraught "{i}Ugh{/i}, that lying little attention seeker! There's no way a ghost would go after somebody like {i}her!{/i} She's completely {u}flat!{/u}"
-    star down angry talk_distraught "{i}¡Ugh{i/}, esa mentirosa buscadora de fama! ¡Ningún fantasma iría tras alguien como {i}ella {i/}! ¡Ella está completamente {u}plana {u/}"
+    star down angry talk_distraught "{i}¡Ugh{/i}, esa mentirosa buscadora de fama! ¡Ningún fantasma iría tras alguien como {i}ella {/i}! ¡Ella está completamente {u}plana {/u}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1402
 translate spanish redux_valerie_intro_b9a2a479:
 
     # valerie "What's {i}that{/i} got to do with anything?"
-    valerie "¿Qué tiene que ver {i}eso{i/} con todo esto?"
+    valerie "¿Qué tiene que ver {i}eso{/i} con todo esto?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1406
 translate spanish redux_valerie_intro_ca9edbf8:
 
     # star towards rise talk_displeased "I'm pretty sure a nasty ghost would only go after someone with some {u}actual{/u} curves! Y'know, if they were gonna be all pervy, right?!"
-    star towards rise talk_displeased "¡Estoy segura de que un fantasma sólo iría detrás de alguien con algunas curvas {u}reales{u/}!. Ya sabes, como si fueran pervertidos, ¿me entiendes?!"
+    star towards rise talk_displeased "¡Estoy segura de que un fantasma sólo iría detrás de alguien con algunas curvas {u}reales{/u}!. Ya sabes, como si fueran pervertidos, ¿me entiendes?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1410
 translate spanish redux_valerie_intro_9debca41:
@@ -1900,7 +1900,7 @@ translate spanish redux_ishiyama_intro_b988d746:
 translate spanish redux_ishiyama_intro_e83688ac:
 
     # ishiyama arm_behind towards sad talk_happy "Anything you could do to help {i}me{/i} be a better ambassador of safety for you students, the better things can be for us all!"
-    ishiyama arm_behind towards sad talk_happy "¡Todo lo que puedas hacer para {i}ayudarme{i/} a ser un mejor responsable de la seguridad de los estudiantes, será mejor para todos nosotros!"
+    ishiyama arm_behind towards sad talk_happy "¡Todo lo que puedas hacer para {i}ayudarme{/i} a ser un mejor responsable de la seguridad de los estudiantes, será mejor para todos nosotros!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1931
 translate spanish redux_ishiyama_intro_c9116aa7:
@@ -2140,7 +2140,7 @@ translate spanish invisobill_introduction_2b0f0c47:
 translate spanish invisobill_introduction_54eaeea0:
 
     # danny towards_wide talk_happy sad_2 "{u}W-what{/u}?! N-no, c'mon Mom, that loser looks {i}nothing{/i} like me! I've got black hair, his is white! My eyes are blue, his are green!! It's like night and day between us...! C-couldn't be further apart! {i}*Gulp*{/i}"
-    danny towards_wide talk_happy sad_2 "{u}¡¿Qué?!{u/} No, vamos mamá, ¡ese perdedor no se parece en {i}nada{/i} a mí!. ¡Tengo el pelo negro, el suyo es blanco! ¡Mis ojos son azules, los suyos son verdes! ¡Es como la noche y el día entre nosotros...! ¡No podría estar más lejos! {i}*Gulp*{/i}"
+    danny towards_wide talk_happy sad_2 "{u}¡¿Qué?!{/u} No, vamos mamá, ¡ese perdedor no se parece en {i}nada{/i} a mí!. ¡Tengo el pelo negro, el suyo es blanco! ¡Mis ojos son azules, los suyos son verdes! ¡Es como la noche y el día entre nosotros...! ¡No podría estar más lejos! {i}*Gulp*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2136
 translate spanish invisobill_introduction_eb50ce88:

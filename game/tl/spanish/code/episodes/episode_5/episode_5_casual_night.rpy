@@ -868,7 +868,7 @@ translate spanish A_Casual_Night_In_after_jack_possession_9659d0d0:
 translate spanish A_Casual_Night_In_after_jack_possession_278c0d71:
 
     # danny closed talk_happy sad "Mom, I'm {i}telling{/i} you, you're missing out on the {b}Terminatra{/b} and {b}Femalien{/b} series! It even gets better when {b}Nightmerica{/b} shows up!!"
-    "¡[_danny_s_closed_s_talk_happy_s_sad_] mamá, estoy {i}diciendote{/i}, te estás perdiendo la serie {b}Terminatra{/b} y {b}Femalien{/b}! ¡¡Incluso será mejor cuando se estrene el show {b}Nightmerica{/b}!!"
+    danny closed talk_happy sad "¡mamá, estoy {i}diciendote{/i}, te estás perdiendo la serie {b}Terminatra{/b} y {b}Femalien{/b}! ¡¡Incluso será mejor cuando se estrene el show {b}Nightmerica{/b}!!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:475
 translate spanish A_Casual_Night_In_after_jack_possession_c64fd968:
@@ -2248,7 +2248,7 @@ translate spanish A_Casual_Night_In_maddie_shower_scene_d65b2c76:
 translate spanish A_Casual_Night_In_maddie_shower_scene_dca24ef5:
 
     # danny towards_wide sad_2 talk_happy "...{i}perverted in {b}general{/b}{/i}! Yeah, that's it!! That must be all it is!"
-    "¡[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...¡{i}pervertido en {b}general{/b}{/i}! ¡Sí, eso és!! ¡Eso debe de ser!"
+    danny towards_wide sad_2 talk_happy "...¡{i}pervertido en {b}general{/b}{/i}! ¡Sí, eso és!! ¡Eso debe de ser!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1106
 translate spanish A_Casual_Night_In_maddie_shower_scene_4181dd36:

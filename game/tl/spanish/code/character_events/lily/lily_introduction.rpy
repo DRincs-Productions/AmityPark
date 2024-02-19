@@ -88,7 +88,7 @@ translate spanish lily_introduction_2c4c3c15:
 translate spanish lily_introduction_72bd1763:
 
     # lily away idle talk_happy "I mean like, if I wanted to, that is.{p}That has yet to be decided."
-    lily away idle talk_happy "Quiero decir si quisiera, es decir.{p} Aún no lo he decidido{/p}."
+    lily away idle talk_happy "Quiero decir si quisiera, es decir.{p} Aún  no lo he decidido."
 
 # game/code/character_events/lily/lily_introduction.rpy:58
 translate spanish lily_introduction_3ee3558f:
@@ -112,7 +112,7 @@ translate spanish lily_introduction_9c77f886:
 translate spanish lily_introduction_4e2c4a2c:
 
     # lily towards idle talk_displeased "Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
-    lily towards idle talk_displeased "Muy bien.{p}Primera pregunta:{/p} {p}¿Alguna vez has robado dinero de tu trabajo{/p}?"
+    lily towards idle talk_displeased "Muy bien.{p}Primera pregunta: {p}¿Alguna vez has robado dinero de tu trabajo ?"
 
 # game/code/character_events/lily/lily_introduction.rpy:70
 translate spanish lily_introduction_c3b99a35:
@@ -250,7 +250,7 @@ translate spanish lily_introduction_bc87aa2b:
 translate spanish lily_introduction_eaaee54b:
 
     # valerie uniform_up towards angry talk_displeased "{i}FENTON!!{/i}{p}What the heck are you doing here?"
-    valerie uniform_up towards angry talk_displeased "{i}¡¡FENTON!! {/i}{p}¿Qué diablos estás haciendo aquí{/p}?"
+    valerie uniform_up towards angry talk_displeased "{i}¡¡FENTON!! {/i}{p}¿Qué diablos estás haciendo aquí ?"
 
 # game/code/character_events/lily/lily_introduction.rpy:163
 translate spanish lily_introduction_ba05f8e7:
@@ -340,7 +340,7 @@ translate spanish lily_introduction_417d49d4:
 translate spanish lily_introduction_dccc8885:
 
     # valerie uniform_point towards angry talk_displeased "Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
-    valerie uniform_point towards angry talk_displeased "Simplemente no digas {u}a nadie {/u} sobre esto Fenton...{p}... o ¡estás muerto{/p}!"
+    valerie uniform_point towards angry talk_displeased "Simplemente no digas {u}a nadie {/u} sobre esto Fenton...{p}... o ¡estás muerto !"
 
 # game/code/character_events/lily/lily_introduction.rpy:232
 translate spanish lily_introduction_29afd622:

@@ -58,7 +58,7 @@ translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_8e3dd99a:
 translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_2f503a6f:
 
     # desiree "I hope you enjoy it very much!{p}"
-    desiree "{p}¡Espero que lo disfrutes!{/p}"
+    desiree "Espero que lo disfrutes!{p}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:78
 translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_55d20fef:
@@ -100,7 +100,7 @@ translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_ca8326e2:
 translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_7afe7b32:
 
     # desiree "Oh, I certainly hope so!{p}"
-    desiree "Oh, {p} espero que sí{/p}"
+    desiree "Oh, espero que sí{p}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:103
 translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_7ee48ba1:
@@ -274,7 +274,7 @@ translate spanish desiree_affection_1_bedroom_night_a65d8446:
 translate spanish desiree_affection_1_bedroom_night_31cdb97a:
 
     # danny f offscreen boxers towards idle talk_happy -blush "{i}Whoa!{/i}{p}{i}Heh{/i}, well alright!"
-    danny f offscreen boxers towards idle talk_happy -blush "{i}Whoa! {/i}{p}{i}Heh {/i}, bien, ¡sí{/p}!"
+    danny f offscreen boxers towards idle talk_happy -blush "{i}Whoa! {/i}{p}{i}eh {/i}, bien, ¡sí}!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:275
 translate spanish desiree_affection_1_bedroom_night_cf9d921d:
@@ -376,7 +376,7 @@ translate spanish desiree_affection_nighttime_visit_start_d86e93a5:
 translate spanish desiree_affection_1_vaginal_cowgirl_4c35b251:
 
     # danny "{i}Ah~{/i}{p}Desiree!"
-    danny "{i}Ah ~ {/i}{p}¡Desiree{/p}!"
+    danny "{i}Ah~{/i}{p}¡Desiree!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:525
 translate spanish desiree_affection_1_vaginal_cowgirl_51b16101:
@@ -442,7 +442,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_5d52b7ca:
 translate spanish desiree_affection_1_vaginal_cowgirl_db4e7d52:
 
     # desiree "D-Danny! I can't h-hold back anymore! I'm cumming!"
-    "¡[_desiree_] D-Danny! ¡Ya no aguanto más! ¡me corro!"
+    desiree "¡D-Danny! ¡Ya no aguanto más! ¡me corro!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:556
 translate spanish desiree_affection_1_vaginal_cowgirl_10977cea:
@@ -466,7 +466,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_8766ce5a:
 translate spanish desiree_affection_1_vaginal_cowgirl_ffa57a67:
 
     # desiree "{i}A-ahhh!~ ♥ ♥{/i}{p}Danny..."
-    desiree "{i}A-ahhh!~ ♥ ♥{/i}{p}Danny{/p}..."
+    desiree "{i}A-ahhh!~ ♥♥{/i}{p}Danny..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:576
 translate spanish desiree_affection_1_vaginal_cowgirl_aa08b4f6:
@@ -478,7 +478,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_aa08b4f6:
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_4c35b251:
 
     # danny "{i}Ah~{/i}{p}Desiree!"
-    danny "{i}Ah ~ {/i}{p}¡Desiree{/p}!"
+    danny "{i}Ah~{/i}{p}¡Desiree!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:605
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_51b16101:
@@ -544,7 +544,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_5d52b7ca:
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_db4e7d52:
 
     # desiree "D-Danny! I can't h-hold back anymore! I'm cumming!"
-    "¡[_desiree_] D-Danny! ¡Ya no aguanto más! ¡me corro!"
+    desiree "¡D-Danny! ¡Ya no aguanto más! ¡me corro!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:636
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_10977cea:
@@ -568,7 +568,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_8766ce5a:
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_ffa57a67:
 
     # desiree "{i}A-ahhh!~ ♥ ♥{/i}{p}Danny..."
-    desiree "{i}A-ahhh!~ ♥ ♥{/i}{p}Danny{/p}..."
+    desiree "{i}A-ahhh!~ ♥♥{/i}{p}Danny..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:656
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_aa08b4f6:
@@ -598,7 +598,7 @@ translate spanish desiree_affection_1_anal_cowgirl_4a7780ad:
 translate spanish desiree_affection_1_anal_cowgirl_27799553:
 
     # desiree "{i}Fufu~!{/i}{p}Glad you like it so- {i}*Huff*{/i} -much master...~"
-    desiree "{i}Fufu~!{/i}{p}me encanta que te guste- {i}*Huff*{/i} -mucho..{/p}~"
+    desiree "{i}Fufu~!{/i}{p}me encanta que te guste- {i}*Huff*{/i} -mucho...~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:691
 translate spanish desiree_affection_1_anal_cowgirl_4910998d:
@@ -628,7 +628,7 @@ translate spanish desiree_affection_1_anal_cowgirl_3b582423:
 translate spanish desiree_affection_1_anal_cowgirl_de6d09a6:
 
     # danny "{i}Mmfgh!{/i} Desiree, can you say... {i}Ah!{/i}{p}"
-    danny "{i}Mmfgh! {/i} Desiree, ¿puedes decir... {p}{i}Ah! {/i}{/p}"
+    danny "{i}Mmfgh! {/i} Desiree, ¿puedes decir.. {i}Ah! {/i}{p}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:706
 translate spanish desiree_affection_1_anal_cowgirl_e201a5ca:
@@ -682,7 +682,7 @@ translate spanish desiree_affection_1_anal_cowgirl_b50dcdd1:
 translate spanish desiree_affection_1_anal_cowgirl_6d2742d5:
 
     # desiree "You're so {u}big{/u} master~!{p}You're stretching my poor little hole so much!"
-    desiree "la tienes tan {u}grande {/u} maestro ~!{p}¡Estás dilatando mucho mi pobre y estrecho agujero{/p}!"
+    desiree "la tienes tan {u}grande {/u} maestro~!{p}¡Estás dilatando mucho mi pobre y estrecho agujero!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:733
 translate spanish desiree_affection_1_anal_cowgirl_cc9fd2f5:

@@ -112,7 +112,7 @@ translate spanish park_quest_start_fb9157b5:
 translate spanish park_quest_start_8ae4b689:
 
     # paulina "Okay, fine. Come to the {b}Public Park{/b} later tonight. I need help carrying some new makeup I bought in bulk. I live across the road, but I don't really {i}lift{/i} heavy boxes myself, you know?"
-    paulina "Bien, de acuerdo. Ven al {b}parque público{/b} esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{i/} cajas pesadas, ¿sabes?"
+    paulina "Bien, de acuerdo. Ven al {b}parque público{/b} esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{/i} cajas pesadas, ¿sabes?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:137
 translate spanish park_quest_start_d8236cab:
@@ -322,7 +322,7 @@ translate spanish park_quest_prefight_46fd455e:
 translate spanish park_quest_prefight_21c58766:
 
     # paulina "{i}Ahhgh!!{/i} What the heck is {i}this{/i} nasty thing?!"
-    paulina "{i}¡Ahgh!{/i} ¡¿Qué diablos es {i}esta{i/} cosa desagradable?!"
+    paulina "{i}¡Ahgh!{/i} ¡¿Qué diablos es {i}esta{/i} cosa desagradable?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:444
 translate spanish park_quest_prefight_6193a6d7:
@@ -736,7 +736,7 @@ translate spanish park_quest_unmolested_51c7a372:
 translate spanish park_quest_unmolested_ecfa1687:
 
     # paulina "I said to give it to {i}him{/i}. I don't want any late night calls from someone as low on the popularity totem pole as you."
-    paulina "Dije que se lo dieras a {i}él{i/}. No quiero ninguna llamada nocturna de alguien de tan baja popularidad como tú."
+    paulina "Dije que se lo dieras a {i}él{/i}. No quiero ninguna llamada nocturna de alguien de tan baja popularidad como tú."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:988
 translate spanish park_quest_unmolested_03d246cd:
@@ -892,7 +892,7 @@ translate spanish park_quest_molested_51c7a372:
 translate spanish park_quest_molested_ecfa1687:
 
     # paulina "I said to give it to {i}him{/i}. I don't want any late night calls from someone as low on the popularity totem pole as you."
-    paulina "Dije que se lo dieras a {i}él{i/}. No quiero ninguna llamada nocturna de alguien de tan baja popularidad como tú."
+    paulina "Dije que se lo dieras a {i}él{/i}. No quiero ninguna llamada nocturna de alguien de tan baja popularidad como tú."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1176
 translate spanish park_quest_molested_03d246cd:

@@ -148,7 +148,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_5792a8c7:
 
     # danny "{i}*Huff* *Huff*{/i}{p}(God bless these tits...!)"
-    danny "{i}*Huff* *Huff*{/i}{p}(¡Dios bendiga estas tetas...!{/p})"
+    danny "{i}*Huff* *Huff*{/i}{p}(¡Dios bendiga estas tetas ...!)"
 
 # game/code/character_events/maddie/maddie_tv.rpy:87
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_7dc38f29:
@@ -202,7 +202,7 @@ translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_j
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bad65bbf:
 
     # maddie "Well, what in the-!{p}I mean, what happens if someone were to walk in on us like this, Danny?!"
-    maddie "Bueno, ¿qué...?{p}Quiero decir, ¡¿qué pasaría si alguien bajara y nos viera, Danny?{/p}?!"
+    maddie "Bueno, ¿qué...?{p}Quiero decir, ¡¿qué pasaría si alguien bajara y nos viera, Danny?!"
 
 # game/code/character_events/maddie/maddie_tv.rpy:117
 translate spanish maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_6a193270:

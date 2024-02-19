@@ -766,7 +766,7 @@ translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_64a05
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_94aaffe7:
 
     # jazz standard away rise talk_distraught "N-no! That's not it, I {i}do{/i} trust him!"
-    "¡[_jazz_s_standard_s_away_s_rise_s_talk_distraught_] N-no! Eso no es así, ¡ {i}lo hago{/i} confío en él!"
+    jazz standard away rise talk_distraught "N-no! Eso no es así, ¡ {i}lo hago{/i} confío en él!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:707
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_caf3b243:
@@ -922,7 +922,7 @@ translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_58400
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_42d52614:
 
     # penelope arms_up towards idle talk_happy "And another idea! I firmly believe you two need to find each other gifts!"
-    "¡[_penelope_s_arms_up_s_towards_s_idle_s_talk_happy_] ¡y otra idea! ¡Creo firmemente que dos necesitan hacerse regalos mutuamente!"
+    penelope arms_up towards idle talk_happy "¡y otra idea! ¡Creo firmemente que dos necesitan hacerse regalos mutuamente!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:815
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_fce52a07:
@@ -1408,7 +1408,7 @@ translate spanish Episode_8_stage_60_mall_movies_turn_spicy_a88ec78a:
 translate spanish Episode_8_stage_60_mall_movies_turn_spicy_7aa5b719:
 
     # danny "HOLY SMOKES!"
-    "¡[_danny_] ¡SANTA BIBLIA!"
+    danny "¡¡SANTA BIBLIA!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1225
 translate spanish Episode_8_stage_60_mall_movies_turn_spicy_d392b100:
@@ -2062,7 +2062,7 @@ translate spanish Episode_8_stage_80_mall_after_movie_6525b402:
 translate spanish Episode_8_stage_80_mall_after_movie_a67e7bde:
 
     # danny at_self neutral talk_distraught "Huh?!{p}{nw}"
-    "¡[_danny_s_at_self_s_neutral_s_talk_distraught_] Huh?!{p}{nw}"
+    danny at_self neutral talk_distraught "Huh?!{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1859
 translate spanish Episode_8_stage_80_mall_after_movie_334ed651:
@@ -2338,7 +2338,7 @@ translate spanish Episode_8_stage_90_mall_bootrand_appears_7db2b448:
 translate spanish Episode_8_stage_100_mall_post_battle_be26688b:
 
     # danny towards sad talk_happy "Jazz! There you are!"
-    "¡[_danny_s_towards_s_sad_s_talk_happy_] Jazz! ¡Estás aquí!"
+    danny towards sad talk_happy "Jazz! ¡Estás aquí!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2118
 translate spanish Episode_8_stage_100_mall_post_battle_932725b1:
@@ -2536,7 +2536,7 @@ translate spanish Episode_8_stage_110_home_livingroom_night_yoga_f0eb7f58:
 translate spanish Episode_8_stage_110_home_livingroom_night_yoga_d61fd808:
 
     # danny towards_wide sad talk_distraught -blush "E-Ember! D-Desiree!"
-    "¡[_danny_s_towards_wide_s_sad_s_talk_distraught_s_-blush_] E-Ember! ¡D-Desiree!"
+    danny towards_wide sad talk_distraught -blush "E-Ember! ¡D-Desiree!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2284
 translate spanish Episode_8_stage_110_home_livingroom_night_yoga_e8297aff:
@@ -3262,7 +3262,7 @@ translate spanish Episode_8_stage_130_school_mainhall_strange_morning_41fbdb22:
 translate spanish Episode_8_stage_130_school_mainhall_strange_morning_d5248732:
 
     # tucker wild towards idle talk_happy "{i}Woo-hoo!{/i} Yeah, you go girls!"
-    "¡[_tucker_s_wild_s_towards_s_idle_s_talk_happy_] {i}Woo-hoo!{/i} Sí, ¡ve a por chicas!"
+    tucker wild towards idle talk_happy "{i}Woo-hoo!{/i} Sí, ¡ve a por chicas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2853
 translate spanish Episode_8_stage_130_school_mainhall_strange_morning_a0982fdb:
@@ -3832,7 +3832,7 @@ translate spanish Episode_8_stage_150_school_penelope_office_gift_advice_9fc9700
 translate spanish Episode_8_stage_150_school_penelope_office_gift_advice_4b962227:
 
     # extend "{i}Tah tah{/i} for now!"
-    "¡[_extend_] {i}Tah tah{/i} por ahora!"
+    extend "{i}Tah tah{/i} por ahora!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3237
 translate spanish Episode_8_stage_150_school_penelope_office_gift_advice_e1058a62:
@@ -6316,7 +6316,7 @@ translate spanish Episode_8_stage_235_bedroom_jazz_faints_f57e06c6:
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_7f3231f0:
 
     # danny towards_wide rise talk_consternation "W-what?! You mean-"
-    "¡[_danny_s_towards_wide_s_rise_s_talk_consternation_] ¿Q-qué?! Te refieres-"
+    danny towards_wide rise talk_consternation "¿Q-qué?! Te refieres-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5653
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_9bb064a1:
@@ -7396,7 +7396,7 @@ translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_d6785
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_4fbf2367:
 
     # desiree "Now master! While she's weakened!"
-    "¡[_desiree_] ahora maestro! ¡Mientras se debilita!"
+    desiree "ahora maestro! ¡Mientras se debilita!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6835
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_ae076275:
@@ -7420,7 +7420,7 @@ translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_cc1df
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_a519a1b9:
 
     # spectra "B-Bertrand! Get out here and stop them!"
-    "¡[_spectra_] B-Bertrand! ¡ven y detenlos!"
+    spectra "¡B-Bertrand! ¡ven y detenlos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6908
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_59bf7565:
@@ -8038,7 +8038,7 @@ translate spanish Episode_8_stage_270_bedroom_morning_back_home_cbcb499b:
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_043dbf8f:
 
     # spectra "{i}Hah!!{/i} Fine by me! That's one step closer to getting evicted permanently from this little shiny fleshlight prison!"
-    "¡[_spectra_] {i}Hah!!{/i} Bien por mí! ¡Estoy un paso más cerca de ser desahuciada permanentemente de esta pequeña cárcel brillante!"
+    spectra "¡{i}Hah!!{/i} Bien por mí! ¡Estoy un paso más cerca de ser desahuciada permanentemente de esta pequeña cárcel brillante!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7471
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_69f1164d:
@@ -8260,7 +8260,7 @@ translate spanish Episode_8_stage_270_bedroom_morning_back_home_f100f949:
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_e0410c5d:
 
     # penelope "OLDER WHAT?!"
-    "¡[_penelope_] ¡¿COMO QUE MAYOR?!"
+    penelope "¡¿COMO QUE MAYOR?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7650
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_58346c27:
@@ -11128,7 +11128,7 @@ translate spanish Episode_8_stage_375_roof_night_heart_to_heart_50b6aa65:
 translate spanish Episode_8_stage_375_roof_night_heart_to_heart_4b7a1c94:
 
     # extend "Penelope, all those people...!"
-    "¡[_extend_] Penelope, todas esas personas...!"
+    extend "Penelope, todas esas personas...!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10302
 translate spanish Episode_8_stage_375_roof_night_heart_to_heart_0e271c62:
@@ -11494,7 +11494,7 @@ translate spanish Episode_8_stage_375_roof_night_heart_to_heart_f7c1ccc5:
 translate spanish Episode_8_stage_375_roof_night_heart_to_heart_d5c03546:
 
     # danny "P-Penelope! Wait!"
-    "¡[_danny_] P-Penelope! ¡Espera!"
+    danny "¡P-Penelope! ¡Espera!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10603
 translate spanish Episode_8_stage_375_roof_night_heart_to_heart_cabf1f39:
@@ -11602,7 +11602,7 @@ translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_5e3041db
 translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_c4045bea:
 
     # danny "(Okay, so clearly Penelope's caught up in her own self loathing that nothing {i}I{/i} could say could fix things for her.)"
-    danny "(Vale, claramente Penélope está atrapada en su propia auto-reafirmación de que nada de lo que {i}yo{i/} diga pueda arreglar las cosas para ella.)"
+    danny "(Vale, claramente Penélope está atrapada en su propia auto-reafirmación de que nada de lo que {i}yo{/i} diga pueda arreglar las cosas para ella.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10723
 translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_c03891d0:
@@ -12196,7 +12196,7 @@ translate spanish Episode_8_stage_390_bedroom_night_penelope_unfurled_24ddd42e:
 translate spanish Episode_8_stage_390_bedroom_night_penelope_unfurled_4ef8d029:
 
     # danny "P-Penelope! If you keep doing that-"
-    "¡[_danny_] P-Penelope! Si sigues haciendo eso-"
+    danny "¡P-Penelope! Si sigues haciendo eso-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11489
 translate spanish Episode_8_stage_390_bedroom_night_penelope_unfurled_2352311b:
@@ -12220,7 +12220,7 @@ translate spanish Episode_8_stage_390_bedroom_night_penelope_unfurled_1a003d3e:
 translate spanish Episode_8_stage_390_bedroom_night_penelope_unfurled_068b9e8f:
 
     # penelope "I don't fucking care! Just fill me up!"
-    "¡[_penelope_] no me importa! ¡lléname!"
+    penelope "¡no me importa! ¡lléname!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11497
 translate spanish Episode_8_stage_390_bedroom_night_penelope_unfurled_10b8c714:
@@ -13972,7 +13972,7 @@ translate spanish Episode_8_stage_445_spectra_anal_chair_55b8f1a2:
 translate spanish Episode_8_stage_445_spectra_anal_chair_f016dd84:
 
     # penelope "{i}Mm! Mmm! MMMM!{/i}"
-    "¡[_penelope_] {i}Mm! ¡Mm! MMM!{/i}"
+    penelope "¡{i}Mm! ¡Mm! MMM!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12848
 translate spanish Episode_8_stage_445_spectra_anal_chair_ff1615ca:
@@ -14386,7 +14386,7 @@ translate spanish Episode_8_stage_455_ember_indulgence_731f379e:
 translate spanish Episode_8_stage_455_ember_indulgence_6f386e21:
 
     # desiree "Master! Cum in her! Shoot it deep inside her tight little body!"
-    "¡[_desiree_] Maestro! ¡Córrete en ella! ¡Dispáralo en el interior de su pequeño cuerpo!"
+    desiree "Maestro! ¡Córrete en ella! ¡Dispáralo en el interior de su pequeño cuerpo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13181
 translate spanish Episode_8_stage_455_ember_indulgence_036f8c1d:

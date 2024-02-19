@@ -2920,7 +2920,7 @@ translate spanish twinkle_twinkle_little_star_star_bj_b89fcb71:
 translate spanish twinkle_twinkle_little_star_star_bj_f49901e8:
 
     # star "Wooow... now {i}this{/i} Billy. This is a big, {b}fat{/b} cock..."
-    star "Wooow... joder {i}esta{/i} Billy. Esta és una gran, {b}gorda{b/} polla..."
+    star "Wooow... joder {i}esta{/i} Billy. Esta és una gran, {b}gorda{/b} polla..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1516
 translate spanish twinkle_twinkle_little_star_star_bj_a90f077b:

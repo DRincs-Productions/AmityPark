@@ -16,7 +16,7 @@ translate spanish maddie_kitchen_monday_breakfast_a69d985e:
 translate spanish maddie_kitchen_monday_breakfast_02e4a946:
 
     # jack pjs closed idle talk_happy "{i}Ahh{/i}...{p}What a day!!{p}"
-    jack pjs closed idle talk_happy "{i}Ahh...{p}¡¡Qué día!!{/p}"
+    jack pjs closed idle talk_happy "{i}Ahh{/i}...{p}¡¡Qué día!!!{p}"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:31
 translate spanish maddie_kitchen_monday_breakfast_4c00f240:
@@ -202,7 +202,7 @@ translate spanish maddie_kitchen_monday_stying_home_refuse_2523cfef:
 translate spanish maddie_kitchen_monday_stying_home_refuse_4feb14c9:
 
     # danny sit_0 towards_wide sad talk_displeased "Really, I'm fine, honestly!{p}In fact, {i}uhm{/i}, I better just get going now!"
-    danny sit_0 towards_wide sad talk_displeased "¡De verdad, estoy bien, de verdad!{p}De hecho, {i}uhm{/i} {/p}, ¡mejor me voy ya!"
+    danny sit_0 towards_wide sad talk_displeased "¡De  verdad, estoy bien, de verdad!{p}De hecho, {i}uhm{/i}, ¡mejor me voy ya!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:283
 translate spanish maddie_kitchen_monday_stying_home_refuse_e553108e:

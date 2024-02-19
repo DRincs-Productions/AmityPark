@@ -58,7 +58,7 @@ translate spanish staying_home_first_time_37738386:
 translate spanish staying_home_first_time_d8c83fa0:
 
     # danny "...yippee.{p}{i}*Sighs*{/i}"
-    danny "...yippee.{p}{i}*Suspiro*{/i}{/p}"
+    danny "... yippee.{p}{i}*Suspiro*{/i}"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:66
 translate spanish staying_home_first_time_f320fe66:
@@ -214,7 +214,7 @@ translate spanish staying_home_blowjob_578a0e23:
 translate spanish staying_home_blowjob_716a4d1e:
 
     # danny "{u}Awesome...{u}"
-    danny "{u}Impresionante...{/u}"
+    danny "{u} Impresionante...{u}"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:189
 translate spanish staying_home_blowjob_4a0d44a5:
@@ -322,7 +322,7 @@ translate spanish staying_home_after_17f8508f:
 translate spanish staying_home_after_fe282723:
 
     # danny sitting on bed towards rise talk_happy "Make {i}your{/i} day?! {i}*Laughs*{/i} Man, I can't even imagine what you'd consider doing {u}me{/i} a favor to be!"
-    danny sitting on bed towards rise talk_happy "¡¿alegrarte {i}el{/i}día?! {i}*Risas*{/i} ¡no habría imaginado que {u}me{/u} harías un favor!"
+    danny sitting on bed towards rise talk_happy "¡¿alegrarte {i}el{/i}día?! {i}*Risas*{/i} ¡no habría imaginado que {u}me{/i} harías un favor !"
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:312
 translate spanish staying_home_after_eb03d06a:

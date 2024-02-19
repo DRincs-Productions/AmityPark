@@ -172,7 +172,7 @@ translate spanish newbattletutorial_f9aa21b2:
 translate spanish newbattletutorial_b6fefe5d:
 
     # danny at_player rise talk_happy "\"Orgone Capacity?\""
-    danny at_player rise talk_happy "\"¿Capacidad de Orgón?\""
+    danny at_player rise talk_happy "\"¿Capacidad de Orgone?\""
 
 # game/code/battleoverhaul/newbattle.rpy:102
 translate spanish newbattletutorial_2f243495:

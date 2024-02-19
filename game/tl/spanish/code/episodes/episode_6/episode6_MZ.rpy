@@ -142,7 +142,7 @@ translate spanish The_Great_Out_Doors_scene_1_kitchen_f02fc106:
 translate spanish The_Great_Out_Doors_scene_1_kitchen_70184d58:
 
     # jack stare angry talk_happy "{b}Boom{/b}! Get faced, oldest offspring!"
-    "¡[_jack_s_stare_s_angry_s_talk_happy_] {b}Boom{/b}! ¡Enfréntate a la descendiente más antigua!"
+    jack stare angry talk_happy "¡{b}Boom{/b}! ¡Enfréntate a la descendiente más antigua!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:122
 translate spanish The_Great_Out_Doors_scene_1_kitchen_f622486d:
@@ -250,7 +250,7 @@ translate spanish The_Great_Out_Doors_scene_1_kitchen_0cbd3c48:
 translate spanish The_Great_Out_Doors_scene_1_kitchen_f5a872f9:
 
     # danny towards_wide unhappy talk_frown "B-bail out?! I just found out about this!! How is that bailing??"
-    "¡[_danny_s_towards_wide_s_unhappy_s_talk_frown_]¡¿acompañar?! ¡¡¡Acabo de enterarme de todo!! ¿¿Cómo és ese acompañamiento??"
+    danny towards_wide unhappy talk_frown "¡¿acompañar?! ¡¡¡Acabo de enterarme de todo!! ¿¿Cómo és ese acompañamiento??"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:191
 translate spanish The_Great_Out_Doors_scene_1_kitchen_2916b287:
@@ -364,7 +364,7 @@ translate spanish The_Great_Out_Doors_scene_1_kitchen_3c60e1a2:
 translate spanish The_Great_Out_Doors_scene_1_kitchen_0aad4d9a:
 
     # jack towards_wide sad talk_happy "For that reason alone, you should {b}love{/b} being weird! It's weirdness that helped me find the love of my life..."
-    "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] ¡Por esa razón, deberías {b}amar{/b} siendo extraño! Es extraño que me haya ayudado a encontrar el amor de mi vida..."
+    jack towards_wide sad talk_happy "¡Por esa razón, deberías {b}amar{/b} siendo extraño! Es extraño que me haya ayudado a encontrar el amor de mi vida..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:259
 translate spanish The_Great_Out_Doors_scene_1_kitchen_1cc1d29b:
@@ -970,7 +970,7 @@ translate spanish The_Great_Out_Doors_scene_4_livingroom_Saturday_d3e4f6c7:
 translate spanish The_Great_Out_Doors_scene_4_livingroom_Saturday_9a8ad8a0:
 
     # maddie towards neutral talk_happy "Will do! Come on Danny, grab the bags."
-    "¡[_maddie_s_towards_s_neutral_s_talk_happy_] ¡lo haré! Ven a Danny, agarra las bolsas."
+    maddie towards neutral talk_happy "¡lo haré! Ven a Danny, agarra las bolsas."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:803
 translate spanish The_Great_Out_Doors_scene_4_livingroom_Saturday_0e5c6ca7:
@@ -1054,7 +1054,7 @@ translate spanish The_Great_Out_Doors_scene_5_Plane_fbb09e74:
 translate spanish The_Great_Out_Doors_scene_5_Plane_247e6db0:
 
     # danny towards angry talk_distraught "Mom!"
-    "¡[_danny_s_towards_s_angry_s_talk_distraught_] ¡mamá!"
+    danny towards angry talk_distraught "¡mamá!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:890
 translate spanish The_Great_Out_Doors_scene_5_Plane_62e2fa19:
@@ -1222,7 +1222,7 @@ translate spanish The_Great_Out_Doors_parachute_found_ba798f44:
 translate spanish The_Great_Out_Doors_parachute_found_371cdc7a:
 
     # danny towards unhappy talk_distraught "Mom! I found these two parachutes, but-"
-    "¡[_danny_s_towards_s_unhappy_s_talk_distraught_] ¡mamá! He encontrado estos dos paracaídas, pero-"
+    danny towards unhappy talk_distraught "¡mamá! He encontrado estos dos paracaídas, pero-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1015
 translate spanish The_Great_Out_Doors_parachute_found_503530b0:
@@ -1240,7 +1240,7 @@ translate spanish The_Great_Out_Doors_parachute_found_b644dd66:
 translate spanish The_Great_Out_Doors_parachute_found_33032082:
 
     # maddie towards unhappy talk_frown "Trust me Danny! It's the only way!"
-    "¡[_maddie_s_towards_s_unhappy_s_talk_frown_] confía en mí Danny! ¡Es la única manera!"
+    maddie towards unhappy talk_frown "¡confía en mí Danny! ¡Es la única manera!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1024
 translate spanish The_Great_Out_Doors_parachute_found_b93c2a6e:
@@ -1252,7 +1252,7 @@ translate spanish The_Great_Out_Doors_parachute_found_b93c2a6e:
 translate spanish The_Great_Out_Doors_parachute_found_7340f21b:
 
     # maddie towards sad talk_displeased "Danny {b}PLEASE{/b}! There's no time! Take my hand!"
-    "¡[_maddie_s_towards_s_sad_s_talk_displeased_] Danny {b}POR FAVOR{/b}! ¡No hay tiempo! ¡Toma mi mano!"
+    maddie towards sad talk_displeased "¡Danny {b}POR FAVOR{/b}! ¡No hay tiempo! ¡Toma mi mano!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1036
 translate spanish The_Great_Out_Doors_parachute_found_f3b1c38d:
@@ -1456,7 +1456,7 @@ translate spanish The_Great_Out_Doors_scene_8_skip_f6dd7cbb:
 translate spanish The_Great_Out_Doors_scene_8_skip_5bd04c1e:
 
     # maddie towards unhappy talk_displeased "-haunted!"
-    "¡[_maddie_s_towards_s_unhappy_s_talk_displeased_] -embrujada!"
+    maddie towards unhappy talk_displeased "¡-embrujada!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1232
 translate spanish The_Great_Out_Doors_scene_8_skip_80623247:
@@ -1516,7 +1516,7 @@ translate spanish The_Great_Out_Doors_scene_8_skip_aa62eea1:
 translate spanish The_Great_Out_Doors_scene_8_skip_da51196e:
 
     # danny v2 down_wide sad_2 talk_frown "Mom! Are you alright?!"
-    "¡[_danny_s_v2_s_down_wide_s_sad_2_s_talk_frown_] ¡mamá! ¡¿Estás lista?!"
+    danny v2 down_wide sad_2 talk_frown "¡mamá! ¡¿Estás lista?!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1302
 translate spanish The_Great_Out_Doors_scene_8_skip_e003d404:
@@ -1540,7 +1540,7 @@ translate spanish The_Great_Out_Doors_scene_8_skip_e7b475f4:
 translate spanish The_Great_Out_Doors_scene_8_skip_e911cec6:
 
     # danny v2 towards angry talk_happy "I'm going ghost!"
-    "¡[_danny_s_v2_s_towards_s_angry_s_talk_happy_] ¡voy a ser fantasma!"
+    danny v2 towards angry talk_happy "¡voy a ser fantasma!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1348
 translate spanish The_Great_Out_Doors_scene_8a_2_11386a55:
@@ -2068,7 +2068,7 @@ translate spanish The_Great_Out_Doors_scene_8_continue_5752ec70:
 translate spanish The_Great_Out_Doors_scene_8_continue_0877415f:
 
     # danny towards neutral talk_happy "Awesome! Now, all we need is some food and a place to stay for the night until we find a way home."
-    "¡[_danny_s_towards_s_neutral_s_talk_happy_] genial! Ahora, todo lo que necesitamos és algo de comida y un lugar para alojarnos durante la noche hasta encontrar un camino a casa."
+    danny towards neutral talk_happy "¡genial! Ahora, todo lo que necesitamos és algo de comida y un lugar para alojarnos durante la noche hasta encontrar un camino a casa."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1820
 translate spanish The_Great_Out_Doors_Scene_9_bag_found_8ebcef16:
@@ -2308,7 +2308,7 @@ translate spanish The_Great_Out_Doors_Scene_9_mastrubation_4162424e:
 translate spanish The_Great_Out_Doors_Scene_9_mastrubation_b2b3d394:
 
     # maddie cave masturbation at_player shock talk_frown "D-Danny!! Look away!"
-    "¡[_maddie_s_cave_s_masturbation_s_at_player_s_shock_s_talk_frown_] ¡¡D-Danny!! ¡Mira a otro lado!"
+    maddie cave masturbation at_player shock talk_frown "¡¡D-Danny!! ¡Mira a otro lado!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2102
 translate spanish The_Great_Out_Doors_Scene_9_mastrubation_70055918:
@@ -2320,7 +2320,7 @@ translate spanish The_Great_Out_Doors_Scene_9_mastrubation_70055918:
 translate spanish The_Great_Out_Doors_Scene_9_mastrubation_a6b6af1c:
 
     # maddie cave masturbation shocked neutral talk_frown2 "J-just give me the water please!"
-    "¡[_maddie_s_cave_s_masturbation_s_shocked_s_neutral_s_talk_frown2_] ¡S-olo dame el agua por favor!"
+    maddie cave masturbation shocked neutral talk_frown2 "¡S-olo dame el agua por favor!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2107
 translate spanish The_Great_Out_Doors_Scene_9_mastrubation_33273f3a:
@@ -2560,7 +2560,7 @@ translate spanish The_Great_Out_Doors_scene_10_Return_961dcddc:
 translate spanish The_Great_Out_Doors_scene_10_Return_7650977d:
 
     # maddie gun towards angry talk_displeased "Quickly! Danny get behind me!"
-    "¡[_maddie_s_gun_s_towards_s_angry_s_talk_displeased_] ¡Rápido! ¡Danny ponte detrás de mí!"
+    maddie gun towards angry talk_displeased "¡Rápido! ¡Danny ponte detrás de mí!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2468
 translate spanish The_Great_Out_Doors_scene_10_Return_4b716215:
@@ -2608,7 +2608,7 @@ translate spanish The_Great_Out_Doors_scene_10_Return_1fc1fb8c:
 translate spanish The_Great_Out_Doors_scene_10_Return_49c6c56f:
 
     # danny closed neutral talk_pleased "No problem dude!"
-    "¡[_danny_s_closed_s_neutral_s_talk_pleased_] ¡No hay problema tío!"
+    danny closed neutral talk_pleased "¡No hay problema tío!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2505
 translate spanish The_Great_Out_Doors_scene_10_Return_5af14a3e:
@@ -3232,7 +3232,7 @@ translate spanish The_Great_Out_Doors_scene_13a_13cf9240:
 translate spanish The_Great_Out_Doors_scene_13a_2320f88b:
 
     # maddie away amused talk_amused blush "S-sorry sweetie! I-I just can't quite think straight!"
-    "¡[_maddie_s_away_s_amused_s_talk_amused_s_blush_] ¡Perdona cielo! ¡No puedo pensar en otra cosa!"
+    maddie away amused talk_amused blush "¡Perdona cielo! ¡No puedo pensar en otra cosa!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2928
 translate spanish The_Great_Out_Doors_scene_13a_1899bb2a:
@@ -3358,7 +3358,7 @@ translate spanish The_Great_Out_Doors_scene_13a_efc88cc5:
 translate spanish The_Great_Out_Doors_scene_13a_dce65565:
 
     # danny "M-Mom! Are you feeling okay?"
-    "¡[_danny_] M-Mamá! a ¿Estás bien?"
+    danny "¡M-Mamá! a ¿Estás bien?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3018
 translate spanish The_Great_Out_Doors_scene_13a_6fb1b36c:
@@ -3382,7 +3382,7 @@ translate spanish The_Great_Out_Doors_scene_13a_de9b107c:
 translate spanish The_Great_Out_Doors_scene_13a_86dc0004:
 
     # maddie "Mmm! {u}HOT!{/u}"
-    "¡[_maddie_] Mmm! {u}¡calor!{/u}"
+    maddie "¡Mmm! {u}¡calor!{/u}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3026
 translate spanish The_Great_Out_Doors_scene_13a_e3c21885:
@@ -3508,7 +3508,7 @@ translate spanish The_Great_Out_Doors_scene_13a_a1e3b044:
 translate spanish The_Great_Out_Doors_scene_13a_b465a27c:
 
     # maddie "Oooh! You're such a naughty boy!"
-    "¡[_maddie_] Oooh! ¡Eres un chico tan travieso!"
+    maddie "¡Oooh! ¡Eres un chico tan travieso!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3072
 translate spanish The_Great_Out_Doors_scene_13a_aff7b8cd:
@@ -3520,7 +3520,7 @@ translate spanish The_Great_Out_Doors_scene_13a_aff7b8cd:
 translate spanish The_Great_Out_Doors_h_scene_bj_7544e178:
 
     # danny "Mom what are you doing?!"
-    "¡[_danny_] Mamá ¿qué estás haciendo?!"
+    danny "¡Mamá ¿qué estás haciendo?!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3091
 translate spanish The_Great_Out_Doors_h_scene_bj_3fc9cbd2:
@@ -3544,7 +3544,7 @@ translate spanish The_Great_Out_Doors_h_scene_bj_4c3378bc:
 translate spanish The_Great_Out_Doors_h_scene_bj_fea0cb84:
 
     # danny "O-o-okay then!"
-    "¡[_danny_] ¡O-o-okay!"
+    danny "¡¡O-o-okay!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3095
 translate spanish The_Great_Out_Doors_h_scene_bj_7b8067b5:
@@ -3604,7 +3604,7 @@ translate spanish The_Great_Out_Doors_h_scene_bj_6ba08345:
 translate spanish The_Great_Out_Doors_h_scene_bj_e7de3477:
 
     # danny "{i}Ahh!{/i} Y-yes! It's really good!"
-    "¡[_danny_] {i}Ahh!{/i} ¡S-Sí! ¡Me encanta!"
+    danny "¡{i}Ahh!{/i} ¡S-Sí! ¡Me encanta!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3123
 translate spanish The_Great_Out_Doors_h_scene_bj_0ca6d387:
@@ -4174,7 +4174,7 @@ translate spanish The_Great_Out_Doors_scene_14a_cave_morning_9569af2d:
 translate spanish The_Great_Out_Doors_scene_14a_cave_morning_0086e302:
 
     # danny towards rise talk_happy "Pretty damn great!"
-    "¡[_danny_s_towards_s_rise_s_talk_happy_] ¡¡malditamente genial!"
+    danny towards rise talk_happy "¡¡malditamente genial!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3530
 translate spanish The_Great_Out_Doors_scene_14a_cave_morning_353898fb:
@@ -4270,7 +4270,7 @@ translate spanish The_Great_Out_Doors_scene_14a_cave_morning_10e41fe6:
 translate spanish The_Great_Out_Doors_scene_14a_cave_morning_21ec6769:
 
     # danny "Awesome! Thanks Mom!"
-    "¡[_danny_] ¡genial! ¡Gracias mamá!"
+    danny "¡¡genial! ¡Gracias mamá!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3598
 translate spanish The_Great_Out_Doors_scene_14a_cave_morning_359dbace:
@@ -4330,7 +4330,7 @@ translate spanish The_Great_Out_Doors_scene_14b_cave_morning_48f86a9f:
 translate spanish The_Great_Out_Doors_scene_14b_cave_morning_115a5600:
 
     # danny closed neutral talk_happy "Right behind you!"
-    "¡[_danny_s_closed_s_neutral_s_talk_happy_] ¡voy trás de ti!"
+    danny closed neutral talk_happy "¡voy trás de ti!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3684
 translate spanish The_Great_Out_Doors_this_path_is_blocked_138e585a:
@@ -4348,7 +4348,7 @@ translate spanish The_Great_Out_Doors_scene_15_front_of_vlad_mansion_8471c185:
 translate spanish The_Great_Out_Doors_scene_15_front_of_vlad_mansion_e051e31e:
 
     # danny towards rise talk_distraught "Jeeeez!! Look at this place! It's like twice the size of our house!"
-    "¡[_danny_s_towards_s_rise_s_talk_distraught_] Jeeeez!! ¡Mira este lugar! ¡Es como el doble del tamaño de nuestra casa!"
+    danny towards rise talk_distraught "¡Jeeeez!! ¡Mira este lugar! ¡Es como el doble del tamaño de nuestra casa!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3734
 translate spanish The_Great_Out_Doors_scene_15_front_of_vlad_mansion_6279ae30:
@@ -4690,7 +4690,7 @@ translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_2636733b:
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_a64fda52:
 
     # vlad closed neutral talk_frown "Well umm, {i}*Cough*{/i} Jack told me! How you were flying to Florida for a convention, and hoping to gain some quality time!"
-    "¡[_vlad_s_closed_s_neutral_s_talk_frown_] Bueno umm, {i}*tos*{/i} ¡Jack me lo dijo! Y como volabas a Florida para una convención, y esperabas pasar un buen tiempo!"
+    vlad closed neutral talk_frown "¡Bueno umm, {i}*tos*{/i} ¡Jack me lo dijo! Y como volabas a Florida para una convención, y esperabas pasar un buen tiempo!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3990
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_ed5f27d1:
@@ -4726,7 +4726,7 @@ translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_e4f34dd4:
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_d7deace9:
 
     # vlad towards unhappy talk_happy "Madeline, {i}Madeline{/i}! You're over-worrying my dear! Look around you, take in the scenery!"
-    "¡[_vlad_s_towards_s_unhappy_s_talk_happy_] Madeline, {i}Madeline{/i}! ¡Me preocupas querida! ¡Mira a tu alrededor, ponte en el escenario!"
+    vlad towards unhappy talk_happy "¡Madeline, {i}Madeline{/i}! ¡Me preocupas querida! ¡Mira a tu alrededor, ponte en el escenario!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4015
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_d1f9241a:
@@ -4738,7 +4738,7 @@ translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_d1f9241a:
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_0a7303f6:
 
     # vlad closed neutral talk_happy "Exactly! And straight in the morning I will see to it personally you are both taken straight home!"
-    "¡[_vlad_s_closed_s_neutral_s_talk_happy_] ¡Exacto! ¡Y por la mañana supervisaré personalmente que ambos valla directos a casa!"
+    vlad closed neutral talk_happy "¡Exacto! ¡Y por la mañana supervisaré personalmente que ambos valla directos a casa!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4023
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_95b7cac0:
@@ -4762,13 +4762,13 @@ translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_133e1554:
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_f6409b09:
 
     # vlad towards sad talk_happy "Excellent! I'll make sure to cook for some extra guests tonight!"
-    "¡[_vlad_s_towards_s_sad_s_talk_happy_] ¡¡genial! ¡Esta noche me aseguraré de cocinar para algunos invitados!"
+    vlad towards sad talk_happy "¡¡genial! ¡Esta noche me aseguraré de cocinar para algunos invitados!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4038
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_9cae23ad:
 
     # danny towards neutral talk_pleased "Sounds great!"
-    "¡[_danny_s_towards_s_neutral_s_talk_pleased_] ¡¡suena genial!"
+    danny towards neutral talk_pleased "¡¡suena genial!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4058
 translate spanish The_Great_Out_Doors_scene_16_vlad_mansion_687a6fa8:
@@ -5050,7 +5050,7 @@ translate spanish The_Great_Out_Doors_scene_17_questions_849f6fff:
 translate spanish The_Great_Out_Doors_scene_17_questions_139d7729:
 
     # danny towards neutral talk_happy "Sounds good! I'm still starved even after that lunch!"
-    "¡[_danny_s_towards_s_neutral_s_talk_happy_] ¡suena bien! ¡Sigo hambriento incluso después de ese almuerzo!"
+    danny towards neutral talk_happy "¡suena bien! ¡Sigo hambriento incluso después de ese almuerzo!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4428
 translate spanish The_Great_Out_Doors_scene_18_1aa938fa:
@@ -5494,7 +5494,7 @@ translate spanish The_Great_Out_Doors_scene_19a_1be0815f:
 translate spanish The_Great_Out_Doors_scene_19a_63161988:
 
     # danny towards angry talk_pleased blush "I don't care! You don't get it! To me, you're someone I could spend forever looking at! You're amazingly beautiful, funny, intelligent, I could spend a whole day talking about you!!"
-    "¡[_danny_s_towards_s_angry_s_talk_pleased_s_blush_] ¡no me importa! ¡No lo entiendes! ¡Para mí, eres alguien que podría mirar siempre! Eres increíblemente guapa, divertida, inteligente, ¡¡podría pasar todo un día hablando de ti!!"
+    danny towards angry talk_pleased blush "¡no me importa! ¡No lo entiendes! ¡Para mí, eres alguien que podría mirar siempre! Eres increíblemente guapa, divertida, inteligente, ¡¡podría pasar todo un día hablando de ti!!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4747
 translate spanish The_Great_Out_Doors_scene_19a_f9d07ff6:
@@ -5740,7 +5740,7 @@ translate spanish The_Great_Out_Doors_h_scene_missionary_57722dde:
 translate spanish The_Great_Out_Doors_h_scene_missionary_3c69907c:
 
     # danny "Ungh! Yeah! This is the best!"
-    "¡[_danny_] Ungh! ¡Sí! ¡Esto és lo mejor!"
+    danny "¡Ungh! ¡Sí! ¡Esto és lo mejor!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4894
 translate spanish The_Great_Out_Doors_h_scene_missionary_71acd7c9:
@@ -5764,7 +5764,7 @@ translate spanish The_Great_Out_Doors_h_scene_missionary_3e492308:
 translate spanish The_Great_Out_Doors_h_scene_missionary_60f6d90d:
 
     # danny "Ah! I don't ever want to stop!"
-    "¡[_danny_] Ah! ¡No quiero parar nunca!"
+    danny "¡Ah! ¡No quiero parar nunca!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4903
 translate spanish The_Great_Out_Doors_h_scene_missionary_2ed65dcb:
@@ -5866,7 +5866,7 @@ translate spanish The_Great_Out_Doors_h_scene_missionary_d1045f5f:
 translate spanish The_Great_Out_Doors_h_scene_missionary_8eb35df9:
 
     # maddie missionary fast d_smile m_neutral m_talk_happy2 "Mommy's matching your pace sweetie! You teenagers aren't the only ones who still know how to {i}really{/i} make love!"
-    "¡[_maddie_s_missionary_s_fast_s_d_smile_s_m_neutral_s_m_talk_happy2_] Momá están cotejando tu paz cielo! ¡Los adolescentes no son los únicos que saben cómo {i}realmente{/i} hacer el amor!"
+    maddie missionary fast d_smile m_neutral m_talk_happy2 "¡Momá están cotejando tu paz cielo! ¡Los adolescentes no son los únicos que saben cómo {i}realmente{/i} hacer el amor!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4946
 translate spanish The_Great_Out_Doors_h_scene_missionary_82a81db0:
@@ -6514,7 +6514,7 @@ translate spanish The_Great_Out_Doors_scene_20a_20c036d0:
 translate spanish The_Great_Out_Doors_scene_20a_7db7e7ba:
 
     # maddie towards wondering talk_displeased "O-okay! Try to keep some distance between you and it! You can do it, Danny!"
-    "¡[_maddie_s_towards_s_wondering_s_talk_displeased_] ¡O-okay! ¡Intenta mantener algo de distancia entre ti y eso! ¡Puedes hacerlo Danny!"
+    maddie towards wondering talk_displeased "¡O-okay! ¡Intenta mantener algo de distancia entre ti y eso! ¡Puedes hacerlo Danny!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5394
 translate spanish The_Great_Out_Doors_scene_20a_7cd7544b:
@@ -6544,7 +6544,7 @@ translate spanish The_Great_Out_Doors_after_fight_entrance_hall_3ac59eb6:
 translate spanish The_Great_Out_Doors_after_fight_entrance_hall_51471ee1:
 
     # maddie offscreen towards neutral talk_frown "Danny move!"
-    "¡[_maddie_s_offscreen_s_towards_s_neutral_s_talk_frown_] ¡Danny muévete!"
+    maddie offscreen towards neutral talk_frown "¡Danny muévete!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5467
 translate spanish The_Great_Out_Doors_after_fight_entrance_hall_be7b5f6d:
@@ -6610,7 +6610,7 @@ translate spanish The_Great_Out_Doors_scene_20b_684a91ee:
 translate spanish The_Great_Out_Doors_scene_20b_e7e65a89:
 
     # vlad raging rise talk_frown "Nonsense! It's not too far off from here..."
-    "¡[_vlad_s_raging_s_rise_s_talk_frown_] ¡no tiene sentido! No está muy lejos de aquí..."
+    vlad raging rise talk_frown "¡no tiene sentido! No está muy lejos de aquí..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5546
 translate spanish The_Great_Out_Doors_scene_20b_1199a1d7:
@@ -6670,7 +6670,7 @@ translate spanish The_Great_Out_Doors_scene_20b_aaf9dd01:
 translate spanish The_Great_Out_Doors_scene_20b_f728293a:
 
     # vlad towards_wide rise talk_happy "Quick! Use the blaster!"
-    "¡[_vlad_s_towards_wide_s_rise_s_talk_happy_] ¡rápido! ¡Usa el blaster!"
+    vlad towards_wide rise talk_happy "¡rápido! ¡Usa el blaster!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5616
 translate spanish The_Great_Out_Doors_scene_20b_415efd29:
@@ -6706,7 +6706,7 @@ translate spanish The_Great_Out_Doors_scene_20b_d03284ba:
 translate spanish The_Great_Out_Doors_scene_20b_a10f017d:
 
     # maddie blaster towards_wide aghast talk_frown blush "What?!"
-    "¡[_maddie_s_blaster_s_towards_wide_s_aghast_s_talk_frown_s_blush_] ¡¿qué?!"
+    maddie blaster towards_wide aghast talk_frown blush "¡¿qué?!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5635
 translate spanish The_Great_Out_Doors_scene_20b_4833b8bd:
@@ -6748,7 +6748,7 @@ translate spanish The_Great_Out_Doors_scene_20b_f5d96f36:
 translate spanish The_Great_Out_Doors_scene_20b_7927e2c0:
 
     # maddie towards_wide confused talk_frown blush "Inviso-Bill?! All the way out here? Well, gee, that's convenient."
-    "¡[_maddie_s_towards_wide_s_confused_s_talk_frown_s_blush_] ¿Inviso-Bill?! ¿De dónde has salido? Bueno, gee, vienes de perlas."
+    maddie towards_wide confused talk_frown blush "¡¿Inviso-Bill?! ¿De dónde has salido? Bueno, gee, vienes de perlas."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5677
 translate spanish The_Great_Out_Doors_scene_20b_686d47d9:
@@ -6802,7 +6802,7 @@ translate spanish The_Great_Out_Doors_after_beast_fight_central_forest_6d70ff9e:
 translate spanish The_Great_Out_Doors_after_beast_fight_central_forest_37c386e2:
 
     # maddie towards amused talk_amused "Vlad! Quick, this time we've got him! Get the-"
-    "¡[_maddie_s_towards_s_amused_s_talk_amused_] ¡Vlad! ¡Rápido, esta vez lo tenemos! Consigue el-"
+    maddie towards amused talk_amused "¡Vlad! ¡Rápido, esta vez lo tenemos! Consigue el-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5740
 translate spanish The_Great_Out_Doors_after_beast_fight_central_forest_0235af40:
@@ -6916,7 +6916,7 @@ translate spanish The_Great_Out_Doors_scene_21a_356d2c1c:
 translate spanish The_Great_Out_Doors_scene_21a_d3bdcfad:
 
     # danny towards wondering talk_happy "Found it! he left it under the mat on the dock."
-    "¡[_danny_s_towards_s_wondering_s_talk_happy_] ¡Búscala! La dejó bajo la tapa en el muelle."
+    danny towards wondering talk_happy "¡Búscala! La dejó bajo la tapa en el muelle."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5838
 translate spanish The_Great_Out_Doors_scene_21a_f03af589:
@@ -6946,7 +6946,7 @@ translate spanish The_Great_Out_Doors_scene_21a_0277c496:
 translate spanish The_Great_Out_Doors_scene_21a_3672160d:
 
     # maddie towards neutral talk_happy "Quick thinking Danny! Help me out with the ropes!"
-    "¡[_maddie_s_towards_s_neutral_s_talk_happy_] ¡Bien pensado Danny! ¡Ayúdame con las cuerdas!"
+    maddie towards neutral talk_happy "¡Bien pensado Danny! ¡Ayúdame con las cuerdas!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5902
 translate spanish The_Great_Out_Doors_scene_21a_d20a6fa9:
@@ -7030,7 +7030,7 @@ translate spanish The_Great_Out_Doors_scene_21b_7ec88057:
 translate spanish The_Great_Out_Doors_scene_21b_d3bdcfad:
 
     # danny towards wondering talk_happy "Found it! he left it under the mat on the dock."
-    "¡[_danny_s_towards_s_wondering_s_talk_happy_] ¡Búscala! La dejó bajo la tapa en el muelle."
+    danny towards wondering talk_happy "¡Búscala! La dejó bajo la tapa en el muelle."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5982
 translate spanish The_Great_Out_Doors_scene_21b_282d71be:
@@ -7060,7 +7060,7 @@ translate spanish The_Great_Out_Doors_scene_21b_b177d458:
 translate spanish The_Great_Out_Doors_scene_21b_3672160d:
 
     # maddie towards neutral talk_happy "Quick thinking Danny! Help me out with the ropes!"
-    "¡[_maddie_s_towards_s_neutral_s_talk_happy_] ¡Bien pensado Danny! ¡Ayúdame con las cuerdas!"
+    maddie towards neutral talk_happy "¡Bien pensado Danny! ¡Ayúdame con las cuerdas!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6013
 translate spanish The_Great_Out_Doors_scene_21b_87780cd9:
@@ -7540,7 +7540,7 @@ translate spanish The_Great_Out_Doors_scene_24_Danny_House_livingroom_6c9fbf78:
 translate spanish The_Great_Out_Doors_scene_24_Danny_House_livingroom_6486c399:
 
     # jack towards_wide sad talk_happy "Now, now young lady! You'll find it best to listen to your mother from time to time! Just look at Danny and her!"
-    "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] ¡Para, para joven señorita! ¡Te iría bien escuchar a tu madre de vez en cuando! ¡Mira a Danny y a ella!"
+    jack towards_wide sad talk_happy "¡Para, para joven señorita! ¡Te iría bien escuchar a tu madre de vez en cuando! ¡Mira a Danny y a ella!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6485
 translate spanish The_Great_Out_Doors_scene_24_Danny_House_livingroom_685c7ecb:
@@ -7672,7 +7672,7 @@ translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_a38f0312:
 translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_1e79fdd7:
 
     # danny towards angry talk_happy blush "{b}YOU LOOK HOT as hell!{/b}"
-    "¡[_danny_s_towards_s_angry_s_talk_happy_s_blush_] {b}TE VEO TAN CALIENTE como un volcán!{/b}"
+    danny towards angry talk_happy blush "¡{b}TE VEO TAN CALIENTE como un volcán!{/b}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6618
 translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_6ea43077:
@@ -7690,7 +7690,7 @@ translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_3ee45b1f:
 translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_58a0ad4f:
 
     # maddie towards confused talk_happy "Oh! Why, s-sure!"
-    "¡[_maddie_s_towards_s_confused_s_talk_happy_] Oh! Por qué, ¡c-claro!"
+    maddie towards confused talk_happy "¡Oh! Por qué, ¡c-claro!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6630
 translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_edac00b3:
@@ -7810,7 +7810,7 @@ translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_e2a8c25b:
 translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_408a0a5c:
 
     # danny towards neutral talk_happy "Y-you are!"
-    "¡[_danny_s_towards_s_neutral_s_talk_happy_] ¡T-tú!"
+    danny towards neutral talk_happy "¡T-tú!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6700
 translate spanish The_Great_Out_Doors_scene_24C_Danny_Bedroom_813417bc:
@@ -7858,7 +7858,7 @@ translate spanish The_Great_Out_Doors_h_scene_cowgirl_06b861c5:
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_e9d4e139:
 
     # danny "Ah! Mom! It feels different doing it like this!"
-    "¡[_danny_] ¡Ah! ¡Mamá! ¡Se siente diferente haciéndolo así!"
+    danny "¡¡Ah! ¡Mamá! ¡Se siente diferente haciéndolo así!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6740
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_c12c6146:
@@ -7870,7 +7870,7 @@ translate spanish The_Great_Out_Doors_h_scene_cowgirl_c12c6146:
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_eabab1c6:
 
     # danny "Mom! Fuck! This is awesome!"
-    "¡[_danny_] ¡mamá! ¡Joder! ¡Esto és increíble!"
+    danny "¡¡mamá! ¡Joder! ¡Esto és increíble!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6746
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_e07b5237:
@@ -7906,7 +7906,7 @@ translate spanish The_Great_Out_Doors_h_scene_cowgirl_391fd7eb:
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_0c30788a:
 
     # maddie "Mmmm!"
-    "¡[_maddie_] ¡Mmm!"
+    maddie "¡Mmm!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6764
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_117f929a:
@@ -7972,7 +7972,7 @@ translate spanish The_Great_Out_Doors_h_scene_cowgirl_667eabe4:
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_a49a8892:
 
     # maddie "Danny you stud! Are you still hard?"
-    "¡[_maddie_] ¡Danny semental! ¿Otra vez la tienes dura?"
+    maddie "¡¡Danny semental! ¿Otra vez la tienes dura?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6817
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_62ffc7a5:
@@ -7990,7 +7990,7 @@ translate spanish The_Great_Out_Doors_h_scene_cowgirl_7238ccd2:
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_bc16f558:
 
     # danny "Mom I want to take you on your hands and knees!"
-    "¡[_danny_] Mamá quiero follarte a cuatro patas!"
+    danny "¡Mamá quiero follarte a cuatro patas!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6826
 translate spanish The_Great_Out_Doors_h_scene_cowgirl_58191a0b:
@@ -8062,7 +8062,7 @@ translate spanish The_Great_Out_Doors_h_scene_doggy_a633edc3:
 translate spanish The_Great_Out_Doors_h_scene_doggy_c01df4d0:
 
     # danny "Mom, I can't hold out much longer!"
-    "¡[_danny_] ¡mamá, no puedo aguantar mucho más!"
+    danny "¡¡mamá, no puedo aguantar mucho más!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6880
 translate spanish The_Great_Out_Doors_h_scene_doggy_cc139bf0:
@@ -8074,7 +8074,7 @@ translate spanish The_Great_Out_Doors_h_scene_doggy_cc139bf0:
 translate spanish The_Great_Out_Doors_h_scene_doggy_02392be1:
 
     # danny "Mom! Cum first!"
-    "¡[_danny_] mamá! ¡Córrete primero!"
+    danny "¡mamá! ¡Córrete primero!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6886
 translate spanish The_Great_Out_Doors_h_scene_doggy_be3c6d45:
@@ -8086,7 +8086,7 @@ translate spanish The_Great_Out_Doors_h_scene_doggy_be3c6d45:
 translate spanish The_Great_Out_Doors_h_scene_doggy_d9073576:
 
     # danny "FUCK! You're cumming whether you like it or not!"
-    "¡[_danny_] FUCK! ¡Te te vas a correr lo quieras o no!"
+    danny "¡FUCK! ¡Te te vas a correr lo quieras o no!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6892
 translate spanish The_Great_Out_Doors_h_scene_doggy_bd71cfdd:
@@ -8296,7 +8296,7 @@ translate spanish The_Great_Out_Doors_scene_25_END_b20bad06:
 translate spanish The_Great_Out_Doors_scene_25_END_d93c8dcb:
 
     # maddie morningafter handprint towards neutral talk_bite blush "{i}*Ahem*{/i}! I think you've had enough of my butt for now young man."
-    "¡[_maddie_s_morningafter_s_handprint_s_towards_s_neutral_s_talk_bite_s_blush_] {i}*Ahem*{/i}! Creo que ya has tenido suficiente de mi culo por ahora joven."
+    maddie morningafter handprint towards neutral talk_bite blush "¡{i}*Ahem*{/i}! Creo que ya has tenido suficiente de mi culo por ahora joven."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:7059
 translate spanish The_Great_Out_Doors_scene_25_END_79ff9b91:

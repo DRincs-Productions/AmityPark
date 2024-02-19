@@ -952,7 +952,7 @@ translate spanish a_masterful_speech_postfight_e24e883f:
 translate spanish a_masterful_speech_postfight_ca6cebcb:
 
     # jack towards_wide sad talk_happy "Danny! No time for relaxing! Come look!! More exciting ghost news!!"
-    "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] Danny! ¡No es momento de relajarse! ¡Ven a mirar!! Más noticias emocionantes de fantasmas!!"
+    jack towards_wide sad talk_happy "¡Danny! ¡No es momento de relajarse! ¡Ven a mirar!! Más noticias emocionantes de fantasmas!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:735
 translate spanish a_masterful_speech_postfight_1b671800:

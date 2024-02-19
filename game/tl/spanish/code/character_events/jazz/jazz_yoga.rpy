@@ -4,7 +4,7 @@
 translate spanish jazz_wednesday_yoga_ca95bc43:
 
     # mp3 "{i}Breathe in... and breathe out...{p}...let your body be a guiding hand for your inner self's desires and needs...{p}...breathe in... and release..."
-    mp3 "{i}Inspira... y espira...{/i}... {p}... deja que tu cuerpo sea una mano que te guíe por los deseos y necesidades de tu yo interior{/p}...{p}... inspira... y libera{/p}..."
+    mp3 "{i}Inspira... y espira...{/i}... {p}... deja que tu cuerpo sea una mano que te guíe por los deseos y necesidades de tu yo interior... {p}... inspira... y libera..."
 
 # game/code/character_events/jazz/jazz_yoga.rpy:12
 translate spanish jazz_wednesday_yoga_a0743fd2:

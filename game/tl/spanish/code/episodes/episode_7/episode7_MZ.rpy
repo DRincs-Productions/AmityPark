@@ -28,7 +28,7 @@ translate spanish A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_935d72b4:
 translate spanish A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_aedc4b0c:
 
     # danny at_player angry talk_happy "Welp, right on cue!{p}Looks like I'm going ghost!"
-    "¡[_danny_s_at_player_s_angry_s_talk_happy_] Welp, justo en el clavo! ¡{p} parece{/p} que voy a ser fantasma!"
+    danny at_player angry talk_happy "¡Welp, justo en el clavo! ¡{p} parece{/p} que voy a ser fantasma!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:191
 translate spanish A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_e2af3507:
@@ -370,7 +370,7 @@ translate spanish A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_5f63d2f8
 translate spanish A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_89b662e7:
 
     # kate towardsdown rise talk_displeased "I'm not surprised! You must have had it festering overnight in your sleep.{p}Can you think of how you would have gotten such a bad wound?"
-    "¡[_kate_s_towardsdown_s_rise_s_talk_displeased_] ¡no me sorprende! Debe haberse hecho más grande la infección mientras dormías durante la noche.{p}¿Puedes recordar cómo te hiciste una herida tan mala?{/p}?"
+    kate towardsdown rise talk_displeased "¡no me sorprende! Debe haberse hecho más grande la infección mientras dormías durante la noche.{p}¿Puedes recordar cómo te hiciste una herida tan mala?{/p}?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:525
 translate spanish A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_662bcc0c:
@@ -436,7 +436,7 @@ translate spanish A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_a4e04562
 translate spanish A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_eb4988de:
 
     # danny towards wondering talk_happy "Cya around!"
-    "¡[_danny_s_towards_s_wondering_s_talk_happy_] ¡nos vemos!"
+    danny towards wondering talk_happy "¡nos vemos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:565
 translate spanish A_Nightmare_Called_Ember_scene_5_Nurse_Office_Morning_d351b9b4:
@@ -922,7 +922,7 @@ translate spanish A_Nightmare_Called_Ember_scene_8_Park_Evening_8573ab42:
 translate spanish A_Nightmare_Called_Ember_scene_8_Park_Evening_3c94d8c7:
 
     # danny phantom arms_normal towards_wide unhappy talk_distraught "{i}Uhhh!{/i} N-no! Wh-wha-whatever could you be referring to, {i}uh{/i}, human citizen? I do not know of such a, {i}ehm{/i}, cool and groovy kid as Danny... Fen... ton..."
-    "¡[_danny_s_phantom_s_arms_normal_s_towards_wide_s_unhappy_s_talk_distraught_] {i}Uhhh!{/i} N-no! ¿A q-q-q-qué te refieres, {i}uh{/i}, ciudadana humana? No sé de tales facultades de,{i}ehm{/i}, un chico tan majo y fresco como Danny... Fen... ton..."
+    danny phantom arms_normal towards_wide unhappy talk_distraught "¡{i}Uhhh!{/i} N-no! ¿A q-q-q-qué te refieres, {i}uh{/i}, ciudadana humana? No sé de tales facultades de,{i}ehm{/i}, un chico tan majo y fresco como Danny... Fen... ton..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:967
 translate spanish A_Nightmare_Called_Ember_scene_8_Park_Evening_f098a476:
@@ -1516,7 +1516,7 @@ translate spanish A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_b4a88932:
 translate spanish A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_eec8a44f:
 
     # danny phantom fc closed neutral talk_distraught "No, no way!"
-    "¡[_danny_s_phantom_s_fc_s_closed_s_neutral_s_talk_distraught_] No, de ninguna manera!"
+    danny phantom fc closed neutral talk_distraught "¡No, de ninguna manera!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1345
 translate spanish A_Nightmare_Called_Ember_scene_9_Mall_Afternoon_1b55fcda:
@@ -1984,7 +1984,7 @@ translate spanish A_Nightmare_Called_Ember_scene_10_Star_House_Evening_fb0f4137:
 translate spanish A_Nightmare_Called_Ember_scene_10_Star_House_Evening_a7852310:
 
     # danny towards angry talk_pleased "Lead the way!"
-    "¡[_danny_s_towards_s_angry_s_talk_pleased_] ¡tú me diriges!"
+    danny towards angry talk_pleased "¡tú me diriges!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1690
 translate spanish A_Nightmare_Called_Ember_scene_10_Star_House_Evening_bad79002:
@@ -2278,7 +2278,7 @@ translate spanish A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_
 translate spanish A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_1_After_cfa57f87:
 
     # kate nude closed sad talk_displeased "N-naked! Y-yeah, sorry sweetie , didn't realize you would be home so soon."
-    "¡[_kate_s_nude_s_closed_s_sad_s_talk_displeased_] D-desnuda! S-sí, lo siento cielo, no sabia que estarías en casa tan pronto."
+    kate nude closed sad talk_displeased "¡D-desnuda! S-sí, lo siento cielo, no sabia que estarías en casa tan pronto."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1927
 translate spanish A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_1_After_75910665:
@@ -2308,7 +2308,7 @@ translate spanish A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_
 translate spanish A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_c52dfc39:
 
     # kate "N-nothing sweetie! {i}Haha!{/i} J-just changing! And kinda dealing with a pretty {u}big{/u} problem at the moment is all...~"
-    "¡[_kate_] ¡N-nadad cielo! ¡ {i}Haha!{/i} S-solo cambiandome! Estoy liada con un problema {u}enorme{/u} en este momento...~"
+    kate "¡N-nadad cielo! ¡ {i}Haha!{/i} S-solo cambiandome! Estoy liada con un problema {u}enorme{/u} en este momento...~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1965
 translate spanish A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_2_113c5a98:
@@ -3298,7 +3298,7 @@ translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_7a4d1c75:
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_c2cd5821:
 
     # sam co away neutral talk_excited slight_blush "{i}Tucker~{/i}! My man... ya' know, not looking so bad yourself, I might add!{p}You know, that may not be too bad an idea..."
-    "¡[_sam_s_co_s_away_s_neutral_s_talk_excited_s_slight_blush_] {i}Tucker~{/i}! Mi chico... ¡no te ves tan mal!, ¡podría añadir! {p}Sabes, puede no ser una mala idea..."
+    sam co away neutral talk_excited slight_blush "¡{i}Tucker~{/i}! Mi chico... ¡no te ves tan mal!, ¡podría añadir! {p}Sabes, puede no ser una mala idea..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2867
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_846a646d:
@@ -3322,7 +3322,7 @@ translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_27cbc26b:
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_c42f0c4c:
 
     # sam co stare sad talk_consternation -slight_blush "I don't wanna go to any more classes! I just want you to carry me home..."
-    "¡[_sam_s_co_s_stare_s_sad_s_talk_consternation_s_-slight_blush_] No quiero ir a más clases! Solo quiero que me lleves a casa..."
+    sam co stare sad talk_consternation -slight_blush "¡No quiero ir a más clases! Solo quiero que me lleves a casa..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2885
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_69c90eb7:
@@ -3358,7 +3358,7 @@ translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_390ef071:
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_591dfb62:
 
     # sam co stare neutral talk_excited "YAY!"
-    "¡[_sam_s_co_s_stare_s_neutral_s_talk_excited_] ¡YAY!"
+    sam co stare neutral talk_excited "¡YAY!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2925
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_dcd675b8:
@@ -3388,7 +3388,7 @@ translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_cdbe27fb:
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_47a52ac8:
 
     # star ef towards angry talk_happy_2 noblush "Go for it girl! As long as I get a handful too!{p}And a nice taste, too...~"
-    "¡[_star_s_ef_s_towards_s_angry_s_talk_happy_2_s_noblush_] ¡adelante chica! ¡Mientras yo lo tenga! {p}Y sea un buen gusto{/p}...~"
+    star ef towards angry talk_happy_2 noblush "¡adelante chica! ¡Mientras yo lo tenga! {p}Y sea un buen gusto{/p}...~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2964
 translate spanish A_Nightmare_Called_Ember_scene_4_School_Hallway_cb497c20:
@@ -3568,7 +3568,7 @@ translate spanish A_Nightmare_Called_Ember_scene_6_danny_home_967bb749:
 translate spanish A_Nightmare_Called_Ember_scene_6_danny_home_806c0eb6:
 
     # jazz towards neutral talk_amused "Told ya! Isn't she awesome?"
-    "¡[_jazz_s_towards_s_neutral_s_talk_amused_] ¡Ya te lo dije! ¿No es asombroso?"
+    jazz towards neutral talk_amused "¡Ya te lo dije! ¿No es asombroso?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3138
 translate spanish A_Nightmare_Called_Ember_scene_6_danny_home_996627b6:
@@ -3868,7 +3868,7 @@ translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_586b29bb:
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_c4ca5aea:
 
     # tucker ef arms_clenchedfists towards_wide_glare angry talk_frown "PEOPLE NEED TO KNOW!{p}The glorious music of Ember McClain must be known to every man, woman, and child on this earth!"
-    "¡[_tucker_s_ef_s_arms_clenchedfists_s_towards_wide_glare_s_angry_s_talk_frown_] ¡LA GENTE NECESITA SABER! ¡{p}La gloriosa{/p} música de Ember Mclain debe ser conocida por todos los hombres, mujeres y niños de esta tierra!"
+    tucker ef arms_clenchedfists towards_wide_glare angry talk_frown "¡LA GENTE NECESITA SABER! ¡{p}La gloriosa{/p} música de Ember Mclain debe ser conocida por todos los hombres, mujeres y niños de esta tierra!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3405
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_e01c2441:
@@ -3928,7 +3928,7 @@ translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_b04742bd:
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_516e8dca:
 
     # tucker ef arms_clenchedfists away_wide sad talk_happy "IT {u}CAN'T{/u} BE!!"
-    "¡¡¡¡[_tucker_s_ef_s_arms_clenchedfists_s_away_wide_s_sad_s_talk_happy_] ¡¡NO {u}PUEDE{/u} SER!!"
+    tucker ef arms_clenchedfists away_wide sad talk_happy "¡¡NO {u}PUEDE{/u} SER!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3437
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_cad67210:
@@ -3976,7 +3976,7 @@ translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_17d67e28:
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_8893b4c0:
 
     # ember human_guitar at_player angry talk_amused "Alright everyone! Let's {u}ROCK!{/u}"
-    "¡[_ember_s_human_guitar_s_at_player_s_angry_s_talk_amused_] ¡Todo el mundo! ¡ Hagamos {u}¡ROCK!{/u}"
+    ember human_guitar at_player angry talk_amused "¡Todo el mundo! ¡ Hagamos {u}¡ROCK!{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3480
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_64e59be9:
@@ -3988,7 +3988,7 @@ translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_64e59be9:
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_01bc2609:
 
     # lancer offscreen towards rise_one talk_frown "What is the meaning of this?! I'll have to insist that all of this rocking as well as rolling cease, henceforth, immediately!"
-    "¡[_lancer_s_offscreen_s_towards_s_rise_one_s_talk_frown_] ¿Cuál es el significado de esto?! ¡Tendré que insistir en este jaleo¡, ¡parad inmediatamente!"
+    lancer offscreen towards rise_one talk_frown "¿Cuál es el significado de esto?! ¡Tendré que insistir en este jaleo¡, ¡parad inmediatamente!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3487
 translate spanish A_Nightmare_Called_Ember_scene_8_school_Hallway_a5296348:
@@ -4192,7 +4192,7 @@ translate spanish A_Nightmare_Called_Ember_postfight_d9e85c2d:
 translate spanish A_Nightmare_Called_Ember_postfight_9c83873a:
 
     # danny phantom arms_normal down rise talk_displeased "Jumping!"
-    "¡[_danny_s_phantom_s_arms_normal_s_down_s_rise_s_talk_displeased_] ¡saltando!"
+    danny phantom arms_normal down rise talk_displeased "¡saltando!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3634
 translate spanish A_Nightmare_Called_Ember_postfight_0b331079:
@@ -4276,7 +4276,7 @@ translate spanish A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original
 translate spanish A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_3753d7c8:
 
     # danny beatenup towards unhappy talk_distraught "I haven't faced an enemy that powerful before! She's way tough, and her attacks were pretty much taking me out in one hit!"
-    "¡[_danny_s_beatenup_s_towards_s_unhappy_s_talk_distraught_] No me he enfrentado a una enemiga tan poderosa antes! ¡Va camino de ser más fuerte y sus ataques me tiraron de un solo golpe!"
+    danny beatenup towards unhappy talk_distraught "No me he enfrentado a una enemiga tan poderosa antes! ¡Va camino de ser más fuerte y sus ataques me tiraron de un solo golpe!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3733
 translate spanish A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_13f581f8:
@@ -4786,7 +4786,7 @@ translate spanish A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_2ca0b9c
 translate spanish A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_baa8da5a:
 
     # danny "Really?!"
-    "¡[_danny_] ¡¿en serio?!"
+    danny "¡¡¿en serio?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4142
 translate spanish A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_aece3765:
@@ -4966,7 +4966,7 @@ translate spanish A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_23209a2
 translate spanish A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_d31da476:
 
     # danny "F-fuckkkk!"
-    "¡[_danny_] ¡J-jodeeeerrrrr!"
+    danny "¡¡J-jodeeeerrrrr!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4244
 translate spanish A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_debce5d0:
@@ -5128,7 +5128,7 @@ translate spanish A_Nightmare_Called_Ember_scene_Maddie_Continued_1_6b103451:
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_Continued_1_ea7e383c:
 
     # jack detector towards confused talk_frown "{i}Bah!{/i} When I was their age I just looped remix tracks of the {i}Ghostbusters{/i} theme and the national anthem while I was working in the lab! That's all a kid needed to be {u}cool{/u} back then!"
-    "¡[_jack_s_detector_s_towards_s_confused_s_talk_frown_] {i}Bah! {/i} Cuando tenía su edad hice un remix de canciones del tema {i}Ghostbusters{/i} y el himno nacional mientras trabajaba en el laboratorio! ¡Eso es todo lo que un niño tenia que hacer para {u}divertirse{/u} entonces!"
+    jack detector towards confused talk_frown "{i}Bah! {/i} Cuando tenía su edad hice un remix de canciones del tema {i}Ghostbusters{/i} y el himno nacional mientras trabajaba en el laboratorio! ¡Eso es todo lo que un niño tenia que hacer para {u}divertirse{/u} entonces!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4379
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_Continued_1_cb4b9be4:
@@ -5296,7 +5296,7 @@ translate spanish A_Nightmare_Called_Ember_scene_Maddie_Continued_1_d4e5a29c:
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_Continued_1_6bf316f7:
 
     # danny "Anything!"
-    "¡[_danny_] ¡lo que necesites!"
+    danny "¡¡lo que necesites!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4496
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_Continued_1_449dbcb5:
@@ -5572,13 +5572,13 @@ translate spanish A_Nightmare_Called_Ember_ep7_face_the_dragon_47c33a8e:
 translate spanish A_Nightmare_Called_Ember_ep7_face_the_dragon_74909fb9:
 
     # danny towards sad talk_distraught "{i}Whoa{/i}, man! It was just a simple gesture of me saying thanks!"
-    "¡[_danny_s_towards_s_sad_s_talk_distraught_] {i}Whoa{/i}, tio! ¡Fue un detalle por mi parte decirte gracias!"
+    danny towards sad talk_distraught "{i}Whoa{/i}, tio! ¡Fue un detalle por mi parte decirte gracias!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4677
 translate spanish A_Nightmare_Called_Ember_ep7_face_the_dragon_20594ad9:
 
     # box_ghost at_player angry talk_frown "Good sir! I have made a {u}solemn{/u} pledge, that all parcels sent through to me WILL BE DELIVERED! The loyal customers are who I have allied with, and always will ally with!"
-    "¡[_box_ghost_s_at_player_s_angry_s_talk_frown_] ¡Buen dios! ¡He hecho un {u}solemne{/u} compromiso, que todos los paquetes me han enviado a mi SEAN REPARTIDOS! Los clientes leales con los que me he aliado, y siempre me aliaré!"
+    box_ghost at_player angry talk_frown "¡Buen dios! ¡He hecho un {u}solemne{/u} compromiso, que todos los paquetes me han enviado a mi SEAN REPARTIDOS! Los clientes leales con los que me he aliado, y siempre me aliaré!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4680
 translate spanish A_Nightmare_Called_Ember_ep7_face_the_dragon_e802b9ad:
@@ -5692,7 +5692,7 @@ translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_561cae57:
 
     # danny phantom arms_normal towards_wide angry talk_displeased "Again, I was {i}sorta{/i} defending myself!"
-    "¡[_danny_s_phantom_s_arms_normal_s_towards_wide_s_angry_s_talk_displeased_] de nuevo, estaba {i} como{/i} defendiéndome!"
+    danny phantom arms_normal towards_wide angry talk_displeased "de nuevo, estaba {i} como{/i} defendiéndome!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4802
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_0c7c2e35:
@@ -5818,7 +5818,7 @@ translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_Post_Battle_78a00f75:
 
     # box_ghost towards_glare angry talk_frown "Silence! Take your pre-purchased parcel and begone from the box-like premises of the Amity Park Mall!!"
-    "¡[_box_ghost_s_towards_glare_s_angry_s_talk_frown_] ¡¡Silencio! ¡¡Toma tu paquete pre comprado y ve con la garantía de entrega de Amity Parck!!"
+    box_ghost towards_glare angry talk_frown "¡¡Silencio! ¡¡Toma tu paquete pre comprado y ve con la garantía de entrega de Amity Parck!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4921
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_Post_Battle_33868feb:
@@ -5830,7 +5830,7 @@ translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_Post_Battle_8349cd0f:
 
     # box_ghost towards_glare confused talk_frown "Bah! Foolish question! I am the Box Ghost! The {u}Box{/u}. Ghost. It's sorta my awesome {u}power{/u} to know the contents of any and all square containers!!"
-    "¡[_box_ghost_s_towards_glare_s_confused_s_talk_frown_] Bah! ¡Pregunta estúpida! ¡Soy el Fantasma de cajas! ¡El fantasma {u}Box{/u}. ¡¡Es mi increíble {u}poder {/u} el poder conocer el contenido de todos los contenedores cuadrados!!"
+    box_ghost towards_glare confused talk_frown "Bah! ¡Pregunta estúpida! ¡Soy el Fantasma de cajas! ¡El fantasma {u}Box{/u}. ¡¡Es mi increíble {u}poder {/u} el poder conocer el contenido de todos los contenedores cuadrados!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4927
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_Post_Battle_1757551e:
@@ -6220,7 +6220,7 @@ translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_4_Home_Evening
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_4_Home_Evening_dbe128b1:
 
     # danny towards unhappy talk_amused "N-nothing! Just need a g-glass of water. Hope you and Dad drive safe! Stay as long as you need to, make sure you verify that they're legit."
-    "¡[_danny_s_towards_s_unhappy_s_talk_amused_] N-nada! Solo necesita un v-vaso de agua. ¡Espero que conduzcáis seguro! Tomaros el tiempo que necesitéis, para asegurar que son legítimos."
+    danny towards unhappy talk_amused "N-nada! Solo necesita un v-vaso de agua. ¡Espero que conduzcáis seguro! Tomaros el tiempo que necesitéis, para asegurar que son legítimos."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5255
 translate spanish A_Nightmare_Called_Ember_scene_Maddie_continued_4_Home_Evening_1c8f8b94:
@@ -6460,7 +6460,7 @@ translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_d16783f8:
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_239fea2c:
 
     # danny "S-sorry Mom! I didn't mean to pull that hard! Did I, {i}uhm{/i}, hurt you?"
-    "¡[_danny_] ¡P-perdon Mama! ¡No quise sacarlo tan fuerte! ¿Yo, {i}uhm{/i}, te he lastimado?"
+    danny "¡¡P-perdon Mama! ¡No quise sacarlo tan fuerte! ¿Yo, {i}uhm{/i}, te he lastimado?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5481
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_95e22c05:
@@ -6514,7 +6514,7 @@ translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_2232e56b:
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_3ee54631:
 
     # danny "Mom?! Are you alright? You got me so excited, I just..."
-    "¡[_danny_] ¿mamá?! ¿Estás bien? Me has excitado tanto, sólo..."
+    danny "¡¿mamá?! ¿Estás bien? Me has excitado tanto, sólo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5516
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_46380178:
@@ -6550,7 +6550,7 @@ translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_17dd9c5a:
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_b51601bc:
 
     # danny "F-fuckkk! So damn tight!!"
-    "¡[_danny_] J-joderrrrr! ¡¡Eres jodidamente estrecha!!"
+    danny "¡J-joderrrrr! ¡¡Eres jodidamente estrecha!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5534
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_98b115b8:
@@ -6628,7 +6628,7 @@ translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_eaf6e108:
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_2961c01b:
 
     # maddie "No! Just a few more seconds baby! I'm gonna cum from taking your big cock in my ass!"
-    "¡[_maddie_] No! ¡aguanta unos segundos más bebé! ¡Me voy a correr también disfrutando tu polla en mi culo!"
+    maddie "¡No! ¡aguanta unos segundos más bebé! ¡Me voy a correr también disfrutando tu polla en mi culo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5575
 translate spanish A_Nightmare_Called_Ember_Maddie_anal_scene_c43a1652:
@@ -6820,7 +6820,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_1_school_f2d7d9e0:
 translate spanish A_Nightmare_Called_Ember_star_continued_1_school_416b0cc1:
 
     # star normal closed wondering talk_happy "Toodles~!"
-    "¡[_star_s_normal_s_closed_s_wondering_s_talk_happy_] ¡igualmente~!"
+    star normal closed wondering talk_happy "¡igualmente~!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5754
 translate spanish A_Nightmare_Called_Ember_star_continued_1_school_edc16072:
@@ -7024,7 +7024,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_1_school_be40db38:
 translate spanish A_Nightmare_Called_Ember_star_continued_1_school_ac082732:
 
     # star normal towards_wide idle talk_amused "Billy has to take me out on a public date, of course!"
-    "¡[_star_s_normal_s_towards_wide_s_idle_s_talk_amused_] tenemos que tener una cita pública, por supuesto!"
+    star normal towards_wide idle talk_amused "tenemos que tener una cita pública, por supuesto!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5860
 translate spanish A_Nightmare_Called_Ember_star_continued_1_school_2ab93371:
@@ -7078,7 +7078,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_1_school_5145715e:
 translate spanish A_Nightmare_Called_Ember_star_continued_1_school_9f9f58fa:
 
     # star normal closed idle talk_happy "Sure! Tell him to meet me in the Park a little before 2:00."
-    "¡[_star_s_normal_s_closed_s_idle_s_talk_happy_] Seguro! Dile que nos veremos en el parque un poco antes de las 2:00."
+    star normal closed idle talk_happy "Seguro! Dile que nos veremos en el parque un poco antes de las 2:00."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5887
 translate spanish A_Nightmare_Called_Ember_star_continued_1_school_fd5e7a60:
@@ -7210,7 +7210,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_2_park_saturday_mornin
 translate spanish A_Nightmare_Called_Ember_star_continued_2_park_saturday_morning_f3fa246f:
 
     # danny phantom arms_normal closed_sad sad talk_happy "N-nothing! Yeah, sounds good, I'm excited!"
-    "¡[_danny_s_phantom_s_arms_normal_s_closed_sad_s_sad_s_talk_happy_] N-nada! Sí, suena bien, estoy emocionado!"
+    danny phantom arms_normal closed_sad sad talk_happy "N-nada! Sí, suena bien, estoy emocionado!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5985
 translate spanish A_Nightmare_Called_Ember_star_continued_2_park_saturday_morning_4df6c40e:
@@ -7360,7 +7360,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_3_mall_morning_6322739
 translate spanish A_Nightmare_Called_Ember_star_continued_3_mall_morning_c3f9bd17:
 
     # star normal at_player_wide neutral talk_amused "Nothing! Now come on, silly Billy~"
-    "¡[_star_s_normal_s_at_player_wide_s_neutral_s_talk_amused_] nada! Ahora ven, tonto Billy~"
+    star normal at_player_wide neutral talk_amused "nada! Ahora ven, tonto Billy~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6153
 translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_e4849a6b:
@@ -7426,7 +7426,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_8f00663d:
 translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_66216c66:
 
     # danny phantom cinema pose1 towards_wide rise talk_happy blush "H-hey!! W-what are you doing?!"
-    "¡[_danny_s_phantom_s_cinema_s_pose1_s_towards_wide_s_rise_s_talk_happy_s_blush_] H-hey!! ¡¿Qué estás haciendo?!"
+    danny phantom cinema pose1 towards_wide rise talk_happy blush "H-hey!! ¡¿Qué estás haciendo?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6191
 translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_1081dc4b:
@@ -7492,7 +7492,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_e42103a0:
 translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_ac08506b:
 
     # star cinema pose1 towards wondering talk_amused "No! That was super sweet Billy, my followers will love it!"
-    "¡[_star_s_cinema_s_pose1_s_towards_s_wondering_s_talk_amused_] No! ¡Eso fue super dulce de Billy, a mis seguidores les encantarán!"
+    star cinema pose1 towards wondering talk_amused "No! ¡Eso fue super dulce de Billy, a mis seguidores les encantarán!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6228
 translate spanish A_Nightmare_Called_Ember_star_continued_4_cinema_af7bcd14:
@@ -7600,7 +7600,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_5_foodcourt_ce9df75f:
 translate spanish A_Nightmare_Called_Ember_star_continued_5_foodcourt_42bacf4a:
 
     # star fc towards rise talk_displeased "Of course!"
-    "¡[_star_s_fc_s_towards_s_rise_s_talk_displeased_] por supuesto!"
+    star fc towards rise talk_displeased "por supuesto!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6329
 translate spanish A_Nightmare_Called_Ember_star_continued_5_foodcourt_d1eb9bec:
@@ -7762,7 +7762,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_6_park_evening_a346507
 translate spanish A_Nightmare_Called_Ember_star_continued_6_park_evening_8b4df21b:
 
     # star normal towards_wide sad talk_distraught "Billy!! Help me!"
-    "¡[_star_s_normal_s_towards_wide_s_sad_s_talk_distraught_] Billy!! ¡Ayúdame!"
+    star normal towards_wide sad talk_distraught "Billy!! ¡Ayúdame!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6467
 translate spanish A_Nightmare_Called_Ember_star_continued_6_park_evening_0eae854c:
@@ -8104,7 +8104,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_f0ea65
 translate spanish A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_7ee97e7e:
 
     # star lingerie closed wondering talk_pleased "{i}Ha!{/i} Perfect! I just knew you'd love it."
-    "¡[_star_s_lingerie_s_closed_s_wondering_s_talk_pleased_] {i}Ha!{/i} ¡Perfecto! Sabía que te encantaría."
+    star lingerie closed wondering talk_pleased "{i}Ha!{/i} ¡Perfecto! Sabía que te encantaría."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6864
 translate spanish A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_f8723668:
@@ -8326,7 +8326,7 @@ translate spanish A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_f8
 translate spanish A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_50270559:
 
     # star "Do it Billy! Fill me!! Fill me up with that cum!"
-    "¡[_star_] Hazlo Billy! ¡Lléname!! ¡Lléname con tu leche!"
+    star "Hazlo Billy! ¡Lléname!! ¡Lléname con tu leche!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7016
 translate spanish A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_12f33ef6:
@@ -8800,7 +8800,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_2_park_a2f7bf7f:
 translate spanish A_Nightmare_Called_Ember_paulina_continued_2_park_0a43ab72:
 
     # paulina normal towards wondering talk_pleased "Perfect! See you then!"
-    "¡[_paulina_s_normal_s_towards_s_wondering_s_talk_pleased_] ¡Perfecto! ¡Nos vemos entonces!"
+    paulina normal towards wondering talk_pleased "¡Perfecto! ¡Nos vemos entonces!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7352
 translate spanish A_Nightmare_Called_Ember_paulina_continued_2_park_70e7eec4:
@@ -8854,7 +8854,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_2_park_7ec0ac62:
 translate spanish A_Nightmare_Called_Ember_paulina_continued_2_park_17126447:
 
     # paulina normal closed wondering talk_pleased "Great! See you tonight then, cutie!"
-    "¡[_paulina_s_normal_s_closed_s_wondering_s_talk_pleased_] ¡genial! ¡Nos vemos esta noche entonces, lindo!"
+    paulina normal closed wondering talk_pleased "¡genial! ¡Nos vemos esta noche entonces, lindo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7382
 translate spanish A_Nightmare_Called_Ember_paulina_continued_2_park_5e09c470:
@@ -9154,7 +9154,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_4_principals_office
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_principals_office_65fe0bde:
 
     # paulina normal towards idle talk_pleased "{i}Rightttt{/i} over here!"
-    "¡[_paulina_s_normal_s_towards_s_idle_s_talk_pleased_] {i}Bieeeeen{/i} ¡aquí!"
+    paulina normal towards idle talk_pleased "{i}Bieeeeen{/i} ¡aquí!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7711
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_principals_office_88d935a5:
@@ -9304,7 +9304,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_4_principals_office
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_principals_office_ab8a2c6f:
 
     # paulina normal towards_wide sad talk_distraught "No way! I'm coming with you!"
-    "¡[_paulina_s_normal_s_towards_wide_s_sad_s_talk_distraught_] de ninguna manera! ¡Voy a ir contigo!"
+    paulina normal towards_wide sad talk_distraught "de ninguna manera! ¡Voy a ir contigo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7854
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_principals_office_d601e489:
@@ -9364,7 +9364,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_4_roaming_monster_4
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_roaming_monster_1e091ee8:
 
     # danny phantom arms_normal towards angry talk_distraught "Paulina! Get inside one of the classrooms, now!"
-    "¡[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] Paulina! ¡Entra dentro de una de las aulas, ya!"
+    danny phantom arms_normal towards angry talk_distraught "Paulina! ¡Entra dentro de una de las aulas, ya!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7952
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_roaming_monster_a22f321c:
@@ -9382,7 +9382,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_4_roaming_monster_2
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_roaming_monster_bd49e09f:
 
     # paulina normal towards_wide sad talk_distraught "{i}Eeeeeep!{/i} That was so scary!"
-    "¡[_paulina_s_normal_s_towards_wide_s_sad_s_talk_distraught_] {i}Eeeeep!{/i} ¡Fue aterrador!"
+    paulina normal towards_wide sad talk_distraught "{i}Eeeeep!{/i} ¡Fue aterrador!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7961
 translate spanish A_Nightmare_Called_Ember_paulina_continued_4_roaming_monster_d0c26390:
@@ -9652,13 +9652,13 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_1_a29c9dfe:
 
     # danny "O-okay!"
-    "¡[_danny_] O-okay!"
+    danny "¡O-okay!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8165
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_1_755c9c36:
 
     # paulina "{i}Mmm!{/i} That's it! Don't stop!"
-    "¡[_paulina_] {i}Mmm!{/i} ¡Eso es! ¡No pares!"
+    paulina "¡{i}Mmm!{/i} ¡Eso es! ¡No pares!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8168
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_1_08198c79:
@@ -9688,7 +9688,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_1_eca973d0:
 
     # danny "...not that your butt isn't amazing or anything! I mean, it's amazing to even be {u}seeing{/u} it up and close like this!"
-    "¡[_danny_] ...no es que tu culo no sea asombroso! Quiero decir, es increíble incluso estar {u}viendote{/u} así!"
+    danny "¡...no es que tu culo no sea asombroso! Quiero decir, es increíble incluso estar {u}viendote{/u} así!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8183
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_1_fc51fed7:
@@ -9766,7 +9766,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_4e2577bb:
 
     # danny "P-Paulina! I don't know how much longer I can last."
-    "¡[_danny_] P-Paulina! No sé cuánto tiempo puedo durar."
+    danny "¡P-Paulina! No sé cuánto tiempo puedo durar."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8246
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_6104a6d0:
@@ -9802,7 +9802,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_fccd2551:
 
     # paulina "{i}Yesss!~{/i} Do it!"
-    "¡[_paulina_] {i}Síiiiiii!~{/i} ¡Hazlo!"
+    paulina "¡{i}Síiiiiii!~{/i} ¡Hazlo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8264
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_2f0da1ef:
@@ -9832,7 +9832,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_0a587673:
 
     # danny phantom arms_normal closed_happy wondering talk_happy "Totally! Just let me catch my breath and I'll tell you my play-by-play thoughts on having sex with you!"
-    "¡[_danny_s_phantom_s_arms_normal_s_closed_happy_s_wondering_s_talk_happy_] ¡¡claro que sí!! ¡Permíteme recuperar el aliento y te diré todo lo que pienso!"
+    danny phantom arms_normal closed_happy wondering talk_happy "¡¡claro que sí!! ¡Permíteme recuperar el aliento y te diré todo lo que pienso!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8302
 translate spanish A_Nightmare_Called_Ember_paulina_continued_5_lancer_classroom_sex_2_087a976d:
@@ -9868,7 +9868,7 @@ translate spanish A_Nightmare_Called_Ember_paulina_continued_6_ext_school_c756ac
 translate spanish A_Nightmare_Called_Ember_paulina_continued_6_ext_school_56e4beb8:
 
     # paulina normal towards wondering talk_amused "Well, you totally saved my grade in that class! So in my eyes, you really are just a {u}super{/u} sweetie, \"Billy\"."
-    "¡[_paulina_s_normal_s_towards_s_wondering_s_talk_amused_] Bueno, has salvado mi asignatura en esa clase! A a mis ojos eres {u}super{/u} dulce \"Billy\"."
+    paulina normal towards wondering talk_amused "Bueno, has salvado mi asignatura en esa clase! A a mis ojos eres {u}super{/u} dulce \"Billy\"."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8361
 translate spanish A_Nightmare_Called_Ember_paulina_continued_6_ext_school_94586bc0:
@@ -10162,7 +10162,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_1_continued_f2247e15:
 translate spanish A_Nightmare_Called_Ember_desiree_1_continued_293c01ca:
 
     # danny towards sad talk_consternation "What?! What have {i}I{/i} possibly done wrong lately? I just {u}asked{/u} for your help! And you're pretty helpful when you wanna be!"
-    "¡[_danny_s_towards_s_sad_s_talk_consternation_] ¿Qué?! ¿Qué he hecho {i}yo{/i} mal últimamente? ¡Sólo te {u}preguntaba{/u} por tu ayuda! ¡Y eres bastante útil cuando quieres ser!"
+    danny towards sad talk_consternation "¿Qué?! ¿Qué he hecho {i}yo{/i} mal últimamente? ¡Sólo te {u}preguntaba{/u} por tu ayuda! ¡Y eres bastante útil cuando quieres ser!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8559
 translate spanish A_Nightmare_Called_Ember_desiree_1_continued_5971ab62:
@@ -10186,7 +10186,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_1_continued_ec565672:
 translate spanish A_Nightmare_Called_Ember_desiree_1_continued_79640441:
 
     # desiree "Hush! Yes, very well, I will help you \"get a girl\" for your piggish Orgone needs. Helpless oaf!"
-    "¡[_desiree_] ¡Sí!, muy bien, te ayudaré a \"conseguir una chica\" para Orgone. ¡patan indefenso!"
+    desiree "¡Sí!, muy bien, te ayudaré a \"conseguir una chica\" para Orgone. ¡patan indefenso!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8573
 translate spanish A_Nightmare_Called_Ember_desiree_1_continued_53fde3eb:
@@ -10438,7 +10438,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_44
 translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_a46d17eb:
 
     # extend "{i}Uh, right{/i} ! Yes, my cousin is around, ya' know, she's still staying at our place actually."
-    "¡[_extend_] {i}Uh, bien{/i}! Sí, mi prima está, ya sabéis, en su casa."
+    extend "{i}Uh, bien{/i}! Sí, mi prima está, ya sabéis, en su casa."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8763
 translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_18c4a07e:
@@ -10552,7 +10552,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_ab
 translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_5f46da16:
 
     # danny closed wondering talk_happy "R-right! Y-yes! Absolutely stoked!"
-    "¡[_danny_s_closed_s_wondering_s_talk_happy_] S-siii! ¡Sí! ¡Absolutamente!"
+    danny closed wondering talk_happy "S-siii! ¡Sí! ¡Absolutamente!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8873
 translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_625eb559:
@@ -10870,7 +10870,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_1a
 translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_63c37fb6:
 
     # star closed angry talk_consternation tears "Dammit Paulina! You're so mean some times!!"
-    "¡[_star_s_closed_s_angry_s_talk_consternation_s_tears_] ¡Joder Paulina! ¡¡¡¡¡Eres muy dolorosa a veces!!"
+    star closed angry talk_consternation tears "¡Joder Paulina! ¡¡¡¡¡Eres muy dolorosa a veces!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9153
 translate spanish A_Nightmare_Called_Ember_desiree_2_continued_school_morning_7dab5e8e:
@@ -11662,7 +11662,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_continued_4_home_hall_2d2183a
 translate spanish A_Nightmare_Called_Ember_desiree_continued_4_home_hall_4be7722b:
 
     # jazz towards sad talk_displeased "Well you better pull it together, party monster, or we'll be the laughing stock of the {u}entire{/u} school!"
-    "¡[_jazz_s_towards_s_sad_s_talk_displeased_] Bueno, mejor la hagamos juntos, seremos el hazmerreír de la escuela {u}entera{/u}!"
+    jazz towards sad talk_displeased "Bueno, mejor la hagamos juntos, seremos el hazmerreír de la escuela {u}entera{/u}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9739
 translate spanish A_Nightmare_Called_Ember_desiree_continued_4_home_hall_0a8f26d0:
@@ -11944,7 +11944,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_continued_5_mall_c76d3eab:
 translate spanish A_Nightmare_Called_Ember_desiree_continued_5_mall_68205529:
 
     # danny closed wondering talk_happy "Great! Can I get that to go please?"
-    "¡[_danny_s_closed_s_wondering_s_talk_happy_] ¡genial! ¿Puedes vendérnoslo?"
+    danny closed wondering talk_happy "¡genial! ¿Puedes vendérnoslo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9978
 translate spanish A_Nightmare_Called_Ember_desiree_continued_5_mall_6bd84b8e:
@@ -12646,7 +12646,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_ba
 translate spanish A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_e88d10f9:
 
     # danny towards neutral talk_displeased "Wisconsin! You're from Wisconsin, Des."
-    "¡[_danny_s_towards_s_neutral_s_talk_displeased_] Wisconsin! Eres de Wisconsin, Des."
+    danny towards neutral talk_displeased "Wisconsin! Eres de Wisconsin, Des."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10686
 translate spanish A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_d339b80a:
@@ -13042,13 +13042,13 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_c237edff:
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_a2a1c561:
 
     # desiree "No! Very good, in fact! I haven't felt this relaxed in a long, {i}loooong{/i} time..."
-    "¡[_desiree_] No! Muy bien, de hecho! No he sentido esta relajación en un largo tiempo, {i}laaaaargo{/i} tiempo..."
+    desiree "No! Muy bien, de hecho! No he sentido esta relajación en un largo tiempo, {i}laaaaargo{/i} tiempo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11037
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_b969cf0b:
 
     # danny towards wondering talk_amused "Awesome! Glad you're having a nice time."
-    "¡[_danny_s_towards_s_wondering_s_talk_amused_] ¡genial! Me alegro de que te lo pases bien."
+    danny towards wondering talk_amused "¡genial! Me alegro de que te lo pases bien."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11041
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_ef58ef8c:
@@ -13138,7 +13138,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_fc006397:
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_bde82ba8:
 
     # paulina offscreen towards_wide sad talk_displeased "GHOST BOY?!"
-    "¡[_paulina_s_offscreen_s_towards_wide_s_sad_s_talk_displeased_] ¿CHICO FANTASMA?!"
+    paulina offscreen towards_wide sad talk_displeased "¿CHICO FANTASMA?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11130
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_9c1ae9d5:
@@ -13150,7 +13150,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_9c1ae9d5:
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_d39d2008:
 
     # star towards rise talk_amused "Hey Billy! Did you want a drink at all? That doofus Danny got one thing right and made sure to pack this place with lots of free booze! {i}Hah!{/i}"
-    "¡[_star_s_towards_s_rise_s_talk_amused_] Hey Billy! ¿Quieres beber algo? ¡Esa mascota Danny hizo una cosa correcta y se aseguró de llenar este lugar con un montón de aguardiente! {i}¡Hah!{/i}"
+    star towards rise talk_amused "Hey Billy! ¿Quieres beber algo? ¡Esa mascota Danny hizo una cosa correcta y se aseguró de llenar este lugar con un montón de aguardiente! {i}¡Hah!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11140
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_e9bd0f40:
@@ -13462,7 +13462,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_ae
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_ce085d5d:
 
     # tucker offscreen closed wondering talk_happy "SAM! {i}SAMMMM!!{/i} They have beer pong set up in the kitchen!! I'm gonna be unstoppable at this!!"
-    "¡[_tucker_s_offscreen_s_closed_s_wondering_s_talk_happy_] ¡SAM! {i}SAMMM!!{/i} Tienen un grifo de cerveza instalado en la cocina!! ¡Voy a ser imparable en alcanzarlo!!"
+    tucker offscreen closed wondering talk_happy "¡SAM! {i}SAMMM!!{/i} Tienen un grifo de cerveza instalado en la cocina!! ¡Voy a ser imparable en alcanzarlo!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11343
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_0e306f77:
@@ -13486,7 +13486,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_sam_tucker_phantom_8e
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_05228555:
 
     # dash beer closed idle talk_happy "DUDE! He {i}actually{/i} came! {i}Faaar{/i} out!!"
-    "¡[_dash_s_beer_s_closed_s_idle_s_talk_happy_] Tío! ¡Él y {i}en carne y hueso{/i} ha llegado! ¡¡ {i}venid{/i} todos!!"
+    dash beer closed idle talk_happy "Tío! ¡Él y {i}en carne y hueso{/i} ha llegado! ¡¡ {i}venid{/i} todos!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11380
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_32ceecf4:
@@ -13534,7 +13534,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_e16
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_912d0ade:
 
     # dash beer towards rise talk_amused "Man you SEEN the babes here tonight?! I'm dying over here!{p}Gotta be the sick mood lighting Fenturd has set up in this place..."
-    "¡[_dash_s_beer_s_towards_s_rise_s_talk_amused_] ¡tio ¿has VISTO las Bellezas que hay aquí esta noche?! ¡Me va a dar algo aquí! {p} Debe de ser el aire enfermizo que Fenturd ha dejado pegado en este lugar..."
+    dash beer towards rise talk_amused "¡tio ¿has VISTO las Bellezas que hay aquí esta noche?! ¡Me va a dar algo aquí! {p} Debe de ser el aire enfermizo que Fenturd ha dejado pegado en este lugar..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11418
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_dash_kwan_phantom_5568680d:
@@ -13756,7 +13756,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_648d5
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_9d36da96:
 
     # dash beer towards sad talk_happy "No way dude! You totally gotta play! Along with your hot girlfriend!"
-    "¡[_dash_s_beer_s_towards_s_sad_s_talk_happy_] ¡no tienes nada que decir! ¡Tú tienes que jugar! ¡Junto con tu novia!"
+    dash beer towards sad talk_happy "¡no tienes nada que decir! ¡Tú tienes que jugar! ¡Junto con tu novia!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11636
 translate spanish A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_690f4095:
@@ -14314,7 +14314,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_8_party_desiree_star_paulina_
 translate spanish A_Nightmare_Called_Ember_desiree_8_party_desiree_star_paulina_drunk_782e5713:
 
     # desiree "N-no! You shouldn't be..."
-    "¡[_desiree_] N-no! No deberías hacerlo..."
+    desiree "N-no! No deberías hacerlo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12154
 translate spanish A_Nightmare_Called_Ember_desiree_8_party_desiree_star_paulina_drunk_87624a18:
@@ -14440,7 +14440,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_f74caff5:
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_29489919:
 
     # maddie suited idle talk_displeased "Jack, it'll have to wait! That {i}thing{/i} is still after us!"
-    "¡[_maddie_s_suited_s_idle_s_talk_displeased_], ¡tendrá que esperar! ¡Esa {i}cosa {/i} está después de nosotros!"
+    maddie suited idle talk_displeased ", ¡tendrá que esperar! ¡Esa {i}cosa {/i} está después de nosotros!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12286
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_c6397a24:
@@ -14458,7 +14458,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_72679a60:
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_24fd5e5c:
 
     # extend " EVERYONE!! BRACE FOR PHANTASMIC IMPACT!!"
-    "¡¡¡[_extend_]  ¡TODO EL MUNDO!! ¡¡AGARRAOS PARA UN IMPACTO FANSTAMAGORICO!!"
+    extend " ¡TODO EL MUNDO!! ¡¡AGARRAOS PARA UN IMPACTO FANSTAMAGORICO!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12303
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_0322d79d:
@@ -14482,7 +14482,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_cd7b8ecb:
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_54570fa3:
 
     # maddie suited rise talk_displeased "It's nearly here! Where's Danny gone to? DANNY!"
-    "¡[_maddie_s_suited_s_rise_s_talk_displeased_] ¡está muy cerca! ¿A dónde fue Danny? ¡DANNY!"
+    maddie suited rise talk_displeased "¡está muy cerca! ¿A dónde fue Danny? ¡DANNY!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12324
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_f6f75845:
@@ -14566,7 +14566,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_5ec24918:
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_ccded42e:
 
     # maddie suited offscreen rise talk_distraught "Jack, it's got us pinned down! There's no good cover here!!{p}We're sitting ducks!!"
-    "¡[_maddie_s_suited_s_offscreen_s_rise_s_talk_distraught_] Jack, ¡nos hemos anclado! ¡No hay buena cobertura aquí!! ¡¡{p}Estamos acorralados{/p}!!"
+    maddie suited offscreen rise talk_distraught "Jack, ¡nos hemos anclado! ¡No hay buena cobertura aquí!! ¡¡{p}Estamos acorralados{/p}!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12429
 translate spanish A_Nightmare_Called_Ember_desiree_9_party_crashed_4d027e1a:
@@ -15100,7 +15100,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_continued_13_sex_c69d737f:
 translate spanish A_Nightmare_Called_Ember_desiree_continued_13_sex_3e0a8ae8:
 
     # desiree "{i}MMmmm!{/i} That's it! That feels... unbelievable!!"
-    "¡[_desiree_] {i}Mmmm!{/i} ¡¡Esto és!! ¡¡Esto es... increíble!!"
+    desiree "{i}Mmmm!{/i} ¡¡Esto és!! ¡¡Esto es... increíble!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12923
 translate spanish A_Nightmare_Called_Ember_desiree_continued_13_sex_b5c0faa1:
@@ -15226,7 +15226,7 @@ translate spanish A_Nightmare_Called_Ember_desiree_continued_14_aftersex_0550e3b
 translate spanish A_Nightmare_Called_Ember_desiree_continued_15_b2f4502f:
 
     # danny boxers towards sad talk_displeased "M-MOM!! Dad! {i}Uhh{/i}, hey guys, I'm kinda naked here!"
-    "¡[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] ¡¡M-MAMA!! ¡papa!! ¡ {i}Uhh{/i}, hoa ¡Estoy desnudo!"
+    danny boxers towards sad talk_displeased "¡¡M-MAMA!! ¡papa!! ¡ {i}Uhh{/i}, hoa ¡Estoy desnudo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13034
 translate spanish A_Nightmare_Called_Ember_desiree_continued_15_3c1505fa:
@@ -15994,7 +15994,7 @@ translate spanish A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_e4e0b8ff:
 translate spanish A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_5db5480a:
 
     # danny f offscreen towards_wide unhappy talk_distraught "S-Sam?!"
-    "¡[_danny_s_f_s_offscreen_s_towards_wide_s_unhappy_s_talk_distraught_] ¡¿S-Sam?!"
+    danny f offscreen towards_wide unhappy talk_distraught "¡¿S-Sam?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13637
 translate spanish A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_0f5e2c81:
@@ -16030,7 +16030,7 @@ translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_e
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_bc00757e:
 
     # tall_goon "No can do, broski! We got orders from the boss lady to take care of her {i}and{/i} her little ghostly boyfriend... 'cha'..."
-    "¡[_tall_goon_] ¡No puede ser bróski! ¡Hemos recibido órdenes de la dama del jefe de cuidar de ella {i}y{/i} de su pequeño novio fantasma... 'cha'..."
+    tall_goon "¡No puede ser bróski! ¡Hemos recibido órdenes de la dama del jefe de cuidar de ella {i}y{/i} de su pequeño novio fantasma... 'cha'..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13727
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_5abae422:
@@ -16102,7 +16102,7 @@ translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_e
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_05e95f2c:
 
     # sam tied s_towards s_confused s_talk_happy g_displeased "Tucker! How did you find us?"
-    "¡[_sam_s_tied_s_s_towards_s_s_confused_s_s_talk_happy_s_g_displeased_] Tucker! ¿Cómo nos has encontrado?"
+    sam tied s_towards s_confused s_talk_happy g_displeased "Tucker! ¿Cómo nos has encontrado?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13803
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_d1ad7ef9:
@@ -16144,7 +16144,7 @@ translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_a6ce5290:
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_bc00757e:
 
     # tall_goon "No can do, broski! We got orders from the boss lady to take care of her {i}and{/i} her little ghostly boyfriend... 'cha'..."
-    "¡[_tall_goon_] ¡No puede ser bróski! ¡Hemos recibido órdenes de la dama del jefe de cuidar de ella {i}y{/i} de su pequeño novio fantasma... 'cha'..."
+    tall_goon "¡No puede ser bróski! ¡Hemos recibido órdenes de la dama del jefe de cuidar de ella {i}y{/i} de su pequeño novio fantasma... 'cha'..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13853
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_5abae422:
@@ -16210,7 +16210,7 @@ translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_fe2b7c08:
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_23e7de2c:
 
     # sam tied s_towards s_confused s_talk_happy g_displeased "Tucker! How did you find us??"
-    "¡[_sam_s_tied_s_s_towards_s_s_confused_s_s_talk_happy_s_g_displeased_] Tucker! ¿Cómo nos encontraste??"
+    sam tied s_towards s_confused s_talk_happy g_displeased "Tucker! ¿Cómo nos encontraste??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13919
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_d1ad7ef9:
@@ -16240,7 +16240,7 @@ translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_5f65ba42:
 translate spanish A_Nightmare_Called_Ember_scene_13_Park_Evening_e34c0fa9:
 
     # tall_goon talk_displeased "Bah! It doesn't matter, we'll just take care of all three of you freaks and geeks!"
-    "¡[_tall_goon_s_talk_displeased_] Bah! No importa, ¡nos ocuparemos de los tres frikis y chupatintas!"
+    tall_goon talk_displeased "Bah! No importa, ¡nos ocuparemos de los tres frikis y chupatintas!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13976
 translate spanish A_Nightmare_Called_Ember_postfight_blue_ghost_1e2390be:
@@ -16336,13 +16336,13 @@ translate spanish A_Nightmare_Called_Ember_postfight_blue_ghost_a47c2d16:
 translate spanish A_Nightmare_Called_Ember_postfight_blue_ghost_d86dc211:
 
     # danny phantom arms_normal towards unhappy talk_distraught "TUCKER!"
-    "¡[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] TUCKER!"
+    danny phantom arms_normal towards unhappy talk_distraught "TUCKER!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14143
 translate spanish A_Nightmare_Called_Ember_postfight_blue_ghost_236503c2:
 
     # sam co towards_wide unhappy talk_distraught "Danny! We have to get out of here!"
-    "¡[_sam_s_co_s_towards_wide_s_unhappy_s_talk_distraught_] Danny! ¡Tenemos que salir de aquí!"
+    sam co towards_wide unhappy talk_distraught "Danny! ¡Tenemos que salir de aquí!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14148
 translate spanish A_Nightmare_Called_Ember_postfight_blue_ghost_a59f4c02:
@@ -16912,7 +16912,7 @@ translate spanish A_Nightmare_Called_Ember_Sam_69_scene_e09cee59:
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_a8962308:
 
     # sam "Mmmmphh?!"
-    "¡[_sam_] Mmmphh?!"
+    sam "Mmmphh?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14684
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_e500ebee:
@@ -16948,7 +16948,7 @@ translate spanish A_Nightmare_Called_Ember_Sam_69_scene_33399e8b:
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_46c269f9:
 
     # danny "Mmmmm!"
-    "¡[_danny_] Mmmmm!"
+    danny "¡Mmmmm!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14702
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_dad59f57:
@@ -16966,7 +16966,7 @@ translate spanish A_Nightmare_Called_Ember_Sam_69_scene_d77c552b:
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_42f5546d:
 
     # sam "Oh! S-sorry Danny!"
-    "¡[_sam_] Oh! ¡P-perdon Danny!"
+    sam "Oh! ¡P-perdon Danny!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14720
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_09262295:
@@ -17074,7 +17074,7 @@ translate spanish A_Nightmare_Called_Ember_Sam_69_scene_70473f23:
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_571cb5bc:
 
     # sam co towards_wide neutral talk_consternation "Totally! Just... just babbling in my own head..."
-    "¡[_sam_s_co_s_towards_wide_s_neutral_s_talk_consternation_] ¡claro! solo... solo pensaba en voz alta..."
+    sam co towards_wide neutral talk_consternation "¡claro! solo... solo pensaba en voz alta..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14774
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_6a4252d9:
@@ -17122,7 +17122,7 @@ translate spanish A_Nightmare_Called_Ember_Sam_69_scene_5964c036:
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_3ff4d1f1:
 
     # sam co away sad talk_displeased "Yep! Like, right now!"
-    "¡[_sam_s_co_s_away_s_sad_s_talk_displeased_] Sí! ¡como ya, ahora mismo!"
+    sam co away sad talk_displeased "Sí! ¡como ya, ahora mismo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14798
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_3f3822be:
@@ -17308,7 +17308,7 @@ translate spanish A_Nightmare_Called_Ember_Sam_69_scene_5dd428d8:
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_c2f4041f:
 
     # sam co towards angry talk_happy "Kick her ass!"
-    "¡[_sam_s_co_s_towards_s_angry_s_talk_happy_] ¡pateale el culo!"
+    sam co towards angry talk_happy "¡pateale el culo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14916
 translate spanish A_Nightmare_Called_Ember_Sam_69_scene_7242568d:
@@ -17380,7 +17380,7 @@ translate spanish A_Nightmare_Called_Ember_scene_17_Danny_livingroom_Morning_41e
 translate spanish A_Nightmare_Called_Ember_scene_17_Danny_livingroom_Morning_0c60ae7c:
 
     # danny towards_wide sad talk_distraught "Jazz! Wait!"
-    "¡[_danny_s_towards_wide_s_sad_s_talk_distraught_] Jazz! ¡Espera!"
+    danny towards_wide sad talk_distraught "Jazz! ¡Espera!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14979
 translate spanish A_Nightmare_Called_Ember_scene_17_Danny_livingroom_Morning_da9627d2:
@@ -17536,7 +17536,7 @@ translate spanish A_Nightmare_Called_Ember_scene_18_Concert_Evening_df171edd:
 translate spanish A_Nightmare_Called_Ember_scene_18_Concert_Evening_f29a4669:
 
     # danny phantom arms_normal towards angry talk_distraught "I won't let you hurt my friends!"
-    "¡[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_distraught_] no te dejaré lastimar a mis amigos!"
+    danny phantom arms_normal towards angry talk_distraught "no te dejaré lastimar a mis amigos!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15105
 translate spanish A_Nightmare_Called_Ember_scene_18_Concert_Evening_66f4bef9:
@@ -17842,7 +17842,7 @@ translate spanish A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_4b3568
 translate spanish A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_d824ccbc:
 
     # danny towards_wide unhappy talk_distraught "Whoa whoa! Calm down both of you! I didn't have a spare Thermos laying around, okay?"
-    "¡[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] whoa, whoa! calmáos ambas! No tenía un Thermos sobrante, ¿vale?"
+    danny towards_wide unhappy talk_distraught "whoa, whoa! calmáos ambas! No tenía un Thermos sobrante, ¿vale?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15395
 translate spanish A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_c4650027:
@@ -18082,7 +18082,7 @@ translate spanish A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_0fb93a
 translate spanish A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_e581a6d4:
 
     # ember towards_wide angry talk_distraught "SCREW YOU!"
-    "¡[_ember_s_towards_wide_s_angry_s_talk_distraught_] ¡QUE TE JODAN!"
+    ember towards_wide angry talk_distraught "¡QUE TE JODAN!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15549
 translate spanish A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_c4b7cc7b:
@@ -18238,7 +18238,7 @@ translate spanish A_Nightmare_Called_Ember_scene_20_Continued_3afcb101:
 translate spanish A_Nightmare_Called_Ember_scene_20_Continued_3f5f3b21:
 
     # danny towards_wide wondering talk_displeased blush "Argh! S-sorry! I didn't realize that would happen either..."
-    "¡[_danny_s_towards_wide_s_wondering_s_talk_displeased_s_blush_] ¡Argh! ¡Lo siento! No me di cuenta de que eso iba a pasar..."
+    danny towards_wide wondering talk_displeased blush "¡Argh! ¡Lo siento! No me di cuenta de que eso iba a pasar..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15670
 translate spanish A_Nightmare_Called_Ember_scene_20_Continued_96d4f99e:
@@ -18898,7 +18898,7 @@ translate spanish A_Nightmare_Called_Ember_scene_22_Mall_Morning_028f8568:
 translate spanish A_Nightmare_Called_Ember_scene_22_Mall_Morning_79572e45:
 
     # ember ice date towards angry talk_consternation "HEY!!"
-    "¡¡¡[_ember_s_ice_s_date_s_towards_s_angry_s_talk_consternation_] ¡¡HEY!!"
+    ember ice date towards angry talk_consternation "¡¡HEY!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16178
 translate spanish A_Nightmare_Called_Ember_scene_22_Mall_Morning_f0423060:
@@ -19492,7 +19492,7 @@ translate spanish A_Nightmare_Called_Ember_scene_25_Continued_f61fb41e:
 translate spanish A_Nightmare_Called_Ember_scene_25_Continued_9aa1c17e:
 
     # danny towards angry talk_displeased "Ladies! Hey, quiet now!{p}Now you girls are going to need to calm down."
-    "¡[_danny_s_towards_s_angry_s_talk_displeased_] Señoras! ¡Eh, silencio ahora!{p}Ahora van a calmarse."
+    danny towards angry talk_displeased "Señoras! ¡Eh, silencio ahora!{p}Ahora van a calmarse."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16591
 translate spanish A_Nightmare_Called_Ember_scene_25_Continued_a024183b:
@@ -19600,7 +19600,7 @@ translate spanish A_Nightmare_Called_Ember_scene_25_Continued_cbf35992:
 translate spanish A_Nightmare_Called_Ember_scene_25_Continued_7420e4c9:
 
     # ember towards angry talk_consternation "Well, {i}that{/i} sucks!"
-    "¡[_ember_s_towards_s_angry_s_talk_consternation_] Bueno, ¡{i}valla{/i} mierda!"
+    ember towards angry talk_consternation "Bueno, ¡{i}valla{/i} mierda!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16661
 translate spanish A_Nightmare_Called_Ember_scene_25_Continued_4748de16:
@@ -19900,7 +19900,7 @@ translate spanish A_Nightmare_Called_Ember_scene_26_Living_room_Evening_c4918e35
 translate spanish A_Nightmare_Called_Ember_scene_26_Living_room_Evening_11011499:
 
     # ember tv towards angry talk_distraught "What?!"
-    "¡[_ember_s_tv_s_towards_s_angry_s_talk_distraught_] ¡¿qué?!"
+    ember tv towards angry talk_distraught "¡¿qué?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16866
 translate spanish A_Nightmare_Called_Ember_scene_26_Living_room_Evening_739c178e:
@@ -20248,7 +20248,7 @@ translate spanish A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_10a702
 translate spanish A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_a84cfef6:
 
     # jack offscreen at_player idle talk_happy "Dannyyyy!"
-    "¡[_jack_s_offscreen_s_at_player_s_idle_s_talk_happy_] Dannyyyyy!"
+    jack offscreen at_player idle talk_happy "Dannyyyyy!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17088
 translate spanish A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_61c6d705:
@@ -20398,7 +20398,7 @@ translate spanish A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_259f89
 translate spanish A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_ee14fac7:
 
     # ember towards sad talk_displeased "Wait!"
-    "¡[_ember_s_towards_s_sad_s_talk_displeased_] espera!"
+    ember towards sad talk_displeased "espera!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17194
 translate spanish A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_a0771c72:
@@ -20536,7 +20536,7 @@ translate spanish A_Nightmare_Called_Ember_scene_28_School_Morning_1baf2409:
 translate spanish A_Nightmare_Called_Ember_scene_28_School_Morning_45f46471:
 
     # sam co towards_glare angry talk_distraught "Not bring her to first period!! The hell's the matter with you, Danny?!"
-    "¡[_sam_s_co_s_towards_glare_s_angry_s_talk_distraught_] ¡No traerla con la primera regla! ¡¿Qué infiernos te pasa Danny?!"
+    sam co towards_glare angry talk_distraught "¡No traerla con la primera regla! ¡¿Qué infiernos te pasa Danny?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17310
 translate spanish A_Nightmare_Called_Ember_scene_28_School_Morning_9b93d2e8:
@@ -20764,7 +20764,7 @@ translate spanish A_Nightmare_Called_Ember_scene_28_School_Morning_b787c37e:
 translate spanish A_Nightmare_Called_Ember_scene_28_School_Morning_fafb1fa0:
 
     # sam co away angry talk_distraught "Tucker!"
-    "¡[_sam_s_co_s_away_s_angry_s_talk_distraught_] ¡Tucker!"
+    sam co away angry talk_distraught "¡Tucker!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17490
 translate spanish A_Nightmare_Called_Ember_scene_28_School_Morning_9d40d49a:
@@ -20896,7 +20896,7 @@ translate spanish A_Nightmare_Called_Ember_scene_29_Classroom_Morning_66d8f203:
 translate spanish A_Nightmare_Called_Ember_scene_29_Classroom_Morning_810e9d50:
 
     # lancer towards_wide wondering talk_frown "Mr. Fenton?!"
-    "¡[_lancer_s_towards_wide_s_wondering_s_talk_frown_] ¡¿Sr. Fenton?!"
+    lancer towards_wide wondering talk_frown "¡¿Sr. Fenton?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17597
 translate spanish A_Nightmare_Called_Ember_scene_29_Classroom_Morning_ab8b0c6a:
@@ -21916,7 +21916,7 @@ translate spanish A_Nightmare_Called_Ember_ember_cowgirl_scene_13050107:
 translate spanish A_Nightmare_Called_Ember_ember_cowgirl_scene_83549ec6:
 
     # ember "Do it! Finish inside me!"
-    "¡[_ember_] Hazlo! ¡Termina dentro de mí!"
+    ember "¡Hazlo! ¡Termina dentro de mí!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18375
 translate spanish A_Nightmare_Called_Ember_ember_cowgirl_scene_fbcc066b:

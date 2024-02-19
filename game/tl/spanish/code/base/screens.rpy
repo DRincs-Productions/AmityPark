@@ -16,7 +16,7 @@ translate spanish a830a7ee:
 translate spanish 025b4ae1:
 
     # "spacing 0"
-    "spacing"
+    "espacio 0"
 
 # game/code/base/screens.rpy:461
 translate spanish 727f6ef2:
@@ -218,7 +218,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:911
     old "Rollback Side"
-    new "Lado de retroceso"
+    new "Retroceso"
 
     # game/code/base/screens.rpy:912
     old "Disable"

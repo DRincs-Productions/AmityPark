@@ -28,7 +28,7 @@ translate spanish talk_to_Sam_about_2d92ae1d:
 translate spanish talk_to_Sam_about_b2f9b57f:
 
     # sam talk_happy "Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
-    sam talk_happy "Oh seguro, no és una molestia. Aquí, lo voy a escribir en este trozo de papel para ti."
+    sam talk_happy "Oh seguro, no és molestia. Aquí, lo voy a escribir en este trozo de papel para ti."
 
 # game/code/locations/sam_home.rpy:38
 translate spanish talk_to_Sam_about_07d332cc:
