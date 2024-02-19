@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-10 12:36\n"
+"PO-Revision-Date: 2024-02-19 14:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -951,7 +951,7 @@ msgstr "[_extend_] ...¿a qué se refieren los dos sobre-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1219 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_7aa5b719:
 msgid "[_danny_] HOLY SMOKES!"
-msgstr "¡[_danny_] ¡SANTA BIBLIA!"
+msgstr "[_danny_] ¡¡SANTA BIBLIA!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1225 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d392b100:
 msgid "[_jazz_] N-no way!"
@@ -4961,7 +4961,7 @@ msgstr "[_spectra_] Tú... ¡No! No, no, {i}¡¡¡NO!!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6899 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_a519a1b9:
 msgid "[_spectra_] B-Bertrand! Get out here and stop them!"
-msgstr "¡[_spectra_] B-Bertrand! ¡ven y detenlos!"
+msgstr "[_spectra_] ¡B-Bertrand! ¡ven y detenlos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6908 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_59bf7565:
 msgid "[_bootrand_] I'm sorry Mistress... I'm still too weak! I can't do anything!"
@@ -5373,7 +5373,7 @@ msgstr "[_danny_] ¿Qué?! ¡N-no, no puedo tenerla errando por la casa!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7465 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_043dbf8f:
 msgid "[_spectra_] {i}Hah!!{/i} Fine by me! That's one step closer to getting evicted permanently from this little shiny fleshlight prison!"
-msgstr "¡[_spectra_] {i}Hah!!{/i} Bien por mí! ¡Estoy un paso más cerca de ser desahuciada permanentemente de esta pequeña cárcel brillante!"
+msgstr "[_spectra_] ¡{i}Hah!!{/i} Bien por mí! ¡Estoy un paso más cerca de ser desahuciada permanentemente de esta pequeña cárcel brillante!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7471 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_69f1164d:
 msgid "[_danny_] Girls, c'mon, you can't do this, not when she's just getting started to being rehabilitated!"
@@ -5521,7 +5521,7 @@ msgstr "[_danny_] Las personas podrían plantear algunas preguntas si ven a un e
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7646 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_e0410c5d:
 msgid "[_penelope_] OLDER WHAT?!"
-msgstr "¡[_penelope_] ¡¿COMO QUE MAYOR?!"
+msgstr "[_penelope_] ¡¿COMO QUE MAYOR?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7650 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_58346c27:
 msgid "[_danny_] Nothing bad! Just, y'know, I'm trying to say... more casual wear might be better."
@@ -7677,7 +7677,7 @@ msgstr "[_extend_] Eres el único que lo hizo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10600 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d5c03546:
 msgid "[_danny_] P-Penelope! Wait!"
-msgstr "¡[_danny_] P-Penelope! ¡Espera!"
+msgstr "[_danny_] ¡P-Penelope! ¡Espera!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10603 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_cabf1f39:
 msgid "[_danny_] ...Penelope..."
@@ -7749,7 +7749,7 @@ msgstr "[_ember_] Claro. Vuelvo adentro a dormir, hasta luego."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10720 #-#-# translate crowdin Episode_8_stage_375_bedroom_morning_penelope_isolated_c4045bea:
 msgid "[_danny_] (Okay, so clearly Penelope's caught up in her own self loathing that nothing {i}I{/i} could say could fix things for her.)"
-msgstr "[_danny_] (Vale, claramente Penélope está atrapada en su propia auto-reafirmación de que nada de lo que {i}yo{i/} diga pueda arreglar las cosas para ella.)"
+msgstr "[_danny_] (Vale, claramente Penélope está atrapada en su propia auto-reafirmación de que nada de lo que {i}yo{/i} diga pueda arreglar las cosas para ella.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10723 #-#-# translate crowdin Episode_8_stage_375_bedroom_morning_penelope_isolated_c03891d0:
 msgid "[_danny_] (...but maybe there's some way I can help bring some sort of closure to her that she desperately needs?)"
@@ -8145,7 +8145,7 @@ msgstr "[_penelope_] ¡Estoy muy cerca!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11487 #-#-# translate crowdin Episode_8_stage_390_bedroom_night_penelope_unfurled_4ef8d029:
 msgid "[_danny_] P-Penelope! If you keep doing that-"
-msgstr "¡[_danny_] P-Penelope! Si sigues haciendo eso-"
+msgstr "[_danny_] ¡P-Penelope! Si sigues haciendo eso-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11489 #-#-# translate crowdin Episode_8_stage_390_bedroom_night_penelope_unfurled_2352311b:
 msgid "[_penelope_] Oh god! Yes! {i}YES!{/i}"
@@ -8161,7 +8161,7 @@ msgstr "[_danny_] P-Penélope ¡Me voy correr!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11495 #-#-# translate crowdin Episode_8_stage_390_bedroom_night_penelope_unfurled_068b9e8f:
 msgid "[_penelope_] I don't fucking care! Just fill me up!"
-msgstr "¡[_penelope_] no me importa! ¡lléname!"
+msgstr "[_penelope_] ¡no me importa! ¡lléname!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11497 #-#-# translate crowdin Episode_8_stage_390_bedroom_night_penelope_unfurled_10b8c714:
 msgid "[_danny_] {i}S-shit!{/i}"
@@ -9329,7 +9329,7 @@ msgstr "[_danny_] ...¿estás... bien?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12845 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_f016dd84:
 msgid "[_penelope_] {i}Mm! Mmm! MMMM!{/i}"
-msgstr "¡[_penelope_] {i}Mm! ¡Mm! MMM!{/i}"
+msgstr "[_penelope_] ¡{i}Mm! ¡Mm! MMM!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12848 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_ff1615ca:
 msgid "[_desiree_] How does her ass feel, Master?"
