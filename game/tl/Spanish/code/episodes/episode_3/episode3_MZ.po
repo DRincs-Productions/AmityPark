@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-02 20:46\n"
+"PO-Revision-Date: 2024-02-19 14:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -647,7 +647,7 @@ msgstr "[_danny_s_talk_frown_s_sad_s_at_player_] Valla día... siento que nunca 
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:733 #-#-# translate crowdin a_masterful_speech_postfight_ca6cebcb:
 msgid "[_jack_s_towards_wide_s_sad_s_talk_happy_] Danny! No time for relaxing! Come look!! More exciting ghost news!!"
-msgstr "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] Danny! ¡No es momento de relajarse! ¡Ven a mirar!! Más noticias emocionantes de fantasmas!!"
+msgstr "[_jack_s_towards_wide_s_sad_s_talk_happy_] ¡Danny! ¡No es momento de relajarse! ¡Ven a mirar!! Más noticias emocionantes de fantasmas!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:735 #-#-# translate crowdin a_masterful_speech_postfight_1b671800:
 msgid "[_danny_s_frown_grin_s_at_player_s_sad_2_] (Man, I have just been {i}nailing{/i} these ramp setups into dramatic irony lately!)"
