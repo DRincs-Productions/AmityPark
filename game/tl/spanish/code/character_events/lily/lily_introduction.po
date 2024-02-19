@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 16:38\n"
+"PO-Revision-Date: 2024-02-07 13:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
 msgid "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
@@ -70,7 +70,7 @@ msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Oh, ¿en serio? Eso es impr
 
 # game/code/character_events/lily/lily_introduction.rpy:55 #-#-# translate crowdin lily_introduction_72bd1763:
 msgid "[_lily_s_away_s_idle_s_talk_happy_] I mean like, if I wanted to, that is.{p}That has yet to be decided."
-msgstr "[_lily_s_away_s_idle_s_talk_happy_] Quiero decir si quisiera, es decir.{p} Aún no lo he decidido{/p}."
+msgstr "[_lily_s_away_s_idle_s_talk_happy_] Quiero decir si quisiera, es decir.{p} Aún  no lo he decidido."
 
 # game/code/character_events/lily/lily_introduction.rpy:58 #-#-# translate crowdin lily_introduction_3ee3558f:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] O-oh, okay then."
@@ -86,7 +86,7 @@ msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Claro, estoy aquí."
 
 # game/code/character_events/lily/lily_introduction.rpy:67 #-#-# translate crowdin lily_introduction_4e2c4a2c:
 msgid "[_lily_s_towards_s_idle_s_talk_displeased_] Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
-msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Muy bien.{p}Primera pregunta:{/p} {p}¿Alguna vez has robado dinero de tu trabajo{/p}?"
+msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Muy bien.{p}Primera pregunta: {p}¿Alguna vez has robado dinero de tu trabajo ?"
 
 # game/code/character_events/lily/lily_introduction.rpy:70 #-#-# translate crowdin lily_introduction_c3b99a35:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] No, I haven't."
@@ -178,7 +178,7 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] No, ese es mi apellido, mi nombre
 
 # game/code/character_events/lily/lily_introduction.rpy:159 #-#-# translate crowdin lily_introduction_eaaee54b:
 msgid "[_valerie_s_uniform_up_s_towards_s_angry_s_talk_displeased_] {i}FENTON!!{/i}{p}What the heck are you doing here?"
-msgstr "[_valerie_s_uniform_up_s_towards_s_angry_s_talk_displeased_] {i}¡¡FENTON!! {/i}{p}¿Qué diablos estás haciendo aquí{/p}?"
+msgstr "[_valerie_s_uniform_up_s_towards_s_angry_s_talk_displeased_] {i}¡¡FENTON!! {/i}{p}¿Qué diablos estás haciendo aquí ?"
 
 # game/code/character_events/lily/lily_introduction.rpy:163 #-#-# translate crowdin lily_introduction_ba05f8e7:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] ...in a fast food restaurant? Jeez Val, take a guess."
@@ -238,7 +238,7 @@ msgstr "[_valerie_s_uniform_s_closed_s_angry_s_talk_displeased_] {i}Ugh! {/i} ¡
 
 # game/code/character_events/lily/lily_introduction.rpy:228 #-#-# translate crowdin lily_introduction_dccc8885:
 msgid "[_valerie_s_uniform_point_s_towards_s_angry_s_talk_displeased_] Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
-msgstr "[_valerie_s_uniform_point_s_towards_s_angry_s_talk_displeased_] Simplemente no digas {u}a nadie {/u} sobre esto Fenton...{p}... o ¡estás muerto{/p}!"
+msgstr "[_valerie_s_uniform_point_s_towards_s_angry_s_talk_displeased_] Simplemente no digas {u}a nadie {/u} sobre esto Fenton...{p}... o ¡estás muerto !"
 
 # game/code/character_events/lily/lily_introduction.rpy:232 #-#-# translate crowdin lily_introduction_29afd622:
 msgid "[_danny_s_towards_s_rise_s_consternation_] ...?"

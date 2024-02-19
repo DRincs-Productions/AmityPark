@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-12 18:38\n"
+"PO-Revision-Date: 2024-02-07 11:49\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -126,7 +126,7 @@ msgstr "[_epa_] Ahora, cada vez que ganes suficiente experiencia para aumentar t
 
 # game/code/battleoverhaul/newbattle.rpy:99 #-#-# translate crowdin newbattletutorial_b6fefe5d:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] \"Orgone Capacity?\""
-msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] \"¿Capacidad de Orgón?\""
+msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] \"¿Capacidad de Orgone?\""
 
 # game/code/battleoverhaul/newbattle.rpy:102 #-#-# translate crowdin newbattletutorial_2f243495:
 msgid "[_epa_] I'll come back to that in a minute Danny, just be patient."

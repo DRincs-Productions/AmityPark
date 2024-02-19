@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-03 19:31\n"
+"PO-Revision-Date: 2024-02-19 14:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -590,7 +590,7 @@ msgstr "[_maddie_s_talk_frown_s_wondering_] Danny, sé que terminarás eligiendo
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:473 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_278c0d71:
 msgid "[_danny_s_closed_s_talk_happy_s_sad_] Mom, I'm {i}telling{/i} you, you're missing out on the {b}Terminatra{/b} and {b}Femalien{/b} series! It even gets better when {b}Nightmerica{/b} shows up!!"
-msgstr "¡[_danny_s_closed_s_talk_happy_s_sad_] mamá, estoy {i}diciendote{/i}, te estás perdiendo la serie {b}Terminatra{/b} y {b}Femalien{/b}! ¡¡Incluso será mejor cuando se estrene el show {b}Nightmerica{/b}!!"
+msgstr "[_danny_s_closed_s_talk_happy_s_sad_] ¡mamá, estoy {i}diciendote{/i}, te estás perdiendo la serie {b}Terminatra{/b} y {b}Femalien{/b}! ¡¡Incluso será mejor cuando se estrene el show {b}Nightmerica{/b}!!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:475 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_c64fd968:
 msgid "[_maddie_s_closed_s_talk_happy_s_rise_one_3_] {i}Mmmhmm{/i}, I'll just take your word for it... horror honestly creeps me out."
@@ -1510,7 +1510,7 @@ msgstr "[_danny_s_at_player_s_rise_one_s_talk_frown_] Entonces, supongo que podr
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1105 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_dca24ef5:
 msgid "[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...{i}perverted in {b}general{/b}{/i}! Yeah, that's it!! That must be all it is!"
-msgstr "¡[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...¡{i}pervertido en {b}general{/b}{/i}! ¡Sí, eso és!! ¡Eso debe de ser!"
+msgstr "[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...¡{i}pervertido en {b}general{/b}{/i}! ¡Sí, eso és!! ¡Eso debe de ser!"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1106 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_4181dd36:
 msgid "[_danny_s_blank_stare_s_talk_happy_2_s_neutral_] {i}Phew{/i}!! Thank goodness! For a second there, I thought I was like, actually deranged in the head or something!"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:36\n"
+"PO-Revision-Date: 2024-02-10 18:12\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/Transition.rpy:140 #-#-# translate crowdin Ghost_Fight_Result_98dec076:
 msgid " Danny has gained [plus_exp] EXP"
@@ -18,39 +18,39 @@ msgstr " Danny ha ganado [plus_exp] EXP"
 
 # game/code/base/Transition.rpy:146 #-#-# translate crowdin Ghost_Fight_Result_3108374a:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has subido {b}{u}de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:161 #-#-# translate crowdin Ghost_Fight_Result_3108374a_1:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has subido {b}{u}de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:175 #-#-# translate crowdin Ghost_Fight_Result_3108374a_2:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:179 #-#-# translate crowdin Ghost_Fight_Result_3108374a_3:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:183 #-#-# translate crowdin Ghost_Fight_Result_3108374a_4:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:187 #-#-# translate crowdin Ghost_Fight_Result_3108374a_5:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:191 #-#-# translate crowdin Ghost_Fight_Result_3108374a_6:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:195 #-#-# translate crowdin Ghost_Fight_Result_3108374a_7:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # game/code/base/Transition.rpy:199 #-#-# translate crowdin Ghost_Fight_Result_3108374a_8:
 msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
-msgstr "{b}{u}{color=#4ec253}¡¡Felicidades, has subido de nivel{/b}{/u} !!{/color}"
+msgstr "{color=#4ec253}¡¡Felicidades, has {b}{u}subido de nivel{/b}{/u} !!{/color}"
 
 # §translate crowdin strings: #|#|# # game/code/base/Transition.rpy:278
 msgid "Yes"
