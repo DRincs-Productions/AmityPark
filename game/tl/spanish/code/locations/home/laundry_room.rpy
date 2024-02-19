@@ -4,5 +4,5 @@
 translate spanish notWorkingYet_bf5cad1b:
 
     # "cant jump in there yet"
-    "no se puede saltar allí todavía"
+    "no puedo saltar allí todavía"
 

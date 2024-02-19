@@ -28,13 +28,13 @@ translate spanish newbattletutorial_cadfb817:
 translate spanish newbattletutorial_5e74f432:
 
     # epa "Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
-    epa "Quién soy no es importante Danny, lo que es {i}importante{/i} es que he estado escuchando rumores acerca de tus técnicas de lucha que son \"aplastantes\" y simplemente \" duras\".{p}Bueno, ¡espero que todo eso cambie a partir de hoy!"
+    epa "Quién soy no es importante Danny, lo que es {i}importante{/i} es que he estado escuchando rumores acerca de tus técnicas de lucha que son \"aplastantes\" y \"duras\". {p}Bueno, ¡espero que todo eso cambie a partir de hoy!"
 
 # game/code/battleoverhaul/newbattle.rpy:40
 translate spanish newbattletutorial_8fbd33fc:
 
     # danny down angry talk_displeased "{i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
-    danny down angry talk_displeased "{i}*refunfuño*{/i} Bueno, pensé que estaba haciendo un buen trabajo por mi cuenta. {i}*refunfuño*"
+    danny down angry talk_displeased "{i}*refunfuño*{/i} Bueno, pensé que estaba haciendo un buen trabajo. {i}*refunfuño*{/i}"
 
 # game/code/battleoverhaul/newbattle.rpy:43
 translate spanish newbattletutorial_f8d29441:
@@ -46,7 +46,7 @@ translate spanish newbattletutorial_f8d29441:
 translate spanish newbattletutorial_c1834891:
 
     # epa "Danny, you need to learn to stop blocking attacks and just learn to use {b}Intangibility{/b} like any other ghost!"
-    epa "¡Danny, tienes que aprender a dejar de bloquear los ataques y aprender a usar {b}Intangibilidad{/b} como cualquier otro fantasma!"
+    epa "¡Danny, tienes que aprender a dejar de bloquear los ataques y aprender a usar la {b}Intangibilidad{/b} como cualquier otro fantasma!"
 
 # game/code/battleoverhaul/newbattle.rpy:48
 translate spanish newbattletutorial_d3c72019:
@@ -58,7 +58,7 @@ translate spanish newbattletutorial_d3c72019:
 translate spanish newbattletutorial_7ab24936:
 
     # epa "We're changing a few things around! Trust me, I've seen you go perving around your house by peaking your head and hands through walls... so just do that in combat too!{p}It costs {u}nothing{/u} at all to use now!"
-    epa "¡Vamos a cambiar algunas cosas! Confía en mí, te he visto ir a espiar por tu casa asomando la cabeza y las manos por las paredes... ¡así que hazlo también en el combate!{p}¡Ahora no cuesta nada usarlo {u}!"
+    epa "¡Vamos a cambiar algunas cosas! Confía en mí, te he visto ir a espiar por tu casa asomando la cabeza y las manos por las paredes... ¡así que hazlo también en el combate! ¡Ahora no {p}cuesta {u}nada{/u} usarlo!"
 
 # game/code/battleoverhaul/newbattle.rpy:53
 translate spanish newbattletutorial_7e6c2730:
@@ -172,7 +172,7 @@ translate spanish newbattletutorial_f9aa21b2:
 translate spanish newbattletutorial_b6fefe5d:
 
     # danny at_player rise talk_happy "\"Orgone Capacity?\""
-    danny at_player rise talk_happy "\"¿Capacidad de Orgón?\""
+    danny at_player rise talk_happy "\"¿Capacidad de Orgone?\""
 
 # game/code/battleoverhaul/newbattle.rpy:102
 translate spanish newbattletutorial_2f243495:
@@ -238,25 +238,25 @@ translate spanish newbattletutorial_2422e7dc:
 translate spanish newbattletutorial_b50585dc:
 
     # epa "Oh yes, and before we get too far from it... I should give you an explanation on how your Orgone boost now works."
-    epa "Ah, sí, y antes de que nos vayamos demasiado lejos... debería darte una explicación sobre cómo funciona ahora tu impulso de Orgón."
+    epa "Ah, sí, y antes de que nos vayamos demasiado lejos... debería darte una explicación sobre cómo funciona ahora tu impulso de Orgone."
 
 # game/code/battleoverhaul/newbattle.rpy:129
 translate spanish newbattletutorial_190d92a3:
 
     # epa "You now have an Orgone Capacity, so you can only maintain the fully boosted Orgone state for a {u}limited{/u} amount of time. Sorry if this sounds like a bummer."
-    epa "Ahora tienes una capacidad de Orgón, por lo que sólo puedes mantener el estado de Orgón totalmente potenciado durante una cantidad de tiempo {u}limitada{/u}. Lo siento si esto suena como un fastidio."
+    epa "Ahora tienes una capacidad de Orgone, por lo que sólo puedes mantener el estado de Orgone totalmente potenciado durante una cantidad de tiempo {u}limitado{/u}. Lo siento si esto suena como un fastidio."
 
 # game/code/battleoverhaul/newbattle.rpy:131
 translate spanish newbattletutorial_85dd90f0:
 
     # epa "Each turn you take will burn through your Orgone reserves until eventually the effect will fade, so play smart to finish the fight before you lose the boost."
-    epa "Cada turno que tomes gastarás tus reservas de Orgón hasta que se gaste. Así que juega inteligentemente para terminar la pelea antes de gastarlo."
+    epa "Cada turno que tomes gastarás tus reservas de Orgone hasta que se gaste. Así que juega inteligentemente para terminar la pelea antes de gastarlo."
 
 # game/code/battleoverhaul/newbattle.rpy:134
 translate spanish newbattletutorial_c3738b58:
 
     # epa "Now alongside the new limit, the Orgone Boost has been increased to be more {u}powerful{/u}. It'll provide you with ecto-power regeneration, shield you from damage, and increase your attack power."
-    epa "Ahora se ha aumentado el impulso de orgón para que sea más potente {u}. Te proporcionará regeneración de ectopoder, te protegerá del daño y aumentará tu poder de ataque."
+    epa "Ahora se ha aumentado el impulso de orgone para que sea más {u}potente{/u}. Te proporcionará regeneración de ectopoder, te protegerá del daño y aumentará tu poder de ataque."
 
 # game/code/battleoverhaul/newbattle.rpy:137
 translate spanish newbattletutorial_0762f23d:

@@ -10,13 +10,13 @@ translate spanish jack_convo_9dca2437:
 translate spanish jack_convo_14944344:
 
     # jack towards sad talk_happy "Sorry, not right now son! I'm in the middle of something scientific!{p}We'll discuss ghosts and other important things later though, not to worry!"
-    jack towards sad talk_happy "Lo siento, ¡ahora mismo no hijo! ¡Estoy en medio de algo científico! ¡{p}Discutiremos{p/} sobre fantasmas y otras cosas importantes más tarde, no te preocupes!"
+    jack towards sad talk_happy "Lo siento, ¡ahora mismo no hijo! ¡Estoy en medio de algo científico! ¡{p}Discutiremos{/p} sobre fantasmas y otras cosas importantes más tarde, no te preocupes!"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:28
 translate spanish jack_convo_e2_start_0e2d9801:
 
     # jack towards sad talk_happy "Danny! Here for a little father-son ghost-busting bond session? I could have {i}sworn{/i} I saw your ecto-suit lying around here just a bit ago..."
-    "¡[_jack_s_towards_s_sad_s_talk_happy_] Danny! ¿Aquí está tu padre para una pequeña sesión de fantasmas? Podría {i}jurar{/i} que he visto tu ecto traje tirado por aquí hace un momento..."
+    jack towards sad talk_happy "¡Danny! ¿Aquí está tu padre para una pequeña sesión de fantasmas? Podría {i}jurar{/i} que he visto tu ecto traje tirado por aquí hace un momento..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:30
 translate spanish jack_convo_e2_start_9eb59016:

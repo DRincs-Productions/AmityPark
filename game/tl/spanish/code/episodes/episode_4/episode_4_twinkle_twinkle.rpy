@@ -358,7 +358,7 @@ translate spanish twinkle_twinkle_little_star_scene_1_hallway_251cae56:
 translate spanish twinkle_twinkle_little_star_scene_1_hallway_13e68551:
 
     # sam towards_wide angry talk_frown "What the heck are you talking about? {i}You{/i} came to {i}us{/i}!"
-    sam towards_wide angry talk_frown "¿De qué diablos estás hablando? {i}¡Has venido tú sola {i}!"
+    sam towards_wide angry talk_frown "¿De qué diablos estás hablando? ¡Has venido {i}tú{/i} a {i}nosotros{/i}!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:171
 translate spanish twinkle_twinkle_little_star_scene_1_hallway_d6f848c0:
@@ -418,7 +418,7 @@ translate spanish twinkle_twinkle_little_star_scene_1_hallway_ff693df1:
 translate spanish twinkle_twinkle_little_star_scene_1_hallway_1fee8f82:
 
     # star confused "You {b}have{/b} passed on her number, right?!"
-    star confused "Tú {b} le has pasado {/b} su número, ¡¿verdad?!"
+    star confused "Tú le {b}has{/b} pasado su número, ¡¿verdad?!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:199
 translate spanish twinkle_twinkle_little_star_scene_1_hallway_6c4239b9:
@@ -892,7 +892,7 @@ translate spanish twinkle_twinkle_little_star_scene_2_hallway_c80a4d22:
 translate spanish twinkle_twinkle_little_star_scene_2_hallway_3fcdcb9f:
 
     # danny neutral talk_frown_2 "{i}*Sigh*{/i} So... what do you need from me then?"
-    danny neutral talk_frown_2 "{i}*Suspiro* Entonces... ¿qué necesitas de mí?"
+    danny neutral talk_frown_2 "{i}*Suspiro*{/i} Entonces... ¿qué necesitas de mí?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:448
 translate spanish twinkle_twinkle_little_star_scene_2_hallway_00b0776e:
@@ -2326,7 +2326,7 @@ translate spanish twinkle_twinkle_little_star_scene4_hallway_no_prank_bbd995a3:
 translate spanish twinkle_twinkle_little_star_scene4_hallway_no_prank_f53a8b5f:
 
     # sam center_wide angry talk_happy "So then, Lancer was all over Star like \"Why'd you waste my precious time on this, you perky boobs with teeth?\", and then, out of {b}nowhere{/b} her-"
-    sam center_wide angry talk_happy "Entonces, Lancer se centró en Star diciéndole \"¿Por qué desperdicias mi valioso tiempo en esto tetas con dientes?\", y luego, ella {b}sabía donde mirar{/b}-"
+    sam center_wide angry talk_happy "Entonces, Lancer se centró en Star diciéndole \"¿Por qué desperdicias mi valioso tiempo en esto, teta con dientes?\", y luego, ella {b}sabía donde mirar{/b}-"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1249
 translate spanish twinkle_twinkle_little_star_scene4_hallway_no_prank_42888238:
@@ -2920,7 +2920,7 @@ translate spanish twinkle_twinkle_little_star_star_bj_b89fcb71:
 translate spanish twinkle_twinkle_little_star_star_bj_f49901e8:
 
     # star "Wooow... now {i}this{/i} Billy. This is a big, {b}fat{/b} cock..."
-    star "Wooow... joder {i}esta{/i} Billy. Esta és una gran, {b}gorda{b/} polla..."
+    star "Wooow... joder {i}esta{/i} Billy. Esta és una gran, {b}gorda{/b} polla..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1516
 translate spanish twinkle_twinkle_little_star_star_bj_a90f077b:
@@ -3034,19 +3034,19 @@ translate spanish twinkle_twinkle_little_star_after_star_bj_c923f283:
 translate spanish twinkle_twinkle_little_star_after_star_bj_821ab083:
 
     # danny sad talk_happy_2 towards_wide "Yeah, sorry about that... you just did {i}such{/i} a nice job."
-    danny sad talk_happy_2 towards_wide "Sí, lo siento... acabas de hacer  un buen trabajo."
+    danny sad talk_happy_2 towards_wide "Sí, lo siento... acabas de hacer {i}un{/i} buen trabajo."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1591
 translate spanish twinkle_twinkle_little_star_after_star_bj_51387f94:
 
     # star sad closed talk_happy_2 "{i}*Chuckles*{/i} Well, I don't know much about ghosts, but if there's one thing I'm good at \"exorcising\", it's jizz from boys' balls!"
-    star sad closed talk_happy_2 "{i}*risa*{/i} Bueno, no sé mucho de fantasmas, pero si hay algo que se me da bien \"exorcizar\", ¡és la lefa de los huevos de los chicos!"
+    star sad closed talk_happy_2 "{i}*risas*{/i} Bueno, no sé mucho de fantasmas, pero si hay algo que se me da bien \"exorcizar\", ¡és la lefa de los huevos de los chicos!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1593
 translate spanish twinkle_twinkle_little_star_after_star_bj_c5aa57aa:
 
     # danny rise_one at_player_wide talk_frown_2 "Uhhm... okay... cool? (What the {b}fuck{/b}?! This chick is weird.)"
-    danny rise_one at_player_wide talk_frown_2 "Uhhm... vale... ¿genial? (¡¿Qué {/b}cojones {b}?! Esta tía és rara.)"
+    danny rise_one at_player_wide talk_frown_2 "Uhhm... vale... ¿genial? (¡¿Qué {b}cojones {/b}?! Esta tía és rara.)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1595
 translate spanish twinkle_twinkle_little_star_after_star_bj_1e850d61:
@@ -3094,7 +3094,7 @@ translate spanish twinkle_twinkle_little_star_after_star_bj_f4d2e492:
 translate spanish twinkle_twinkle_little_star_after_star_bj_e4482bd8:
 
     # star talk_happy sad "I thought I'd give it to you as another little gift! Think of it like the winning touchdown football, or a winning trophy! You're my {b}Number One Dildo Prankster{/b}, Billy!"
-    star talk_happy sad "¡Pensé en dártelo como regalo! ¡Piense en ello como un trofeo ganador! ¡Eres mi {b}cómico de consoladores número uno{/b}, Billy!"
+    star talk_happy sad "¡Pensé en dártelo como regalo! ¡Piense en ello como un trofeo ganador! ¡Eres mi {b} bromista de consoladores número uno{/b}, Billy!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1613
 translate spanish twinkle_twinkle_little_star_after_star_bj_6a6035bd:

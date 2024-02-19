@@ -4,37 +4,37 @@
 translate spanish gym_monday_star_running_repeat_4f533b71:
 
     # danny gym towards wondering smile "(Doesn't look like anybody's really taking advantage of the gym this early today.)"
-    danny gym towards wondering smile "(parece que hoy nadie está aprovechando el gimnasio.)"
+    danny gym towards wondering smile "(parece que hoy nadie está usando el gimnasio.)"
 
 # game/code/character_events/star/star_gym_running.rpy:19
 translate spanish gym_monday_star_running_repeat_7b991684:
 
     # danny gym at_player rise smile "(Oh, except for Star, she's here, jogging the track.)"
-    danny gym at_player rise smile "(Oh, excepto Star, que está corriendo en la pista)"
+    danny gym at_player rise smile "(Oh, excepto Star, que está corriendo)"
 
 # game/code/character_events/star/star_gym_running.rpy:24
 translate spanish gym_monday_star_running_repeat_030a4355:
 
     # danny "(Man, look at her go.)"
-    danny "(Joper, mira su marcha.)"
+    danny "(Joder, mira su marcha.)"
 
 # game/code/character_events/star/star_gym_running.rpy:26
 translate spanish gym_monday_star_running_repeat_27dccb91:
 
     # danny "(She's always doing some type of cardio work it feels like...)"
-    danny "(Ella siempre hace algún ejercicio de cardio...)"
+    danny "(Ella siempre está haciendo algún ejercicio de cardio...)"
 
 # game/code/character_events/star/star_gym_running.rpy:29
 translate spanish gym_monday_star_running_repeat_ceba2108:
 
     # danny "(Dang... she's got it going on back there too...)"
-    danny "(Dang ... ella también pasará por atrás...)"
+    danny "(Dang... ella está en dando forma...)"
 
 # game/code/character_events/star/star_gym_running.rpy:31
 translate spanish gym_monday_star_running_repeat_aa20ad40:
 
     # danny "(Just one of those forbidden fruits, sadly...)"
-    danny "(Sólo una de esas frutas prohibidas, tristemente...)"
+    danny "(a su trasero prohibido...)"
 
 # game/code/character_events/star/star_gym_running.rpy:71
 translate spanish gym_monday_star_running_competition_308c52ad:
@@ -70,7 +70,7 @@ translate spanish gym_monday_star_running_competition_bd57b569:
 translate spanish gym_monday_star_running_competition_7dd9d765:
 
     # danny gym towards_wide unhappy "Okay, alright! I'm going."
-    danny gym towards_wide unhappy "Vale, está bien! Ya me voy."
+    danny gym towards_wide unhappy "Vale, ¡está bien! Ya me voy."
 
 # game/code/character_events/star/star_gym_running.rpy:89
 translate spanish gym_monday_star_running_competition_d7ec02a6:
@@ -88,7 +88,7 @@ translate spanish gym_monday_star_running_competition_fe539615:
 translate spanish gym_monday_star_running_competition_deb57ba8:
 
     # star gym towards rise talk_happy "Do me a favor, will yah?{p}Take a photo of my butt while I'm running like that again, okay?"
-    star gym towards rise talk_happy "¿Me haces un favor?, {p}Haz una foto de mi de mi culo mientras estoy corriendo, ¿de acuerdo?"
+    star gym towards rise talk_happy "¿Me haces un favor?, {p}Haz una foto de mí de mi culo mientras estoy corriendo{/p}, ¿de acuerdo?"
 
 # game/code/character_events/star/star_gym_running.rpy:98
 translate spanish gym_monday_star_running_competition_4d776eb3:
@@ -130,13 +130,13 @@ translate spanish gym_monday_star_running_competition_dca0dd73:
 translate spanish gym_monday_star_running_competition_9111c381:
 
     # danny gym towards sad talk_happy "We were just talking about Star's...{p}...{i}uhhhmm{/i}... her..."
-    danny gym towards sad talk_happy "Sólo estábamos hablando del de Star's ...{p}...{i}uhhhmm {/i} ... del..."
+    danny gym towards sad talk_happy "Sólo estábamos hablando Star y su...{p}...{i}uhhhmm {/i}... del{/p}..."
 
 # game/code/character_events/star/star_gym_running.rpy:136
 translate spanish gym_monday_star_running_competition_e06ee805:
 
     # star gym towards angry talk_happy "The photo of my juicy rear-end Danny's going to take and end up sending to Billy!"
-    star gym towards angry talk_happy "La foto de mi jugoso trasero ¡Danny va a hacerme una y enviarla a Billy!"
+    star gym towards angry talk_happy "La foto de mi lujoso trasero ¡Danny va a hacerme una y enviarla a Billy!"
 
 # game/code/character_events/star/star_gym_running.rpy:140
 translate spanish gym_monday_star_running_competition_4146ec32:
@@ -172,7 +172,7 @@ translate spanish gym_monday_star_running_competition_c3694e8c:
 translate spanish gym_monday_star_running_competition_16033839:
 
     # star gym towards sad talk_displeased "W-wait a minute, this is- you can't take over my moment!"
-    star gym towards sad talk_displeased "W-espera un minuto, esto es-¡no puedes quitarme mi situación!"
+    star gym towards sad talk_displeased "E-espera un minuto, esto es-¡no puedes quitarme mi oportunidad!"
 
 # game/code/character_events/star/star_gym_running.rpy:164
 translate spanish gym_monday_star_running_competition_cc77ca9e:
@@ -286,19 +286,19 @@ translate spanish gym_monday_star_running_competition_c0dc1cdc:
 translate spanish gym_monday_star_running_competition_29f82963:
 
     # paulina gym towards rise talk_displeased "So like, are we done warming up your photography skills on the junior varsity candidate yet?"
-    paulina gym towards rise talk_displeased "A sí. ¿estás haciendo el calentamiento de tu habilidad como modelo para candidata de la varsity junior?"
+    paulina gym towards rise talk_displeased "algo como. ¿estamos divulgando tus fogosas fotos para candidata de la varsity junior?"
 
 # game/code/character_events/star/star_gym_running.rpy:246
 translate spanish gym_monday_star_running_competition_b1013c9b:
 
     # paulina gym towards rise talk_happy "I think it's about time we got down to some serious business with my tushy!"
-    paulina gym towards rise talk_happy "¡Creo que es hora de que haga una cosa seria con mi culo!"
+    paulina gym towards rise talk_happy "¡Creo que es hora de que haga algo serio con mi culo!"
 
 # game/code/character_events/star/star_gym_running.rpy:250
 translate spanish gym_monday_star_running_competition_fd692a73:
 
     # danny gym towards idle talk_happy "Sure Paulina, if you're ready to go!"
-    danny gym towards idle talk_happy "¡Claro que Paulina!, si estás lista ¡vamos!"
+    danny gym towards idle talk_happy "¡Claro Paulina!, si estás lista ¡vamos!"
 
 # game/code/character_events/star/star_gym_running.rpy:254
 translate spanish gym_monday_star_running_competition_b0219cf7:
@@ -316,7 +316,7 @@ translate spanish gym_monday_star_running_competition_718cab55:
 translate spanish gym_monday_star_running_competition_dcd2f01b:
 
     # danny "(Not like either him or me are gonna be complaining about it.)"
-    danny "(Ni él ni yo vamos a estar quejándonos de ello.)"
+    danny "(Ni él ni yo vamos a quejarnos de ello.)"
 
 # game/code/character_events/star/star_gym_running.rpy:263
 translate spanish gym_monday_star_running_competition_ff3b5e46:
@@ -352,7 +352,7 @@ translate spanish gym_monday_star_running_competition_cd24a175:
 translate spanish gym_monday_star_running_competition_09fd5e46:
 
     # paulina gym towards idle talk_happy "Nothing better than a brisk little run around the track, you know?"
-    paulina gym towards idle talk_happy "Nada mejor que correr alrededor de la pista con un poco de riesgo, ¿sabes?"
+    paulina gym towards idle talk_happy "Nada mejor que correr con un poco de riesgo, ¿sabes?"
 
 # game/code/character_events/star/star_gym_running.rpy:285
 translate spanish gym_monday_star_running_competition_0fd254e7:
@@ -412,13 +412,13 @@ translate spanish gym_monday_star_running_competition_paulina_2fcd08f0:
 translate spanish gym_monday_star_running_competition_paulina_4ccf0222:
 
     # star gym towards angry talk_distraught "You take that back! There's no way he'd prefer her-"
-    star gym towards angry talk_distraught "¡Tú lo dices sola! No hay modo de que él la prefiera-"
+    star gym towards angry talk_distraught "¡Tú lo dices sola! No hay modo de que él lo prefiera-"
 
 # game/code/character_events/star/star_gym_running.rpy:340
 translate spanish gym_monday_star_running_competition_paulina_c671db7e:
 
     # danny gym towards rise talk_happy "What? C'mon Star, she's got a {u}contender{/u} back there! That's a wagon and a half! How could he not see the-"
-    danny gym towards rise talk_happy "¿Qué? Vamos Star, ¡ella es una {u}rival{/u} de las mejores! Eso es un vagón y medio. ¿Cómo no has podido ver la-"
+    danny gym towards rise talk_happy "¿Qué? Vamos Star, ¡ella es una {u}rival{/u} de las mejores! Eso es un once sobre diez. ¿Cómo no has podido ver la-"
 
 # game/code/character_events/star/star_gym_running.rpy:344
 translate spanish gym_monday_star_running_competition_paulina_106fc186:
@@ -430,7 +430,7 @@ translate spanish gym_monday_star_running_competition_paulina_106fc186:
 translate spanish gym_monday_star_running_competition_paulina_075f6b4f:
 
     # danny gym towards sad talk_happy "Guess she's done with her exercise for the morning..."
-    danny gym towards sad talk_happy "Supongo que ha hecho con ella su ejercicio de la mañana ..."
+    danny gym towards sad talk_happy "Supongo que ha hecho su ejercicio de la mañana..."
 
 # game/code/character_events/star/star_gym_running.rpy:356
 translate spanish gym_monday_star_running_competition_paulina_0a14ecd3:
@@ -454,7 +454,7 @@ translate spanish gym_monday_star_running_competition_paulina_1355b901:
 translate spanish gym_monday_star_running_competition_paulina_f840b160:
 
     # danny gym towards sad talk_happy "Y-yeah, I'm on it."
-    danny gym towards sad talk_happy "Y-sí, estoy en ello."
+    danny gym towards sad talk_happy "S-sí, estoy en ello."
 
 # game/code/character_events/star/star_gym_running.rpy:373
 translate spanish gym_monday_star_running_competition_paulina_a81b2cb1:
@@ -472,7 +472,7 @@ translate spanish gym_monday_star_running_competition_star_787e8bc1:
 translate spanish gym_monday_star_running_competition_star_b189536c:
 
     # paulina gym towards angry talk_distraught "Whatever! You think he's gonna freak out over some pancake cheeks?!"
-    paulina gym towards angry talk_distraught "¿Crees que se le pondrán las mejillas como rojas como fresas?!"
+    paulina gym towards angry talk_distraught "¿Crees que se le pondrán las mejillas rojas como fresas?!"
 
 # game/code/character_events/star/star_gym_running.rpy:393
 translate spanish gym_monday_star_running_competition_star_b871d2ec:
@@ -490,7 +490,7 @@ translate spanish gym_monday_star_running_competition_star_12e7f434:
 translate spanish gym_monday_star_running_competition_star_0f90c9a7:
 
     # star gym towards rise talk_happy "Well it did {i}this{/i} time, sweetie! Get used to learning what 2nd place is like!"
-    star gym towards rise talk_happy "Bien, ya está {i}hecho {/i}, ¡cariño! ¡Que aprenda lo que significa estar en segundo lugar!"
+    star gym towards rise talk_happy "Bien, ya está {i}hecho {/i}, ¡cariño! ¡Aprende lo que significa estar en segundo lugar!"
 
 # game/code/character_events/star/star_gym_running.rpy:405
 translate spanish gym_monday_star_running_competition_star_75c9d84e:
@@ -502,7 +502,7 @@ translate spanish gym_monday_star_running_competition_star_75c9d84e:
 translate spanish gym_monday_star_running_competition_star_97ab4274:
 
     # paulina gym towards angry talk_distraught "You know what, what the hell ever! I'm getting out of whatever crazy world you two are living in!"
-    paulina gym towards angry talk_distraught "¡Sabes qué, qué demonios! ¡Estoy saliendo del mundo de locos en el que los dos vivís!"
+    paulina gym towards angry talk_distraught "¡Sabes qué, qué demonios! ¡Me voy de la locura en la que estáis metidos los dos!"
 
 # game/code/character_events/star/star_gym_running.rpy:419
 translate spanish gym_monday_star_running_competition_star_67e80611:
@@ -514,13 +514,13 @@ translate spanish gym_monday_star_running_competition_star_67e80611:
 translate spanish gym_monday_star_running_competition_star_5c3d51ea:
 
     # star gym towards idle talk_happy "Anyway, send those to Billy right away.{p}And then get out of my space, I still have more laps to run."
-    star gym towards idle talk_happy "De todos modos, envía las fotos a Billy de inmediato.{p}Y luego sal de mi espacio, todavía tengo más vueltas para correr."
+    star gym towards idle talk_happy "De todos modos, envía las fotos a Billy de inmediato.{p}Y luego sal de mi espacio{/p}, todavía tengo correr más."
 
 # game/code/character_events/star/star_gym_running.rpy:425
 translate spanish gym_monday_star_running_competition_star_c28c045a:
 
     # danny gym down idle talk_displeased "{i}*Muttering*{/i}...right away, your heinie-ness..."
-    danny gym down idle talk_displeased "{i}*Muttering * {/i} ... de inmediato, su cruedad ..."
+    danny gym down idle talk_displeased "{i}*Susurrando* {/i}... de inmediato, su crueldad..."
 
 # game/code/character_events/star/star_gym_running.rpy:428
 translate spanish gym_monday_star_running_competition_star_f45a73e8:
@@ -548,5 +548,5 @@ translate spanish strings:
 
     # game/code/character_events/star/star_gym_running.rpy:322
     old "Inviso-Bill's gonna flip when he sees your photo, Star."
-    new "Inviso-Bill volteará tu  foto cuando la vea, Star."
+    new "Inviso-Bill borrará tu foto cuando la vea, Star."
 

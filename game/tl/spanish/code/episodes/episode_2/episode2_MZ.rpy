@@ -22,7 +22,7 @@ translate spanish ectopuss_fishing_intro_86caec4f:
 translate spanish ectopuss_fishing_intro_f7cfefe7:
 
     # danny at_self neutral talk_consternation "{i}Ugh{/i}, gross Fenton, don't be such a creep!"
-    danny at_self neutral talk_consternation "{i}Ugh {/i}, Gross Fenton, ¡no seas como un gusano!"
+    danny at_self neutral talk_consternation "{i}Ugh {/i}, Gross Fenton, ¡no seas gusano!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:20
 translate spanish ectopuss_fishing_intro_3951965f:
@@ -88,19 +88,19 @@ translate spanish ectopuss_fishing_intro_01623e5d:
 translate spanish ectopuss_fishing_intro_635a20ec:
 
     # danny down wondering talk_consternation "I'm sure Mom and Dad would be proud... that is, if I could even {i}tell{/i} them about any of this stuff.{p}Fat chance though... they'd just build some gadget to keep me caged up in until I graduated school..."
-    danny down wondering talk_consternation "Estoy seguro de que mamá y papá estarían orgullosos... es decir, si tan siquiera pudiera {i}contarles{/i} todo esto.{p} Mala idea... construirían algún artilugio para mantenerme enjaulado hasta que me graduara..."
+    danny down wondering talk_consternation "Estoy seguro de que mamá y papá estarían orgullosos... es decir, si tan siquiera pudiera {i}contarles{/i} todo esto.{p} Mala idea... construirían algún artilugio para mantenerme enjaulado hasta que me graduara{/p}..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:57
 translate spanish danny_we_need_to_talk_intro_90a841bd:
 
     # sam co towards sad talk_frown "Hey, Danny... can I, {i}uh{/i}... can I talk to you?"
-    sam co towards sad talk_frown "Hey, Danny... puedo, {i}uh{i/}... ¿puedo hablar contigo?"
+    sam co towards sad talk_frown "Hey, Danny... puedo, {i}uh{/i}... ¿puedo hablar contigo?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:59
 translate spanish danny_we_need_to_talk_intro_c00f36ea:
 
     # danny talk_happy_2 "I don't know, {i}can{/i} you? You seem to be doing good so far, I'll give you that."
-    danny talk_happy_2 "No sé, {i}¿puedes?{i/} Parece que lo estás haciendo bien hasta ahora, lo reconozco."
+    danny talk_happy_2 "No sé, {i}¿puedes?{/i} Parece que lo estás haciendo bien hasta ahora, lo reconozco."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:61
 translate spanish danny_we_need_to_talk_intro_321b888d:
@@ -124,7 +124,7 @@ translate spanish danny_we_need_to_talk_intro_bac9c755:
 translate spanish danny_we_need_to_talk_intro_c9d6a2fc:
 
     # danny towards_wide unhappy talk_consternation "{i}Uhm{/i}, what {i}uh{/i}, wh-what do you mean?"
-    danny towards_wide unhappy talk_consternation "{i}Uhm{i/}, ¿qué {i}uh{i/}, qué quieres decir?"
+    danny towards_wide unhappy talk_consternation "{i}Uhm{/i}, ¿qué {i}uh{/i}, qué quieres decir?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:69
 translate spanish danny_we_need_to_talk_intro_35f483a5:
@@ -154,19 +154,19 @@ translate spanish danny_we_need_to_talk_intro_d64522d7:
 translate spanish danny_we_need_to_talk_intro_21658af1:
 
     # sam co towards sad talk_bite "Hey, I'm sorry! I'm not trying to pry! It probably wasn't the best time to talk to you about... well...{p}Can you meet me later after school?"
-    sam co towards sad talk_bite "Eh, ¡lo siento! ¡No estoy intentando obligarte a hablar! Probablemente no es el mejor momento para hablarte de... bueno...{p}¿Puedes reunirte conmigo después de la escuela?"
+    sam co towards sad talk_bite "Eh, ¡lo siento! ¡No estoy intentando obligarte a hablar! Probablemente no es el mejor momento para hablarte de... bueno...{p}¿Puedes reunirte conmigo después de la escuela{/p}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:79
 translate spanish danny_we_need_to_talk_intro_fe7785c4:
 
     # danny down wondering talk_frown "{i}Uhm{/i}, s-sure, if you want to, I guess."
-    danny down wondering talk_frown "{i}Uhm{i/}, s-seguro, si quieres, supongo."
+    danny down wondering talk_frown "{i}Uhm{/i}, s-seguro, si quieres, supongo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:81
 translate spanish danny_we_need_to_talk_intro_5844936f:
 
     # sam co towards sad talk_happy "Cool!{p}I mean, great! I'll see you then!"
-    sam co towards sad talk_happy "¡Genial!{p}Quiero decir, ¡genial! ¡Nos vemos entonces!"
+    sam co towards sad talk_happy "¡Genial!{p}Quiero decir, ¡genial!{/p} ¡Nos vemos entonces!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:83
 translate spanish danny_we_need_to_talk_intro_1ac984c9:
@@ -184,7 +184,7 @@ translate spanish danny_we_need_to_talk_intro_3188de8d:
 translate spanish danny_we_need_to_talk_intro_718e0e05:
 
     # danny closed unhappy talk_happy "...you never said {u}where{/u} you wanted to meet!"
-    danny closed unhappy talk_happy "...¡no me has dicho {u}dónde{u/} quieres quedar!"
+    danny closed unhappy talk_happy "...¡no me has dicho {u}dónde{/u} quieres quedar!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:89
 translate spanish danny_we_need_to_talk_intro_da99eaed:
@@ -196,13 +196,13 @@ translate spanish danny_we_need_to_talk_intro_da99eaed:
 translate spanish danny_we_need_to_talk_intro_68232746:
 
     # danny towards angry talk_happy "Are {i}you{/i} feeling alright?"
-    danny towards angry talk_happy "¿{i}Te{i/} encuentras bien?"
+    danny towards angry talk_happy "¿{i}Te{/i} encuentras bien?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:93
 translate spanish danny_we_need_to_talk_intro_57187532:
 
     # sam co towards sad talk_happy "I think so...? I mean, yeah, I'm alright.{p}{i}Uhm{/i}, well how about the Park? At {b}night{/b}, when it's just turned dark..."
-    sam co towards sad talk_happy "Creo que sí... Quiero decir, sí, estoy bien.{p}{i}Uhm{/i}, bien, ¿ que te parecería el parque? Por la {b}noche{/b}, cuando oscurezca..."
+    sam co towards sad talk_happy "Creo que sí... Quiero decir, sí, estoy bien.{p}{i}Uhm{/i}, bien{/p}, ¿ que te parecería el parque? Por la {b}noche{/b}, cuando oscurezca..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:95
 translate spanish danny_we_need_to_talk_intro_14386687:
@@ -226,19 +226,19 @@ translate spanish danny_we_need_to_talk_intro_0beb0e1c:
 translate spanish danny_we_need_to_talk_intro_d030fd4d:
 
     # sam co towards neutral talk_happy "I think I can keep myself safe from some slimeball ghost, don't worry.{p}Anyway, I'll see you later!"
-    sam co towards neutral talk_happy "Creo que puedo mantenerme a salvo de algún fantasma baboso, no te preocupes.{p}Decidido, ¡hasta luego!"
+    sam co towards neutral talk_happy "Creo que puedo mantenerme a salvo de algún fantasma baboso, no te preocupes.{p}Decidido{/p}, ¡hasta luego!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:103
 translate spanish danny_we_need_to_talk_intro_cebeaf66:
 
     # danny towards unhappy talk_consternation "Sam, we're both going to the {u}same{/u} class right now."
-    danny towards unhappy talk_consternation "Sam, los dos estamos yendo a la {u}misma{u/} clase en este momento."
+    danny towards unhappy talk_consternation "Sam, los dos estamos yendo a la {u}misma{/u} clase en este momento."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:105
 translate spanish danny_we_need_to_talk_intro_cd0e84f7:
 
     # sam co towards sad talk_bite blush "Oh, yeah, {i}heh{/i}, duh. I'll just, {i}uhhh{/i}... go to the bathroom first, I guess.{p}I'll see you in class then. And tonight, don't forget!"
-    sam co towards sad talk_bite blush "Oh, sí, {i}heh{/i}, duh. Voy a, {i}uhhh{/i}... ir al baño primero, supongo.{p}Te veré en clase entonces. Y esta noche, ¡no te olvides!"
+    sam co towards sad talk_bite blush "Oh, sí, {i}heh{/i}, duh. Voy a, {i}uhhh{/i}... ir al baño primero, supongo.{p}Te veré en clase entonces{/p}. Y esta noche, ¡no te olvides!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:107
 translate spanish danny_we_need_to_talk_intro_1e83da7e:
@@ -250,7 +250,7 @@ translate spanish danny_we_need_to_talk_intro_1e83da7e:
 translate spanish danny_we_need_to_talk_intro_d11db1f4:
 
     # danny at_player sad talk_consternation "Oh man, has Sam {i}already{/i} figured out my big secret? I thought I'd have it to myself a little longer than a few days..."
-    danny at_player sad talk_consternation "Oh tío, ¿ha descubierto Sam mi gran secreto {i}ya? Pensé que sería para mí un poco más que unos pocos días..."
+    danny at_player sad talk_consternation "Oh tío, ¿{i}ya{/i} ha descubierto Sam mi gran secreto? Pensé que sería para mí algo más que unos pocos días..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:115
 translate spanish danny_we_need_to_talk_intro_e990cef4:
@@ -280,7 +280,7 @@ translate spanish danny_we_need_to_talk_prefight_541941a0:
 translate spanish danny_we_need_to_talk_prefight_1377942a:
 
     # sam co towards angry talk_frown blush "{size=+12}{i}AGH!!{/i}{/size}{p}Jeez, Danny, you scared the crap out of me!"
-    sam co towards angry talk_frown blush "{size=+12}{i}¡AHH!{i/}{/size}{p}¡Joder!, Danny, ¡me has dado un susto de muerte!"
+    sam co towards angry talk_frown blush "{size=+12}{i}¡AHH!{/i}{/size}{p}¡Joder!{/p}, Danny, ¡me has dado un susto de muerte!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:148
 translate spanish danny_we_need_to_talk_prefight_ebf834e5:
@@ -304,31 +304,31 @@ translate spanish danny_we_need_to_talk_prefight_964d8051:
 translate spanish danny_we_need_to_talk_prefight_d0f93beb:
 
     # sam co towards sad talk_frown "{u}Ghosts{/u}, Danny! {i}Real{/i} life ghosts!!{p}They're all around town from what I hear, and they could be hiding around any corner, waiting to jump out at any moment!"
-    sam co towards sad talk_frown "{u}¡Fantasmas{u/}, Danny! ¡Fantasmas de la vida {i}real{i/}!{p}Están por toda la ciudad por lo que he oído, y podrían estar escondidos en cualquier rincón, ¡esperando para atacar cualquier momento!"
+    sam co towards sad talk_frown "{u}¡Fantasmas{/u}, Danny! ¡Fantasmas de la vida {i}real{/i}!{p}Están por toda la ciudad por lo que he oído, y podrían estar escondidos en cualquier rincón, ¡esperando para atacar cualquier momento{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:156
 translate spanish danny_we_need_to_talk_prefight_be1ecca5:
 
     # danny towards_wide wondering talk_happy "Yeah, so? I mean sure, it's certainly a {i}bit{/i} of a shock at first... but you can't tell me you're honestly surprised, can you?"
-    danny towards_wide wondering talk_happy "Sí, ¿y? Quiero decir, claro, sin duda da un {i}poco{i/} de un shock al principio... puedes decir honestamente que estás sorprendida, ¿verdad?"
+    danny towards_wide wondering talk_happy "Sí, ¿y? Quiero decir, claro, sin duda da un {i}poco{/i} de un shock al principio... no puedes decir honestamente que estás sorprendida, ¿verdad?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:158
 translate spanish danny_we_need_to_talk_prefight_8c1487bb:
 
     # sam co towards confused talk_frown "Ghosts aren't {i}supposed{/i} to be real, Danny!!"
-    sam co towards confused talk_frown "Los fantasmas no se {i}supone{i/} que sean reales,¡¡ Danny!!"
+    sam co towards confused talk_frown "Los fantasmas no se {i}supone{/i} que son reales,¡¡ Danny!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:160
 translate spanish danny_we_need_to_talk_prefight_d5ef3a22:
 
     # danny talk_frown_2 "Hang on, weren't {i}you{/i} the one talking about how ghosts were totally plausible just the other day?"
-    danny talk_frown_2 "Espera, ¿no eras {i}tú{i/} la que hablaba el otro día de que los fantasmas eran totalmente plausibles?"
+    danny talk_frown_2 "Espera, ¿no eras {i}tú{/i} la que hablaba el otro día de que los fantasmas eran totalmente plausibles?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:162
 translate spanish danny_we_need_to_talk_prefight_0482a077:
 
     # sam co towards angry talk_frown "Yeah, but I didn't actually {u}believe{/u} it! I just thought it was cool to talk about!{p}Ghosts are supposed to be like vampires, just make believe things that we goths simply {u}pretend{/u} to wanna have sex with!!"
-    sam co towards angry talk_frown "¡Sí, pero en realidad no lo {u}creo{/u}! ¡Sólo pensé que sería genial hablar de ello!{p} Se supone que los fantasmas son como los vampiros, sólo seres inventados con los que las góticas simplemente ¡¡{u}fingimos{u/} querer tener sexo!!"
+    sam co towards angry talk_frown "¡Sí, pero en realidad no lo {u}creo{/u}! ¡Pensé que sería genial hablar de ello! {p} Se supone que los fantasmas son como los vampiros, sólo seres inventados con los que las góticas ¡¡{u}fingimos{/u} querer tener sexo{/p}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:179
 translate spanish danny_we_need_to_talk_prefight_566fe3cc:
@@ -340,19 +340,19 @@ translate spanish danny_we_need_to_talk_prefight_566fe3cc:
 translate spanish danny_we_need_to_talk_prefight_3c6ea93c:
 
     # ectopuss "Did I hear someone talk about wanting to have {u}sex{/u} with a {u}ghost?{/u} Well hey, that can still be {i}easily{/i} arranged! {i}Ahech hech!!{/i}"
-    ectopuss "¿He oído a alguien hablar de querer tener {u}sexo{/u} con un {u}fantasma?{/u} ¡Bueno, eso puede ser {i}fácilmente{/i} arreglado! {i}¡Ahech hech!{i/}"
+    ectopuss "¿He oído a alguien hablar de querer tener {u}sexo{/u} con un {u}fantasma?{/u} ¡Bueno, eso puede ser {i}fácilmente{/i} arreglado! {i}¡Ahech hech!{/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:190
 translate spanish danny_we_need_to_talk_prefight_7e924e0a:
 
     # sam co flip towards_wide sad talk_frown "{size=+24}{i}Ahhh!!!{/i} Danny, it's that creep from TV!!{/size}"
-    sam co flip towards_wide sad talk_frown "{size=+24}{i}¡Ahhh!{i/} Danny, ¡es eso asqueroso de la TV!{/size}"
+    sam co flip towards_wide sad talk_frown "{size=+24}{i}¡Ahhh!{/i} Danny, ¡es eso asqueroso en la TV!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:193
 translate spanish danny_we_need_to_talk_prefight_bd6f9266:
 
     # ectopuss "Why, Ghost Boy, you brought yet {u}another{/u} feeble girl for me to have fun with? Awe, you shouldn't have!"
-    ectopuss "¿Por qué, chico Fantasma, has traído {u}otra{u/} chica débil para que me divierta? ¡No deberías haberlo hecho!"
+    ectopuss "¿Por qué, chico Fantasma, has traído {u}otra{/u} chica débil para que me divierta? ¡No deberías haberlo hecho!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:202
 translate spanish danny_we_need_to_talk_prefight_6266b336:
@@ -364,7 +364,7 @@ translate spanish danny_we_need_to_talk_prefight_6266b336:
 translate spanish danny_we_need_to_talk_prefight_f60b50c1:
 
     # ectopuss "Why don't you try and {i}make{/i} me?!"
-    ectopuss "¡¿Por qué no intentas {i}hacerlo{i/}?!"
+    ectopuss "¡¿Por qué no intentas {i}hacerlo{/i}?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:206
 translate spanish danny_we_need_to_talk_prefight_26bab717:
@@ -376,7 +376,7 @@ translate spanish danny_we_need_to_talk_prefight_26bab717:
 translate spanish danny_we_need_to_talk_afterpostfight_504939c9:
 
     # danny p28 "Dang! He got away again!!{p}{size=+12}Hey, come back here, you ink squirting coward!!{/size}"
-    danny p28 "¡Maldición! ¡¡Se escapó otra vez!! {p}{¡¡Hey, vuelve aquí cobarde chorreador de tinta!!{/size}"
+    danny p28 "¡Maldición! ¡¡Se escapó otra vez!! {p}{size=+12}¡¡Hey, vuelve aquí cobarde escupidor de tinta{/p}!!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:247
 translate spanish danny_we_need_to_talk_afterpostfight_5679e068:
@@ -394,7 +394,7 @@ translate spanish danny_we_need_to_talk_afterpostfight_fd0e99fb:
 translate spanish danny_we_need_to_talk_afterpostfight_40e2bc2a:
 
     # sam co flip towards confused talk_frown "Danny... {i}you're{/i} Inviso-Bill?!"
-    sam co flip towards confused talk_frown "Danny... {i}¡¿Eres{i/} Inviso-Bill?!"
+    sam co flip towards confused talk_frown "Danny... {i}¡¿Eres{/i} Inviso-Bill?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:255
 translate spanish danny_we_need_to_talk_afterpostfight_8e907469:
@@ -418,7 +418,7 @@ translate spanish danny_we_need_to_talk_afterpostfight_86e00b5b:
 translate spanish danny_we_need_to_talk_afterpostfight_ac58e217:
 
     # danny pf20 "{i}Uhm{/i}, hang on a sec..."
-    danny pf20 "{i}Uhm{i/}, espera un segundo..."
+    danny pf20 "{i}Uhm{/i}, espera un segundo..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:264
 translate spanish danny_we_need_to_talk_afterpostfight_bc60d78b:
@@ -436,13 +436,13 @@ translate spanish danny_we_need_to_talk_afterpostfight_bbeef2cf:
 translate spanish danny_we_need_to_talk_afterpostfight_29fcfe86:
 
     # danny flip towards_wide unhappy talk_consternation "I don't {i}think{/i} so? I'd like to think of myself as more \"half ghost\" than \"half dead\".{p}Makes it somewhat easier to swallow."
-    danny flip towards_wide unhappy talk_consternation "No sé que {i}pensar{i/}. Creo que soy más \"medio fantasma\" que \"medio muerto\".{p} Así se hace algo más fácil de digerir."
+    danny flip towards_wide unhappy talk_consternation "No sé que {i}pensar{/i}. Creo que soy más \"medio fantasma\" que \"medio muerto\".{p} Así se hace algo más fácil de digerir{/p}."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:270
 translate spanish danny_we_need_to_talk_afterpostfight_f5e43c0c:
 
     # sam co flip towards rage talk_happy "Woah, this is so {i}freaking{/i} rad!!"
-    sam co flip towards rage talk_happy "¡¡Woah!!, ¡¡esto es muy {i}demoledor{/i}!!"
+    sam co flip towards rage talk_happy "¡¡Woah!!, ¡¡esto es {i}demoledor{/i}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:272
 translate spanish danny_we_need_to_talk_afterpostfight_bb040e2f:
@@ -454,13 +454,13 @@ translate spanish danny_we_need_to_talk_afterpostfight_bb040e2f:
 translate spanish danny_we_need_to_talk_afterpostfight_4bd48dd5:
 
     # sam co flip towards rage talk_happy "Are you kidding me?? Do you know how many goths would {u}kill{/u} to have a ghost for a best friend?!"
-    sam co flip towards rage talk_happy "¿¿Estás bromeando?? ¡¿Sabes cuántos góticos {u}matarían{u/} por tener un fantasma como mejor amigo?!"
+    sam co flip towards rage talk_happy "¿¿Estás bromeando?? ¡¿Sabes cuántos góticos {u}matarían{/u} por tener un fantasma como mejor amigo?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:276
 translate spanish danny_we_need_to_talk_afterpostfight_4abe9409:
 
     # danny flip towards_wide angry talk_consternation "Sam, you know we can't tell {i}anybody{/i} about this, right? This is strictly our secret as best friends, and I'd kinda like to keep it that way!"
-    danny flip towards_wide angry talk_consternation "Sam, ¿sabes que no podemos contarle esto a {i}nadie{i/}?, ¿verdad? Esto es estrictamente nuestro secreto como mejores amigos, ¡y me gustaría mantenerlo así!"
+    danny flip towards_wide angry talk_consternation "Sam, ¿sabes que no podemos contarle esto a {i}nadie{/i}?, ¿verdad? Esto es estrictamente nuestro secreto como mejores amigos, ¡y me gustaría mantenerlo así!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:278
 translate spanish danny_we_need_to_talk_afterpostfight_3ed3ace5:
@@ -526,7 +526,7 @@ translate spanish danny_we_need_to_talk_afterpostfight_9eb79c95:
 translate spanish in_hot_water_intro_465c2e0f:
 
     # danny "(Oh great. Sounds like Jazz is taking her sweet time in the bathtub again. It's not fair! She takes forever, uses up all the hot water, and I'm left with nothing but a cold shower!)"
-    danny "(Valla. Parece que Jazz se está tomando su tiempo en la bañera otra vez. No es justo. Tarda una eternidad, gasta toda el agua caliente y yo me tengo que duchar con agua fría)"
+    danny "(Valla. Parece que Jazz se está tomando baño otra vez. No es justo. Tarda una eternidad, gasta toda el agua caliente y yo me tengo que duchar con agua fría)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:340
 translate spanish in_hot_water_intro_3ac6fcd1:
@@ -562,7 +562,7 @@ translate spanish in_hot_water_altintro_06a9a388:
 translate spanish in_hot_water_altintro_48b0c8e3:
 
     # jazz towel towards angry talk_consternation "Well, maybe you should just try taking your showers early in the morning then??{p}Now get {i}out{/i} already!!"
-    jazz towel towards angry talk_consternation "Bueno, ¿podrías quizá ducharte temprano por la mañana. ¡¡{p}Ahora vete {i}fuera{/i} ya!!"
+    jazz towel towards angry talk_consternation "Bueno, ¿podrías quizá ducharte temprano por la mañana. ¡¡{p}Ahora vete {i}fuera{/i} ya{/p}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:374
 translate spanish in_hot_water_altintro_8511c5d0:
@@ -580,7 +580,7 @@ translate spanish in_hot_water_altintro_d4d1d8d2:
 translate spanish in_hot_water_lay_in_wait_e2cf7fb5:
 
     # danny "{i}Hah!{/i} You're a genius, Fenton! If you just wait here {u}before{/u} the afternoon, you don't {u}need{/u} to find a way in!! She can't just kick me out of the bathroom I'm currently using, right?!"
-    danny "{i}¡Ja!{/i} ¡Eres un genio, Fenton! Si esperas aquí {u}antes{/u} de la tarde, ¡¡no {u}necesitarás{/u} encontrar una manera de entrar!! No puede echarme del baño que estoy usando, ¡¿verdad?!"
+    danny "{i}¡Ja!{/i} ¡Eres un genio, Fenton! Si esperas aquí {u}antes{/u} de que llegue la tarde, ¡¡no {u}necesitarás{/u} encontrar una manera de entrar!! No puede echarme del baño que estoy usando, ¡¿verdad?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:397
 translate spanish in_hot_water_lay_in_wait_88f07eef:
@@ -616,7 +616,7 @@ translate spanish in_hot_water_lay_in_wait_9ec3e7e9:
 translate spanish in_hot_water_lay_in_wait_a5e79bd7:
 
     # danny towards_wide angry talk_consternation "What? No! You're clearly the one wasting it all, and leaving me with nothing but the freezing ice water, that ends up shriveling my-"
-    danny towards_wide angry talk_consternation "¿Cómo? ¡No! Claramente eres tú la que la malgasta toda, y no me dejas nada más que el agua helada que acaba marchitando mi-"
+    danny towards_wide angry talk_consternation "¿Cómo? ¡No! Claramente eres tú la que la malgasta toda el agua caliente, y no me dejas nada más que el agua helada que acaba marchitando mi-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:417
 translate spanish in_hot_water_lay_in_wait_9bb2cdd4:
@@ -628,7 +628,7 @@ translate spanish in_hot_water_lay_in_wait_9bb2cdd4:
 translate spanish in_hot_water_lay_in_wait_6775804e:
 
     # danny "Darn, I really thought that was going to work...{p}I didn't even bring a single magazine to read... three hours wasted!"
-    danny "Maldición, realmente pensé que iba a funcionar...{p}Ni siquiera traje una revista para leer... ¡tres horas perdidas!"
+    danny "Maldición, realmente pensé que iba a funcionar...{p}Ni siquiera traje una revista para leer{/p}... ¡tres horas perdidas!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:436
 translate spanish in_hot_water_lay_in_wait_2_dea03724:
@@ -652,7 +652,7 @@ translate spanish in_hot_water_lay_in_wait_2_5ed7c5d5:
 translate spanish in_hot_water_jazzroom_1beec736:
 
     # danny "Alright, now I know Jazz keeps a spare key to the bathroom, just in case she feels like barging in to grab something of hers.{p}Only question is where she might have hid it in here?"
-    danny "Muy bien. Ahora sé que Jazz guarda una llave de repuesto del baño, por si le apetece irrumpir cuando el baño está ocupado y coger algo suyo.{p}La única pregunta es ¿dónde puede haberla escondido?"
+    danny "Muy bien. Ahora sé que Jazz guarda una llave de repuesto del baño, por si le apetece irrumpir cuando el baño está ocupado y coger algo suyo.{p}La única pregunta es{/p} ¿dónde puede haberla escondido?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:463
 translate spanish in_hot_water_jazzroom_349bf3ee:
@@ -670,25 +670,25 @@ translate spanish in_hot_water_wrong_54de51f0:
 translate spanish in_hot_water_right_173fd984:
 
     # danny "Alright! This must be the key! I should go and give little miss water waster a visit! Nobody's preventing me from taking {i}my{/i} afternoon hot shower!"
-    danny "¡Muy bien! ¡Esta debe ser la llave! ¡Debería ir a visitar a la señorita desperdiciadora de agua! ¡Nadie me va a impedir tomar {i}mi{/i} ducha caliente de la tarde!"
+    danny "¡Muy bien! ¡Esta debe ser la llave! ¡Debería ir a visitar a la señorita desperdiciadora de agua! ¡Nadie me va a impedir tomar {i}mi{/i} ducha caliente por la tarde!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:496
 translate spanish in_hot_water_right_dc500eb0:
 
     # danny "It makes me wonder what she even does in there that takes so dang long? It should be a couple of scrubs behind the ears, yah' shampoo what you need to shampoo, and {i}boom{/i}, you're done!"
-    danny "Me pregunto qué hace ahí dentro que le lleva tanto tiempo. Debería ser un par de friegas detrás de las orejas, yah' champú y lo que necesitas con champú, y {i}boom{/i}, ¡y ya está!"
+    danny "Me pregunto qué hace ahí dentro que le lleva tanto tiempo. Debería ser un par de friegas detrás de las orejas, champú y champú, y {i}boom{/i}, ¡y ya está!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:499
 translate spanish in_hot_water_right_b9dd232f:
 
     # danny "Well, only one way to find out I guess...{p}Jazz, your days of controlling the flow of hot water are at an end!"
-    danny "Bueno, supongo que sólo hay una manera de averiguarlo...{p}¡Jazz, tus días de controlar el flujo de agua caliente han llegado a su fin!"
+    danny "Bueno, supongo que sólo hay una manera de averiguarlo...{p}¡Jazz, tus días de controlar el flujo de agua caliente han llegado a su fin{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:517
 translate spanish in_hot_water_key_choice_85f673cc:
 
     # danny "There we go, it's unlocked. Now, how do I want to handle this?{p}I mean, Jazz is probably in the bath still... naked... so..."
-    danny "Ya está, está abierta. Ahora, ¿cómo quiero manejar esto?{p}Quiero decir, Jazz probablemente está todavía... desnuda... así que..."
+    danny "Ya está, está abierta. Ahora, ¿cómo quiero manejar esto?{p}Quiero decir, Jazz probablemente está todavía... desnuda... así que{/p}..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:525
 translate spanish in_hot_water_phase_choice_deb94cfa:
@@ -736,13 +736,13 @@ translate spanish in_hot_water_peek_b2019071:
 translate spanish in_hot_water_peek_ea25a52c:
 
     # danny "(Oh man, this is so weird, I shouldn't be looking at this!! She's my sister after all, and... wait, what's that sound...?)"
-    danny "(Oh tío, esto es muy extraño, ¡¡no debería estar mirando!! Es mi hermana después de todo, y... espera, ¿qué es ese sonido...?)"
+    danny "(Oh tío, esto es muy extraño, ¡¡no debería estar mirando!! Es mi hermana después de todo, y... espera, ¿qué és ese sonido...?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:592
 translate spanish in_hot_water_peek_22f7d940:
 
     # ectopuss "{i}*Kersplash*{/i} Hey baby, don't you know it's pretty dangerous to be lounging in the water all alone when there's nasty {b}Etopus{/i} like me swimming around?!"
-    ectopuss "{i}*Kersplash * {/i} Oye nena, ¿no sabes que es bastante peligroso estar descansando en el agua sola cuando hay un desagradable {b}Pulpo{/b} como yo nadando alrededor?!"
+    ectopuss "{i}*Salpicaduras de baba* {/i} Oye nena, ¿no sabes que es bastante peligroso estar descansando en el agua sola cuando hay un desagradable {b}Pulpo como yo{/p} nadando alrededor?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:596
 translate spanish in_hot_water_peek_b22ac48d:
@@ -766,19 +766,19 @@ translate spanish in_hot_water_barge_in_eb7d2b75:
 translate spanish in_hot_water_barge_in_257a9c55:
 
     # danny "Come on, Jazz! Get out of the-"
-    danny "¡Vamos, Jazz! Salir de la-"
+    danny "¡Vamos, Jazz! Sal de la-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:624
 translate spanish in_hot_water_barge_in_c892226a:
 
     # danny "{i}Woah!!{/i}"
-    danny "{i}Ahh ~!! {/i}"
+    danny "{i}¡¡Woahh ~!! {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:644
 translate spanish in_hot_water_barge_in_a2c768fa:
 
     # jazz towel towards angry talk_distraught "{size=+12}{i}AAAAAAAAAH!!{/i} DANNY, GET THE HELL OUT!!!{/size}"
-    jazz towel towards angry talk_distraught "{size=+12}{i}¡¡¡AAAAAAAAAH!!! DANNY, ¡¡¡SAL DE AQUÍ!!!"
+    jazz towel towards angry talk_distraught "{size=+12}{i}¡¡¡AAAAAAAAAH!!!{/i} DANNY, ¡¡¡SAL DE AQUÍ!!!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:646
 translate spanish in_hot_water_barge_in_ec5c93e3:
@@ -796,13 +796,13 @@ translate spanish in_hot_water_barge_in_879fe8c4:
 translate spanish in_hot_water_barge_in_bbc3b214:
 
     # danny down angry talk_consternation "Ugh, {i}Fine{/i}!!"
-    danny down angry talk_consternation "¡¡Ugh, {i}Fine{/i}!!"
+    danny down angry talk_consternation "¡¡Ugh, {i}vale{/i}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:657
 translate spanish in_hot_water_barge_in_a0ed5962:
 
     # ectopuss "{i}Hech heh hehh...{/i} good thinking making the kid leave, babe! Now we're finally all alone to take our {i}romantic{/i} bath together..."
-    ectopuss "{i}¡Hech heh hehh...{/i} bien pensado haciendo que el niño se vaya, nena! {i}Ahora por fin estamos solos para tomar nuestro romántico baño juntos..."
+    ectopuss "{i}¡Hech heh hehh...{/i} bien pensado haciendo que el chico se vaya, nena! Ahora por fin estamos solos para tomar nuestro {i}romántico{/i} baño juntos..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:662
 translate spanish in_hot_water_barge_in_8c49f431:
@@ -820,13 +820,13 @@ translate spanish in_hot_water_barge_in_d0b50220:
 translate spanish in_hot_water_postfight_ca0d2b98:
 
     # ectopuss "Stop being so selfish, Ghost Boy! You can't keep {i}all{/i} these hot babes to yourself!"
-    ectopuss "¡Deja de ser tan egoísta, Chico Fantasma! ¡No puedes quedarte con {i}todas estas chicas calientes para ti!"
+    ectopuss "¡Deja de ser tan egoísta, Chico Fantasma! ¡No puedes quedarte con {i}todas{/i} estas chicas calientes para ti!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:697
 translate spanish in_hot_water_postfight_83370f8c:
 
     # danny p28 "The heck I {i}can't{/i}, buddy!"
-    danny p28 "¡Diablos, yo {i}no puedo, amigo!"
+    danny p28 "¡Diablos, yo {i}no puedo{/i}, amigo!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:698
 translate spanish in_hot_water_postfight_b9ddfd3d:
@@ -844,7 +844,7 @@ translate spanish in_hot_water_postfight_547329af:
 translate spanish in_hot_water_postfight_d4b3026d:
 
     # danny p16 "Oh, {i}uhm{/i}... gr-greetings, nearly naked citizen!"
-    danny p16 "Oh, {i}uhm{/i}... gr-saludos, ¡ciudadano casi desnudo!"
+    danny p16 "Oh, {i}uhm{/i}... sa-saludos, ¡ciudadana casi desnuda!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:714
 translate spanish in_hot_water_postfight_2761f934:
@@ -868,7 +868,7 @@ translate spanish in_hot_water_postfight_eb31f082:
 translate spanish in_hot_water_postfight_e2df5b65:
 
     # danny p31 "(Oh man, that could have gone really bad, in a lot of ways. I'm lucky Mom or Dad didn't hear her scream just now. Better change back to normal before anybody comes looking for me.)"
-    danny p31 "(Oh tío, esto podría haber acabado muy mal en muchos sentidos. Tengo suerte de que mamá o papá no la hayan oído gritar hace un momento. Mejor vuelvo a la normalidad antes de que alguien venga a buscarme)"
+    danny p31 "(Oh tío, esto podría haber acabado muy mal en muchos sentidos. Tengo suerte de que mamá o papá no la hayan oído gritar. Mejor vuelvo a la normalidad antes de que alguien venga a buscarme)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:735
 translate spanish in_hot_water_postfight_def9fc59:
@@ -886,7 +886,7 @@ translate spanish in_hot_water_postfight_f7aa4d26:
 translate spanish in_hot_water_postfight_bf3d049a:
 
     # jazz towel towards angry talk_displeased "\"What were those noises\"?! I was screaming for help, balled up in a corner of the bathroom!! Two ghosts were actually {u}fighting{/u} over which one would get to have their way with me first!!"
-    jazz towel towards angry talk_displeased "\"¡¿qué eran esos ruidos\"?! ¡¡Yo estaba gritando ayuda desde una esquina del baño mientras ¡¡ dos fantasmas de verdad estaban {u}luchando {/u} por mí y que me violara el vencedor!!"
+    jazz towel towards angry talk_displeased "\"¡¿qué eran esos ruidos\"?! ¡¡Yo estaba gritando ayuda desde una esquina del baño mientras ¡¡ dos fantasmas de verdad estaban {u}luchando {/u} por mí para violarme el vencedor!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:741
 translate spanish in_hot_water_postfight_9042f8fd:
@@ -904,13 +904,13 @@ translate spanish in_hot_water_postfight_6ce997dd:
 translate spanish in_hot_water_postfight_387d6d2c:
 
     # danny towards rise talk_consternation "Well I mean, c'mon, you really expect me to believe that there were {u}two{/u} ghosts actually fighting it out over for your virginity? Get real Jazz."
-    danny towards rise talk_consternation "Bueno yo quiero decir, vamos, ¿realmente espera que yo crea que hubo {u}dos {/u} fantasmas que peleaban por tu virginidad? Sé realista Jazz."
+    danny towards rise talk_consternation "Bueno yo quiero decir, vamos, ¿realmente esperas que yo crea que hubo {u}dos {/u} fantasmas que peleaban por tu virginidad? Sé realista Jazz."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:747
 translate spanish in_hot_water_postfight_5264545e:
 
     # jazz towel towards sad talk_distraught "But it's true! I mean, the town is {i}actually{/i} filled with ghosts now, like the news said... I mean, how is this scenario not even {i}slightly{/i} plausible to you?!"
-    jazz towel towards sad talk_distraught "¡Pero es verdad! Te digo que el pueblo está {i}actulamente{/i} lleno de fantasmas como las noticias dijeron... No te entiendo, ¡¿cómo puede ser que no creas ni una {i}pizca{/i} de todo esto?!"
+    jazz towel towards sad talk_distraught "¡Pero és verdad! Te digo que el pueblo está {i}actulamente{/i} lleno de fantasmas tal como las noticias dijeron... No te entiendo, ¡¿cómo puede ser que no creas ni una {i}pizca{/i} de todo esto?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:750
 translate spanish in_hot_water_postfight_9dbd99a4:
@@ -964,7 +964,7 @@ translate spanish tuckerPDA_pantyget_80eef69b:
 translate spanish tuckerPDA_pantyget_3a72e820:
 
     # danny "I really don't feel good about this, but... {i}*Sigh*{/i} ...man, Tucker {b}definitely{/b} owes me big for this."
-    danny "Realmente no me siento bien con esto, pero ... {i}*Sigh * {/i} ... tio, Tucker {b}definitivamente {/b} me debes un gran favor por esto."
+    danny "Realmente no me siento bien con esto, pero ... {i}*Suspiro * {/i} ... tio, Tucker {b}definitivamente {/b} me debes un gran favor por esto."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:858
 translate spanish tuckerPDA_pantyget_b93a9a46:
@@ -976,7 +976,7 @@ translate spanish tuckerPDA_pantyget_b93a9a46:
 translate spanish tuckerPDA_handjob_3e5b3b31:
 
     # kate "Hello Mr. Fenton... {i}*Chuckle*{/i} We {i}really{/i} need to stop meeting like this, you know."
-    kate "Hola Mr. Fenton... {i}*Chuckle * {/i} Nosotros necesitamos {i}realmente {/i} dejar de tener citas como esta, ya sabe."
+    kate "Hola Mr. Fenton... {i}*risas * {/i} Nosotros necesitamos {i}realmente {/i} dejar de tener citas como esta, ya sabe."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:899
 translate spanish tuckerPDA_handjob_0ec91b8a:
@@ -994,13 +994,13 @@ translate spanish tuckerPDA_handjob_6d2bfcda:
 translate spanish tuckerPDA_handjob_883b7244:
 
     # danny towards_wide angry talk_frown "What?! Dash {u}help{/u} me?! No way, he-"
-    danny towards_wide angry talk_frown "¿Qué?! ¡¿Dash me{u}ayudó{/u}?! De ninguna manera, él"
+    danny towards_wide angry talk_frown "¿Qué?! ¡¿Dash me {u}ayudó{/u}?! De ninguna manera, él"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:905
 translate spanish tuckerPDA_handjob_2759ee14:
 
     # kate towards sad talk_happy blush "{i}Shhhh{/i}, Danny please, don't strain yourself. Trust me, I know {i}all{/i} about Mr. Baxter's habit for administering beatings to studen-{p}{i}*Gasp*{/i} ...oh my, what is {u}this{/u}?"
-    kate towards sad talk_happy blush "{i}Shhhh {/i}, Danny por favor, no hagas esfuerzos. Confía en mí, sé {i}todo{/i} sobre el hábito del Sr. Baxter para administrar palizas a estudiantes-{p}{i}*Gasp * {/i} ... oh cielos, ¿qué es {u}esto{/u}?"
+    kate towards sad talk_happy blush "{i}Shhhh {/i}, Danny por favor, no hagas esfuerzos. Confía en mí, sé {i}todo{/i} sobre el hábito del Sr. Baxter para administrar palizas a estudiantes-{p}{i}*Gasp * {/i} ... oh cielos, ¿qué es {u}esto{/u}{/p}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:907
 translate spanish tuckerPDA_handjob_79e92778:
@@ -1018,7 +1018,7 @@ translate spanish tuckerPDA_handjob_51f3f394:
 translate spanish tuckerPDA_handjob_b165c2d2:
 
     # danny "{i}*Ziiiiip*{/i} {i}*Chingle*{/i} {i}*Rustle*{/i}"
-    danny "{i}*Ziiiiip * {/i} {i}*Chingle * {/i} {i}*Rustle * {/i}"
+    danny "{i}*Ziiiiip * {/i} {i}*crujido * {/i} {i}*Crujido * {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:925
 translate spanish tuckerPDA_handjob_5d16d92b:
@@ -1066,7 +1066,7 @@ translate spanish tuckerPDA_handjob_e3ec25b8:
 translate spanish tuckerPDA_handjob_d94561f7:
 
     # kate "You even have a hard time deciding with that? Awe, that's so sweet! {i}*Giggles*{/i}"
-    kate "Incluso te cuesta mucho decidir con eso? ¡oh, eso es tan dulce! {i}*Giggles * {/i}"
+    kate "Incluso te cuesta mucho decidir con eso? ¡oh, eso es tan dulce! {i}*risas* {/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:939
 translate spanish tuckerPDA_handjob_386b985f:
@@ -1078,7 +1078,7 @@ translate spanish tuckerPDA_handjob_386b985f:
 translate spanish tuckerPDA_handjob_4ae0095c:
 
     # danny "W-well, yeah, nobody's ever touched me like this before...."
-    danny "Bu bueno, sí, nadie me ha tocado nunca de esta forma antes...."
+    danny "Bu-bueno, sí, nadie me ha tocado nunca de esta forma antes...."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:943
 translate spanish tuckerPDA_handjob_af29de3d:
@@ -1090,7 +1090,7 @@ translate spanish tuckerPDA_handjob_af29de3d:
 translate spanish tuckerPDA_handjob_6b9e968a:
 
     # kate "I can't imagine how she's so far passed up playing with an {i}amazing{/i} cock like this..."
-    kate "No puedo entender cómo ha evitado tu novia de jugar con una {i}increíble {/i} polla como esta..."
+    kate "No puedo entender cómo tu novia ha evitado jugar con una {i}increíble {/i} polla como esta..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:946
 translate spanish tuckerPDA_handjob_ac2cfc98:
@@ -1144,7 +1144,7 @@ translate spanish tuckerPDA_handjob_5d800cd4:
 translate spanish tuckerPDA_handjob_aa1d069d:
 
     # danny "W-what was that noise?! It almost sounded like-"
-    danny "W-¿Qué era ese ruido?! Sonaba parecido a-"
+    danny "¿Q-qué era ese ruido?! Sonaba parecido a-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:964
 translate spanish tuckerPDA_handjob_2f526ea6:
@@ -1162,7 +1162,7 @@ translate spanish tuckerPDA_handjob_ec75f833:
 translate spanish tuckerPDA_handjob_de594954:
 
     # danny "That was {u}defintely{/u} Jazz!{p}I'm sorry Kate, but I need to go!"
-    danny "Esa es {u}definitivamente {/u} Jazz!{p}Lo siento Kate, ¡pero tengo que ir!"
+    danny "Esa es {u}definitivamente {/u} Jazz! {p}Lo siento Kate, ¡pero tengo que ir{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:970
 translate spanish tuckerPDA_handjob_6e0e0a70:
@@ -1174,7 +1174,7 @@ translate spanish tuckerPDA_handjob_6e0e0a70:
 translate spanish tuckerPDA_sex_34fd7f67:
 
     # danny talk_frown rise_one at_player "Now, where did he leave this PDA of his? I've gotta find it fast before I get caught or something."
-    danny talk_frown rise_one at_player "Ahora, ¿dónde dejó su PDA? Tengo que buscarlo rápido antes de que me pille o algo."
+    danny talk_frown rise_one at_player "Ahora, ¿dónde dejó su PDA? Tengo que buscarlo rápido antes de que me pillen o algo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:996
 translate spanish tuckerPDA_sex_b88d642d:
@@ -1264,13 +1264,13 @@ translate spanish tuckerPDA_fight_6fbe6d26:
 translate spanish tuckerPDA_fight_ef6a75a7:
 
     # ectodash "Awww, why make {i}her{/i} leave?? We were just about to have some {u}real{/u} fun together!!{p}Guess I'll settle for rattling you around, kid!"
-    ectodash "Aww, ¿¿por qué {i}la {/i} obligas a irse?? Estábamos a punto de tener una {u}auténcia{/u} diversión!!{p} ¿Adivinas?... ¡me voy a conformar con sacudirte niño!"
+    ectodash "Aww, ¿¿por qué {i}la {/i} obligas a irse?? Estábamos a punto de tener una {u}auténcia{/u} diversión!!{p} ¿Adivinas?... ¡me voy a conformar con sacudirte chico{/p}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1066
 translate spanish tuckerPDA_fight_dbb2a79a:
 
     # danny towards_wide angry talk_consternation "You're not laying a hand on my sister, creep!!"
-    danny towards_wide angry talk_consternation "No estás ayudando a mi hermana, ¡¡asqueroso!!"
+    danny towards_wide angry talk_consternation "No vas a poner una mano encima de mi hermana, ¡¡asqueroso!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1068
 translate spanish tuckerPDA_fight_975ae911:
@@ -1288,13 +1288,13 @@ translate spanish tuckerPDA_fight_cbd4f074:
 translate spanish tuckerPDA_fight_45dd3179:
 
     # danny p28 "That's right! You picked the {i}wrong{/i} girl to perv on, creep! I don't know what's wrong with you Dash, but I'm gonna finally knock your block off!!"
-    danny p28 "¡Está bien! Has elegido a la chica {i}incorrecta{/i} para pervertir, ¡asqueroso! No sé qué te ha pasado pero, Dash, pero te voy a derribar!!"
+    danny p28 "¡ves bien! Has elegido a la chica {i}incorrecta{/i} para pervertir, ¡asqueroso! No sé qué te ha pasado pero, Dash, pero te voy a derribar!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1084
 translate spanish tuckerPDA_fight_e4a4f73b:
 
     # dash "{i}Heh hech heh!{/i} Alright kid, then let's see what you {u}got{/u}!!"
-    dash "{i}Heh hech heh! {/i} Bien niño, ¡¡entonces vamos a ver lo que puedes {u}hacer{/u}!!"
+    dash "{i}Heh hech heh! {/i} Bien chico, ¡¡entonces vamos a ver lo que puedes {u}hacer{/u}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1124
 translate spanish tuckerPDA_afterpostfight_239106df:
@@ -1312,7 +1312,7 @@ translate spanish tuckerPDA_afterpostfight_3dc0e845:
 translate spanish tuckerPDA_afterpostfight_ef00b060:
 
     # danny p34 "What the heck? How did Ectopus {b}possess{/b} Dash? Can all ghosts do that?"
-    danny p34 "¿Qué diablos? ¿Cómo ha {b}poseído{/b}Ectopus{/b} a Dash? ¿Pueden hacer esto todos los fantasmas?"
+    danny p34 "¿Qué diablos? ¿Cómo ha {b}poseído{/b} Ectopus a Dash? ¿Pueden hacer esto todos los fantasmas?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1129
 translate spanish tuckerPDA_afterpostfight_cc012583:
@@ -1324,7 +1324,7 @@ translate spanish tuckerPDA_afterpostfight_cc012583:
 translate spanish tuckerPDA_afterpostfight_643314fc:
 
     # dash blank_stare unhappy talk_consternation "{i}Ugh{/i}... wh... where am I...?"
-    dash blank_stare unhappy talk_consternation "{i}Ugh {/i}... don... ¿dónde estoy...?"
+    dash blank_stare unhappy talk_consternation "{i}Ugh {/i}... ¿don... dónde estoy...?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1134
 translate spanish tuckerPDA_afterpostfight_d39bc164:
@@ -1336,25 +1336,25 @@ translate spanish tuckerPDA_afterpostfight_d39bc164:
 translate spanish tuckerPDA_afterpostfight_d3c01d5a:
 
     # danny towards_wide wondering talk_happy "Well you, {i}uh{/i}, you tried to start a fight with me and, well, I sorta... knocked you out."
-    danny towards_wide wondering talk_happy "Pues tú, {i}uh {/i}, trataste de empezar una pelea conmigo y, bueno, yo ordené... te dejé inconsciente."
+    danny towards_wide wondering talk_happy "Pues tú, {i}uh {/i}, trataste de empezar una pelea conmigo y, bueno, yo como que... te dejé ko."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1138
 translate spanish tuckerPDA_afterpostfight_4cf073a4:
 
     # dash away rise talk_distraught "What?!{p}Nah, no way, that doesn't make any sense at all..."
-    dash away rise talk_distraught "¡¿Qué?!{p}Nah, de ninguna manera, eso no tiene absolutamente ningún sentido..."
+    dash away rise talk_distraught "¡¿Qué?! {p}Nah, de ninguna manera, eso no tiene absolutamente ningún sentido{/p}..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1140
 translate spanish tuckerPDA_afterpostfight_f7c00da0:
 
     # danny towards_wide angry talk_consternation "Yeah, well, it happened. S-so I hope you learned your lesson, {i}uh{/i}... buster!"
-    danny towards_wide angry talk_consternation "Sí, bueno, sucedió. A-así que espero que aprendas la lección, {i}uh {/i}... ¡ruín!"
+    danny towards_wide angry talk_consternation "Sí, sucedió. A-así que espero que aprendas la lección, {i}uh {/i}... ¡ruín!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1142
 translate spanish tuckerPDA_afterpostfight_c296fd9b:
 
     # dash blank_stare unhappy talk_consternation "No... I... I was going to the bathroom... then I thought I saw this... this weird {b}green monster thing{/b} with all these nasty arms, and then I..."
-    dash blank_stare unhappy talk_consternation "No... yo... Yo iba al cuarto de baño... entonces creo que que vi ese... ese extraño {b} monstruo verde {/b} con todos esos tentáculos desagradables, y entonces yo..."
+    dash blank_stare unhappy talk_consternation "No... yo... yo iba al cuarto de baño... entonces creo que que vi ese... ese extraño {b} monstruo verde {/b} con todos esos tentáculos desagradables, y entonces yo..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1144
 translate spanish tuckerPDA_afterpostfight_ef6cfd62:
@@ -1462,7 +1462,7 @@ translate spanish master_plan_tired_c1f7c3d9:
 translate spanish master_plan_tired_eb419938:
 
     # danny down wondering distraught "{i}*Sigh*{/i} (At the rate things are going lately, I'll probably find out soon enough...)"
-    danny down wondering distraught "{i}*Sigh * {/i} (Al ritmo que van las cosas últimamente, probablemente me enteraré pronto...)"
+    danny down wondering distraught "{i}*Suspiro* {/i} (Al ritmo que van las cosas últimamente, probablemente me enteraré pronto...)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1247
 translate spanish master_plan_tired_9da65f68:
@@ -1486,7 +1486,7 @@ translate spanish master_plan_tired_714827cb:
 translate spanish master_plan_tired_4b9c0149:
 
     # maddie "Danny! Could you get the door, sweetie? We're in the middle of a {b}ecto-fungal{/b} experiment down here currently!"
-    "¡[_maddie_] ¡Danny! ¿Podrías abrir la puerta cariño? Ahora estamos aquí abajo en medio de un experimento de {b}ecto-micótico {/b}!"
+    maddie "¡Danny! ¿Podrías abrir la puerta cariño? Ahora estamos aquí abajo en medio de un experimento de {b}ecto-micótico {/b}!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1262
 translate spanish master_plan_tired_f2a2ea7f:
@@ -1498,13 +1498,13 @@ translate spanish master_plan_tired_f2a2ea7f:
 translate spanish master_plan_tired_0270debd:
 
     # doorsound "{i}*Door Opening*{/i}"
-    doorsound "{i}*Door Opening*{/i}"
+    doorsound "{i}*Puerta abriendo*{/i}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1269
 translate spanish master_plan_tired_6cb1c0c0:
 
     # vlad f6 "Oh, why {i}hello{/i}, young man! Wait, wait, don't tell me, let me guess!{p}{i}You{/i} must be {b}Daniel{/b}, I presume?"
-    vlad f6 "Oh, ¿por qué? ¡{i}hola {/i} joven! Espera, espera, no me digas, ¡déjame adivinar!{p}{i}Tú{/i} debes de ser {b}Daniel {/b}, ¿lo adivino?"
+    vlad f6 "Oh, pero, ¡{i}hola {/i} joven! Espera, espera, no me digas, ¡déjame adivinar!{p}{i}Tú{/i} debes de ser {b}Daniel {/b}, ¿lo adivino{/p}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1274
 translate spanish master_plan_tired_be1b530a:
@@ -1516,7 +1516,7 @@ translate spanish master_plan_tired_be1b530a:
 translate spanish master_plan_tired_27f79799:
 
     # vlad f24 "Quite right, my boy! And clearly, you've heard of mine, aye?"
-    vlad f24 "Muy bien mi chico!, y claramente has oído hablar mío, ¿no?"
+    vlad f24 "Muy bien chico!, y claramente has oído hablar del mío, ¿no?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1278
 translate spanish master_plan_tired_f8817e07:
@@ -1582,13 +1582,13 @@ translate spanish master_plan_tired_bf9a60cf:
 translate spanish master_plan_tired_573541e8:
 
     # danny towards sad talk_happy "No, it's alright, I'll let you three catch up. I wouldn't wanna impose on you guys catching up together."
-    danny towards sad talk_happy "No, está bien, Voy a dejar que los tres se pongan al día. No me gustaría obligarles a que se pongan al día juntos."
+    danny towards sad talk_happy "No, así está bien, Voy a dejar que los tres se pongan al día. No me gustaría impedir que se pongan al día juntos."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1315
 translate spanish master_plan_tired_9335c6b4:
 
     # vlad towards neutral talk_happy "Oh, well that's just too bad, I had really hoped to spend some quality {b}bonding{/b} time with you quite soon... just young Daniel and his dear old {u}Uncle{/u} Vlad..."
-    vlad towards neutral talk_happy "Oh, bueno eso es muy malo, tengo la esperanza de pasar algo de tiempo {b}intimando{/b} contigo pronto... solos el joven Daniel y su querido viejo {u}Tío {/u} Vlad..."
+    vlad towards neutral talk_happy "Oh, bueno eso és muy malo, tengo la esperanza de pasar algo de tiempo {b}intimando{/b} contigo pronto... solos el joven Daniel y su querido viejo {u}Tío {/u} Vlad..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1317
 translate spanish master_plan_tired_81ee0013:
@@ -1600,7 +1600,7 @@ translate spanish master_plan_tired_81ee0013:
 translate spanish master_plan_tired_5fbb01de:
 
     # danny towards_wide wondering displeased "(Hmm... maybe I {i}should{/i} stick around... something about this is fishier than that octopus ghost... wait, are octopuses even fish? Is an Ectopus a {i}ghost{/i} fish...?)"
-    danny towards_wide wondering displeased "(Hmm... tal vez {i}debería {/i} seguir merodeando... para pescar ese fantasma pulpo... espera, ¿son los pulpos los peces? ¿Es Ectopus el {i}fantasma {/i} de un pez...?)"
+    danny towards_wide wondering displeased "(Hmm... tal vez {i}debería {/i} seguir merodeando... para pescar ese fantasma pulpo... espera, ¿son los pulpos peces? ¿Es Ectopus el {i}fantasma {/i} de un pez...?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1320
 translate spanish master_plan_tired_1ccfaf16:
@@ -1648,7 +1648,7 @@ translate spanish master_plan_tired_fd02154e:
 translate spanish master_plan_tired_2166e95c:
 
     # jack flip towards_wide sad talk_displeased "You caught one {b}already{/b}?! Ahh, damn it all... just as we were finishing up the {b}\"Fenton Ghost Fisher\"{/b} too."
-    jack flip towards_wide sad talk_displeased "¡¿Has atrapado uno {b}ya {/b}?! Ahh, maldita sea... casi teníamos terminando el {b}\"Pescador de fantasmas Fenton\" {/b}."
+    jack flip towards_wide sad talk_displeased "¡¿Has atrapado uno {b}ya {/b}?! Ahh, maldita sea... casi teníamos terminado el {b}\"Pescador de fantasmas Fenton\" {/b}."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1354
 translate spanish master_plan_tired_f1acc9e9:
@@ -1666,7 +1666,7 @@ translate spanish master_plan_tired_3e87208b:
 translate spanish master_plan_tired_8744b671:
 
     # vlad towards rise talk_happy "Yes, I completely understand... which is why I thought it'd be sporting to {i}bring{/i} you said spectral encounter with me."
-    vlad towards rise talk_happy "Sí, entiendo completamente... por eso pensé que sería un buen ejercicio {i}traer {/i} un encuentro espectral conmigo."
+    vlad towards rise talk_happy "Sí, entiendo completamente... por eso pensé que sería un buen ejercicio {i}traer {/i} un espectro conmigo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1362
 translate spanish master_plan_tired_bb316e68:
@@ -1678,7 +1678,7 @@ translate spanish master_plan_tired_bb316e68:
 translate spanish master_plan_tired_c4d7d08d:
 
     # vlad towards sad talk_happy "Now I must say, with the state of your town as it currently stands, I don't know how I could {b}possibly{/b} go back to my estate in Wisconsin without lending a hand to your ghost problem first. The one I've caught surely won't be the last, realistically."
-    vlad towards sad talk_happy "Ahora debo decir, tal y como está su pueblo actualmente, no sé como podría {b}penar{/b} en volver a mi finca en Wisconsin sin ayudarles con su problema fantasma. El que he cogido seguramente no será el último, de manera realista."
+    vlad towards sad talk_happy "Ahora debo decir, tal y como está su pueblo actualmente, no sé como {b}podría{/b} volver a mi finca en Wisconsin sin ayudarles con su problema fantasma. El que he cogido seguramente no será el último, de manera realista."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1367
 translate spanish master_plan_tired_9a36174a:
@@ -1696,7 +1696,7 @@ translate spanish master_plan_tired_c1ba854a:
 translate spanish master_plan_tired_0b4743c7:
 
     # jack flip closed sad talk_happy "Of course, what's mine is yours, V-Man!"
-    jack flip closed sad talk_happy "Por supuesto, lo mío es tuyo, ¡V-tío!"
+    jack flip closed sad talk_happy "Por supuesto, lo mío es tuyo, ¡t-tío!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1373
 translate spanish master_plan_tired_de5f41df:
@@ -1708,13 +1708,13 @@ translate spanish master_plan_tired_de5f41df:
 translate spanish master_plan_tired_150619c1:
 
     # vlad towards unhappy talk_happy "So, without further ado, I suppose I should go about showing you the blasted thing..."
-    vlad towards unhappy talk_happy "Así que, sin más, supongo que debería mostrarte estas cosa maldita..."
+    vlad towards unhappy talk_happy "Así que, sin más, supongo que debería mostrarte esta cosa maldita..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1377
 translate spanish master_plan_tired_9d977fbc:
 
     # vlad towards neutral talk_happy "...it was actually thanks to your old schematics, Madeline, that I was able to create a working {b}Thermos{/b}..."
-    vlad towards neutral talk_happy "... fue en realidad gracias a tus viejos esquemas, Madeline, que pude crear un {b}termo{/b} funcional..."
+    vlad towards neutral talk_happy "... fue en realidad gracias a tus viejos esquemas, Madeline, que pude crear un {b}thermo{/b} funcional..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1379
 translate spanish master_plan_tired_606e78a5:
@@ -1732,7 +1732,7 @@ translate spanish master_plan_tired_e65ce2f6:
 translate spanish master_plan_tired_6972457d:
 
     # maddie flip towards sad talk_frown "...are you sure that's a good idea, Vlad? Is it safe to just release one out of a Thermos?"
-    maddie flip towards sad talk_frown "... ¿estás seguro de que es una buena idea, Vlad? ¿Es seguro liberar uno de los termos?"
+    maddie flip towards sad talk_frown "... ¿estás seguro de que es una buena idea, Vlad? ¿Es seguro liberar uno de los thermos?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1386
 translate spanish master_plan_tired_d1ea2ad9:
@@ -1756,7 +1756,7 @@ translate spanish master_plan_tired_792a4f3a:
 translate spanish master_plan_tired_45f889b8:
 
     # vlad thermos towards_wide neutral talk_happy "Well, all that's left to do now is to hook the containment field up to the Thermos properly and release the creature from inside."
-    vlad thermos towards_wide neutral talk_happy "Bueno, todo lo que queda hacer ahora es unir el campo de contención al Termo adecuadamente y liberar a la criatura del interior."
+    vlad thermos towards_wide neutral talk_happy "Bueno, todo lo que queda hacer ahora es unir el campo de contención al Thermo adecuadamente y liberar a la criatura del interior."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1406
 translate spanish master_plan_tired_96b9f9b0:
@@ -1768,7 +1768,7 @@ translate spanish master_plan_tired_96b9f9b0:
 translate spanish master_plan_tired_324f9edc:
 
     # vlad thermos towards_wide neutral talk_frown "Oh, settle down, Jack! Don't be so overly eager! We don't need {i}another{/i} lab accident to occur due to your giddiness..."
-    vlad thermos towards_wide neutral talk_frown "¡Oh, calma, Jack! ¡No estés tan ansiosos! No necesitamos que se produzca {i}otro{/i} accidente de laboratorio debido a tu nerviosismo..."
+    vlad thermos towards_wide neutral talk_frown "¡Oh, calma, Jack! ¡No estés tan ansioso! No necesitamos que se produzca {i}otro{/i} accidente de laboratorio debido a tu nerviosismo..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1410
 translate spanish master_plan_tired_38acc818:
@@ -1780,19 +1780,19 @@ translate spanish master_plan_tired_38acc818:
 translate spanish master_plan_tired_0a135f37:
 
     # maddie "Oh! Well I-I suppose I {i}could{/i}... my, such a {b}gentleman{/b}."
-    maddie "¡Oh! Bien y-yo supongo que {i}podría {/i}... mi, como un {b}caballero{/b}."
+    maddie "¡Oh! Bien y-yo supongo que {i}podría {/i}... mi, como buen {b}caballero{/b}."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1419
 translate spanish master_plan_tired_e404b60c:
 
     # maddie rise_one_3 talk_happy_2 "Now, is it {b}this{/b} button here that will allow us to attach the containment field connector? Or do we need to go through some sort of safety procedures to properly disable the Thermos'-"
-    maddie rise_one_3 talk_happy_2 "Ahora, ¿es {b}este {/b} botón el que nos permitirá unir el termo al campo de contención? O tenemos que pasar por algún tipo de procedimientos de seguridad para desactivar adecuadamente el Termo\"-"
+    maddie rise_one_3 talk_happy_2 "Bien, ¿es {b}este {/b} botón el que nos permitirá unir el thermo al campo de contención? O tenemos que pasar por algún tipo de procedimientos de seguridad para desactivar adecuadamente el Thermo\"-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1422
 translate spanish master_plan_tired_9dc1411c:
 
     # danny "(Man, this is getting pretty boring honestly... guess my hunch was off, nothing too fishy going on here. Just some old friends mingling together after a long time apart... I feel like I'll just head back upstairs silently...)"
-    danny "(tio, honestamente esto se está volviendo bastante aburrido... tengo el carazón dormido, no hay nada interesante por aquí. Sólo unos viejos amigos que se relacionan después de un largo tiempo... Subiré a casa...)"
+    danny "(tío, honestamente esto se está volviendo bastante aburrido... tengo el corazón dormido, no hay nada interesante por aquí. Solo unos viejos amigos que se relacionan después de un largo tiempo... Subiré a casa...)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1426
 translate spanish master_plan_tired_135e0000:
@@ -1816,31 +1816,31 @@ translate spanish master_plan_tired_a12c3f5c:
 translate spanish master_plan_tired_78190039:
 
     # ectopuss "{b}Fiiiinally!!{b} Do you have any idea how cramped those things are?! Now who the hell put me there to begin with??"
-    ectopuss "{b}Finalmeenteeeeee!!{b} ¿Tenéis alguna idea de lo apretado que estaba ahí dentro?! Ahora para empezar, ¿¿quién demonios me metió ahí dentro??"
+    ectopuss "{b}A fiiiiiiinnnnnnnnn!!{b} ¿Tenéis alguna idea de lo apretado que estaba ahí dentro?! Ahora para empezar, ¿¿quién demonios me metió ahí dentro??"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1458
 translate spanish master_plan_tired_473794a8:
 
     # maddie flip towards_wide neutral talk_distraught "Vlad? Jack?!{p}Oh no, Jack's been knocked unconcious!! But where's Vlad?!"
-    maddie flip towards_wide neutral talk_distraught "¿Vlad? ¿Jack?!{p}¡Oh no, Jack ha sido noqueado y está inconsciente! Pero, ¿dónde está Vlad?!"
+    maddie flip towards_wide neutral talk_distraught "¿Vlad? ¿Jack?!{p}¡Oh no, Jack ha sido noqueado y está inconsciente{/p}! Pero, ¿dónde está Vlad?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1461
 translate spanish master_plan_tired_949fe537:
 
     # ectopuss "Well {i}hello{/i} there miss jumpsuit... don't you look nice and tasty..."
-    ectopuss "Bueno {i}hola {/i} mis traje espacial... no pareces buena y sabrosa..."
+    ectopuss "Bueno {i}hola {/i} mis traje espacial... pareces buena y sabrosa..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1463
 translate spanish master_plan_tired_9916a853:
 
     # maddie flip towards_wide_up neutral talk_distraught "Oh, {i}uhm{/i}... {i}hello{/i} there... I'm actually a living, breathing person, and I'd prefer {b}NOT{/b} to get munched... or... {i}anything{/i} else, really..."
-    maddie flip towards_wide_up neutral talk_distraught "Oh, {i}uhm {/i}... {i}hola {/i} allí... Soy en realidad una persona viva, respirando, y preferiría {b}NO {/b} ser masticada... o... {i}cualquier cosa {/i} parecida, realmente..."
+    maddie flip towards_wide_up neutral talk_distraught "Oh, {i}uhm {/i}... {i}hola {/i} aquí... Soy en realidad una persona viva, respirando, y preferiría {b}NO {/b} ser masticada... o... {i}cualquier cosa {/i} parecida, realmente..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1467
 translate spanish master_plan_tired_e904533c:
 
     # danny "(Jeez, I'm only halfway up the stairs, and {b}this{/b} happens?? This isn't going to end well... man, Ectopus seems a lot tougher looking, and with Mom here... I need to figure out a plan, fast!!)"
-    danny "(Jeez, sólo estoy a medio camino de las escaleras¿y {b}esto{/b} sucede?? Esto no va a terminar bien... tio, Ectopus parece excitado, y con mamá aquí... necesito averiguar sus planes ¡¡rápido!!)"
+    danny "(Jeez, sólo estoy a medio camino de las escaleras ¿y {b}esto{/b} sucede?? Esto no va a terminar bien... tio, Ectopus parece excitado, y con mamá aquí... necesito averiguar sus planes ¡¡rápido!!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1512
 translate spanish master_plan_maddie_x_ecto_6805fe84:
@@ -1912,7 +1912,7 @@ translate spanish master_plan_maddie_x_ecto_38343349:
 translate spanish master_plan_maddie_x_ecto_682c0685:
 
     # maddie "...without {b}violating{/b} me?"
-    maddie "...sin {b}violarme{/b}?"
+    maddie "...sin ¿{b}violarme{/b}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1534
 translate spanish master_plan_maddie_x_ecto_1a58e576:
@@ -1942,7 +1942,7 @@ translate spanish master_plan_maddie_x_ecto_0623540d:
 translate spanish master_plan_maddie_x_ecto_6916ccf1:
 
     # ectopuss "Oh but it is! After only a few thrurst inside, you'll be begging me to never stop... and trust me, I'm looking to pump you {b}all night long!!{/b}"
-    ectopuss "¡Oh, pero lo és! Después de sólo unas pocas dentro de ti, me estarás rogando que nunca pare... y confía en mí, ¡¡estoy pensando en bombearte {b}toda la noche!! {/b}"
+    ectopuss "¡Oh, pero lo és! Después de que entre solo un poco dentro de ti, me estarás rogando que nunca pare... y confía en mí, ¡¡estoy pensando en bombearte {b}toda la noche!! {/b}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1544
 translate spanish master_plan_maddie_x_ecto_f5949006:
@@ -1960,7 +1960,7 @@ translate spanish master_plan_maddie_x_ecto_2f35b2e5:
 translate spanish master_plan_maddie_x_ecto_13d726f5:
 
     # maddie "Really, pl-please, don't do this..."
-    maddie "Realmente, por favor, no lo hagas..."
+    maddie "Realmente, p-por favor, no lo hagas..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1550
 translate spanish master_plan_maddie_x_ecto_be67e7a6:
@@ -1984,7 +1984,7 @@ translate spanish master_plan_maddie_x_ecto_45a87785:
 translate spanish master_plan_maddie_x_ecto_f252d926:
 
     # maddie "G-go to hell... you green... green bastard... {i}mmmphhh{/i}~"
-    maddie "G-ir al infierno... verde... bastardo verde... {i}mmmphhh {/i} ~"
+    maddie "Ve-vete al infierno... verde... bastardo verde... {i}mmmphhh {/i} ~"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1558
 translate spanish master_plan_maddie_x_ecto_a5a4b9d2:
@@ -2044,7 +2044,7 @@ translate spanish master_plan_maddie_x_ecto_16bb57f7:
 translate spanish master_plan_maddie_x_ecto_c9173f7a:
 
     # ectopuss "Look at you. Already addicted to my tentacle, and we haven't even gotten to the {i}really{/i} good stuff yet! Heck, this is just ghost {b}missionary{/b}!!"
-    ectopuss "Mirate. Ya adicta a mi tentáculo, ¡y no hemos llegado a lo {i}realmente {/i}bueno todavía! Heck, ¡¡esto es sólo la posición fantasma {b}misionero {/b}!!"
+    ectopuss "Mirate. Ya adicta a mi tentáculo, ¡y no hemos llegado a lo {i}realmente{/i} bueno todavía! Heck, ¡¡esto es sólo la posición fantasma {b}misionero {/b}!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1581
 translate spanish master_plan_maddie_x_ecto_514d6a68:
@@ -2074,7 +2074,7 @@ translate spanish master_plan_maddie_x_ecto_0f3c2ce5:
 translate spanish master_plan_maddie_x_ecto_3483909c:
 
     # maddie "Please, screw me some more with that throbbing tentacle~!!"
-    maddie "Por favor, atornillame un poco más con ese tentáculo palpitante ~!!"
+    maddie "Por favor, fóllame un poco más con ese tentáculo palpitante ~!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1591
 translate spanish master_plan_maddie_x_ecto_2df80332:
@@ -2092,13 +2092,13 @@ translate spanish master_plan_maddie_x_ecto_896bca28:
 translate spanish master_plan_maddie_x_ecto_15ca769a:
 
     # ectopuss "That's a good girl."
-    ectopuss "Eso és, una buena chica."
+    ectopuss "Eso és, buena chica."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1597
 translate spanish master_plan_maddie_x_ecto_be27235f:
 
     # ectopuss "It's always so much better taking Orgone from a {u}willing{/u} source."
-    ectopuss "Siempre es mucho mejor tomar Orgone de una fuente {u}dispuesta {/u}."
+    ectopuss "Siempre és mucho mejor tomar Orgone de una fuente {u}dispuesta {/u} a hacerlo voluntariamente."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1598
 translate spanish master_plan_maddie_x_ecto_c132a179:
@@ -2134,7 +2134,7 @@ translate spanish master_plan_maddie_x_ecto_c657f98f:
 translate spanish master_plan_maddie_x_ecto_9d3036cd:
 
     # ectopuss "What's wrong? You don't want to watch that hot young thing getting {b}stuffed{/b} full of big, thick tentacles?"
-    ectopuss "¿Qué hay de malo? No quieres ver esa joven caliente siendo{b}llenada {/b} de grandes y gruesos tentáculos?"
+    ectopuss "¿Qué hay de malo? No quieres ver esa joven caliente siendo {b}llenada {/b} de grandes y gruesos tentáculos?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1609
 translate spanish master_plan_maddie_x_ecto_6361cf3b:
@@ -2146,19 +2146,19 @@ translate spanish master_plan_maddie_x_ecto_6361cf3b:
 translate spanish master_plan_maddie_x_ecto_6fe1e7e6:
 
     # ectopuss "The two of you pressed together, sharing a passionate kiss, staring into her eyes as she loses her virginity to a ghost..."
-    ectopuss "Los dos juntos, compartiendo un beso apasionado, mirando fijamente a sus ojos mientras pierde su virginidad con un fantasma..."
+    ectopuss "Los dos juntos, compartiendo un beso apasionado, mirando fijamente a los ojos mientras pierde su virginidad con un fantasma..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1612
 translate spanish master_plan_maddie_x_ecto_f00d5b81:
 
     # maddie "Oh God... oh God, no! N-not... not like this~...!! I'm gonna... I'm- about to... t-to -c-cum-"
-    maddie "Oh Dios... ¡oh Dios, no! N-no... ¡¡no como esto~...!! Voy a... estoy a punto de... d-de -c-correrme-"
+    maddie "Oh Dios... ¡oh Dios, no! N-no... ¡¡no de esta forma~...!! Voy a... estoy a punto de... d-de -c-correrme-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1614
 translate spanish master_plan_maddie_x_ecto_1c958578:
 
     # danny "(Is she... is Mom really about to...?)"
-    danny "(¿Ella se... ¿mamá está a punto de...?)"
+    danny "(Ella se... ¿mamá está a punto de...?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1615
 translate spanish master_plan_maddie_x_ecto_f734c1f6:
@@ -2176,7 +2176,7 @@ translate spanish master_plan_maddie_x_ecto_be5917ee:
 translate spanish master_plan_postfight_38abb873:
 
     # danny "What the heck was that? That was a whole lot tougher! How did you become so strong all of a sudden?"
-    danny "¿Qué diablos fue eso? ¡Eso fue mucho más duro! ¿Cómo te has hecho tan fuerte de repente?"
+    danny "¿Qué diablos fue eso? ¡me fué más duro vencerte! ¿Cómo te has hecho tan fuerte de repente?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1649
 translate spanish master_plan_postfight_337772b1:
@@ -2200,7 +2200,7 @@ translate spanish master_plan_postfight_c250d6ad:
 translate spanish master_plan_postfight_5daca962:
 
     # ectopuss f5 "Oh don't you worry, I'll get to you soon enough, honey. Just let me deal with this brat and I'll make sure you get some good Ecto-loving..."
-    ectopuss f5 "Oh, no te preocupes, llegaré lo suficientemente pronto, dulzura. Sólo déjame tratar con este mocoso y me aseguraré de que tengas un buen ecto-amor..."
+    ectopuss f5 "Oh, no te preocupes, volveré pronto, dulzura. Sólo déjame tratar con este mocoso y me aseguraré de que tengas un buen ecto-amor..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1666
 translate spanish master_plan_postfight_8de4c8dc:
@@ -2218,7 +2218,7 @@ translate spanish master_plan_postfight_f1ee27ef:
 translate spanish master_plan_postfight_cd09e7a5:
 
     # vlad thermos towards_wide neutral talk_happy "That's right, and it's time for you to go back into your cage, wicked creature!"
-    vlad thermos towards_wide neutral talk_happy "Así es, y és hora de que vuelvas a tu jaula, ¡criatura malvada!"
+    vlad thermos towards_wide neutral talk_happy "Así és, y és hora de que vuelvas a tu jaula, ¡criatura malvada!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1676
 translate spanish master_plan_postfight_131f84e5:
@@ -2230,7 +2230,7 @@ translate spanish master_plan_postfight_131f84e5:
 translate spanish master_plan_postfight_baaa1266:
 
     # ectopuss "No, wait! This isn't fair!! I didn't even get a lick of her-"
-    ectopuss "No, espera! ¡Esto no es justo! Ni siquiera me hizo una mamada-"
+    ectopuss "No, espera! ¡Esto no és justo! Ni siquiera me hizo una mamada-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1683
 translate spanish master_plan_postfight_49db56ef:
@@ -2254,19 +2254,19 @@ translate spanish master_plan_postfight_f4506dce:
 translate spanish master_plan_postfight_5dfc0538:
 
     # maddie flip towards_wide neutral talk_frown "Vlad, quick, the thermos!"
-    maddie flip towards_wide neutral talk_frown "Vlad, ¡rápido, el termo!"
+    maddie flip towards_wide neutral talk_frown "Vlad, ¡rápido, el thermo!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1698
 translate spanish master_plan_postfight_3d875ad8:
 
     # vlad towards sad talk_frown "I'm sorry Madeline, but I still haven't worked out all the bugs in the thermos' battery unit yet! It still needs a lot of {b}charging{/b} to do before its next use!"
-    vlad towards sad talk_frown "Lo siento Madeline, ¡pero todavía no he reparado todos los errores de la batería del termo! ¡Necesita una gran {b}recarga {/b} antes de su próximo uso!"
+    vlad towards sad talk_frown "Lo siento Madeline, ¡pero todavía no he reparado todos los errores de la batería del thermo! ¡Necesita una gran {b}recarga {/b} antes de su próximo uso!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1701
 translate spanish master_plan_postfight_5bb1590d:
 
     # danny p38 "Okay well, good luck with that, gotta go now, bye!"
-    danny p38 "Bien bien, buena suerte con eso, vete ahora, ¡adiós!"
+    danny p38 "Bien, buena suerte, me voy, ¡adiós!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1721
 translate spanish master_plan_postscene_391aad02:
@@ -2290,19 +2290,19 @@ translate spanish master_plan_postscene_aba6e563:
 translate spanish master_plan_postscene_3dfaf82d:
 
     # ectopuss 14 "No, it's not fair!! I was so close to getting her to cu-"
-    ectopuss 14 "No, ¡no es justo!! Estaba muy cerca de llegar a-"
+    ectopuss 14 "No, ¡no és justo!! Estaba muy cerca de hacer que se corrie-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1733
 translate spanish master_plan_postscene_6841d8cf:
 
     # maddie cf6 "Vlad, God dammit, where were you?! Couldn't you have gotten here a {b}bit{/b} sooner?! What the hell happened with the Thermos??"
-    maddie cf6 "Vlad, santo dios, ¡¿dónde estabas?! ¡¿No podrías haber actuado un {b}poco{/b} antes?! ¿¿Qué diablos pasó con los Termos??"
+    maddie cf6 "Vlad, santo dios, ¡¿dónde estabas?! ¡¿No podrías haber actuado un {b}poco{/b} antes?! ¿¿Qué diablos pasó con el Thermo??"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1735
 translate spanish master_plan_postscene_ac1f8f10:
 
     # vlad towards_wide unhappy talk_frown "Oh Madeline, I'm so {b}terribly{/b} sorry for what happened to you, my dear! The {i}accidental{/i} explosion of the Thermos completely fried its circuits."
-    vlad towards_wide unhappy talk_frown "Oh Madeline, querida, ¡siento {b}terriblemente {/b} lo que te ha pasado! La {i}accidental{/i} explosión del Termo quemó completamente sus circuitos."
+    vlad towards_wide unhappy talk_frown "Oh Madeline, querida, ¡siento {b}terriblemente {/b} lo que te ha pasado! La {i}accidental{/i} explosión del Thermo quemó completamente sus circuitos."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1736
 translate spanish master_plan_postscene_79bd88e9:
@@ -2374,13 +2374,13 @@ translate spanish master_plan_postscene_0fcea693:
 translate spanish master_plan_postscene_6cb702f7:
 
     # maddie flip towards sad talk_distraught "Please, you two, no need to argue... I should just go and lay down for a bit... I need to have some proper... {b}self reflection{/b} for a good while... {u}alone{/u}, if possible..."
-    maddie flip towards sad talk_distraught "Por favor, vosotros dos, no hay necesidad de discutir... Debería ir y acostarme un poco... Necesito tener algo d-de... {b}reflexión {/b} un buen rato... {u}sola{/u}, si es posible..."
+    maddie flip towards sad talk_distraught "Por favor, vosotros dos, no hay necesidad de discutir... Debería ir y acostarme un poco... Necesito tener algo d-de... {b}reflexión {/b} un buen rato... {u}a solas{/u}, si és posible..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1771
 translate spanish master_plan_postscene_47a0889b:
 
     # danny "(I should get out of here before anybody sees me still down here. The idea of being asked what I just witnessed is a conversation I {i}really{/i} don't want to have... good Lord, Mom was {b}really{/b} into that!)"
-    danny "(Debo salir de aquí antes de que alguien me vea aquí abajo. La idea de ser interrogado como testigo es una conversación que {i}realmente {/i} no quiero tener...Santo dios, ¡mamá ha estado {b}realmente {/b} en esa situación!)"
+    danny "(Debo salir de aquí antes de que alguien me vea. La idea de ser interrogado como testigo es una conversación que {i}realmente {/i} no quiero tener...Santo dios, ¡mamá ha estado {b}realmente {/b} en esa situación!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1791
 translate spanish e2_end_4eaa776b:
@@ -2392,7 +2392,7 @@ translate spanish e2_end_4eaa776b:
 translate spanish e2_end_cb27415d:
 
     # danny "It must've been that \"Orgone\" stuff I heard about. It supercharged it somehow..."
-    danny "Debe haber sido ese \"Orgon\" del que he oído hablar. Lo alimenta de alguna manera..."
+    danny "Debe haber sido ese \"Orgone\" del que he oído hablar. Lo alimenta de alguna manera..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1795
 translate spanish e2_end_dd994f76:
@@ -2438,15 +2438,15 @@ translate spanish strings:
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:543
     old "Just take a peek first... for recon purposes!"
-    new "Basta con tomar un vistazo primero... ¡para saber los propósitos de recon!"
+    new "Basta con echar un vistazo primero... ¡para saber los propósitos de recon!"
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:543
     old "Back off, I'm not ready yet."
-    new "Me aparto, todavía no estoy listo."
+    new "Paso, todavía no estoy listo."
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:786
     old "Use the spare key."
-    new "Utilice la llave de repuesto."
+    new "Utiliza la llave de repuesto."
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:786
     old "Phase through the door."
@@ -2458,7 +2458,7 @@ translate spanish strings:
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:1469
     old "What should I do?"
-    new "¿Qué puedo hacer?"
+    new "¿Qué debería hacer?"
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:1469
     old "I have to stay out of this, if she catches me in my ghost form, I'll be busted! (NTR)"
@@ -2466,5 +2466,5 @@ translate spanish strings:
 
     # game/code/episodes/episode_2/episode2_MZ.rpy:1469
     old "I need to do something! That thing isn't going to have another victim on my watch! (Save Mom)"
-    new "¡Necesito hacer algo! ¡Voy a tener remordimiento de conciencia por otra víctima de eso! (Salvar a mamá)"
+    new "¡Necesito hacer algo! ¡Voy a tener remordimiento de conciencia por otra víctima! (Salvar a mamá)"
 

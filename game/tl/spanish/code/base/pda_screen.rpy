@@ -34,7 +34,7 @@ translate spanish sam_is_offline_bc91a5fb:
 translate spanish sam_is_offline_8dc11841:
 
     # danny "(She's really more of an online {b}night{/b} owl... or a bat... whatever's more emotionally drained. I'll try messaging her then, in any case.)"
-    danny "(Ella es realmente algo más que una lechuza nocturna online {b}... o un murciélago... Sea lo que sea me está agotando emocionalmente. Intentaré mandarle un mensaje.)"
+    danny "(Ella es realmente algo más que una lechuza {b}nocturna{/b}... o un murciélago... Sea lo que sea me está agotando emocionalmente. Intentaré mandarle un mensaje.)"
 
 # game/code/base/pda_screen.rpy:230
 translate spanish paulina_is_offline_67a4b5a1:

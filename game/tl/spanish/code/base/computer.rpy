@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/code/base/computer.rpy:668
     old "Scene Replay"
-    new "repetir escena"
+    new "Ver escenas"
 
     # game/code/base/computer.rpy:701
     old "<"

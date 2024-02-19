@@ -10,7 +10,7 @@ translate spanish functionlabel_CalledBattle_d97cd968:
 translate spanish functionlabel_CalledBattle_3337726c:
 
     # danny p offscreen at_player rise talk_frown "All that training paid off, but I didn't learn anything from that fight."
-    danny p offscreen at_player rise talk_frown "Todo ese entrenamiento dio sus frutos, pero no he aprendido nada de ese combate."
+    danny p offscreen at_player rise talk_frown "Todo ese entrenamiento pagado, pero no he aprendido nada de ese combate."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:90
 translate spanish functionlabel_CalledBattle_d97cd968_1:
@@ -22,7 +22,7 @@ translate spanish functionlabel_CalledBattle_d97cd968_1:
 translate spanish functionlabel_CalledBattle_97b69e6c:
 
     # "Congratulations you are now level [dannyCombat[Level]]\n Gained 1 Skill Point!\nGained 1 Passive Point!"
-    "Enhorabuena, ahora tienes nivel [dannyCombat[Level]]\n ¡Has ganado 1 punto de habilidad!\nHas ganado 1 punto pasivo!"
+    "Enhorabuena, ahora tienes nivel [dannyCombat[Level]]\n ¡Has ganado 1 punto de habilidad!\n¡Has ganado 1 punto pasivo!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:182
 translate spanish menu_LoseMenu_51aecfb7:
@@ -40,7 +40,7 @@ translate spanish functionlabel_TrainingBattle_d97cd968:
 translate spanish functionlabel_TrainingBattle_3337726c:
 
     # danny p offscreen at_player rise talk_frown "All that training paid off, but I didn't learn anything from that fight."
-    danny p offscreen at_player rise talk_frown "Todo ese entrenamiento dio sus frutos, pero no he aprendido nada de ese combate."
+    danny p offscreen at_player rise talk_frown "Todo ese entrenamiento pagado, pero no he aprendido nada de ese combate."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:263
 translate spanish functionlabel_TrainingBattle_d97cd968_1:
@@ -52,13 +52,13 @@ translate spanish functionlabel_TrainingBattle_d97cd968_1:
 translate spanish functionlabel_TrainingBattle_97b69e6c:
 
     # "Congratulations you are now level [dannyCombat[Level]]\n Gained 1 Skill Point!\nGained 1 Passive Point!"
-    "Enhorabuena, ahora tienes nivel [dannyCombat[Level]]\n ¡Has ganado 1 punto de habilidad!\nHas ganado 1 punto pasivo!"
+    "Enhorabuena, ahora tienes nivel [dannyCombat[Level]]\n ¡Has ganado 1 punto de habilidad!\n¡Has ganado 1 punto pasivo!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:289
 translate spanish functionlabel_TrainingBattle_3337726c_1:
 
     # danny p offscreen at_player rise talk_frown "All that training paid off, but I didn't learn anything from that fight."
-    danny p offscreen at_player rise talk_frown "Todo ese entrenamiento dio sus frutos, pero no he aprendido nada de ese combate."
+    danny p offscreen at_player rise talk_frown "Todo ese entrenamiento pagado, pero no he aprendido nada de ese combate."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:300
 translate spanish functionlabel_TrainingMachineBroke_40607a69:

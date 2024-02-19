@@ -64,7 +64,7 @@ translate spanish sam_selfie_shot_event_76b2fe88_1:
 translate spanish sam_selfie_shot_event_68f2f620:
 
     # samspook "Maybe this could give you some extra Orgone as well."
-    samspook "Tal vez esto también te de un poco de Orgone extra."
+    samspook "Tal vez esto te dé un poco de Orgone extra."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:63
 translate spanish sam_selfie_shot_event_66cc88d2:
@@ -124,13 +124,13 @@ translate spanish sam_selfie_shot_event_14d40335:
 translate spanish sam_selfie_shot_event_50e73e1b:
 
     # samspook "No, problem, dude. :P"
-    samspook "No hay problema, amigo."
+    samspook "No hay problema, amigo. :P"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:82
 translate spanish sam_selfie_shot_event_a2936ecc:
 
     # danny "(Man... Sam is the best.)"
-    danny "(bien... Sam es el mejor.)"
+    danny "(bien... Sam es la mejor.)"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:84
 translate spanish sam_selfie_shot_event_398d8b96:

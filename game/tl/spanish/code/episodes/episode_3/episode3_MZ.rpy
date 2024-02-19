@@ -22,7 +22,7 @@ translate spanish a_masterful_speech_intro_f405c7a8:
 translate spanish a_masterful_speech_intro_ce21c2f1:
 
     # danny down angry talk_consternation "If that's the case, I should probably get my hands on some Orgone for myself! But how am I gonna get some sorta... \"ghost goo\" if I don't even know what it is or how to collect it?"
-    danny down angry talk_consternation "Si ese es el caso, ¡probablemente debería tener en mis manos Orgone! Pero cómo voy a conseguir algo... \"fantasma\" si ni siquiera sé lo que és o ¿cómo cogerlo?"
+    danny down angry talk_consternation "Si ese es el caso, ¡debería tener en mis manos Orgone! Pero cómo voy a conseguir algo... \"fantasma\" que ni siquiera sé lo que és o ¿cómo cogerlo?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:26
 translate spanish a_masterful_speech_intro_acdc13f9:
@@ -46,7 +46,7 @@ translate spanish a_masterful_speech_intro_b39fa35e:
 translate spanish a_masterful_speech_intro_ce1c9e30:
 
     # danny towards rise talk_consternation "Oh, umm, hey Mr. Masters, sure just... let yourself in, why not?"
-    danny towards rise talk_consternation "Oh, umm, hey Mr. Maestro, seguro justo... lo dejaré en, ¿por qué no?"
+    danny towards rise talk_consternation "Oh, umm, hey Mr. Maestro, seguro... lo dejaré en, ¿por qué no?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:40
 translate spanish a_masterful_speech_intro_ca440b96:
@@ -64,13 +64,13 @@ translate spanish a_masterful_speech_intro_ff63fb2b:
 translate spanish a_masterful_speech_intro_e9a71706:
 
     # vlad towards rise talk_happy "{i}*Chuckles* Well{/i}, I suppose that works too. Suppose it's only right that I try to {i}earn{/i} your trust first, aye?{p}So then, how did we sleep last night, {i}hmmm?{/i}"
-    vlad towards rise talk_happy "{i}*Chuckles * Well {/i}, supongo que también funcionará. Solo trato de {i}ganarme {/i} tu confianza, ¿ok?{p}Bien, entonces ¿cómo has dormido esta noche{i}hmmm? {/i}"
+    vlad towards rise talk_happy "{i}*Risas* {/i}, Bueno supongo que también funcionará. Solo trato de {i}ganarme {/i} tu confianza, ¿ok? {p}Bien, entonces ¿cómo has dormido esta noche{i}hmmm? {/i}{/p}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:46
 translate spanish a_masterful_speech_intro_89086bdb:
 
     # danny towards unhappy talk_consternation "Alright I guess. Uhm, if you happen to know at all, could you tell me about what those noises last night were in the lab? I sorta snuck away after a certain point into your little get together..."
-    danny towards unhappy talk_consternation "Supongo que bien. Por casualidad sabes algo, ¿podrías decirme qué eran esos ruidos de anoche en el laboratorio? Me escabullí de vuestra pequeña reunión antes de que acabara..."
+    danny towards unhappy talk_consternation "Supongo que bien. Por casualidad, ¿podrías decirme qué eran esos ruidos de anoche en el laboratorio? Me escabullí de vuestra pequeña reunión antes de que acabara..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:48
 translate spanish a_masterful_speech_intro_7586d955:
@@ -82,7 +82,7 @@ translate spanish a_masterful_speech_intro_7586d955:
 translate spanish a_masterful_speech_intro_aaedb38d:
 
     # vlad towards rise talk_happy "Nothing to worry about too much, obviously, just an accidental miscommunication from me to your mother about what button to push..."
-    vlad towards rise talk_happy "Nada de lo que preocuparse demasiado, sólo una mala comunicación de mí a su madre acerca de qué botón apretar..."
+    vlad towards rise talk_happy "Nada de lo que preocuparse demasiado, sólo una mala comunicación de mí a tu madre acerca de qué botón apretar..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:50
 translate spanish a_masterful_speech_intro_1ecf3af9:
@@ -106,13 +106,13 @@ translate spanish a_masterful_speech_intro_8f047ab7:
 translate spanish a_masterful_speech_intro_46682194:
 
     # danny towards sad talk_happy "Yeah, right, protected liberties and all that, I getcha... kinda sounds like you're pretty against ghosts, huh? Quite a wordsmith, too!"
-    danny towards sad talk_happy "Sí, derecho, libertades y todo eso, yo cojo, el tipo... ¿suena como si estuvieras bastante contra los fantasmas?, ¿eh? ¡Y también como un cantamañanas!"
+    danny towards sad talk_happy "Sí, cierto, proteger libertades y todo eso, lo pillo... ¿suena como si estuvieras bastante contra los fantasmas?, ¿eh? ¡Y también como un cantamañanas!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:58
 translate spanish a_masterful_speech_intro_1d33952c:
 
     # vlad closed unhappy talk_happy "Oh you'll have to excuse me Daniel, I got a bit carried away there. I've simply been practicing for a speech I'm giving later today at the mall. In actuality, while I understand their potential to do harm, ghosts are actually of great personal interest to me!"
-    vlad closed unhappy talk_happy "Oh, tendrás que disculparme a Daniel, me he dejado llevar un poco. He estado practicando para un discurso que voy a dar más en el centro comercial. \nEn realidad a medida que conozco más sobres sus potenciales para hacer daño, los fantasmas se hacen más interesantes para mí!"
+    vlad closed unhappy talk_happy "Oh, tendrás que disculparme Daniel, me he dejado llevar un poco. He estado practicando para un discurso que voy a dar más en el centro comercial. \nEn realidad a medida que conozco más sobre sus potenciales para hacer daño, los fantasmas se hacen más interesantes para mí!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:60
 translate spanish a_masterful_speech_intro_b909f914:
@@ -124,7 +124,7 @@ translate spanish a_masterful_speech_intro_b909f914:
 translate spanish a_masterful_speech_intro_a46eff74:
 
     # vlad towards rise talk_happy "You know, I was actually hoping if you wouldn't mind being in attendance today as I presented it in front of the fine people of Amity Park, Daniel? I'm certainly no {b}proper{/b} public speaker, and your support would be of a great help!"
-    vlad towards rise talk_happy "¿Sabes, estaba esperando si importaría estar presente hoy cuando me presente delante de la gente Amity Park? No soy muy {b}diestro{/b} hablando en público, ¡y tu apoyo sería de una gran ayuda!"
+    vlad towards rise talk_happy "¿Sabes, estaba esperando si te importaría estar presente hoy cuando me presente delante de la gente Amity Park? No soy muy {b}diestro{/b} hablando en público, ¡y tu apoyo sería de una gran ayuda!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:64
 translate spanish a_masterful_speech_intro_ffab0989:
@@ -172,7 +172,7 @@ translate spanish a_masterful_speech_intro_d271f335:
 translate spanish a_masterful_speech_school_7b739c10:
 
     # sam talk_happy "Danny! Hey, over here!"
-    "¡[_sam_s_talk_happy_] Danny! ¡Oye, aquí!"
+    sam talk_happy "Danny! ¡aquí, aquí!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:129
 translate spanish a_masterful_speech_school_dd4a7136:
@@ -184,13 +184,13 @@ translate spanish a_masterful_speech_school_dd4a7136:
 translate spanish a_masterful_speech_school_9b67c2a0:
 
     # sam talk_happy sad "C'mon, I want to introduce you to some cool new people I met!!"
-    sam talk_happy sad "ven, ¡¡quiero presentarte algunas divertidas personas que he conocido!!"
+    sam talk_happy sad "ven, ¡¡quiero presentarte unas divertidas personas que he conocido!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:133
 translate spanish a_masterful_speech_school_7191b91c:
 
     # danny towards rise talk_consternation "What? Oh, Sam, no, I'm {i}really{/i} not interested in trying to be matched up with any of your poetry slam friends..."
-    danny towards rise talk_consternation "¿Qué? Oh, Sam, no, estoy{i}muy{/i} interesado en ser relacionado con tus poéticos amigos..."
+    danny towards rise talk_consternation "¿Qué? Oh, Sam, no, estoy{i}muy{/i} interesado en relacionarme con tus poéticos amigos..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:135
 translate spanish a_masterful_speech_school_2937e403:
@@ -244,7 +244,7 @@ translate spanish a_masterful_speech_school_b0440ff7:
 translate spanish a_masterful_speech_school_c1ec7250:
 
     # kitty talk_frown rise_one "But honestly, we're probably going to ditch class today, this place is pretty lame so far."
-    kitty talk_frown rise_one "Pero honestamente, probablemente vamos a largar de clase de hoy, este lugar es bastante aburrido."
+    kitty talk_frown rise_one "Pero honestamente, probablemente vamos a largarnos de la clase de hoy, este lugar es bastante aburrido."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:170
 translate spanish a_masterful_speech_school_0ba7e7c9:
@@ -298,7 +298,7 @@ translate spanish a_masterful_speech_school_a314050c:
 translate spanish a_masterful_speech_school_f8353710:
 
     # danny towards unhappy talk_consternation "Not sure what it is exactly, but this guy Vlad Masters is delivering it in the afternoon at the mall. Something to do with an announcement or something? He wanted me to go, so I just figured I'd let someone else know about it too."
-    danny towards unhappy talk_consternation "No estoy seguro de que és exactamente, pero este tipo Maestro Vlad lo está preparando para esta tarde en el centro comercial. ¿Algo que ver con un anuncio o algo parecido? Él quería que yo fuera así que pensé en que alguien más lo supiera también."
+    danny towards unhappy talk_consternation "No estoy seguro de que és exactamente, pero este tipo Maestro Vlad está preparando algo para esta tarde en el centro comercial. ¿Algo que ver con un anuncio o algo parecido? Él quería que yo fuera así que pensé en que alguien más lo supiera también."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:201
 translate spanish a_masterful_speech_school_e19409f0:
@@ -370,7 +370,7 @@ translate spanish a_masterful_speech_school_5e52832f:
 translate spanish a_masterful_speech_school_c825f2e6:
 
     # sam confused talk_happy "Oh, come on, don't be such a baby Danny, there's enough dick swinging room here for the both of you. Anyway, we've been hanging here a little too long, we should probably get to class or we're gonna be late."
-    sam confused talk_happy "Oh, vamos, no seas crío Danny, hay suficientes pollas balanceándose para los dos por aquí. Creo que llevamos demasiado tiempo aquí. Deberíamos ir a clase o vamos a llegar tarde."
+    sam confused talk_happy "Oh, vamos, no seas crío Danny, ya he visto suficientes pollas peleándose. Creo que llevamos demasiado tiempo aquí. Deberíamos ir a clase o vamos a llegar tarde."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:259
 translate spanish a_masterful_speech_classroom_1729c1be:
@@ -406,13 +406,13 @@ translate spanish a_masterful_speech_classroom_99662eb9:
 translate spanish a_masterful_speech_after_class_9a36bec1:
 
     # danny at_player sad_2 talk_frown "Gosh, what another boring class that was. Guess I have to go to the mall now and listen to Vlad's speech, which I'm sure will be just as {u}riveting{/u}. Great..."
-    danny at_player sad_2 talk_frown "Gosh, Otra aburrida clase. Supongo que tengo que ir al centro comercial ahora y escuchar el discurso de Vlad, que estoy seguro que será un {u}agobio{/u}. Genial..."
+    danny at_player sad_2 talk_frown "Gosh, Otra aburrida clase. Supongo que tengo que ir al centro comercial ahora y escuchar el discurso de Vlad, estoy seguro que será un {u}agobio{/u}. Genial..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:300
 translate spanish a_masterful_speech_after_class_da20aa82:
 
     # danny talk_frown_2 sad "Man, I was really hoping to use some of afternoon to just... I don't know, jerk off in my room alone, I guess? {i}*Sigh*{/i} Oh, what am I complaining for, I didn't have any real after school plans anyway."
-    danny talk_frown_2 sad "Hombre, tenía la esperanza de usar algo de la tarde a sólo... No lo sé, ¿tumbado en la cama de mi habitación? {i}*Sigh * {/i} Oh, ¿de qué estoy quejándome?, de todos modos no tenía nada real que hacer después de clases."
+    danny talk_frown_2 sad "Tío, tenía la esperanza de pasar la tarde... no lo sé, ¿tumbado en la cama de mi habitación? {i}*Suspiro* {/i} Oh, ¿de qué estoy quejándome?, de todos modos no tenía nada real que hacer después de clases."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:301
 translate spanish a_masterful_speech_after_class_f31d84a5:
@@ -430,7 +430,7 @@ translate spanish a_masterful_speech_after_class_52d38e7c:
 translate spanish a_masterful_speech_after_class_c05e78a8:
 
     # danny towards talk_happy_2 wondering "Maybe I should pay her a little visit later as well…"
-    danny towards talk_happy_2 wondering "Tal vez también debería hacerle una pequeña visita más tarde…"
+    danny towards talk_happy_2 wondering "Tal vez debería hacerle una pequeña visita más tarde…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:345
 translate spanish a_masterful_speech_speech_dd6c33ca:
@@ -472,13 +472,13 @@ translate spanish a_masterful_speech_speech_661a2c0b:
 translate spanish a_masterful_speech_speech_16d99e22:
 
     # star talk_happy rise_one closed "Yeah, sure, and I'm the queen of Wisconsin. You gotta try harder to fool even a dummy like me, losers. Your freak love is {b}palpable{/b}."
-    star talk_happy rise_one closed "Sí, seguro, y yo soy la reina de Wisconsin. Tienes que esforzarte más para engañar incluso a una tonta como yo, perdedor. Tu amor és {b}palpable{/b}."
+    star talk_happy rise_one closed "Sí, seguro, y yo soy la reina de Wisconsin. Tienes que esforzarte más para engañar a una tonta como yo, perdedor. Tu amor és {b}palpable{/b}."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:372
 translate spanish a_masterful_speech_speech_1c80f673:
 
     # sam towards confused talk_frown "Could you please quit annoying us and just leave us alone? I'm sure Mr. Masters doesn't want some bossy bitches blathering during his speech."
-    sam towards confused talk_frown "¿Podrías por favor dejar de molestarnos y dejarnos solos? Estoy segura de que el señor Maestro no quiere que alguna perra de pecho le moleste durante su discurso."
+    sam towards confused talk_frown "¿Podrías por favor dejar de molestarnos y dejarnos solos? Estoy segura de que el señor Maestro no quiere que alguna perra dictadora le moleste durante su discurso."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:380
 translate spanish a_masterful_speech_speech_eb97edb2:
@@ -490,13 +490,13 @@ translate spanish a_masterful_speech_speech_eb97edb2:
 translate spanish a_masterful_speech_speech_76c1b4d0:
 
     # star closed talk_frown angry "Fine. I suppose I shouldn't be caught chatting with the likes of {b}you{/b} freaks anyway."
-    star closed talk_frown angry "Bien. Supongo que no debería ser vista chateando con monstruos como {b}vosotros{/b}."
+    star closed talk_frown angry "Bien. Supongo que no debería ser vista chateando con perdedores como {b}vosotros{/b}."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:389
 translate spanish a_masterful_speech_speech_795a1ea3:
 
     # star talk_happy rise_one towards "See ya later, losers!"
-    star talk_happy rise_one towards "a os veré más tarde, ¡perdedores!"
+    star talk_happy rise_one towards "os veré más tarde, ¡perdedores!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:397
 translate spanish a_masterful_speech_speech_ed07cbe7:
@@ -508,13 +508,13 @@ translate spanish a_masterful_speech_speech_ed07cbe7:
 translate spanish a_masterful_speech_speech_2d3b332b:
 
     # sam "Some people are just written and programmed to be awful people and she's {b}one{/b} of them!! I mean, spreading rumors about us being a couple?! Why does she even bother? We'd never do that, like, ever."
-    sam "Algunas personas nacen con un programa escrito en su frente para ser horribles ¡¡y ella és {b}una {/b} de ellas!! Quiero decir, ¿difunde rumores sobre nosotros siendo pareja?! ¿Por qué se molesta? Nunca lo haríamos, nunca."
+    sam "Algunas personas nacen con un programa para ser terribles ¡¡y ella és {b}una {/b} de ellas!! Quiero decir, ¿difunde rumores sobre nosotros siendo pareja?! ¿Por qué se molesta? Nunca lo haríamos, nunca."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:402
 translate spanish a_masterful_speech_speech_d6c215e9:
 
     # sam "She acts all high and mighty just because she's got a little amount of popularity in school... she doesn't {i}need{/i} to be such a jerk..."
-    sam "Ella actúa con aires de grandeza y poder porque tiene una pequeña popularidad en la escuela... ella no {i}necesita {/i} ser una semejante idiota..."
+    sam "Ella actúa con aires de grandeza y poder porque tiene una pequeña popularidad en la escuela... ella no {i}necesita {/i} ser semejante plasta..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:410
 translate spanish a_masterful_speech_speech_316828a9:
@@ -526,7 +526,7 @@ translate spanish a_masterful_speech_speech_316828a9:
 translate spanish a_masterful_speech_speech_23123d14:
 
     # sam talk_happy confused "Well that's certainly true. Star's as thick in the head as a bucket of spackle."
-    sam talk_happy confused "Pues eso es ciertamente cierto. Star tiene un ladrillo en la cabeza del tamaño de un fregadero."
+    sam talk_happy confused "Pues eso és ciertamente cierto. Star tiene un ladrillo por cerebro del tamaño de un fregadero."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:417
 translate spanish a_masterful_speech_speech_ea06966b:
@@ -568,7 +568,7 @@ translate spanish a_masterful_speech_speech_27bd5080:
 translate spanish a_masterful_speech_speech_2e3e3a27:
 
     # danny talk_happy rise_one closed "More likely it's because they just don't know you very well. They're unaware of the total goth badass that I know and love!"
-    danny talk_happy rise_one closed "Más probablemente és porque simplemente no te conocen bien. ¡No comprenden el rudo gótico que yo conozco y amo!"
+    danny talk_happy rise_one closed "Probablemente és porque no te conocen bien. ¡No comprenden el rudo gótico que yo conozco y amo!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:435
 translate spanish a_masterful_speech_speech_85411835:
@@ -628,7 +628,7 @@ translate spanish a_masterful_speech_speech_c84186e9:
 translate spanish a_masterful_speech_speech_e518a5da:
 
     # crowd "{i}*Ooohs* *Gasps* *Cheers*{/i}"
-    crowd "{i}*Ooohs * *Gasps * *Cheers * {/i}"
+    crowd "{i}*Ooohs * *Jadeos * *Saludos* {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:485
 translate spanish a_masterful_speech_speech_e15b37e0:
@@ -646,7 +646,7 @@ translate spanish a_masterful_speech_speech_c718fb78:
 translate spanish a_masterful_speech_speech_632c8909:
 
     # vlad "Speaking of which, I'm sure most of you have probably heard of that ghostly octopus looking fellow known as \"Ectopus\", I assume?"
-    vlad "Hablando de esto, estoy seguro de que la mayoría de ustedes probablemente han oído hablar de ese fantasmal pulpo conocido como \"Ectopus\", ¿cuierto?"
+    vlad "Hablando de esto, estoy seguro de que la mayoría de ustedes probablemente han oído hablar de ese fantasmal pulpo conocido como \"Ectopus\", ¿cierto?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:491
 translate spanish a_masterful_speech_speech_d8941db1:
@@ -658,7 +658,7 @@ translate spanish a_masterful_speech_speech_d8941db1:
 translate spanish a_masterful_speech_speech_b4bed88f:
 
     # vlad "Well fear no more good people! For I, {b}Vlad Masters{/b}, have already handled that evil creature and captured him within {b}this{/b} portable device."
-    vlad "¡Pues no temáis más buena gente! Para mí, {b}Maestro Vlad {/b}, ya he dominado esa criatura maligna y la he capturado dentro del {b}este {/b} dispositivo portátil."
+    vlad "¡Pues no temáis más buena gente! Porque yo, {b}Maestro Vlad {/b}, ya he dominado esa criatura maligna y la he capturado dentro del {b}este {/b} dispositivo portátil."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:497
 translate spanish a_masterful_speech_speech_417b9cff:
@@ -718,13 +718,13 @@ translate spanish a_masterful_speech_speech_90456d7b:
 translate spanish a_masterful_speech_speech_45f953a8:
 
     # vlad "Therefore, when you vote for Vlad Masters to be your new mayor, you are voting for a better, safer, ghost {i}free{/i} future!"
-    vlad "Por lo tanto, cuando usted voten al Maestro Vlad Masters para su nuevo alcalde, ¡ustedes estarán votando por un mejor y más seguro futuro {i}libre {/i} de fantasmas!"
+    vlad "Por lo tanto, cuando voten al Maestro Vlad Masters para su nuevo alcalde, ¡ustedes estarán votando por un mejor y más seguro futuro {i}libre {/i} de fantasmas!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:520
 translate spanish a_masterful_speech_speech_16f5cb9b:
 
     # crowd "{i}*Multitudes of Applause* *Cheers*{/i}"
-    crowd "{i}*Multitudes de aplausos * {/i}"
+    crowd "{i}*Multitud de aplausos * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:522
 translate spanish a_masterful_speech_speech_7e0d133a:
@@ -778,13 +778,13 @@ translate spanish a_masterful_speech_speech_50231447:
 translate spanish a_masterful_speech_speech_76462b91:
 
     # shadow 3 "{i}*Growl* *Snarl* *Hisss*{/i}"
-    shadow 3 "{i}*Growl * *Snarl * *Hisss * {/i}"
+    shadow 3 "{i}*Gruñido * *Gruñido * *Silvido* {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:573
 translate spanish a_masterful_speech_speech_4f60cad9:
 
     # vlad angry talk_frown towards_2 "Now who in blazes do you think you are to interrupt my candidacy announcement, foul spectre?"
-    vlad angry talk_frown towards_2 "¿quién piensa que está interrumpiendo el anunciamiento de mi candidatura?, ¿un sucio espectro?"
+    vlad angry talk_frown towards_2 "¿quién piensa que está interrumpiendo el anuncio de mi candidatura?, ¿un sucio espectro?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:575
 translate spanish a_masterful_speech_speech_b942a549:
@@ -796,7 +796,7 @@ translate spanish a_masterful_speech_speech_b942a549:
 translate spanish a_masterful_speech_speech_72a61360:
 
     # shadow 3 "{i}*Growl* *Snap* *Blehh*{/i}"
-    shadow 3 "{i}*Growl * *Snarl * *Hisss * {/i}"
+    shadow 3 "{i}*Gruñido * *Gruñido* *Silvido* {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:582
 translate spanish a_masterful_speech_speech_da14d22d:
@@ -820,7 +820,7 @@ translate spanish a_masterful_speech_speech_ff661a54:
 translate spanish a_masterful_speech_speech_fa45f20e:
 
     # vlad rise_one talk_frown "Oh right… I haven't quite figured out the {b}charging{/b} issue. My device needs a good amount of time to recharge after every capture."
-    vlad rise_one talk_frown "Oh derecha… No he reparado del todo el problema {b}de carga {/b}. Mi dispositivo necesita una gran cantidad de tiempo para recargarse después de cada captura."
+    vlad rise_one talk_frown "Oh vale… no he reparado del todo el problema {b}de carga {/b}. Mi dispositivo necesita una gran cantidad de tiempo para recargarse después de cada captura."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:593
 translate spanish a_masterful_speech_speech_c009069d:
@@ -832,7 +832,7 @@ translate spanish a_masterful_speech_speech_c009069d:
 translate spanish a_masterful_speech_speech_d84ef458:
 
     # shadow 4 "{i}*Snarl* *Slurp*{/i}"
-    shadow 4 "{i}*Slurp!* *Slurp*{/i}"
+    shadow 4 "{i}*Sorbido!* *sorbido*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:602
 translate spanish a_masterful_speech_speech_ce078110:
@@ -880,7 +880,7 @@ translate spanish a_masterful_speech_speech_5ddce93d:
 translate spanish a_masterful_speech_postfight_d5235bcd:
 
     # danny blank_stare talk_frown_2 wondering "Man, that ghost was {i}really{/b} strong... he was practically leagues above me in terms of strength... and he was also able to get away, shoot!"
-    danny blank_stare talk_frown_2 wondering "Tio, ese fantasma era {i}realmente {/b} fuerte... él era prácticamente rozaba los límites de mi fuerza... y también era capaz de escapar, ¡rayos!"
+    danny blank_stare talk_frown_2 wondering "Tio, ese fantasma era {i}realmente {/b} fuerte... él prácticamente rozaba los límites de mi fuerza... y también era capaz de escapar, ¡rayos!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:666
 translate spanish a_masterful_speech_postfight_4a0d6960:
@@ -898,7 +898,7 @@ translate spanish a_masterful_speech_postfight_2de23e06:
 translate spanish a_masterful_speech_postfight_e5588edf:
 
     # sam talk_frown sad_2 "What's with these ghosts, Danny? Why are they {b}only{/b} attacking girls? I'm not crazy right? There's definitely a pattern going on here with the attacks, don't you think?"
-    sam talk_frown sad_2 "¿Qué sucede con estos fantasmas Danny? ¿Por qué están {b}sólo {/b} atacando a las niñas? ¿no estoy loca verdad? Definitivamente sigue un patrón en sus ataques, ¿no crees?"
+    sam talk_frown sad_2 "¿Qué sucede con estos fantasmas Danny? ¿Por qué están {b}sólo {/b} atacando a las chicas? ¿no estoy loca verdad? Definitivamente sigue un patrón en sus ataques, ¿no crees?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:679
 translate spanish a_masterful_speech_postfight_7fc2f735:
@@ -910,7 +910,7 @@ translate spanish a_masterful_speech_postfight_7fc2f735:
 translate spanish a_masterful_speech_postfight_497a883c:
 
     # sam talk_frown confused "That one seemed to be even stronger than the Ectopus you fought before! Jeez, I guess they only get worse the nastier they seem, huh?"
-    sam talk_frown confused "¡Este otro parecía ser aún más fuerte que Ectopus que vencí antes! Joder, creo que cuantos más desagradables más fuertes són, ¿eh?"
+    sam talk_frown confused "¡Este otro parecía ser aún más fuerte que Ectopus que venciste antes! Joder, creo que cuantos más desagradables más fuertes són, ¿eh?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:684
 translate spanish a_masterful_speech_postfight_a767ffba:
@@ -934,7 +934,7 @@ translate spanish a_masterful_speech_postfight_cd3631ca:
 translate spanish a_masterful_speech_postfight_68bc4fac:
 
     # danny towards_wide talk_frown_2 wondering "Well actually, there does seem to be {i}one{/i} way to help me out, but it'd be kind of difficult to explain right now."
-    danny towards_wide talk_frown_2 wondering "Bueno, en realidad, parece que hay {i}una{/i} forma de para ayudarme, pero podría ser algo difícil explicártela en este momento."
+    danny towards_wide talk_frown_2 wondering "Bueno, en realidad, parece que hay {i}una{/i} forma de ayudarme, pero podría ser algo difícil explicártela en este momento."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:694
 translate spanish a_masterful_speech_postfight_2449780b:
@@ -952,13 +952,13 @@ translate spanish a_masterful_speech_postfight_e24e883f:
 translate spanish a_masterful_speech_postfight_ca6cebcb:
 
     # jack towards_wide sad talk_happy "Danny! No time for relaxing! Come look!! More exciting ghost news!!"
-    "¡[_jack_s_towards_wide_s_sad_s_talk_happy_] Danny! ¡No es momento de relajarse! ¡Ven a mirar!! Más noticias emocionantes de fantasmas!!"
+    jack towards_wide sad talk_happy "¡Danny! ¡No es momento de relajarse! ¡Ven a mirar!! Más noticias emocionantes de fantasmas!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:735
 translate spanish a_masterful_speech_postfight_1b671800:
 
     # danny frown_grin at_player sad_2 "(Man, I have just been {i}nailing{/i} these ramp setups into dramatic irony lately!)"
-    danny frown_grin at_player sad_2 "(Tio, acaban de ser {i}aplastarme{/i} los planes con una dramática ironía!)"
+    danny frown_grin at_player sad_2 "(Tio, acaban de {i}explotarme{/i} los planes diciéndolo con dramática ironía!)"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:742
 translate spanish a_masterful_speech_postfight_bd776261:
@@ -1000,7 +1000,7 @@ translate spanish a_masterful_speech_postfight_f075f29c:
 translate spanish a_masterful_speech_postfight_2631aa0d:
 
     # newscaster 9 "Thankfully, it was due to the courageous efforts of Amity Park's newest hero, {b}Vlad Masters{/9}, that the ghosts were thwarted. Mr. Masters fought the ghosts head-on using his state of the art ghost-tech, forcing them to flee the event."
-    newscaster 9 "Afortunadamente, debido a los valientes esfuerzos del héroe más reciente de Amity Park, {b}Maestro Vlad{/b}, los intentos fantasmales fueron frustrados. El Sr. Maestro luchó contra los fantasmas de frente y usando su tecnología, obligándolos a huir del evento."
+    newscaster 9 "Afortunadamente, debido a los valientes esfuerzos del héroe más reciente de Amity Park, {b}Maestro Vlad{/b}, los intentos fantasmales fueron frustrados. El Sr. Maestro luchó contra los fantasmas de frente usando su tecnología, obligándolos a huir del evento."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:763
 translate spanish a_masterful_speech_postfight_ee1a6ab6:
@@ -1060,7 +1060,7 @@ translate spanish a_masterful_speech_postfight_cd874656:
 translate spanish a_masterful_speech_postfight_caa0feb4:
 
     # maddie towards sad talk_happy "Danny, don't stay up too late, it's still a school night after all."
-    maddie towards sad talk_happy "Danny, no te quedes demasiado tarde, esto sigue siendo como una escuela de noche."
+    maddie towards sad talk_happy "Danny, no te quedes despierto hasta tarde, esto sigue siendo como una escuela de noche."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:799
 translate spanish a_masterful_speech_postfight_dbc0851a:
@@ -1096,13 +1096,13 @@ translate spanish a_masterful_speech_postfight_b3316309:
 translate spanish sams_plan_sam_bedroom_f2fef860:
 
     # sam talk_frown towards angry "{b}Jeezus{/ub} Danny! God, you nearly scared me to death again! Stop sneaking up on me like that!"
-    sam talk_frown towards angry "{b}Jesús {/ub} Danny! ¡Dios, me has dado un susto de muerte otra vez! Deja de comportarte de esta forma!"
+    sam talk_frown towards angry "{b}Jesús {/b} Danny! ¡Dios, me has dado un susto de muerte otra vez! Deja de comportarte de esta forma!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:924
 translate spanish sams_plan_sam_bedroom_a8162b73:
 
     # danny talk_happy wondering "Heh, well maybe if I had, we could {b}both{/b} fight ghosts together."
-    danny talk_happy wondering "Heh, bien tal vez si tuviera, podríamos {b}ambos {/b} luchar contra fantasmas en equipo."
+    danny talk_happy wondering "Heh, bien tal vez, podríamos {b}ambos {/b} luchar contra fantasmas en equipo."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:926
 translate spanish sams_plan_sam_bedroom_e7f7ffe3:
@@ -1138,7 +1138,7 @@ translate spanish hunting_a_shadow_2d92ae1d:
 translate spanish hunting_a_shadow_b2f9b57f:
 
     # sam talk_happy "Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
-    sam talk_happy "Oh seguro, no és una molestia. Aquí, lo voy a escribir en este trozo de papel para ti."
+    sam talk_happy "Oh seguro, no és molestia. Aquí, lo voy a escribir en este trozo de papel para ti."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:957
 translate spanish hunting_a_shadow_07d332cc:
@@ -1174,7 +1174,7 @@ translate spanish hunting_a_shadow_7470194b:
 translate spanish hunting_a_shadow_ed3ae5c4:
 
     # sam talk_frown_2 sad_2 away "Man, is this {i}really{/i} the whole outfit? {i}*Sigh*{/i} I'd almost prefer just running around naked instead of wearing something as girly as this. Anyway, thanks again for getting it for me."
-    sam talk_frown_2 sad_2 away "Tio, ¿és esto {i}realmente {/i} todo el vestido? {i}*Sigh * {/i} Casi prefiero correr desnuda en lugar de usar algo tan ceñido. De todos modos, gracias de nuevo por conseguirlo para mí."
+    sam talk_frown_2 sad_2 away "Tio, ¿és esto {i}realmente {/i} todo el vestido? {i}*Suspiro * {/i} Casi prefiero correr desnuda en lugar de usar algo tan ceñido. De todos modos, gracias de nuevo por conseguirlo para mí."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:997
 translate spanish hunting_a_shadow_f5f20994:
@@ -1192,7 +1192,7 @@ translate spanish hunting_a_shadow_d070114a:
 translate spanish hunting_a_shadow_79e7aea5:
 
     # danny talk_frown_2 wondering "Well, the thing is... like, essentially… so there's this thing called Orgone, right?"
-    danny talk_frown_2 wondering "Bueno, la cosa és... como, esencialmente… hay esta cosa llamada Orgón, ¿verdad?"
+    danny talk_frown_2 wondering "Bueno, la cosa és... como, esencialmente… hay esta cosa llamada Orgone, ¿verdad?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1003
 translate spanish hunting_a_shadow_b704d123:
@@ -1276,7 +1276,7 @@ translate spanish hunting_a_shadow_983194d0:
 translate spanish hunting_a_shadow_55aacf7c:
 
     # danny talk_frown_2 towards "Yeah, that's the only way it will work. It needs two participants essentially both producing their sexual energies together. Ghosts kind of just soak it up, like a sponge."
-    danny talk_frown_2 towards "Sí, esa es la única manera en que funcione. Necesita dos participantes produciendo sus energías sexuales juntas. Así los fantasmas se empapan de orgon, como una esponja."
+    danny talk_frown_2 towards "Sí, esa es la única manera en que funcione. Necesita dos participantes produciendo sus energías sexuales juntas. Así los fantasmas se empapan de orgone, como una esponja."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1043
 translate spanish hunting_a_shadow_ca77b57d:
@@ -1300,7 +1300,7 @@ translate spanish hunting_a_shadow_9540d9e5:
 translate spanish hunting_a_shadow_989d77af:
 
     # danny talk_frown_2 rise_one "There's this thing, it's called Orgone. It makes ghosts more powerful. I need to get my hands on some of it to prepare myself to fight that shadow again."
-    danny talk_frown_2 rise_one "Hay esa cosa, se llama Orgon. Hace que los fantasmas sean más poderosos. Necesito tener algo para prepararme la lucha contra esa sombra de nuevo."
+    danny talk_frown_2 rise_one "Hay esa cosa, se llama Orgone. Hace que los fantasmas sean más poderosos. Necesito tener algo para prepararme la lucha contra esa sombra de nuevo."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1064
 translate spanish hunting_a_shadow_1f622160:
@@ -1318,7 +1318,7 @@ translate spanish hunting_a_shadow_d15fd5ca:
 translate spanish hunting_a_shadow_be7a7dac:
 
     # danny talk_frown_2 wondering closed "Orgone comes from sexual vibes emanating off two participants. It's the creation of life energy and vitality that is being produced while they are pretty much bumping uglies... essntially, anyway."
-    danny talk_frown_2 wondering closed "El orgon viene de vibraciones sexuales que emanan de dos participantes. Es por la creación de la energía de la vida y la vitalidad que se produce cuando están en una actividad tan hermosa y no fea."
+    danny talk_frown_2 wondering closed "El orgone viene de vibraciones sexuales que emanan de dos participantes. Es por la creación de la energía de la vida y la vitalidad que se produce cuando están en una actividad tan hermosa y no fea."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1075
 translate spanish hunting_a_shadow_ba835f69:
@@ -1330,7 +1330,7 @@ translate spanish hunting_a_shadow_ba835f69:
 translate spanish hunting_a_shadow_35519ce8:
 
     # danny sad_2 talk_frown_2 "No, I don't think that'll be enough. It needs to come from both parties being aroused to produce the Orgone. I don't think it needs to be strictly sex, but just me looking at you won't do it."
-    danny sad_2 talk_frown_2 "No, no creo que eso sea suficiente. Tiene que venir de las dos partes que se estimulan para producir el Orgon. No creo que necesite ser estrictamente sexual, solo mirándote no funcionará."
+    danny sad_2 talk_frown_2 "No, no creo que eso sea suficiente. Tiene que venir de las dos partes que se estimulan para producir el Orgone. No creo que necesite ser estrictamente sexual, solo mirándote funcionará."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1084
 translate spanish hunting_a_shadow_a0952b91:
@@ -1348,7 +1348,7 @@ translate spanish hunting_a_shadow_d4d3a7b7:
 translate spanish hunting_a_shadow_second_choice_b7827baf:
 
     # danny talk_frown_2 wondering "Mom told me about it. She did some research on Orgone in college."
-    danny talk_frown_2 wondering "Mamá me explicó sobre todo esto. Ella hizo algunas investigaciones sobre orgon en la universidad."
+    danny talk_frown_2 wondering "Mamá me explicó sobre todo esto. Ella hizo algunas investigaciones sobre orgone en la universidad."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1109
 translate spanish hunting_a_shadow_second_choice_3b8e8469:
@@ -1390,7 +1390,7 @@ translate spanish hunting_a_shadow_second_choice_bb017062:
 translate spanish hunting_a_shadow_second_choice_cc206193:
 
     # sam confused talk_frown "…uhm, what's {b}that{/b} supposed to mean?"
-    sam confused talk_frown "uhm... ¿qué se supone que significa {b}eso{/i}?"
+    sam confused talk_frown "uhm... ¿qué se supone que significa {b}eso{/b}?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1135
 translate spanish hunting_a_shadow_second_choice_4c83cf13:
@@ -1402,7 +1402,7 @@ translate spanish hunting_a_shadow_second_choice_4c83cf13:
 translate spanish hunting_a_shadow_second_choice_bc15b168:
 
     # danny talk_frown rise_one "It means I need your help, Sam. Isn't that what friends are for? This is to help protect the town, I don't see the big issue here."
-    danny talk_frown rise_one "Significa que necesito tu ayuda, Sam. ¿No es eso para lo que son amigos? Además esto és para ayudar a proteger la ciudad, no le veo el gran problema."
+    danny talk_frown rise_one "Significa que necesito tu ayuda, Sam. ¿No és eso para lo que son amigos? Además esto és para ayudar a proteger la ciudad, no le veo el gran problema."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1144
 translate spanish hunting_a_shadow_second_choice_04fabe39:
@@ -1498,19 +1498,19 @@ translate spanish hunting_a_shadow_second_choice_44b61717:
 translate spanish hunting_a_shadow_final_choice_c6b7e2da:
 
     # danny talk_happy towards rise_one "There's nobody else I can trust but you with this mission. You're one of my best friends in the whole world, and I feel that together, we can protect Amity. I'll understand if you don't feel comfortable though, it's always your choice."
-    danny talk_happy towards rise_one "No hay nadie más en quien pueda confiar como tú con esta misión. Eres una de mis mejores amigas en todo el mundo, y siento que juntos, podemos proteger a Amity. Entenderé si no te sientes cómoda, aunque siempre es tu elección."
+    danny talk_happy towards rise_one "No hay nadie más en quien pueda confiar como tú para esta misión. Eres una de mis mejores amigas en todo el mundo, y siento que juntos, podemos proteger a Amity. Entenderé si no te sientes cómoda, aunque siempre es tu elección."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1235
 translate spanish hunting_a_shadow_final_choice_d4cd5e5f:
 
     # danny talk_frown sad_2 "Come on Sam, if you don't help me I'll never be able to fight off the ghosts attacking the town. People might really get hurt if we don't pull this off together."
-    danny talk_frown sad_2 "Vamos en Sam, si no me ayudas nunca podré luchar contra los fantasmas que atacan la ciudad. La gente podría salir herida si no empujamos este problema juntos."
+    danny talk_frown sad_2 "Vamos Sam, si no me ayudas nunca podré luchar contra los fantasmas que atacan la ciudad. La gente podría salir herida si no llevamos este problema juntos."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1244
 translate spanish hunting_a_shadow_final_choice_afa67cf7:
 
     # sam closed angry talk_frown "Uchh, {i}fiiine{/i}. I'll help you. But you have to promise me you won't tell anybody about this, {b}especially{/b} Tucker, okay?"
-    sam closed angry talk_frown "Uchh, {i}bieeenn{/i}. Te ayudaré. Pero tú tienes que prometerme que no se le dirás, {b}especialmente {/b} Tucker, ¿de acuerdo?"
+    sam closed angry talk_frown "Uchh, {i}bieeenn{/i}. Te ayudaré. Pero tú tienes que prometerme que no se lo dirás, {b}especialmente {/b} a Tucker, ¿de acuerdo?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1248
 translate spanish hunting_a_shadow_final_choice_e88e1120:
@@ -1522,7 +1522,7 @@ translate spanish hunting_a_shadow_final_choice_e88e1120:
 translate spanish hunting_a_shadow_final_choice_932cb6e0:
 
     # danny towards_wide neutral talk_happy "Come on Sam, aren't you looking forward to bragging to all your goth friends about how you seduced a real ghost? I gotta figure that's a more interesting story than the time they tried to summon an imaginary demon or something."
-    danny towards_wide neutral talk_happy "Vamos Sam, ¿no estás deseando presumir a todos tus amigos de la goth acerca de cómo seduciste a un fantasma real? Hazte a la idea de que soy una historia más interesante que la vez que tratasteis de convocar a un demonio imaginario o algo parecido."
+    danny towards_wide neutral talk_happy "Vamos Sam, ¿no estás deseando presumir a todos tus amigos goticos acerca de cómo seduciste a un fantasma real? Hazte a la idea de que soy una historia más interesante que la vez que tratasteis de convocar a un demonio imaginario o algo parecido."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1260
 translate spanish hunting_a_shadow_final_choice_e99a30ba:
@@ -1564,7 +1564,7 @@ translate spanish sams_plan_sweet_ending_7627cfc7:
 translate spanish sams_plan_sweet_ending_e7f2a11d:
 
     # sam talk_bite "After we do this... we'll still be friends, right? I mean, we won't get all weird around each other afterwards, and stuff, right?"
-    sam talk_bite "Después de hacer esto... seguiremos siendo amigos, ¿vale? Quiero decir, no nos vamos a ponernos cachondos después, y esas otras cosas, ¿vale?"
+    sam talk_bite "Después de hacer esto... seguiremos siendo amigos, ¿vale? Quiero decir, no nos vamos a poner cachondos después, y esas otras cosas, ¿vale?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1289
 translate spanish sams_plan_sweet_ending_7000b29a:
@@ -1648,7 +1648,7 @@ translate spanish sams_plan_cocky_ending_9390d324:
 translate spanish sams_plan_cocky_ending_1a2d706c:
 
     # danny talk_frown_2 wondering "I mean, it's up to you what we do, but I really wanna stop that shadow ghost from hurting anyone else. I feel like this will be all we'll need to get done, but I've never done anything like this, obviously."
-    danny talk_frown_2 wondering "Quiero decir, depende de ti lo que hacemos, pero realmente quiero dejar que ese fantasma de la sombra dañe a nadie más. Siento que esto será todo lo que tendremos que hacer y obviamente nunca he hecho algo así."
+    danny talk_frown_2 wondering "Quiero decir, depende de ti lo que hacemos, pero realmente no quiero dejar que ese fantasma de la sombra dañe a nadie más. Siento que esto será todo lo que tendremos que hacer y obviamente nunca he hecho algo así."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1350
 translate spanish sams_plan_cocky_ending_2a24ca29:
@@ -1660,7 +1660,7 @@ translate spanish sams_plan_cocky_ending_2a24ca29:
 translate spanish sams_plan_cocky_ending_d7b09d81:
 
     # danny towards_wide talk_happy sad_2 blush "Oh, uhm, yeah, definitely, that would really help me to, uh... {b}emanate{/b} some good Orgone energies."
-    danny towards_wide talk_happy sad_2 blush "Oh, uhm, sí, definitivamente, eso realmente me ayudaría a, uh... {b}emanaría {/b} buena energía orgon."
+    danny towards_wide talk_happy sad_2 blush "Oh, uhm, sí, definitivamente, eso realmente me ayudaría a, uh... {b}emanaría {/b} buena energía orgone."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1356
 translate spanish sams_plan_cocky_ending_69adb8e6:
@@ -1684,7 +1684,7 @@ translate spanish sams_plan_cocky_ending_6a128bee:
 translate spanish sams_plan_cocky_ending_da711fa8:
 
     # danny talk_happy_2 neutral towards "Oh, you know it, Ms. Manson."
-    danny talk_happy_2 neutral towards "Oh, tú ya lo sabes, Sra. Manson."
+    danny talk_happy_2 neutral towards "Oh, tú ya lo sabes, Mr. Manson."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1379
 translate spanish sams_plan_cocky_ending_35784a85:
@@ -1744,7 +1744,7 @@ translate spanish sams_plan_scene_start_bee7daee:
 translate spanish sams_plan_scene_start_91257654:
 
     # danny "I want to make sure this works, Sam. Gotta soak up all the Orgone juices properly…"
-    danny "Quiero asegurarme de que esto funcione, Sam. Empaparme de todos los zumos de orgon…"
+    danny "Quiero asegurarme de que esto funcione, Sam. Empaparme de todos los zumos de orgone…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1477
 translate spanish sams_plan_scene_start_db3f615d:
@@ -1762,7 +1762,7 @@ translate spanish sams_plan_scene_start_1ddfc17b:
 translate spanish sams_plan_scene_start_48faf698:
 
     # sam "N-no, it's alright... (Oh wow... {i}Danny Fenton{/i} of all people, good {b}Lord{/b}! Who would've thought he'd be so... {u}wow{/u}?)"
-    sam "N-no, está bien... (Oh wow... {i}Danny Fenton {/i} de todas las personas, bueno {b}señores {/b}! ¿Quién hubiera pensado que sería él?... {u}wow {u})"
+    sam "N-no, está bien... (Oh wow... {i}Danny Fenton {/i} de todas las personas, bueno {b}señores {/b}! ¿Quién hubiera pensado que sería él?... {u}wow {/u})"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1496
 translate spanish sams_plan_scene_start_7c3249a4:
@@ -1792,7 +1792,7 @@ translate spanish sams_plan_scene_start_967b797b:
 translate spanish sams_plan_scene_start_4a3e96ca:
 
     # danny "No you're right. It'll be more fun to tease you like this, anyway."
-    danny "No tienes razón. Será más divertido molestarte de esa forma."
+    danny "Tienes razón. Será más efectivo hacerlo de esta forma."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1531
 translate spanish sams_plan_scene_start_eec9fcca:
@@ -1942,13 +1942,13 @@ translate spanish sams_plan_scene_start_0b86e825:
 translate spanish sams_plan_scene_start_ad941927:
 
     # sam "{b}Jeezus, Danny, what the fuck?!? {u}Ask{/u} first!!"
-    sam "{b}Jesús, Danny, ¿¡¿qué coño?!? ¡¡{u}Pregunta{/u} primero!!"
+    sam "{b}Jesús, Danny{/b}, ¿¡¿qué coño?!? ¡¡{u}Pregunta{/u} primero!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1673
 translate spanish sams_plan_scene_start_279e3ec0:
 
     # danny "Wh-what, but I just thought that-"
-    danny "Qu-qué, pero yo solo pensé sobre eso-"
+    danny "Qu-qué, pero yo solo pensé que-"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1677
 translate spanish sams_plan_scene_start_f848d52b:
@@ -1960,7 +1960,7 @@ translate spanish sams_plan_scene_start_f848d52b:
 translate spanish sams_plan_scene_start_a59fdea0:
 
     # danny "Sorry, I'll put it away, but I thought it might help..."
-    danny "Lo siento, lo dejaré, pero pensé que podría ayudar..."
+    danny "Lo siento, lo olvidaré, pero pensé que podría ayudar..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1685
 translate spanish sams_plan_scene_start_000629eb:
@@ -2038,7 +2038,7 @@ translate spanish sams_plan_scene_start_c80ed602:
 translate spanish sams_plan_scene_start_22141df7:
 
     # danny "I thought I already was, right?"
-    danny "Pensé que ya estaba?"
+    danny "Pensé que ya estaba, ¿bien?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1768
 translate spanish sams_plan_scene_start_53805ecb:
@@ -2050,13 +2050,13 @@ translate spanish sams_plan_scene_start_53805ecb:
 translate spanish sams_plan_scene_start_27c7efc5:
 
     # danny "I... I didn't want to stare too much."
-    danny "I... No quería fijarme demasiado."
+    danny "yo... No quería fijarme demasiado."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1774
 translate spanish sams_plan_scene_start_807fc2fc:
 
     # sam "That's the point though, isn't it? You... watching me... play with my pussy... ohh, fuck, just saying that... {i}*Mhhff*{/i}"
-    sam "Ese és el acuerdo, ¿no? Tú... mirándome a mí... jugando con mi coño... ohh, joder, ademas diciendo estas cosas... {i}*Mhhff * {/i}"
+    sam "Ese és el acuerdo, ¿no? Tú... mirándome a mí... jugando con mi coño... ohh, joder, además diciendo estas cosas... {i}*Mhhff * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1777
 translate spanish sams_plan_scene_start_68d02aff:
@@ -2182,7 +2182,7 @@ translate spanish sams_plan_scene_complete_4ad314af:
 translate spanish sams_plan_scene_complete_7d5c97bc:
 
     # sam talk_happy neutral "Yeah, see ya... and hey, Danny?"
-    sam talk_happy neutral "Sí, ¿nos vemos... y bueno, Danny?"
+    sam talk_happy neutral "Sí, nos vemos... y bueno, ¿Danny?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1936
 translate spanish sams_plan_scene_complete_d5b7b9f1:
@@ -2248,7 +2248,7 @@ translate spanish to_know_1_6e17fd37:
 translate spanish to_know_1_79ceae8f:
 
     # kate talk_frown rise_one "Minus what's been happening lately, I mean. I never would have imagined seeing a real ghost or having to fear being possibly attacked by one in my town before."
-    kate talk_frown rise_one "Menos lo que ha estado sucediendo últimamente, quiero decir. Nunca me hubiera imaginado ver un fantasma real o tener que temer ser posiblemente atacada por uno en mi pueblo."
+    kate talk_frown rise_one "Y menos con lo que ha estado sucediendo últimamente, quiero decir. Nunca me hubiera imaginado ver un fantasma real o tener que temer ser posiblemente atacada por uno en mi pueblo."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2014
 translate spanish to_know_2_cdac6849:
@@ -2362,7 +2362,7 @@ translate spanish to_know_3_4115a02d:
 translate spanish to_know_3_c8771bcf:
 
     # kate "I am still young enough, if that is what you wanted to hear!"
-    kate "Todavía soy lo suficiente joven, ¡si eso es lo que querías escuchar!"
+    kate "Todavía soy lo suficiente joven, ¡si eso és lo que querías escuchar!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2080
 translate spanish to_know_3_49e8f903:
@@ -2428,7 +2428,7 @@ translate spanish kates_hero_handjob_2e1aa6c1:
 translate spanish kates_hero_handjob_72586e98:
 
     # kate "You know, I was so impressed by you, taking on that big bully Dash. Was he tough to beat?"
-    kate "Sabes, estuve muy impresionada contigo, escarmentando ese gran Dash. ¿Fue difícil de vencer?"
+    kate "Sabes, estuve muy impresionada contigo cuando escarmentaste a ese gran Dash. ¿Fue difícil de vencer?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2137
 translate spanish kates_hero_handjob_adbfe3a0:
@@ -2476,13 +2476,13 @@ translate spanish kates_hero_handjob_d3d13217:
 translate spanish kates_hero_handjob_2395754d:
 
     # kate "{i}Mmhmmm{/i}... ugh, I haven't had such fun in a damn good while... you know I {b}only{/b} do this for you, right?"
-    kate "{i}Mmhmmm {/i}... ugh, no he tenido tal diversión desde hace tiempo... sabes que yo {b}sólo {/b} hago esto para ti ¿verdad?"
+    kate "{i}Mmhmmm {/i}... ugh, no he tenido esta diversión desde hace tiempo... sabes que yo {b}sólo {/b} hago esto para ti ¿verdad?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2151
 translate spanish kates_hero_handjob_3581311c:
 
     # danny "R-really? Wh-why's that? There are other g-guys here better looking than me..."
-    danny "¿R-realmente? ¿Por qué? Hay otros g-chicos aquí mejor que yo..."
+    danny "¿R-realmente? ¿Por qué? Hay otros o-chicos aquí más guapos que yo..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2153
 translate spanish kates_hero_handjob_b606d426:
@@ -2506,7 +2506,7 @@ translate spanish kates_hero_handjob_6bf5c131:
 translate spanish kates_hero_handjob_a89498d4:
 
     # danny "Ahh, go-gosh K-Kate, you d-don't really meeaaan-"
-    danny "Ahh, go-gosh K-Kate, n-no lo dices en seriooooo-"
+    danny "Ahh, d-dios K-Kate, n-no lo dices en seriooooo-"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2161
 translate spanish kates_hero_handjob_0dcb7ce4:
@@ -2530,7 +2530,7 @@ translate spanish kates_hero_the_stolen_box_3d7bcc18:
 translate spanish kates_hero_the_stolen_box_a351f54d:
 
     # danny talk_frown sad "Hey, is something wrong? You're looking a bit blue today."
-    danny talk_frown sad "Hey, ¿és algo malo? Hoy pareces un poco irritable."
+    danny talk_frown sad "Hey, ¿hay algo mal? Hoy pareces un poco irritable."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2206
 translate spanish kates_hero_the_stolen_box_6d6e14af:
@@ -2590,7 +2590,7 @@ translate spanish kates_quest_1_7f3a810f:
 translate spanish kates_quest_1_2d0e5d53:
 
     # kate closed neutral " I really hope I won't get fired for this, but I'm going to need to report it missing sooner or later… ugh. I'm gonna be {i}so{/i} fired."
-    kate closed neutral "Espero que no me despidan por esto. Tengo que informar de este suceso tarde o temprano… ugh. Voy a ser {i}seguro{/i} despedida."
+    kate closed neutral "Espero que no me despidan por esto. Tengo que informar de este suceso tarde o temprano… ugh. Voy a ser despedida {i}seguro{/i}."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2232
 translate spanish kates_quest_1_21223094:
@@ -2644,7 +2644,7 @@ translate spanish kates_hero_not_yet_7ad70458:
 translate spanish kates_hero_not_yet_87e556bb:
 
     # danny rise_one talk_happy "But don't worry Kate, I'm sure I'm gonna find it soon. Someone may have taken it, but I'm gonna get it back from them!"
-    danny rise_one talk_happy "Pero no te preocupes Kate, estoy seguro de que lo voy a encontrar pronto. ¡Puede que alguien lo haya cogido, pero yo lo voy a recuperar para ti!"
+    danny rise_one talk_happy "Pero no te preocupes Kate, estoy seguro de que la voy a encontrar pronto. ¡Puede que alguien lo haya cogido, pero yo lo voy a recuperar para ti!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2285
 translate spanish kates_hero_not_yet_49af345b:
@@ -2692,13 +2692,13 @@ translate spanish kates_hero_the_box_returns_bfc60206:
 translate spanish kates_hero_the_box_returns_316e1e04:
 
     # kate sad_2 talk_frown "You had to buy it off of him? Even though it was clearly stolen? Oh that's awful Danny, I'm so sorry! I'll repay you for what it cost!"
-    kate sad_2 talk_frown "¿Tenías que comprarla de él? ¿A pesar de que fue claramente robada? ¡Oh, és horrible Danny!, ¡lo siento mucho! ¡Te devolveré lo que costó!"
+    kate sad_2 talk_frown "¿Tenías que comprarla a él? ¿A pesar de que fue claramente robada? ¡Oh, és horrible Danny!, ¡lo siento mucho! ¡Te devolveré lo que costó!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2327
 translate spanish kates_hero_the_box_returns_0c0088c1:
 
     # danny talk_happy_2 rise_one "It's really not a big deal Kate, don't worry about it. This means you aren't going to get fired, and we get to still see each other at school. Sounds like a sweet enough deal to me."
-    danny talk_happy_2 rise_one "Realmente no és caro Kate, no te preocupes por ello. Esto significa que no vas a ser despedida, y todavía nos veremos en la escuela. Con esto ya tengo suficiente recompensa."
+    danny talk_happy_2 rise_one "Realmente no és cara Kate, no te preocupes por ello. Esto significa que no vas a ser despedida, y todavía nos veremos en la escuela. Con esto ya tengo suficiente recompensa."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2330
 translate spanish kates_hero_the_box_returns_f710981c:
@@ -2782,7 +2782,7 @@ translate spanish kates_hero_blowjob_d9eb4056:
 translate spanish kates_hero_blowjob_a165a3d1:
 
     # kate "f..ee..l...?"
-    kate "f.. ee.. l...?"
+    kate "si.. en.. tes...?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2434
 translate spanish kates_hero_blowjob_d5904b13:
@@ -2944,7 +2944,7 @@ translate spanish kates_hero_blowjob_8f6045af:
 translate spanish kates_hero_blowjob_eb730419:
 
     # kate "Danny, wait! Oh shoot, why does this keep happening?"
-    kate "Danny, ¡espera! Habla ya, ¿por qué esto sigue sucediendo?"
+    kate "Danny, ¡espera! joder, ¿por qué esto sigue sucediendo?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2568
 translate spanish kittys_revange_the_morning_after_the_speech_16929b0e:
@@ -3040,7 +3040,7 @@ translate spanish kittys_revange_the_morning_after_the_speech_46c39019:
 translate spanish kittys_revange_the_morning_after_the_speech_ae5d4249:
 
     # sam "Gross, Tucker, you are {i}such{/i} a perv!!"
-    sam "Gross, ¡¡Tucker, eres {i} igual {/i} que un pervertido!!"
+    sam "Gross, ¡¡Tucker, eres un {i} auténtico {/i} pervertido!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2612
 translate spanish kittys_revange_the_morning_after_the_speech_442a3a1e:
@@ -3100,7 +3100,7 @@ translate spanish kittys_revange_flirting_at_school_fea509d8:
 translate spanish kittys_revange_flirting_at_school_dbf5f915:
 
     # sam talk_frown towards "Wait... Johnny, you weren't trying to {b}hit{/b} on me, were you? I thought that you and Kitty were dating though, I'm confused..."
-    sam talk_frown towards "Espera... Johnny, tú no estabas intentando {b}ligar {/b} conmigo, ¿verdad? Pensé que tú y Kitty estabais saliendo juntos, estoy confundida..."
+    sam talk_frown towards "Espera... Johnny, tú no estarás intentando {b}ligar {/b} conmigo, ¿verdad? Pensé que tú y Kitty estabais saliendo juntos, estoy confundida..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2681
 translate spanish kittys_revange_flirting_at_school_0b3d7173:
@@ -3190,7 +3190,7 @@ translate spanish kittys_revange_flirting_at_school_6a917c42:
 translate spanish kittys_revange_flirting_at_school_a8807201:
 
     # kitty towards_right talk_frown neutral "Johnny, we're leaving right now! Oh, and don't you {u}ever{/u} dare talk to this slut again! Do you understand?!"
-    kitty towards_right talk_frown neutral "Johnny, ¡nos vamos ahora mismo! Oh, y ¡{u}nunca {/} más te atrevas a hablar con esta puta! ¡¿Lo entiendes?!"
+    kitty towards_right talk_frown neutral "Johnny, ¡nos vamos ahora mismo! Oh, y ¡{u}nunca {/u} más te atrevas a hablar con esta puta! ¡¿Lo entiendes?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2717
 translate spanish kittys_revange_flirting_at_school_ad192f18:
@@ -3202,7 +3202,7 @@ translate spanish kittys_revange_flirting_at_school_ad192f18:
 translate spanish kittys_revange_flirting_at_school_5de7bfeb:
 
     # kitty idle_ talk_frown_2 "Uhm, duh? Anybody who would dare to dress as tacky as you has {i}got{/i} to be a huge cock slobbering {b}butt slut{/b}! Wouldn't you agree, you {u} trashy plaid wearing whore{/u}?"
-    kitty idle_ talk_frown_2 "Uhm, ¿duh? Cualquiera que se atreva a vestir un vestido tan ajustado como el tuyo {i}tiene{/i} que ser una babosa de {b} putos culos{/b} y pollas enormes! ¿No estás de acuerdo {u} puta basura a cuadros {/u}?"
+    kitty idle_ talk_frown_2 "Uhm, ¿duh? Cualquiera que se atreva a vestir un vestido tan ajustado como el tuyo {i}tiene{/i} que ser una {b} lame culos {/b} de pollas enormes! ¿No estás de acuerdo {u} puta basura a cuadros {/u}?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2725
 translate spanish kittys_revange_flirting_at_school_9933797a:
@@ -3268,7 +3268,7 @@ translate spanish kittys_revange_flirting_at_school_eb502bb3:
 translate spanish kittys_revange_sam_s_reputation_3cfaff43:
 
     # tucker towards_wide talk_frown sad "Dude, you won't {b}believe{/b} what's happening right now!"
-    tucker towards_wide talk_frown sad "Nen, no te vas a {b}creer {/b} lo que está sucediendo en este momento!"
+    tucker towards_wide talk_frown sad "Tío, no te vas a {b}creer {/b} lo que está sucediendo en este momento!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2843
 translate spanish kittys_revange_sam_s_reputation_2d931fec:
@@ -3280,7 +3280,7 @@ translate spanish kittys_revange_sam_s_reputation_2d931fec:
 translate spanish kittys_revange_sam_s_reputation_6a665f4c:
 
     # tucker neutral talk_frown "It's Sam, dude! She is acting {i}way{/i} differently than usually, like a totally different person and everything! Dude, and her outfit, it is completely…"
-    tucker neutral talk_frown "¡Es Sam, tío! Ella está {i}actuando{/i} de manera diferente, és como una persona totalmente diferente y todo! Dude, y su ropa, és completamente…"
+    tucker neutral talk_frown "¡Es Sam, tío! Ella está {i}actuando{/i} de manera diferente, és como una persona totalmente diferente y todo! Tío, y su ropa, és completamente…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2846
 translate spanish kittys_revange_sam_s_reputation_6777bec9:
@@ -3322,7 +3322,7 @@ translate spanish kittys_revange_sam_s_reputation_5c1c08f9:
 translate spanish kittys_revange_sam_s_reputation_f902e2e3:
 
     # lancer flip towards_wide talk_frown "{b}Lord of the flies!!!{/b} Ms. Manson, just {u}what{/u} are you wearing?!?"
-    lancer flip towards_wide talk_frown "{b}¡Señor de los cielos! Sra. Manson, ¿¡{u}Qué{/u} lleva puesto?!?"
+    lancer flip towards_wide talk_frown "{b}¡Señor de los cielos! {/b} Srta. Manson, ¿¡{u}Qué{/u} lleva puesto?!?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2878
 translate spanish kittys_revange_sam_s_reputation_d4c9d21e:
@@ -3418,7 +3418,7 @@ translate spanish kittys_revange_the_talk_bb2a9604:
 translate spanish kittys_revange_the_talk_93169dc6:
 
     # sam towards sad_2 talk_frown "Ohh, uh, hey Danny! Yeah, I'm pretty okay… I think… it's just that... do {i}you{/i} know what happened today, exactly?"
-    sam towards sad_2 talk_frown "Ohh, uh, ¡hola Danny! Sí, estoy bastante bien… Creo… es sólo que... hacer {i}¿sabes que pasó hoy?"
+    sam towards sad_2 talk_frown "Ohh, uh, ¡hola Danny! Sí, estoy bastante bien… Creo… es sólo que... hacer ¿{i}abes{/i} que pasó hoy?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2961
 translate spanish kittys_revange_the_talk_6c25dded:
@@ -3748,7 +3748,7 @@ translate spanish kittys_revange_cheer_interview_7bd496d1:
 translate spanish kittys_revange_cheer_interview_c42f70b6:
 
     # sam "Oh, don't worry, I've got a routine prepared that {b}none{/b} of you will soon forget..."
-    sam "Oh, no os preocupéis, tengo una rutina preparada que {b}ninguna{/a} olvidará fácilmente..."
+    sam "Oh, no os preocupéis, tengo una rutina preparada que {b}ninguna{/b} olvidará fácilmente..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3216
 translate spanish kittys_revange_cheer_interview_ff106cb4:
@@ -3802,7 +3802,7 @@ translate spanish kittys_revange_cheer_interview_a6c873ab:
 translate spanish kittys_revange_cheer_interview_758e6701:
 
     # sam "Oh, don't you even {b}think{/b} about trying anything funny with {i}me{/i}, mister! {b}Johnny?!{/b} Come on out, I know you're hiding around here!!"
-    sam "Oh, ¡{b}ni se te ocurra{/b} intentar algo gracioso {i}conmigo{/i}, señor! {b}¿Johnny? ¡¡Sal, sé que te escondes por aquí!!"
+    sam "Oh, ¡{b}ni se te ocurra{/b} intentar algo gracioso {i}conmigo{/i}, señor! {b}¿Johnny?{/b} ¡¡Sal, sé que te escondes por aquí!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3272
 translate spanish kittys_revange_cheer_interview_b22cb08c:
@@ -3874,7 +3874,7 @@ translate spanish kittys_revange_cheer_interview_c58dd565:
 translate spanish kittys_revange_cheer_interview_44081408:
 
     # sam "What? How is it {b}my{/b} fault? You're the one always being a creep!! Also... could someone explain to me what exactly is going on, I think I just woke up from another possession again."
-    sam "¿Qué? ¿Cómo que és {b}mi{/u} culpa? ¡¡Tú eres el que siempre está siendo un asqueroso!! Además... podría alguien explicarme qué está pasando exactamente, creo que me acabo de despertar de otra posesión otra vez."
+    sam "¿Qué? ¿Cómo que és {b}mi{/b} culpa? ¡¡Tú eres el que siempre está siendo un asqueroso!! Además... podría alguien explicarme qué está pasando exactamente, creo que me acabo de despertar de otra posesión otra vez."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3333
 translate spanish kittys_revange_cheer_interview_f02711d6:
@@ -3898,7 +3898,7 @@ translate spanish kittys_revange_cheer_interview_5daa3358:
 translate spanish kittys_revange_cheer_interview_c438dadb:
 
     # danny talk_frown_2 towards_wide angry "Not so fast Johnny! So both you two are ghosts, huh? {i}That's{/i} why you were lurking on the sideline of the stage during the speech! You were controlling your Shadow to strip down Star for fun!"
-    danny talk_frown_2 towards_wide angry "¡No tan rápido Johnny! Así que los dos sois fantasmas, ¿eh? {i}¡Es por eso que estaban al acecho en la parte lateral del escenario durante el discurso! ¡Estabas controlando a tu fantasma para desnudar a Star por diversión!"
+    danny talk_frown_2 towards_wide angry "¡No tan rápido Johnny! Así que los dos sois fantasmas, ¿eh? ¡{i}Es por eso{/i} que estaban al acecho en la parte lateral del escenario durante el discurso! ¡Estabas controlando a tu fantasma para desnudar a Star por diversión!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3349
 translate spanish kittys_revange_cheer_interview_539d8711:

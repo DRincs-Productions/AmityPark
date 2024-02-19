@@ -16,7 +16,7 @@ translate spanish a830a7ee:
 translate spanish 025b4ae1:
 
     # "spacing 0"
-    "spacing"
+    "espacio 0"
 
 # game/code/base/screens.rpy:461
 translate spanish 727f6ef2:
@@ -70,7 +70,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:298
     old "Back"
-    new "Back"
+    new "Retroceder"
 
     # game/code/base/screens.rpy:299
     old "History"
@@ -78,7 +78,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:300
     old "Skip"
-    new "Skip"
+    new "Saltar dialogo"
 
     # game/code/base/screens.rpy:301
     old "Auto"
@@ -94,7 +94,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:304
     old "Q.Load"
-    new "Q.Carga"
+    new "Q.Cargar"
 
     # game/code/base/screens.rpy:305
     old "Prefs"
@@ -118,7 +118,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:365
     old "End Replay"
-    new "Terminar repetición"
+    new "Terminar repetición escena"
 
     # game/code/base/screens.rpy:369
     old "Main Menu"
@@ -126,7 +126,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:371
     old "Credits"
-    new "Credits"
+    new "Creditos"
 
     # game/code/base/screens.rpy:373
     old "About"
@@ -178,7 +178,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:742
     old "{b}Special Thanks:{/b}"
-    new "{b}Especial agradecimiento:{/b}"
+    new "{b}Especial agradecimiento a:{/b}"
 
     # game/code/base/screens.rpy:743
     old "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
@@ -218,7 +218,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:911
     old "Rollback Side"
-    new "Lado de retroceso"
+    new "Retroceso"
 
     # game/code/base/screens.rpy:912
     old "Disable"
@@ -286,7 +286,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:1166
     old "Keyboard"
-    new "Teclados"
+    new "Teclado"
 
     # game/code/base/screens.rpy:1167
     old "Mouse"
@@ -390,7 +390,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:1246
     old "Mouse Wheel Down"
-    new "Retrocede con la ruedad el ratón"
+    new "Retrocede con la rueda el ratón"
 
     # game/code/base/screens.rpy:1253
     old "Right Trigger\nA/Bottom Button"
@@ -402,7 +402,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:1261
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Mano izquierda"
 
     # game/code/base/screens.rpy:1266
     old "D-Pad, Sticks"

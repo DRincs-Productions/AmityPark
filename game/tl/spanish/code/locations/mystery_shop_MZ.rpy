@@ -118,7 +118,7 @@ translate spanish stolen_or_not_2_5693ccad:
 translate spanish stolen_or_not_2_baf019c1:
 
     # danny "I'm not interested, I was just looking around. See yah."
-    danny "No me interesa, sólo estaba mirando."
+    danny "No me interesa nada, sólo estaba mirando."
 
 # game/code/locations/mystery_shop_MZ.rpy:114
 translate spanish not_ready_fc6fda39:
@@ -172,7 +172,7 @@ translate spanish strings:
 
     # game/code/locations/mystery_shop_MZ.rpy:54
     old "Fine, pretend I never asked!"
-    new "Muy bien, ¡fingir que no le preguntado!"
+    new "Muy Bien, ¡fingir que no pregunté!"
 
     # game/code/locations/mystery_shop_MZ.rpy:61
     old "Do I have any proof that this guy stole the box?"

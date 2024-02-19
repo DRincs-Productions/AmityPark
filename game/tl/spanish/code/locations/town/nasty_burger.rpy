@@ -16,7 +16,7 @@ translate spanish nasty_burger_first_visit_e1694914:
 translate spanish nasty_burger_first_visit_d5227c21:
 
     # danny f offscreen closed idle talk_happy "...truly, I am home once more."
-    "...de verdad, estoy en casa una vez más."
+    "...de verdad, estoy como en casa una vez más."
 
 # game/code/locations/town/nasty_burger.rpy:534
 translate spanish nasty_burger_first_visit_d3c68fcd:
@@ -28,7 +28,7 @@ translate spanish nasty_burger_first_visit_d3c68fcd:
 translate spanish nasty_burger_first_visit_9f6236a5:
 
     # danny f offscreen towards sad talk_displeased "But there's way less people than I would have thought.{p}Everyone must still be freaked out by that rat incident."
-    danny f offscreen towards sad talk_displeased "Aunque hay menos personas de lo que pensaba.{p}Todos deben estar asustados por el incidente de la rata."
+    danny f offscreen towards sad talk_displeased "Aunque hay menos personas de lo que pensaba.{p}Todos deben estar asustados por el incidente de las ratas."
 
 # game/code/locations/town/nasty_burger.rpy:536
 translate spanish nasty_burger_first_visit_b6a45d58:

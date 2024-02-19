@@ -22,7 +22,7 @@ translate spanish testbattles_aa043cb9:
 translate spanish testbattles_f4c6574d:
 
     # epa "Okay back to the main quest."
-    epa "Bien, volvamos a la búsqueda principal."
+    epa "Bien, volvamos a la menú de quest."
 
 # game/code/battleoverhaul/battlesetup.rpy:8
 translate spanish testbattles_2e535c4e:
@@ -46,7 +46,7 @@ translate spanish test_MaddieRoute_5d9dee6b:
 translate spanish test_MaddieRoute_2e1a78ee:
 
     # epa "(Congrats you are now level 7!)"
-    epa "(¡Felicidades, ya eres el nivel 7!)"
+    epa "(¡Felicidades, ya tienes nivel 7!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:73
 translate spanish test_StarRoute_dc68ccb5:
@@ -58,7 +58,7 @@ translate spanish test_StarRoute_dc68ccb5:
 translate spanish test_StarRoute_2e1a78ee:
 
     # epa "(Congrats you are now level 7!)"
-    epa "(¡Felicidades, ya eres el nivel 7!)"
+    epa "(¡Felicidades, ya tienes nivel 7!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:88
 translate spanish test_PaulinaRoute_00abc948:
@@ -70,7 +70,7 @@ translate spanish test_PaulinaRoute_00abc948:
 translate spanish test_PaulinaRoute_2e1a78ee:
 
     # epa "(Congrats you are now level 7!)"
-    epa "(¡Felicidades, ya eres el nivel 7!)"
+    epa "(¡Felicidades, ya tienes nivel 7!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:103
 translate spanish test_KateRoute_500257c6:
@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/code/battleoverhaul/battlesetup.rpy:19
     old "Choose which route you will take"
-    new "Elija la ruta que va a tomar"
+    new "Elige la ruta que vas a tomar"
 
     # game/code/battleoverhaul/battlesetup.rpy:19
     old "Maddie"

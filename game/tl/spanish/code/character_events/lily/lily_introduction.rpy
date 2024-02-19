@@ -4,19 +4,19 @@
 translate spanish lily_introduction_bf7b03eb:
 
     # danny towards rise smile "({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
-    danny towards rise smile "({i}Hmmm... {/i} ¿quería ayuda?, ¿eh? ¿Por cincuenta dólares un cambio? ¿y puede dejar el cambio como propina para el personal.)"
+    danny towards rise smile "({i}Hmmm... {/i} ¿necesitas ayuda?, ¿eh? ¿Por unos dólares de nada? Podría darme el dinero de las propinas.)"
 
 # game/code/character_events/lily/lily_introduction.rpy:16
 translate spanish lily_introduction_1ddc6fa3:
 
     # lily towards idle talk_happy "Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
-    lily towards idle talk_happy "Bienvenido a Nasty Burger, casa de la amburguesa Nasty, ¿qué quiere tomar?"
+    lily towards idle talk_happy "Bienvenido a Nasty Burger, casa de la amburguesa Nasty, ¿qué quieres tomar?"
 
 # game/code/character_events/lily/lily_introduction.rpy:19
 translate spanish lily_introduction_137d8bbb:
 
     # danny towards idle talk_happy "Well, actually, I noticed your sign on the side here."
-    danny towards idle talk_happy "Bueno, en realidad, noté tu presencia desde aquí."
+    danny towards idle talk_happy "Bueno, en realidad, vi tu nota aquí cerca."
 
 # game/code/character_events/lily/lily_introduction.rpy:22
 translate spanish lily_introduction_11cec765:
@@ -40,7 +40,7 @@ translate spanish lily_introduction_bb618734:
 translate spanish lily_introduction_c63590ab:
 
     # lily towards sad talk_displeased "So of course he didn't get the boot, go figure."
-    lily towards sad talk_displeased "Así que por supuesto que consiguió su objetivo, imaginate."
+    lily towards sad talk_displeased "Así que que no consiguió su objetivo, imagínate."
 
 # game/code/character_events/lily/lily_introduction.rpy:34
 translate spanish lily_introduction_dddbd884:
@@ -64,7 +64,7 @@ translate spanish lily_introduction_5541e306:
 translate spanish lily_introduction_0bc2a582:
 
     # lily towards sad talk_displeased "Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
-    lily towards sad talk_displeased "Sí, jode, pero debes estar a gusto. El restaurante solo ofrece algunos turnos de tiempo parcial, no a tiempo completo gig."
+    lily towards sad talk_displeased "Sí, jode, pero debes estar a gusto. El restaurante solo ofrece algunos turnos de tiempo parcial, no a tiempo completo."
 
 # game/code/character_events/lily/lily_introduction.rpy:46
 translate spanish lily_introduction_5456c88e:
@@ -82,13 +82,13 @@ translate spanish lily_introduction_fd98a1bb:
 translate spanish lily_introduction_2c4c3c15:
 
     # danny towards wondering talk_happy "Oh, seriously? That's awesome, I could definitely use the extra money."
-    danny towards wondering talk_happy "Oh, ¿en serio? Eso es impresionante, podría usar el dinero extra."
+    danny towards wondering talk_happy "Oh, ¿en serio? Eso es impresionante, podrías usar el dinero de las propinas."
 
 # game/code/character_events/lily/lily_introduction.rpy:55
 translate spanish lily_introduction_72bd1763:
 
     # lily away idle talk_happy "I mean like, if I wanted to, that is.{p}That has yet to be decided."
-    lily away idle talk_happy "Quiero decir si quisiera, es decir.{p} Aún no lo he decidido."
+    lily away idle talk_happy "Quiero decir si quisiera, es decir.{p} Aún  no lo he decidido."
 
 # game/code/character_events/lily/lily_introduction.rpy:58
 translate spanish lily_introduction_3ee3558f:
@@ -106,13 +106,13 @@ translate spanish lily_introduction_44c70db4:
 translate spanish lily_introduction_9c77f886:
 
     # danny towards idle talk_happy "Sure, I'm down for that."
-    danny towards idle talk_happy "Claro, estoy aquí por eso."
+    danny towards idle talk_happy "Claro, estoy aquí."
 
 # game/code/character_events/lily/lily_introduction.rpy:67
 translate spanish lily_introduction_4e2c4a2c:
 
     # lily towards idle talk_displeased "Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
-    lily towards idle talk_displeased "Muy bien.{p}Primera pregunta:{p}¿Alguna vez has robado dinero de tu trabajo?"
+    lily towards idle talk_displeased "Muy bien.{p}Primera pregunta: {p}¿Alguna vez has robado dinero de tu trabajo ?"
 
 # game/code/character_events/lily/lily_introduction.rpy:70
 translate spanish lily_introduction_c3b99a35:
@@ -130,13 +130,13 @@ translate spanish lily_introduction_151562ad:
 translate spanish lily_introduction_f9f47c46:
 
     # danny towards rise talk_displeased "...really, that's it?"
-    danny towards rise talk_displeased "...¿verdaderamente?"
+    danny towards rise talk_displeased "...¿en serio?"
 
 # game/code/character_events/lily/lily_introduction.rpy:79
 translate spanish lily_introduction_2dbe5a14:
 
     # lily towards sad talk_happy "Yeah, I mean, that's really the only important thing I need to worry about when hiring someone on."
-    lily towards sad talk_happy "Sí, quiero decir, eso es realmente lo único que necesito saber para la contratación de alguien."
+    lily towards sad talk_happy "Sí, quiero decir, eso és lo único que necesito saber para la contratación de alguien."
 
 # game/code/character_events/lily/lily_introduction.rpy:82
 translate spanish lily_introduction_9fd22780:
@@ -172,7 +172,7 @@ translate spanish lily_introduction_570f23e4:
 translate spanish lily_introduction_84c7f15a:
 
     # lily towards rise talk_displeased "...let alone when eating or handling greasy, fatty foods all day long, y'know?"
-    lily towards rise talk_displeased "... y mucho menos cuando comes o manipular alimentos grasos todo el día, ¿saber?"
+    lily towards rise talk_displeased "... y mucho menos cuando comes o manipulas alimentos grasos todo el día, ¿sabes?"
 
 # game/code/character_events/lily/lily_introduction.rpy:100
 translate spanish lily_introduction_29a0eee1:
@@ -208,7 +208,7 @@ translate spanish lily_introduction_23b5f42d:
 translate spanish lily_introduction_3b5747eb:
 
     # valerie uniform towards sad talk_happy "...believable excuse..."
-    valerie uniform towards sad talk_happy "...excusa creíble..."
+    valerie uniform towards sad talk_happy "...no me lo creo..."
 
 # game/code/character_events/lily/lily_introduction.rpy:128
 translate spanish lily_introduction_2268ad0d:
@@ -250,7 +250,7 @@ translate spanish lily_introduction_bc87aa2b:
 translate spanish lily_introduction_eaaee54b:
 
     # valerie uniform_up towards angry talk_displeased "{i}FENTON!!{/i}{p}What the heck are you doing here?"
-    valerie uniform_up towards angry talk_displeased "{i}¡¡FENTON!! {/i}{p}¿Qué diablos estás haciendo aquí?"
+    valerie uniform_up towards angry talk_displeased "{i}¡¡FENTON!! {/i}{p}¿Qué diablos estás haciendo aquí ?"
 
 # game/code/character_events/lily/lily_introduction.rpy:163
 translate spanish lily_introduction_ba05f8e7:
@@ -262,7 +262,7 @@ translate spanish lily_introduction_ba05f8e7:
 translate spanish lily_introduction_48fc2535:
 
     # valerie uniform_point towards angry talk_distraught "Look, you didn't see {u}anything{/u}, Fenton! If you know what's good for you."
-    valerie uniform_point towards angry talk_distraught "Mira, tú no has visto {u}nada {/u},¡Fenton! Ya sabes que es lo mejor que puedes hacer."
+    valerie uniform_point towards angry talk_distraught "Mira, tú no has visto {u}nada {/u},¡Fenton! Ya sabes que és lo mejor que puedes hacer."
 
 # game/code/character_events/lily/lily_introduction.rpy:171
 translate spanish lily_introduction_82417584:
@@ -304,7 +304,7 @@ translate spanish lily_introduction_815e3eea:
 translate spanish lily_introduction_037a86b7:
 
     # lily towards rise talk_displeased "Well, that's not really an excuse not to hire the guy..."
-    lily towards rise talk_displeased "Bueno, eso no es una excusa para no contratarlo..."
+    lily towards rise talk_displeased "Bueno, eso no és una excusa para no contratarlo..."
 
 # game/code/character_events/lily/lily_introduction.rpy:202
 translate spanish lily_introduction_62b881c9:
@@ -340,7 +340,7 @@ translate spanish lily_introduction_417d49d4:
 translate spanish lily_introduction_dccc8885:
 
     # valerie uniform_point towards angry talk_displeased "Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
-    valerie uniform_point towards angry talk_displeased "Simplemente no digas {u}a nadie {/u} sobre esto Fenton ...{p}... o ¡estás muerto!"
+    valerie uniform_point towards angry talk_displeased "Simplemente no digas {u}a nadie {/u} sobre esto Fenton...{p}... o ¡estás muerto !"
 
 # game/code/character_events/lily/lily_introduction.rpy:232
 translate spanish lily_introduction_29afd622:

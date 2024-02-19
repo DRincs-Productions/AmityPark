@@ -4,7 +4,7 @@
 translate spanish It_s_to_early_14320f84:
 
     # danny "Sam said we could meet at her place during the {b}afternoons{/b} after school or during the weekend. Now's not the right time."
-    danny "Sam dijo que podíamos vernos en su casa durante las {b}tardes{/b} después del colegio o durante el fin de semana. Ahora no es el momento adecuado."
+    danny "Sam dijo que podíamos vernos después del colegio en su casa durante las {b}tardes{/b} o durante el fin de semana. Ahora no es el momento adecuado."
 
 # game/code/locations/town/town_map_1.rpy:388
 translate spanish sam_is_angry_88e2dda8:
@@ -52,7 +52,7 @@ translate spanish nasty_burger_intro_451380d5:
 translate spanish nasty_burger_intro_2dc5b1cf:
 
     # danny f offscreen at_player wondering talk_happy "Looks like they're doing some sort of relaunch.{p}I'll definitely have to check it out!"
-    danny f offscreen at_player wondering talk_happy "Parece que están haciendo una especie de relanzamiento.{p}Tendré que echarle un vistazo."
+    danny f offscreen at_player wondering talk_happy "Parece que están haciendo una especie de re apertura.{p}Tendré que echarle un vistazo!"
 
 # game/code/locations/town/town_map_1.rpy:467
 translate spanish before_first_visit_burger_dfd4c1b6:
