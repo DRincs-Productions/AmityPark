@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-07 13:16\n"
+"PO-Revision-Date: 2024-02-19 14:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
@@ -306,7 +306,7 @@ msgstr "[_desiree_] {i}Oooooh! {/i}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:553 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_db4e7d52:
 msgid "[_desiree_] D-Danny! I can't h-hold back anymore! I'm cumming!"
-msgstr "¡[_desiree_] D-Danny! ¡Ya no aguanto más! ¡me corro!"
+msgstr "[_desiree_] ¡D-Danny! ¡Ya no aguanto más! ¡me corro!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:556 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_10977cea:
 msgid "[_desiree_] C-cum! Do it inside, please!!"
@@ -374,7 +374,7 @@ msgstr "[_desiree_] {i}Oooooh! {/i}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:633 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_db4e7d52:
 msgid "[_desiree_] D-Danny! I can't h-hold back anymore! I'm cumming!"
-msgstr "¡[_desiree_] D-Danny! ¡Ya no aguanto más! ¡me corro!"
+msgstr "[_desiree_] ¡D-Danny! ¡Ya no aguanto más! ¡me corro!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:636 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_10977cea:
 msgid "[_desiree_] C-cum! Do it inside, please!!"
