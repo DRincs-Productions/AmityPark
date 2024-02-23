@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-23 09:18\n"
+"PO-Revision-Date: 2024-02-23 11:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -182,7 +182,7 @@ msgstr "[_danny_s_infected_s_offscreen_s_closed_s_angry_s_talk_distraught_] {i}*
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:429 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_4_School_Morning_Classroom_c137e207:
 msgid "[_lancer_s_towards_wide_s_neutral_s_talk_frown_] {b}Sound and Fury!!{/b} What's happened here?! Mr. Fenton passed out again??"
-msgstr "[_lancer_s_towards_wide_s_neutral_s_talk_frown_] {b}¡¡Santas pascuas!!{/b} ¿Qué ha pasado aquí?! ¿¿El Sr. Fenton se ha emborrachado de nuevo??"
+msgstr "[_lancer_s_towards_wide_s_neutral_s_talk_frown_] {b}¡¡Santas pascuas!!{/b} ¿Qué ha pasado aquí?! ¿¿El Sr. Fenton está enfermo otra vez??"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:433 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_4_School_Morning_Classroom_b025646d:
 msgid "[_tucker_s_arms_straps_s_towards_wide_s_sad_s_talk_frown_] We need to get him to the hospital or something!"
@@ -5178,7 +5178,7 @@ msgstr "[_star_s_normal_s_towards_wide_s_confused_s_talk_consternation_] B-Billy
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6441 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_4cf1d658:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_angry_s_grindteeth_] (Aww crud... Ectopus brought a crew with him this time...{p}...wait, wasn't Ectopus re-captured by Mr. Masters? How'd he get out again...?)"
-msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_angry_s_grindteeth_] (Aww... Ectopus trajo su tripulación con él esta vez...{p}...espera ,¿ no fue recapturado por el Sr. Maestro? ¿Cómo se escapó...?)"
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_angry_s_grindteeth_] (Aww... Ectopus trajo su tripulación con él esta vez...{p}...espera ,¿ no fue recapturado por el Sr. amo? ¿Cómo se escapó...?)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6459 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_6_park_evening_a3465072:
 msgid "[_ectopuss_s_f11_] You didn't think I'd forget about all the ass beatings you delivered to me? Oh my, but isn't {i}she{/i} quite the pretty piece of ass, eh? Come on boys! Let's have some fun!!"
@@ -5646,7 +5646,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_displeased_s_
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7113 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_8244c1ec:
 msgid "[_star_s_normal_s_down_s_wondering_s_talk_displeased_] Oh hush, I'm gonna blur our faces in post, and my real life identity isn't out there online like that. Public reputation and all that... I'll just say you're albino and like to wear latex or something."
-msgstr "[_star_s_normal_s_down_s_wondering_s_talk_displeased_] Oh, voy a desenfocar nuestras caras, y mi identidad de la vida real no estará en riesgo. La reputación pública y todo eso... Sólo diré que eres albino y te gusta llevar látex o algo."
+msgstr "[_star_s_normal_s_down_s_wondering_s_talk_displeased_] Oh, voy a desenfocar nuestras caras y así mi identidad de la vida real no estará en riesgo. La reputación pública y todo eso... Sólo diré que eres albino y te gusta llevar látex o algo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7118 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_aftersex_8a4a3738:
 msgid "[_star_s_normal_s_down_s_wondering_s_talk_amused_] Gotta go now! Buh-bye, {u}boyfriend{/u}! {i}Haha!{/i}"
@@ -6654,7 +6654,7 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_displeased_] mejor hablaré con Des pa
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8440 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_1_continued_00ab7390:
 msgid "[_desiree_] You have summoned me Master?"
-msgstr "[_desiree_] ¿Me has llamado Maestro?"
+msgstr "[_desiree_] ¿Me has llamado amo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8443 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_1_continued_59838be0:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] {i}Heyyyy{/i}, Des... how've you been doing?"
@@ -6794,7 +6794,7 @@ msgstr "[_desiree_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8563 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_1_continued_756fb5bb:
 msgid "[_desiree_] ...and my help you shall receive, my Master..."
-msgstr "[_desiree_] ...y mi ayuda recibirá, mi Maestro..."
+msgstr "[_desiree_] ...y mi ayuda recibirá, mi amo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8566 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_1_continued_ec565672:
 msgid "[_danny_s_down_s_angry_s_talk_consternation_] So wait, {i}now{/i} I'm getting your help? What changed?!{p}{i}Ughh{/i}, why can't the women in my life just give me a straight answer?!"
@@ -6802,7 +6802,7 @@ msgstr "[_danny_s_down_s_angry_s_talk_consternation_] espera, ¿{i}ahora{/i} me 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8570 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_1_continued_79640441:
 msgid "[_desiree_] Hush! Yes, very well, I will help you \"get a girl\" for your piggish Orgone needs. Helpless oaf!"
-msgstr "[_desiree_] ¡Sí!, muy bien, te ayudaré a \"conseguir una chica\" para Orgone. ¡patan indefenso!"
+msgstr "[_desiree_] ¡ufff!, bien, te ayudaré a \"conseguir una chica\" para tu necesidad de Orgone. ¡palurdo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8573 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_1_continued_53fde3eb:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] ...well, great. Thanks."
@@ -6918,7 +6918,7 @@ msgstr "[_desiree_] (Sí puedo. Por cierto, eres afortunado que acepté este enl
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8703 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_1f5adb97:
 msgid "[_desiree_] (My instructions were {i}not{/i} that difficult to follow, Master...)"
-msgstr "[_desiree_] (Mis instrucciones fueron {i}no {/i} te saltes mis indicaciones, Maestro...)"
+msgstr "[_desiree_] (Mis instrucciones fueron {i}no {/i} te saltes mis indicaciones, amo...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8708 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_f369d3a1:
 msgid "[_danny_s_at_player_s_angry_s_consternation_] (Look, just tell me what I need to do! They probably think I'm having the hugest of brain farts, just standing here not saying anything!)"
@@ -7142,7 +7142,7 @@ msgstr "[_star_s_towards_s_angry_s_talk_distraught_] T-tú... no te podemos - no
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8999 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_f78d7cc5:
 msgid "[_desiree_] Why not? I'm sure he'll find me both engaging {i}and{/i} attractive. If I so merely desire it so, {u}so it shall be...~{/u}"
-msgstr "[_desiree_] ¿Por qué no? Estoy segura de que me encontrará coqueta {i}y {/i} atractiva. Si sólo lo tuviera un deseo, {u}lo desería... ~ {/u}"
+msgstr "[_desiree_] ¿Por qué no? Estoy segura de que me encontrará coqueta {i}y {/i} atractiva. Si sólo lo tuviera un deseo, {u}podría... ~ {/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9004 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_96b454ee:
 msgid "[_star_s_towards_wide_s_angry_s_talk_displeased_] So you just expect us to hang around Fenton's house while you bang Billy in his bathroom?!"
@@ -7346,7 +7346,7 @@ msgstr "[_danny_s_stare_s_neutral_s_talk_displeased_] {i}Ha-ha{/i}, muy divertid
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9255 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_9c02a917:
 msgid "[_desiree_] The link is severed, Master..."
-msgstr "[_desiree_] El enlace ha sido cortado, Maestro..."
+msgstr "[_desiree_] El enlace ha sido cortado, amo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9258 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_f102c594:
 msgid "[_danny_s_closed_s_wondering_s_talk_happy_] Des, your plan worked like a charm."
@@ -7390,7 +7390,7 @@ msgstr "[_danny_s_closed_s_sad_s_talk_happy_] ...Creo que a ti también te gusta
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9293 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_446cfd5a:
 msgid "[_desiree_] Master, please don't. Something like this could never work, please see that. I am a ghost, and you're-"
-msgstr "[_desiree_] Maestro, por favor no. Algo como esto nunca podría funcionar, por favor véalo. Soy un fantasma y tú eres-"
+msgstr "[_desiree_] amo, por favor no. Algo como esto nunca podría funcionar, por favor véalo. Soy un fantasma y tú eres-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9296 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_fbc03dd4:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] {i}Half{/i} ghost."
@@ -7398,7 +7398,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_amused_] {i}Mitad {/i} fantasma."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9300 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_5b6b88c3:
 msgid "[_desiree_] ...no, I'm sorry Master, but I cannot."
-msgstr "[_desiree_] ...no, lo siento Maestro, pero no puedo."
+msgstr "[_desiree_] ...no, lo siento amo, pero no puedo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9303 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_51e1923c:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] Why not?"
@@ -7438,7 +7438,7 @@ msgstr "[_danny_s_down_s_neutral_s_talk_displeased_] ¡Espera! {i}Uhh{/i}, hay o
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9338 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_dcfea099:
 msgid "[_desiree_] {i}*Sighs*{/i} What shall it be, my Master?"
-msgstr "[_desiree_] {i}*Suspiros * {/i} ¿Qué será mi Maestro?"
+msgstr "[_desiree_] {i}*Suspiros * {/i} ¿Qué será mi amo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9341 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_2dce5015:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] This party is obviously gonna be big, so... I wish that my parents were completely out of the house for Saturday night."
@@ -7554,7 +7554,7 @@ msgstr "[_danny_s_at_player_s_wondering_s_grin_] (Será un buen día, estoy segu
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9442 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_3f12deee:
 msgid "[_desiree_] Will that be all you require of me this evening Master?"
-msgstr "[_desiree_] ¿Es todo lo que me requerías esta tarde Maestro?"
+msgstr "[_desiree_] ¿Es todo lo que me requerías esta tarde amo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9445 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_3_danny_bedroom_0d27a3ed:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] I think that's everything, yeah. Goodnight Desiree."
@@ -7914,7 +7914,7 @@ msgstr "[_desiree_] Es un material común de la Zona Fantasma conocido como {b}E
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9896 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_5_mall_0e8b56d8:
 msgid "[_desiree_] But Master, a trip to the Ghost Zone at your current strength would surely result in the demise of your human form... it would not be worth the endeavor."
-msgstr "[_desiree_] Pero Maestro, un viaje a la Zona Fantasma con tu fuerza actual seguramente daría como resultado la desaparición de tu forma humana. No valdría la pena el esfuerzo."
+msgstr "[_desiree_] Pero amo, un viaje a la Zona Fantasma con tu fuerza actual seguramente daría como resultado la desaparición de tu forma humana. No valdría la pena el esfuerzo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9899 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_5_mall_b51b61d6:
 msgid "[_danny_s_at_self_s_sad_s_talk_distraught_] {i}Uhh{/i}, right, right, t-too bad. I was really hoping for a chance to fire up the ol' Fenton Ghost Portal and just hop right in there, but {i}uhh{/i}, no, you're totally right..."
@@ -7990,7 +7990,7 @@ msgstr "[_box_ghost_s_back_s_towards_s_idle_s_talk_happy_] Doscientos cincuenta 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9991 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_5_mall_03dda7cb:
 msgid "[_desiree_] Absolutely outrageous! Master, do not pay this fool a single coin! He is charging you a fortune for slop that literally grows under the bark of trees in the Ghost Zone!"
-msgstr "[_desiree_] ¡Absolutamente escandaloso! ¡Maestro, no pague! ¡Él te está cobrando una fortuna por algo que literalmente crece bajo la corteza de los árboles en la Zona Fantasma!"
+msgstr "[_desiree_] ¡Absolutamente escandaloso! ¡amo, no pague! ¡Él te está cobrando una fortuna por algo que literalmente crece bajo la corteza de los árboles en la Zona Fantasma!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9995 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_5_mall_fa3e5ad0:
 msgid "[_box_ghost_s_back_s_towards_s_upset_s_talk_distraught_] Oh, so I'm not allowed to run my cottage industry the way I like it?! Well then, begone from my store, communist!"
@@ -8086,7 +8086,7 @@ msgstr "[_danny_s_towards_wide_s_rise_s_talk_displeased_] ¡Hey, no tan rápido!
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10137 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_5_mall_cash_8416f2e8:
 msgid "[_desiree_] {i}*Sighs*{/i} As you wish, Master."
-msgstr "[_desiree_] {i}*Suspiro*{/i} Como desees, Maestro."
+msgstr "[_desiree_] {i}*Suspiro*{/i} Como desees, amo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10161 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_5_5_mc_home_a44b0eb4:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_grin_] (Okay, with most of the prep work taken care of, now I just need to make a phone call Saturday to have some pizza ordered for everyone to properly {b}start the party.{/b})"
@@ -8326,7 +8326,7 @@ msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Bueno, ¡debe ser uno de el
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10458 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_6_mc_home_party_evening_2609dbfe:
 msgid "[_desiree_] Master?"
-msgstr "[_desiree_] ¿Maestro?"
+msgstr "[_desiree_] ¿amo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10461 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_6_mc_home_party_evening_516a9fa0:
 msgid "[_danny_s_towards_s_rise_s_talk_amused_] Yeah, what's up?"
@@ -8714,7 +8714,7 @@ msgstr "[_danny_s_towards_s_wondering_s_talk_amused_] ¡genial! Me alegro de que
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11041 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_ef58ef8c:
 msgid "[_desiree_] Master, don't you think it's time that \"Inviso-Bill\" made his arrival to the party?"
-msgstr "[_desiree_] Maestro, ¿no crees que es hora de que \"Inviso-Bill\" llegue a la fiesta?"
+msgstr "[_desiree_] amo, ¿no crees que es hora de que \"Inviso-Bill\" llegue a la fiesta?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11044 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_9ca892e0:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Oh, do you think so? Now?"
@@ -9074,7 +9074,7 @@ msgstr "[_danny_s_phantom_s_beer_s_stare_towards_s_neutral_s_talk_displeased_] B
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11479 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_dfc03687:
 msgid "[_desiree_] Oh, hey Master..."
-msgstr "[_desiree_] Oh, hey Maestro..."
+msgstr "[_desiree_] Oh, hey amo..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11482 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_desiree_phantom_4c4f0e5e:
 msgid "[_danny_s_phantom_s_beer_s_towards_s_rise_s_talk_happy_] Hey... what're you doing over here all on your own?"
@@ -9706,7 +9706,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_distraught_] (Todo 
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12403 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_9_party_crashed_4dbd0d65:
 msgid "[_desiree_] Master? I... I wanted to talk to you... is there a moment you-"
-msgstr "[_desiree_] ¿Maestro? I... Quería hablar contigo... és un momento-"
+msgstr "[_desiree_] ¿amo? I... Quería hablar contigo... és un momento-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12406 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_9_party_crashed_3ae9d957:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] Des, sorry, but not now!"
@@ -9822,7 +9822,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_rise_s_talk_displeased_
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12625 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_11_lake_monster_defeated_aed5fb30:
 msgid "[_desiree_] Master, I swear, I had no idea that foul beast would be waiting at your parents' retreat!"
-msgstr "[_desiree_] Maestro, juro, no tenía ni idea de que una bestia estaría esperando en las vacaciones de tus padres!"
+msgstr "[_desiree_] amo, juro, no tenía ni idea de que una bestia estaría esperando en las vacaciones de tus padres!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12628 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_11_lake_monster_defeated_bc8b9d8c:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_unhappy_s_talk_distraught_] Wait... was it your magic that did this...?"
@@ -9838,7 +9838,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] Des.
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12639 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_11_lake_monster_defeated_59f53ae7:
 msgid "[_desiree_] I... I think so, your mother was telling the guestst that we were safe in the... Master, wait, you're hurt!! "
-msgstr "[_desiree_] Yo... Creo que así es, tu madre estaba diciendo a los invitados que estábamos seguros en el... Maestro, espera, ¡¡estás herido!! "
+msgstr "[_desiree_] Yo... Creo que así es, tu madre estaba diciendo a los invitados que estábamos seguros en el... amo, espera, ¡¡estás herido!! "
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12642 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_11_lake_monster_defeated_b97456eb:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_happy_] N-no, no, I'm fine... just... feeling a... little... light-headed here..."
@@ -9858,7 +9858,7 @@ msgstr "[_danny_s_f_s_offscreen_s_closed_s_sad_s_talk_displeased_] Owie...{p}...
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12696 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_7935ba16:
 msgid "[_desiree_] Oh! Master... you are awake. Thank goodness..."
-msgstr "[_desiree_] Oh! Maestro... estás despierto. Gracias a dios..."
+msgstr "[_desiree_] Oh! amo... estás despierto. Gracias a dios..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12699 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_ad20219a:
 msgid "[_danny_s_lay_s_pos1_s_towards_s_wondering_s_talk_displeased_] What... what happened...?"
@@ -9882,7 +9882,7 @@ msgstr "[_danny_s_lay_s_pos1_s_towards_s_sad_s_talk_displeased_] No pudiste habe
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12717 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_a7ce12ac:
 msgid "[_desiree_] I wouldn't want anybody to be hurt like that, Master, I swear.{p}...but, another part of me still wonders if... if I were to have done it subconsciously, without even thinking... that a part of me would be still be so... so {u}bitter.{/u} And for that, I feel the utmost shame..."
-msgstr "[_desiree_] No querría que nadie se hiciera daño, Maestro, lo juro.{p}...pero , otra parte de mí todavía se pregunta si... si lo hice de forma subconscientemente, sin ni siquiera pensar... esa parte de mí sería... tan {u}amarga.{/u} Y por eso, siento la mayor vergüenza..."
+msgstr "[_desiree_] No querría que nadie se hiciera daño, amo, lo juro.{p}...pero , otra parte de mí todavía se pregunta si... si lo hice de forma subconscientemente, sin ni siquiera pensar... esa parte de mí sería... tan {u}amarga.{/u} Y por eso, siento la mayor vergüenza..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12720 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_f8770f1b:
 msgid "[_danny_s_lay_s_pos1_s_towards_s_sad_s_talk_happy_] Desiree, it's okay, I believe you..."
@@ -9934,7 +9934,7 @@ msgstr "[_danny_s_lay_s_pos2_s_towards_s_sad_s_talk_happy_] Durante toda esta fi
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12771 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_eff47352:
 msgid "[_desiree_] But... D-Danny, we already spoke about this, I wouldn't want to intervene with your-"
-msgstr "[_desiree_] Pero... D-Danny, ya hablamos de esto, no querría intervenir con tu-"
+msgstr "[_desiree_] Pero... D-Danny, ya hablamos de esto, no querría intervenir en tu-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12774 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_c8f0cec7:
 msgid "[_danny_s_lay_s_pos2_s_towards_s_sad_s_talk_happy_] Look, sure, if you had asked me a couple days back if I had wanted Paulina, I'd have literally jumped off a bridge for the chance, yeah..."
@@ -9946,7 +9946,7 @@ msgstr "[_desiree_] ...Danny."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12781 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_6db0f630:
 msgid "[_danny_s_lay_s_pos2_s_towards_s_unhappy_s_talk_amused_] But I'm learning that I need to keep things straight with myself and not be silent on how I feel about others... about how I feel about you..."
-msgstr "[_danny_s_lay_s_pos2_s_towards_s_unhappy_s_talk_amused_] Pero estoy aprendiendo que necesito se sincero conmigo mismo y no estar en silencio sobre cómo me siento acerca de otras... acerca de cómo me siento acerca de ti..."
+msgstr "[_danny_s_lay_s_pos2_s_towards_s_unhappy_s_talk_amused_] Pero estoy aprendiendo que necesito ser sincero conmigo mismo y no estar en silencio sobre cómo me siento acerca de otros... acerca de cómo me siento acerca de ti..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12785 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_12_mc_bedroom_morning_6aee2300:
 msgid "[_desiree_] But... I just know, it wouldn't... I'm simply too-"
@@ -10022,7 +10022,7 @@ msgstr "[_danny_] Des..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12872 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_9c22f3a7:
 msgid "[_desiree_] Master... give me it... fill my insides with your wonderful cock and seed..."
-msgstr "[_desiree_] Maestro... dámelo... llene mi interior con su maravillosa polla y semilla..."
+msgstr "[_desiree_] amo... dámelo... llene mi interior con su maravillosa polla y semilla..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12881 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_0db2b8d7:
 msgid "[_desiree_] {i}-ah!!{/i}"
@@ -10050,7 +10050,7 @@ msgstr "[_danny_] {i}Ah!{/i} Mantén rígidas tus caderas así.{p}Dios , tu cuer
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12899 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_0d7f3075:
 msgid "[_desiree_] {i}Oooh!{/i} Yes, Master, yesss, fuck me! Watch these big, buxom breasts move and sway for you!!"
-msgstr "[_desiree_] {i}¡Oooh!{/i} Sí, ¡Maestro, siiiii, follame! Mira estas grandes tetas que se mueven y balancean para ti!!"
+msgstr "[_desiree_] {i}¡Oooh!{/i} Sí, ¡amo, siiiii, follame! Mira estas grandes tetas que se mueven y balancean para ti!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12902 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_40ea26ca:
 msgid "[_danny_] You're so tight...! It's amazing..."
@@ -10058,7 +10058,7 @@ msgstr "[_danny_] ¡Eres tan estrecha...! Es increíble..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12905 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_6ef8e185:
 msgid "[_desiree_] {i}Ohhh{/i}, I'm so pleased you love it! It's all for you, my dear Master... "
-msgstr "[_desiree_] {i}Ohhh{/i}, ¡estoy tan contento de que lo ames! Es todo para ti, querido Maestro... "
+msgstr "[_desiree_] {i}Ohhh{/i}, ¡estoy tan contento de que lo ames! Es todo para ti, querido amo... "
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12908 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_dbe7bccb:
 msgid "[_desiree_] (I hope he doesn't see me playing with him too clearly! I really can't let him know how {u}much{/u} I truly enjoy his cock... it'd all go straight to his head! Sands, yes, give it to me Danny!!)"
@@ -10090,7 +10090,7 @@ msgstr "[_danny_] Joder, ¡¡Des!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12929 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_b80fb0ef:
 msgid "[_desiree_] Oh yes! I'm- I'm gonna cum! I'm going to cum on this cock!! Please, cum with me Master!"
-msgstr "[_desiree_] ¡Oh sí! ¡voy - voy a correrme! ¡Voy a correrme en esta polla! ¡Por favor, córrete conmigo Maestro!"
+msgstr "[_desiree_] ¡Oh sí! ¡voy - voy a correrme! ¡Voy a correrme en esta polla! ¡Por favor, córrete conmigo amo!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12932 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_36bad40a:
 msgid "[_danny_] {i}Ah!{/i} Y-yes!! I can't hold on any longer!"
@@ -10118,7 +10118,7 @@ msgstr "[_danny_] {i}¡Phew!{/i} Eres asombro, Des... ¿podemos echarnos un poco
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12957 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_b810fda6:
 msgid "[_desiree_] O-of course we can, Master... so you shall wish it... so shall it be...~"
-msgstr "[_desiree_] P-por supuesto que podemos, Maestro... así que lo desearás... así debe ser...~"
+msgstr "[_desiree_] P-por supuesto que podemos, amo... así que lo desearás... así debe ser...~"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12977 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_14_aftersex_46a3ddf6:
 msgid "[_danny_] {i}*Yawn*{/i} I think I may drift off for a bit."
@@ -10130,7 +10130,7 @@ msgstr "[_danny_] Este lujo me ha dejado agotado... me siento {i} muyyyyy{/i} ca
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12983 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_14_aftersex_d818810e:
 msgid "[_desiree_] ...Master?"
-msgstr "[_desiree_] ¿...Maestro?"
+msgstr "[_desiree_] ¿...amo?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12986 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_14_aftersex_0a676264:
 msgid "[_danny_] Yes Des?"
@@ -10138,7 +10138,7 @@ msgstr "[_danny_] ¿Sí des?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12989 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_14_aftersex_f9a2f1d8:
 msgid "[_desiree_] ...I think I'm starting to like having you as my Master."
-msgstr "[_desiree_] ...Creo que está empezando a gustarme tenerte como mi Maestro."
+msgstr "[_desiree_] ...Creo que está empezando a gustarme tenerte como mi amo."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12992 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_14_aftersex_762f5ca1:
 msgid "[_danny_] Well... I'm just glad you're starting to feel more comfortable here with me, Desiree."
@@ -10158,7 +10158,7 @@ msgstr "[_danny_] Oh, {i}mierda!!{/i} Des, ¡vuelve al Thermos, rápido!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13001 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_14_aftersex_0550e3bb:
 msgid "[_desiree_] A-as you wish, my Master! Good luck!!"
-msgstr "[_desiree_] c-como desees, mi Maestro! ¡Buena suerte!!"
+msgstr "[_desiree_] c-como desees, mi amo! ¡Buena suerte!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13030 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_15_b2f4502f:
 msgid "[_danny_s_boxers_s_towards_s_sad_s_talk_displeased_] M-MOM!! Dad! {i}Uhh{/i}, hey guys, I'm kinda naked here!"
@@ -11958,7 +11958,7 @@ msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_wonde
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15443 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_fa1eabfc:
 msgid "[_ember_s_stare_wide_s_sad_s_talk_distraught_] \"Master\"?! He is NOT my master, you snakey bitch!!"
-msgstr "[_ember_s_stare_wide_s_sad_s_talk_distraught_] ¡¿\"Maestro\"?! Él NO es mi maestro, ¡¡perra lagarta!!"
+msgstr "[_ember_s_stare_wide_s_sad_s_talk_distraught_] ¡¿\"amo\"?! Él NO es mi maestro, ¡¡perra lagarta!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15447 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_20102623:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_idle_s_talk_amused_] I think you'll come to find rather quickly, that while in this little tube of his, he most certainly is."
@@ -12498,7 +12498,7 @@ msgstr "[_danny_s_ice_s_date_s_towards_s_rise_s_talk_displeased_] ¿Qué quieres
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16090 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_22_Mall_Morning_286fe7dd:
 msgid "[_ember_s_ice_s_date_s_towards_s_rise_s_talk_displeased_] Like I kicked your ass, {i}twice,{/i} even when you had backup... and then suddenly you came back swinging. Hard."
-msgstr "[_ember_s_ice_s_date_s_towards_s_rise_s_talk_displeased_] te patee el culo {i}dos{/i} veces,{/i} incluso cuando tenías una copia de seguridad... y de repente volviste más fuerte."
+msgstr "[_ember_s_ice_s_date_s_towards_s_rise_s_talk_displeased_] te patee el culo {i}dos{/i} veces incluso cuando tenías una copia de seguridad... y de repente volviste más fuerte."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16093 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_22_Mall_Morning_dfbcaa20:
 msgid "[_danny_s_ice_s_date_s_towards_s_sad_s_talk_happy_] Hah, ohh... uhh, well, I uh, I prepped!{p}Yeah, I had some {u}special help{/u} of a sort..."
@@ -12998,7 +12998,7 @@ msgstr "[_ember_s_down_s_angry_s_talk_distraught_] Awwww, mierda."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16579 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_25_Continued_56130fe2:
 msgid "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry_s_talk_distraught_] Master, please, {u}please{/u} find a way to send this infernal abomination into the Ghost Zone and to never return."
-msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry_s_talk_distraught_] Maestro, por favor, {u}por favor{/u} encuentra una forma de enviar esta abominación infernal a la Zona Fantasma y que nunca más regrese."
+msgstr "[_desiree_s_ghost_original_bottom_s_ghost_original_top_s_towards_s_angry_s_talk_distraught_] amo, por favor, {u}por favor{/u} encuentra una forma de enviar esta abominación infernal a la Zona Fantasma y que nunca más regrese."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16583 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_25_Continued_f61fb41e:
 msgid "[_ember_s_stare_s_angry_s_talk_distraught_] Oh, blow me, you sanctimonious, bra stuffing camel sniffer!!"
@@ -13502,7 +13502,7 @@ msgstr "[_ember_s_towards_s_confused_s_talk_consternation_] ¿Cuál es el proble
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17077 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_5403b16a:
 msgid "[_desiree_s_ghost_original_top_s_towards_s_wondering_s_talk_displeased_] I do believe we are following the agreed upon rules, Master. Is there an issue?"
-msgstr "[_desiree_s_ghost_original_top_s_towards_s_wondering_s_talk_displeased_] Yo creo que estamos siguiendo las reglas acordadas, Maestro. ¿Hay algún problema?"
+msgstr "[_desiree_s_ghost_original_top_s_towards_s_wondering_s_talk_displeased_] Yo creo que estamos siguiendo las reglas acordadas, amo. ¿Hay algún problema?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17081 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_27_Danny_Bedroom_Morning_10a702bd:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Well, girls, I mean c'mon, you can't just be here, my parents will be here any min-"
