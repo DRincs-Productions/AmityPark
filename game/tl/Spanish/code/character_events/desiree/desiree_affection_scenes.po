@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-19 14:08\n"
+"PO-Revision-Date: 2024-02-23 11:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
@@ -102,7 +102,7 @@ msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] Tiene una consola retro
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:143 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_911edce9:
 msgid "[_desiree_] Your magic wish imbued upon your \"Thermos\" provided Ember a room tailored towards her interests and stylings."
-msgstr "[_desiree_] Tu deseo mágico imbuido sobre tus \"Thermos\" proporcionó a Ember una habitación adaptada a sus intereses y estilo."
+msgstr "[_desiree_] Tu deseo mágico imbuido sobre tu \"Thermo\" proporcionó a Ember una habitación adaptada a sus intereses y estilo."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:147 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_07328a3b:
 msgid "[_desiree_] I don't myself care for her sense or lack of fashion per se, but having something foreign to engage with helps with the tedium of captivity."
@@ -134,7 +134,7 @@ msgstr "[_danny_s_boxers_s_towards_wide_s_sad_s_talk_frown_s_blush_] Espera...no
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:208 #-#-# translate crowdin desiree_affection_1_bedroom_night_29a45583:
 msgid "[_desiree_] Why good evening, my Master...~"
-msgstr "[_desiree_] Buenas tardes, Maestro... ~"
+msgstr "[_desiree_] Buenas tardes, amo... ~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:211 #-#-# translate crowdin desiree_affection_1_bedroom_night_ba91ed57:
 msgid "[_danny_s_boxers_s_towards_wide_s_rise_s_talk_happy_] D-Desiree?! What the- what are you doing?!"
@@ -202,7 +202,7 @@ msgstr "[_desiree_] Vas a soñar con esta noche el resto de tu vida~♥"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:288 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_after_c4ddb078:
 msgid "[_desiree_] {i}Mmm{/i}...{p}. . .{p}...I love you Master~"
-msgstr "[_desiree_] {i}Mmm{/i}...{p}. . .{p}...Te amo Maestro~"
+msgstr "[_desiree_] {i}Mmm{/i}...{p}. . .{p}...Te amo amo~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:294 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_after_7e1138c7:
 msgid "[_desiree_] ...I mean, {i}*Ahem*{/i} you know... and so, obviously, that's what I was trained to say to all of my previous masters after such an intimate session..."
@@ -214,7 +214,7 @@ msgstr "[_desiree_] Por supuesto, sabes, sólo para que los hombres se sientan c
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:300 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_after_a2764cbb:
 msgid "[_desiree_] Do you also feel at ease with my performance, Master...?"
-msgstr "[_desiree_] ¿Te sientes a gusto, Maestro...?"
+msgstr "[_desiree_] ¿Te sientes a gusto, amo...?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:304 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_after_c8bbce64:
 msgid "[_danny_] {i}Uhhh{/i}... yeah... sure."
@@ -258,7 +258,7 @@ msgstr "[_danny_s_boxers_s_ahegao_s_unhappy_s_talk_happy_s_blush_] {i}Super{/i} 
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:480 #-#-# translate crowdin desiree_affection_nighttime_visit_start_d86e93a5:
 msgid "[_desiree_] {i}*Giggles*{/i} What will it be tonight then, Master?~"
-msgstr "[_desiree_] {i}*risas * {/i} ¿Qué quieres esta noche Maestro?~"
+msgstr "[_desiree_] {i}*risas * {/i} ¿Qué quieres esta noche amo?~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:522 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_4c35b251:
 msgid "[_danny_] {i}Ah~{/i}{p}Desiree!"
@@ -266,7 +266,7 @@ msgstr "[_danny_] {i}Ah~{/i}{p}¡Desiree!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:525 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_51b16101:
 msgid "[_desiree_] That's it Master, f-fuck me, {i}mmfgh{/i}..."
-msgstr "[_desiree_] Eso es Maestro, f-fóllame, {i}mmfgh {/i}..."
+msgstr "[_desiree_] Eso es amo, f-fóllame, {i}mmfgh {/i}..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:528 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_2224826c:
 msgid "[_desiree_] So good!"
@@ -290,7 +290,7 @@ msgstr "[_danny_] ¡Ay joder! ¡Sigue botando así!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:541 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_dfe39346:
 msgid "[_desiree_] {i}*Huff*{/i} M-Master... I think I'm close to {i}*Huff*{/i} f-finishing!"
-msgstr "[_desiree_] {i}*Huff * {/i} M-Maestro... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
+msgstr "[_desiree_] {i}*Huff * {/i} M-amo... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:544 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_589612e0:
 msgid "[_danny_] Just a little longer Desiree!"
@@ -334,7 +334,7 @@ msgstr "[_danny_] {i}Ah~{/i}{p}¡Desiree!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:605 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_51b16101:
 msgid "[_desiree_] That's it Master, f-fuck me, {i}mmfgh{/i}..."
-msgstr "[_desiree_] Eso es Maestro, f-fóllame, {i}mmfgh {/i}..."
+msgstr "[_desiree_] Eso es amo, f-fóllame, {i}mmfgh {/i}..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:608 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_2224826c:
 msgid "[_desiree_] So good!"
@@ -358,7 +358,7 @@ msgstr "[_danny_] ¡Ay joder! ¡Sigue botando así!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:621 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_dfe39346:
 msgid "[_desiree_] {i}*Huff*{/i} M-Master... I think I'm close to {i}*Huff*{/i} f-finishing!"
-msgstr "[_desiree_] {i}*Huff * {/i} M-Maestro... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
+msgstr "[_desiree_] {i}*Huff * {/i} M-amo... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:624 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_589612e0:
 msgid "[_danny_] Just a little longer Desiree!"
@@ -442,7 +442,7 @@ msgstr "[_desiree_] ¡ {i}¡Hmm!{/i}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:712 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_55e4c4ef:
 msgid "[_desiree_] Oh! How {u}vulgar{/u} master!~{p}"
-msgstr "[_desiree_] ¡Oh! {p}¡que{u}vulgar {/u} maestro! ~{/p}"
+msgstr "[_desiree_] ¡Oh! {p}¡que{u}vulgar {/u} maestro! ~ "
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:715 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_bd3d62ec:
 msgid "[_extend_] I LOVE it!!"
@@ -450,7 +450,7 @@ msgstr "[_extend_] ¡¡AMO el sexo anal!!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:718 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_d3bdfb4d:
 msgid "[_desiree_] F-fuck my tight ass Master!~"
-msgstr "[_desiree_] ¡F-folla mi estrecho culo Maestro!~"
+msgstr "[_desiree_] ¡F-folla mi estrecho culo amo!~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:721 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_8cf158e6:
 msgid "[_danny_] {i}Ahh{/i}... yes, take it... take this ass pounding!"
@@ -474,7 +474,7 @@ msgstr "[_danny_] ¡Ohh! {i}¡jooooder!{/i}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:744 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_8be021f9:
 msgid "[_desiree_] Master!!~ You filled my little filthy hole to the brim with your hot seed!"
-msgstr "[_desiree_] ¡¡Maestro!!~ ¡Has llenado mi estrecho agujero con tus semillas calientes!"
+msgstr "[_desiree_] ¡¡amo!!~ ¡Has llenado mi estrecho agujero con tus semillas calientes!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:746 #-#-# translate crowdin desiree_affection_1_anal_cowgirl_1f815e1e:
 msgid "[_desiree_] {i}Ohhhh{/i} thank you, for that incredible finish..."
@@ -498,7 +498,7 @@ msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_s_blush_] Ciertamente fue,
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:790 #-#-# translate crowdin desiree_affection_nighttime_visit_end_210dc62d:
 msgid "[_desiree_] Goodnight, my young Master...~"
-msgstr "[_desiree_] Buenas noches, mi joven Maestro...~"
+msgstr "[_desiree_] Buenas noches, mi joven amo...~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:797 #-#-# translate crowdin desiree_affection_nighttime_visit_end_571f517e:
 msgid "[_desiree_] Rest well... and we'll see each other in the morning... my love...♥"
