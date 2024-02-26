@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-23 15:12\n"
+"PO-Revision-Date: 2024-02-26 12:54\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -2450,7 +2450,7 @@ msgstr "[_sam_s_talk_frown_3_s_sad_] Uhmmm... me gusta... como la Biblia de toda
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2157 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_45791019:
 msgid "[_sam_s_confused_s_thinking_s_talk_frown_2_] ...and as tall azza' coffee pot?"
-msgstr "¿[_sam_s_confused_s_thinking_s_talk_frown_2_] ...y como taaaaza de café grande?"
+msgstr "[_sam_s_confused_s_thinking_s_talk_frown_2_] ¿...y como taaaaza de café grande?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2159 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_d3dafc93:
 msgid "[_danny_s_angry_s_talk_frown_2_] Jeez!! No, seriously, how're you even hiding it on your person?!"
@@ -2906,7 +2906,7 @@ msgstr "[_sam_s_sad_s_talk_frown_2_] Danny. Voy a ser sincera contigo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2452 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_3a687e8b:
 msgid "[_danny_s_rise_one_s_talk_frown_] Yeah? What's up?"
-msgstr "¿[_danny_s_rise_one_s_talk_frown_] Sí? ¿Qué pasa?"
+msgstr "[_danny_s_rise_one_s_talk_frown_] ¿Sí? ¿Qué pasa?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2454 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_17c19cbd:
 msgid "[_sam_s_talk_happy_s_at_player_s_sad_] I'm... well, I'm still pretty drunk."
@@ -2922,7 +2922,7 @@ msgstr "[_sam_s_drunk_2_s_talk_bite_] Sí... y por eso, quiero... yo esto quiero
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2460 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_05518b31:
 msgid "[_danny_s_sad_s_talk_frown_] Huh? What's up?"
-msgstr "¿[_danny_s_sad_s_talk_frown_] Huh? ¿Qué pasa?"
+msgstr "[_danny_s_sad_s_talk_frown_] ¿Huh? ¿Qué pasa?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2462 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_bf06c86e:
 msgid "[_sam_s_talk_happy_2_s_drunk_2_s_sad_2_] ...I... I wanna make you... stronger..."
@@ -4026,7 +4026,7 @@ msgstr "[_desiree_s_talk_happy_s_neutral_2_] Encantada."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3502 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8b_schoolmainhall_a68a4c02:
 msgid "[_lancer_s_towards_s_rise_one_s_talk_happy_] {i}Desiree{/i}? Well now, Mr. Fenton... you didn't tell me you'd have such a charming young lady as your date tonight..."
-msgstr "¿[_lancer_s_towards_s_rise_one_s_talk_happy_] {i}Desiree{/i}? Bueno, señor Fenton... no me dijiste que tenías una joven dama tan encantadora como tu cita esta noche..."
+msgstr "[_lancer_s_towards_s_rise_one_s_talk_happy_] ¿{i}Desiree{/i}? Bueno, señor Fenton... no me dijiste que tenías una joven dama tan encantadora como tu cita esta noche..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3504 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8b_schoolmainhall_2a2dd4c3:
 msgid "[_lancer_s_closed_s_sad_] I'll be honest and say I didn't expect you to be able to pull in such a fine..."
@@ -4046,7 +4046,7 @@ msgstr "[_danny_s_towards_s_talk_happy_s_neutral_] {i}*Susurro*{/i} No te preocu
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3514 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8b_schoolmainhall_e1be32c8:
 msgid "[_lancer_s_rise_one_s_towards_s_talk_frown_] \"{b}Depicted{/b}\"? That's a strange way of phrasing it, but okay..."
-msgstr "¿[_lancer_s_rise_one_s_towards_s_talk_frown_] \"{b}descriví{/b}\"? Es una extraña manera de frasearlo, pero bien..."
+msgstr "[_lancer_s_rise_one_s_towards_s_talk_frown_] ¿\"{b}descriví{/b}\"? Es una extraña manera de frasearlo, pero bien..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3516 #-#-# translate crowdin A_Stroke_After_Midnight_scene_8b_schoolmainhall_2d1f5348:
 msgid "[_lancer_s_closed_s_talk_frown_] Anyway, are you two love birds planning to hit it off nicely this evening?"
@@ -4202,7 +4202,7 @@ msgstr "[_desiree_s_talk_frown_2_s_sad_] Lo siento, ¿qué significa eso? Eso no
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3673 #-#-# translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_6b7872dc:
 msgid "[_star_s_rise_one_s_talk_frown_] Huh? Listen, I don't care if you're like, kinda a bombshell, your dork of a cousin is-"
-msgstr "¿[_star_s_rise_one_s_talk_frown_] Huh? Escucha, no me importa si pareces, un bombonazo, el cerdo de tu primo és-"
+msgstr "[_star_s_rise_one_s_talk_frown_] ¿Huh? Escucha, no me importa si pareces, un bombonazo, el cerdo de tu primo és-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3676 #-#-# translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_3bb682af:
 msgid "[_desiree_s_closed_s_talk_frown_s_neutral_] It's not that I care what your opinion is, but you seem to believe that my birthplace pertains to {b}his{/b} malfunctions as a man for some reason?"
@@ -4210,7 +4210,7 @@ msgstr "[_desiree_s_closed_s_talk_frown_s_neutral_] ¿no és que me importe cuá
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3678 #-#-# translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_bdb23d5a:
 msgid "[_danny_s_angry_s_blank_stare_s_talk_frown_2_] Malfunctions?? Hey wait-"
-msgstr "¿¿[_danny_s_angry_s_blank_stare_s_talk_frown_2_] ¿¿mal función?? Hey espera-"
+msgstr "[_danny_s_angry_s_blank_stare_s_talk_frown_2_] ¿¿mal función?? Hey espera-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3680 #-#-# translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_01f84983:
 msgid "[_desiree_s_talk_frown_2_s_neutral_2_] I assure you, I have nothing to do with Danny's internal issues as a man, I wish I knew myself. But, I'm not sure if even magic could pinpoint exactly what the root of his issues are..."
@@ -4706,7 +4706,7 @@ msgstr "[_desiree_s_closed_s_talk_frown_s_neutral_] Sí, con certeza... Dioses, 
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4116 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10b_bedroom_51934850:
 msgid "[_danny_s_suit_s_rise_one_s_talk_frown_] Haven't what?"
-msgstr "¿[_danny_s_suit_s_rise_one_s_talk_frown_] ¿no ha sido qué?"
+msgstr "[_danny_s_suit_s_rise_one_s_talk_frown_] ¿no ha sido qué?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4118 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10b_bedroom_c3b50491:
 msgid "[_desiree_s_down_s_talk_happy_s_sad_] Just felt... that level of stupid in a long time!"
@@ -4850,7 +4850,7 @@ msgstr "[_danny_s_talk_happy_s_sad_2_] Bueno, de nuevo, eso fue..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4205 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11b_bedroom_14ae3d36:
 msgid "[_desiree_s_towards_s_talk_bite_s_neutral_2_] Incredible? Unbelievable? You often say that sort've thing, and I find it rather curious about you."
-msgstr "¿[_desiree_s_towards_s_talk_bite_s_neutral_2_] ¿Increíble? ¿Incomprensible? A menudo dices algo así y me parece bastante curioso."
+msgstr "[_desiree_s_towards_s_talk_bite_s_neutral_2_] ¿Increíble? ¿Incomprensible? A menudo dices algo así y me parece bastante curioso."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4207 #-#-# translate crowdin A_Stroke_After_Midnight_scene_11b_bedroom_8bebe276:
 msgid "[_danny_s_rise_one_s_talk_frown_] Do I? What do you mean?"
@@ -7274,7 +7274,7 @@ msgstr "[_starspook_] Oh sí, joder. Estaba usando el cuarto de baño, y no escr
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5976 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_cff4d14e:
 msgid "[_billspook_] Germs?"
-msgstr "¿[_billspook_] ¿gérmenes?"
+msgstr "[_billspook_] ¿gérmenes?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5977 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_3389d623:
 msgid "[_starspook_] More so plenty of ruined phones I've dropped."
@@ -8182,7 +8182,7 @@ msgstr "[_star_s_dress_s_towards_s_angry_s_talk_frown_s_noblush_] Estúpida porq
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6603 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_fcb49aaa:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] Mom?!?"
-msgstr "¿[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] ¿¡¿madre?!?"
+msgstr "[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] ¿¡¿madre?!?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6606 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10d_schoolhallright_2e03e196:
 msgid "[_kate_s_nocoat_s_towards_s_rise_one_s_talk_frown_s_noblush_s_nocum_] Are you alright, young man?"
