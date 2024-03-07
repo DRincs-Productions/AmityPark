@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-07 11:49\n"
+"PO-Revision-Date: 2024-02-22 11:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
@@ -59,7 +59,7 @@ msgstr "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/butto
 
 # §translate crowdin strings: #|#|# # game/code/base/screens.rpy:298
 msgid "Back"
-msgstr "Retroceder"
+msgstr "Atras"
 
 # game/code/base/screens.rpy:299
 msgid "History"

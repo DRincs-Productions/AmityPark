@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-31 18:52\n"
+"PO-Revision-Date: 2024-02-23 11:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
@@ -178,7 +178,7 @@ msgstr "[_danny_s_talk_happy_2_s_sad_] Vamos Tuck, ¡la mitad de la ciudad ya ha
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:238 #-#-# translate crowdin tucker_convo_tuckerPDA_start_84c751c7:
 msgid "[_tucker_s_arms_straps_s_away_s_sad_s_talk_happy_] Oh sweet, {i}naïve{/i} Daniel... you can't just believe {i}everything{/i} the fake news media tells you, man. Mass hysteria is something I try to avoid, and getting your facts from {i}Tiffany Snow{/i} of all people?{p}{i}*Tsk* *Tsk*{/i}"
-msgstr "[_tucker_s_arms_straps_s_away_s_sad_s_talk_happy_] Oh cariñoso, {i}ingenuo {/i} Daniel... no puedes creer {i}todo{/i} lo que dicen las falsas noticias, tio. La histeria masiva es algo que trato de evitar, ¿y creer tus explicaciones {i}\"blanca nieves\"{/i} de otras personas?{p}{i}*Tsk * *Tsk * {/i}{/p}"
+msgstr "[_tucker_s_arms_straps_s_away_s_sad_s_talk_happy_] Oh cariñoso, {i}ingenuo {/i} Daniel... no puedes creer {i}todo{/i} lo que dicen las falsas noticias, tio. La histeria masiva es algo que trato de evitar, ¿y creer tus explicaciones {i}\"blanca nieves\"{/i} de otras personas?{p}{i}*Tsk * *Tsk * {/i} "
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:240 #-#-# translate crowdin tucker_convo_tuckerPDA_start_d8b57d89:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Well... I suppose one's whole world view doesn't just completely flip over night. Glad to see you're sticking to your guns on this..."
@@ -214,7 +214,7 @@ msgstr "[_tucker_s_arms_straps_s_away_s_sad_s_talk_happy_] Bueno, quiero decir..
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:258 #-#-# translate crowdin tucker_convo_tuckerPDA_start_08828822:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] {i}*Sigh*{/i} Alright, I'll see what I can do.{p}"
-msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] {i}*Suspiro * {/i} {p} Muy bien, veré que puedo hacer.{/p}"
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] {i}*Suspiro * {/i} Muy bien, veré que puedo hacer.{p}  "
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:261 #-#-# translate crowdin tucker_convo_tuckerPDA_start_eb59364a:
 msgid "[_extend_] (Hmmm, Dash isn't going to budge too easily with just my skinny frame trying to push past... how am I gonna get him to leave?)"
@@ -242,7 +242,7 @@ msgstr "[_tucker_s_arms_straps_s_towards_s_neutral_s_talk_displeased_] ¡Date pr
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:298 #-#-# translate crowdin tucker_convo_tuckerPDA_middle_beb1ed19:
 msgid "[_danny_s_down_s_wondering_s_talk_consternation_] Alright, alright, I'm moving as fast as I can here!{p}"
-msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] vale, vale, {p}¡lo estoy haciendo todo lo rápido que puedo!{/p}"
+msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] vale, vale, {p}¡lo estoy haciendo todo lo rápido que puedo! "
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:301 #-#-# translate crowdin tucker_convo_tuckerPDA_middle_84ed6d00:
 msgid "[_extend_] (I gotta figure out a way to get inside the girls locker room with Dash still hanging around...)"
@@ -250,7 +250,7 @@ msgstr "[_extend_] (Tengo que encontrar una manera de entrar en el vestuario de 
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:327 #-#-# translate crowdin tucker_convo_tuckerPDA_end_9fb1971f:
 msgid "[_danny_s_talk_happy_] Here it is Tuck, your oh-so valuable PDA, back in safe hands once again!{p}Man, you really wouldn't believe what I had to go through to get it back."
-msgstr "[_danny_s_talk_happy_] Aquí está Tuck, ¡tu valiosa PDA sin daños!{p} Tío, no creerás lo que he tenido que hacer para recuperarla{/p}."
+msgstr "[_danny_s_talk_happy_] Aquí está Tuck, ¡tu valiosa PDA sin daños!{p} Tío, no creerás lo que he tenido que hacer para recuperarla ."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:330 #-#-# translate crowdin tucker_convo_tuckerPDA_end_4361b93e:
 msgid "[_tucker_s_talk_happy_] Awesome! Thanks so much Danny, you're an absolute lifesaver!"
@@ -270,7 +270,7 @@ msgstr "[_tucker_] {i}*crujido * {/i} {i}*crujido* {/i}"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:346 #-#-# translate crowdin tucker_convo_tuckerPDA_end_966d1caf:
 msgid "[_danny_s_towards_wide_s_sad_2_s_talk_frown_2_] {u}Another{/u} PDA?? But- if you... I just gave- h-how...??{p}Tucker, I-I dont understand!"
-msgstr "[_danny_s_towards_wide_s_sad_2_s_talk_frown_2_] ¿¿{u}Otra{/u} PDA?? Pero-si te... Acabo de dar ¿¿c-como..??{p}Tucker{/p}, ¡N-No te entiendo!"
+msgstr "[_danny_s_towards_wide_s_sad_2_s_talk_frown_2_] ¿¿{u}Otra{/u} PDA?? Pero-si te... Acabo de dar ¿¿c-como..??{p}Tucker , ¡N-No te entiendo!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:348 #-#-# translate crowdin tucker_convo_tuckerPDA_end_ebd6ed4a:
 msgid "[_tucker_s_closed_s_talk_happy_s_sad_] Oh, I guess I should explain. The one {i}you{/i} got back for me was just the {u}newer{/u} model PDA. I still had this old one laying around in my backpack, plus a few backups."
@@ -282,7 +282,7 @@ msgstr "[_danny_s_neutral_s_towards_s_talk_frown_] Entonces, ¿por qué no utili
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:352 #-#-# translate crowdin tucker_convo_tuckerPDA_end_65e3ef2f:
 msgid "[_tucker_s_talk_frown_s_closed_] Come on, Danny! The newer models don't come with headphone jack connectors!{p}That is {u}peak{/u} innovation!"
-msgstr "[_tucker_s_talk_frown_s_closed_] ¡Vamos, Danny! Los modelos nuevos vienen con conectores jack de auriculares! ¡{p}Es tecnología {u}punta{/u} en innovación{/p}!"
+msgstr "[_tucker_s_talk_frown_s_closed_] ¡Vamos, Danny! Los modelos nuevos vienen con conectores jack de auriculares! ¡{p}Es tecnología {u}punta{/u} en innovación !"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:354 #-#-# translate crowdin tucker_convo_tuckerPDA_end_ef428a3d:
 msgid "[_tucker_s_neutral_s_talk_happy_s_away_] Once you've hit that high a level of technological savviness, there's just no going back to the old outdated ways of {i}actually{/i} being able to use headphones."
@@ -402,7 +402,7 @@ msgstr "[_star_] Oh… {i}nnngn {/i}… vas... a meterla hasta el fondo…!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:572 #-#-# translate crowdin Star_x_Kwan_Locker_Room_34b14d14:
 msgid "[_star_] {i}Fuuhahh…{p}I…{p}K-Kwaan…{p}hyahhh…{/i}!"
-msgstr "[_star_] {i}Fuuhahh…{p}yo… K-Kwaan… hyahhh…{/p}{/i}!"
+msgstr "[_star_] {i}Fuuhahh…{p}yo… K-Kwaan… hyahhh… {/i}!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:575 #-#-# translate crowdin Star_x_Kwan_Locker_Room_9d3cfa09:
 msgid "[_danny_s_pi_32_] (Damn. I don't think Star's going to walk right for awhile after this...)"
@@ -438,7 +438,7 @@ msgstr "[_star_] ¡¡Dame más rápido!! ¡¡{i}Ahhh!! {/i} ¡¡La quiero!! ¡M�
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:628 #-#-# translate crowdin Star_x_Kwan_Locker_Room_03c08fe4:
 msgid "[_kwan_] Yeah?{p}Then I'm gonna {u}give{/u} it to you faster!"
-msgstr "[_kwan_] ¿Sí?{p}Entonces te voy a {u}dar {/u} ¡aún más rápido{/p}!"
+msgstr "[_kwan_] ¿Sí?{p}Entonces te voy a {u}dar {/u} ¡aún más rápido !"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:631 #-#-# translate crowdin Star_x_Kwan_Locker_Room_7940bb14:
 msgid "[_star_] Kwan… {i}Kwaannnnn…!! Hnnnn{/i}…!!"
@@ -490,7 +490,7 @@ msgstr "[_star_] {i}Hnnghhh {/i}… ¡¡mi coño va a correrse sobre tu polla!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:677 #-#-# translate crowdin Star_x_Kwan_Locker_Room_c5d3f561:
 msgid "[_kwan_] It's getting real close, Star!! I'm gonna finish strong!"
-msgstr "[_kwan_] ¡¡Estoy muy cerca, Star!! ¡Voy a terminar explotando!"
+msgstr "[_kwan_] ¡¡Estoy muy cerca, Star!! ¡Voy a explotar!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:682 #-#-# translate crowdin Star_x_Kwan_Locker_Room_23f19cb7:
 msgid "[_star_] {i}Ahh… hahhh… ahhhhh~!!{/i}"
@@ -514,7 +514,7 @@ msgstr "[_kwan_] Lo siento, ¡¡pero estoy a punto de explotar~!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:735 #-#-# translate crowdin Star_x_Kwan_Locker_Room_1c396fc4:
 msgid "[_danny_s_pi_114_] (Holy... his rhythm is crazy! He's going to totally destroy Star!!{p}...wait, why the heck am I still watching...?)"
-msgstr "[_danny_s_pi_114_] (Dios... ¡su ritmo és una locura! Va a destruir a Star!!{p}... espera, ¿por qué narices sigo viendo esto...?{/p})"
+msgstr "[_danny_s_pi_114_] (Dios... ¡su ritmo és una locura! Va a destruir a Star!!{p}... espera, ¿por qué narices sigo viendo esto...? )"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:738 #-#-# translate crowdin Star_x_Kwan_Locker_Room_a2753a4c:
 msgid "[_star_] {i}Nnnmmmm… hauuuu{/i}… it's so fast!! I'm literally shaking!!"
@@ -538,7 +538,7 @@ msgstr "[_kwan_] {i}Ahhh {/i}... jeez... esto fu lo mejor... Me corrí como un c
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:788 #-#-# translate crowdin Star_x_Kwan_Locker_Room_af1b2005:
 msgid "[_star_] {i}*Huff* *Huff*{/i}{p}…oh… you... idiot, Kwan... you're lucky I'm on the pill... holy fuck..."
-msgstr "[_star_] {i}*Huff * *Huff*{/i}{p}…oh… tú... idiota{/p}, Kwan... tienes suerte de que tomo la píldora... santas pollas..."
+msgstr "[_star_] {i}*Huff * *Huff*{/i}{p}…oh… tú... idiota , Kwan... tienes suerte de que tomo la píldora... santas pollas..."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:799 #-#-# translate crowdin Star_x_Kwan_Locker_Room_38fa1dc3:
 msgid "[_kwan_] {i}Heh heh{/i}… yeah… I know, babe…"

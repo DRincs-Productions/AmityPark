@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-19 14:13\n"
+"PO-Revision-Date: 2024-02-23 11:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
-msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... ¿qué...?¿{p}Por qué estaba tirado en el suelo...{/p}...?"
+msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... ¿qué...?¿{p}Por qué estaba tirado en el suelo...?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:41 #-#-# translate crowdin intro_24cad70b:
 msgid "[_danny_s_down_s_sad_s_frown_3_] (What happened last night?){p}The last thing I remember..."
-msgstr "[_danny_s_down_s_sad_s_frown_3_] (¿Qué pasó anoche?) {p}Lo último que recuerdo{/p}..."
+msgstr "[_danny_s_down_s_sad_s_frown_3_] (¿Qué pasó anoche?) {p}Lo último que recuerdo ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:46 #-#-# translate crowdin intro_4303aa3a:
 msgid "[_danny_s_towards_s_sad_] (Oh yeah… there was... some kind've accident in the {b}Fenton Work's Lab{/b}...)"
@@ -30,7 +30,7 @@ msgstr "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... Estaba...Estaba intentando e
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:64 #-#-# translate crowdin intro_cb112b07:
 msgid "[_danny_] (Suddenly, there was a {u}great big flash{/u}... everything just {i}changed{/i}...{p}man, I hope my molecules weren't all rearranged...)"
-msgstr "[_danny_] (De repente, hubo un {u}gran flash{/u}... todo {i}cambió{/i}...{p}tio, espero que las moléculas de mi cuerpo no hayan sido reordenadas...{/p})"
+msgstr "[_danny_] (De repente, hubo un {u}gran flash{/u}... todo {i}cambió{/i}...{p}tio, espero que las moléculas de mi cuerpo no hayan sido reordenadas... )"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:66 #-#-# translate crowdin intro_d01af09e:
 msgid "[_danny_] ({i}Heh{/i}, that rhymed.)"
@@ -42,7 +42,7 @@ msgstr "[_danny_] (Y entonces... cuando me desperté de nuevo, estaba... no... n
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:81 #-#-# translate crowdin intro_d636ae29:
 msgid "[_danny_] (...had I really been turned into a... a {b}ghost{/b}...?{p}How else could I have gotten back into my room...?)"
-msgstr "[_danny_] (...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...?{/p})"
+msgstr "[_danny_] (...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...? )"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:86 #-#-# translate crowdin intro_565378f5:
 msgid "[_danny_] (N-no, I must have just bumped my head and imagined the whole thing! Dad probably just found me down in the lab and carried me up here, that's all! Ghosts are {i}absolutely{/i} not, in any {i}conceivable{/i} reality, {u}real{/u}.)"
@@ -50,7 +50,7 @@ msgstr "[_danny_] (¡No!, debo haberme golpeado la cabeza y haberme imaginado to
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:99 #-#-# translate crowdin intro_61804c48:
 msgid "[_danny_s_p7_] Oh crap! It really {u}did{/u} happen!{p}I'm actually {u}dead{/u}!!"
-msgstr "[_danny_s_p7_] ¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy {u}muerto{/u}{/p}!!"
+msgstr "[_danny_s_p7_] ¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy {u}muerto{/u} !!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:102 #-#-# translate crowdin intro_82c577de:
 msgid "[_jack_] {i}DANNY!!{/i} I'm getting a reading from the {b}Fenton Finder{/b} that there's a ghost in your room!{p}Try to fend it off with your weaponized teenage hormones while your mother and I grab our ghost hunting gear! Good luck, son!!"
@@ -74,7 +74,7 @@ msgstr "[_danny_s_p9_] Tengo que... concentrarme... {i}¡concentrarme!{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:132 #-#-# translate crowdin intro_91069740:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Alright, ghost!! Get ready to meet your maker!!{p}For {i}sure{/i} this time!"
-msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Esta vez por {i}seguro{/i} {/p}!"
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Esta vez por {i}seguro{/i}  !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:150 #-#-# translate crowdin intro_c5548982:
 msgid "[_danny_s_talk_happy_s_wondering_] {i}Uhhhhmm{/i}, h-hey guys! L-look! No ghost here! Just {i}regular{/i} old Danny! Yessir, nothing out of the ordinary, just a boring, {u}completely{/u} non-translucent young adult's room! {i}Ah heh, hehh{/i}..."
@@ -150,7 +150,7 @@ msgstr "[_danny_s_at_danny_s_blush_s_sad_2_s_talk_frown_2_] ¡¿\"La conversaci�
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:279 #-#-# translate crowdin intro_breakfast_6c61c89f:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] No doofus! The talk {i}about{/i} Mom and Dad!{p}You do realize that, eventually, one of us is going to get stuck here taking care of them, and frankly, I have {i}far{/i} too many plans after I graduate school for it to be {i}my{/i} responsibility."
-msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] ¡No, tonto! La conversación {i}sobre{/i} ¡Mamá y papá! {p} Te das cuenta de que, en algún momento, uno de nosotros se va a quedar aquí cuidando de ellos{/p}, y francamente, tengo {i}demasiados{/i} planes después de graduarme para que sea {i}mi{/i} responsabilidad."
+msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] ¡No, tonto! La conversación {i}sobre{/i} ¡Mamá y papá! {p} Te das cuenta de que, en algún momento, uno de nosotros se va a quedar aquí cuidando de ellos , y francamente, tengo {i}demasiados{/i} planes después de graduarme para que sea {i}mi{/i} responsabilidad."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:282 #-#-# translate crowdin intro_breakfast_5c64f471:
 msgid "[_danny_s_towards_s_rise_one_s_talk_frown_2_] Huh? What the heck are you talking about Jazz? Why would either of us have to be stuck here taking care of them? They're not that old to need-"
@@ -162,7 +162,7 @@ msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] ¡Todo este asunto de los fa
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:288 #-#-# translate crowdin intro_breakfast_c47f7104:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh come on, Jazz, they aren't crazy, they're {b}scientists{/b}! They've been working on this kinda stuff since they went to college.{p}Of course they're going to seem a {i}little{/i} weird compared to other parents, but it's all in the pursuit of scientific research!"
-msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {/i} en comparación con otros padres{/p}, pero és solo investigación científica!"
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {/i} en comparación con otros padres , pero és solo investigación científica!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:291 #-#-# translate crowdin intro_breakfast_80181d42:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Danny, {i}real{/i} scientists study things like physics and chemical balances. Principal concepts of the {u}known{/u} universe. Our parents study the paranormal... you don't see any problem with that...?"
@@ -182,7 +182,7 @@ msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] {i}Uhhh{/i}... Quiero dec
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:303 #-#-# translate crowdin intro_breakfast_d4a1fe18:
 msgid "[_jazz_s_towards_s_sad_s_talk_frown_] Exactly, it's {i}total{/i} nonsense. We need parental figures who can provide some actual life guidance, not made up stories about-{p}...crud, I think I hear them coming back up from the Lab."
-msgstr "[_jazz_s_towards_s_sad_s_talk_frown_] Exactamente, es un {i}total{/i} sinsentido. Necesitamos figuras paternas que nos orienten en la vida, no historias inventadas sobre...{p}...fantas{/p}... Creo que los oigo volver del laboratorio."
+msgstr "[_jazz_s_towards_s_sad_s_talk_frown_] Exactamente, es un {i}total{/i} sinsentido. Necesitamos figuras paternas que nos orienten en la vida, no historias inventadas sobre...{p}...fantas ... Creo que los oigo volver del laboratorio."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:306 #-#-# translate crowdin intro_breakfast_a0033842:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Look, we can talk about this later. Just remember, {i}you're{/i} the one who's gonna be wiping drool off their lips when the time comes."
@@ -202,11 +202,11 @@ msgstr "[_jack_s_towards_wide_s_sad_s_talk_displeased_] ¡Ese maldito {b}Portal 
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:342 #-#-# translate crowdin intro_breakfast_c6119f48:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Hey, don't beat yourself up too much, Dad. You'll catch a real gruesome ghost for sure one of these days!{p}And I bet you'll find out how to fix up your portal as well! You guys are brilliant inventors after all!"
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Oye, no te castigues tanto papá. Seguro que un día de estos atrapas un fantasma realmente espantoso.¡{p}Y apuesto a que también harás funcionar bien tu portal{/p}! Al fin y al cabo, sois unos inventores brillantes!"
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Oye, no te castigues tanto papá. Seguro que un día de estos atrapas un fantasma realmente espantoso.¡{p}Y apuesto a que también harás funcionar bien tu portal ! Al fin y al cabo, sois unos inventores brillantes!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:345 #-#-# translate crowdin intro_breakfast_042e32f8:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahh{/i}, Maddie, what a son I have... knows just how to make his old man feel like himself again!{p}Don't worry gang, Jack Fenton will {u}never{/u} give up on his ghost hunting dreams!"
-msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahh{/i}, Maddie, qué hijo tengo... ¡sabe cómo hacer que su viejo vuelva a sentirse lleno de fuerzas!{p} No os preocupéis, Jack Fenton {u}nunca{/u} abandonará su sueño de caza de fantasmas{/p}!"
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ahh{/i}, Maddie, qué hijo tengo... ¡sabe cómo hacer que su viejo vuelva a sentirse lleno de fuerzas!{p} No os preocupéis, Jack Fenton {u}nunca{/u} abandonará su sueño de caza de fantasmas !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:349 #-#-# translate crowdin intro_breakfast_089c02b0:
 msgid "[_danny_s_rise_one_s_talk_happy_2_] So, soppy speeches aside, I heard some delicious waffles were in the works?"
@@ -250,7 +250,7 @@ msgstr "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] {i}Ugh{/i}, {i}mejor{
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:421 #-#-# translate crowdin intro_breakfast_d3842111:
 msgid "[_danny_s_rise_one_s_talk_happy_] So then, gang...{p}...waffle time?"
-msgstr "[_danny_s_rise_one_s_talk_happy_] Entonces, pandilla...{p}...¿tiempo de gofres{/p}?"
+msgstr "[_danny_s_rise_one_s_talk_happy_] Entonces, pandilla...{p}...¿tiempo de gofres ?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:425 #-#-# translate crowdin intro_breakfast_b5ff3d91:
 msgid "[_maddie_s_suspicious_towards_s_aghast_s_talk_happy_] {u}Waffle time.{/u}"
@@ -270,11 +270,11 @@ msgstr "[_tucker_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Entonces, ¿
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:505 #-#-# translate crowdin intro_schoolfront_55962778:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Oh, could've been better. I sorta accidentally broke a machine my folks were working on last night.{p}I mean, it was already broken, but I definitely think I busted it good."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Podría haber sido mejor. Anoche rompí accidentalmente una máquina en la que trabajaban mis padres.{p}Quiero decir que ya estaba algo rota{/p}, y definitivamente creo que la rompí del todo."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Podría haber sido mejor. Anoche rompí accidentalmente una máquina en la que trabajaban mis padres.{p}Quiero decir que ya estaba algo rota , y definitivamente creo que la rompí del todo."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:509 #-#-# translate crowdin intro_schoolfront_866f4140:
 msgid "[_danny_s_at_player_s_talk_frown_s_rise_one_] Oh, and I almost died because of it!{p}(...or maybe I {u}did{/u}...?)"
-msgstr "[_danny_s_at_player_s_talk_frown_s_rise_one_] Ah, ¡y casi muero por ello! {p} (¿...o quizás lo {u}hice{/u}...?{/p})"
+msgstr "[_danny_s_at_player_s_talk_frown_s_rise_one_] Ah, ¡y casi muero por ello! {p} (¿...o quizás lo {u}hice{/u}...? )"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:513 #-#-# translate crowdin intro_schoolfront_892fa977:
 msgid "[_tucker_s_arms_straps_s_towards_wide_s_sad_s_talk_displeased_] Jeez dude, that's crazy! Knowing the level of tech they have in that Lab, I'm glad you didn't seriously croak!"
@@ -370,7 +370,7 @@ msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_amused_] {i}Uhm{/i}... bueno, po
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:645 #-#-# translate crowdin intro_schoolhallmain_977895e3:
 msgid "[_dash_s_knuckles_s_towards_s_angry_s_talk_happy_] {i}Ennnnhhh{/i}!{p}Time's up! Time for the ground pounding!"
-msgstr "[_dash_s_knuckles_s_towards_s_angry_s_talk_happy_] {i}¡Ennnnhhh!{/i}{p}¡Se acabó el tiempo!{/p} ¡Tiempo de machacarte!"
+msgstr "[_dash_s_knuckles_s_towards_s_angry_s_talk_happy_] {i}¡Ennnnhhh!{/i}{p}¡Se acabó el tiempo!  ¡Tiempo de machacarte!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:654 #-#-# translate crowdin intro_schoolhallmain_2e474d8d:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Jeez Dash, can't you give it a break already? Feels like you could at least {i}try{/i} picking on somebody your own size if you were trying to impress anybody..."
@@ -426,7 +426,7 @@ msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Fue una suerte que aparecieras
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:727 #-#-# translate crowdin intro_schoolhallmain_4cdbdae9:
 msgid "[_jazz_s_towards_s_rise_s_talk_happy_] An abundantly exhausting task, I'm sure.{p}Well look, I've got my first tutoring session coming up, so I'll see you guys around. Later!"
-msgstr "[_jazz_s_towards_s_rise_s_talk_happy_] Una tarea bastante agotadora, estoy segura.{p} Bueno mirad, tengo una sesión de tutoría en breve, así que nos vemos por aquí{/p}. ¡Hasta luego!"
+msgstr "[_jazz_s_towards_s_rise_s_talk_happy_] Una tarea bastante agotadora, estoy segura.{p} Bueno mirad, tengo una sesión de tutoría en breve, así que nos vemos por aquí . ¡Hasta luego!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:737 #-#-# translate crowdin intro_schoolhallmain_dab9f4a6:
 msgid "[_tucker_s_away_s_talk_frown_s_wondering_] Well, we wouldn't have even been in that situation if it weren't for a certain {i}somebody{/i} flinging mud from their mouth at the popular girl."
@@ -438,7 +438,7 @@ msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_happy_] Oh, cierra la boca, Tucker
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:750 #-#-# translate crowdin intro_schoolhallmain_d85daa85:
 msgid "[_tucker_s_towards_s_angry_s_talk_frown_] Easy for {i}you{/i} to say! You weren't the one who was going to have their underwear lodged up into their pelvic bone!{p}Let's {i}try{/i} not to make the 250-pound walking gorilla mad, shall we?!"
-msgstr "[_tucker_s_towards_s_angry_s_talk_frown_] ¡Es fácil decirlo para {i}ti{/i} en! ¡No eras tú el que iba a tener su ropa interior metida por el culo!{p} {i}Intentemos{/i} no hacer enfadar al gorila andante de 120 kg,{/p} {/i} ¡¿podremos?!"
+msgstr "[_tucker_s_towards_s_angry_s_talk_frown_] ¡Es fácil decirlo para {i}ti{/i} en! ¡No eras tú el que iba a tener su ropa interior metida por el culo!{p} {i}Intentemos{/i} no hacer enfadar al gorila andante de 120 kg,  {/i} ¡¿podremos?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:754 #-#-# translate crowdin intro_schoolhallmain_d498164e:
 msgid "[_sam_s_casual_outfit_s_angry_s_talk_frown_s_closed_] {i}Ugh{/i}, let's just get to class already..."
@@ -546,7 +546,7 @@ msgstr "[_sam_] Sí, bueno, tal vez es porque él sabe algunas cosas que nosotro
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:938 #-#-# translate crowdin intro_classroom_ff7a0a67:
 msgid "[_tucker_] {i}Uhhhm{/i}, no comment. No offense Danny.{p}Look, I for one am not gonna start believing in something nobody's ever seen before, just on principles alone. I'm a true man of science after all."
-msgstr "[_tucker_] {i}Uhhhm{/i}, sin comentarios. No te ofendas, Danny.{p}Mira, yo por mi parte no voy a empezar a creer en algo que nadie ha visto antes, sólo por principios{/p}. Soy un verdadero hombre de ciencia después de todo."
+msgstr "[_tucker_] {i}Uhhhm{/i}, sin comentarios. No te ofendas, Danny.{p}Mira, yo por mi parte no voy a empezar a creer en algo que nadie ha visto antes, sólo por principios . Soy un verdadero hombre de ciencia después de todo."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:965 #-#-# translate crowdin intro_classroom_3c93e393:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_frown_] Hey Danny, are you okay? You don't sound too good. Need a throat lozenge or something?"
@@ -558,7 +558,7 @@ msgstr "[_lancer_s_rise_one_s_talk_frown_] ¿Pasa algo Sr. Fenton?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:972 #-#-# translate crowdin intro_classroom_b1b11617:
 msgid "[_danny_s_towards_s_talk_frown_2_s_sad_2_] {i}Uhhhm{/i}... no, yeah, I'm fine Mr. Lancer, I just gotta...{p}...just gotta..."
-msgstr "[_danny_s_towards_s_talk_frown_2_s_sad_2_] {i}Uhhhm{/i}... no, sí, estoy bien Sr. Lancer, sólo tengo...{p}...sólo tengo{/p}..."
+msgstr "[_danny_s_towards_s_talk_frown_2_s_sad_2_] {i}Uhhhm{/i}... no, sí, estoy bien Sr. Lancer, sólo tengo...{p}...sólo tengo ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:991 #-#-# translate crowdin intro_classroom_63127c2d:
 msgid "[_danny_] {i}*Thunk*{/i}"
@@ -630,7 +630,7 @@ msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Bien, no hay problema, {i}uhh{/i}
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1124 #-#-# translate crowdin intro_nurseoffice_4a45c87c:
 msgid "[_kate_s_towards_s_rage_s_talk_happy_s_blush_] Wonderful. Now please, go home early today and get some rest.{p}And Danny, I really do mean you can stop by for {i}any{/i} reason..."
-msgstr "[_kate_s_towards_s_rage_s_talk_happy_s_blush_] Maravilloso. Ahora, por favor, vete a casa temprano hoy y descansa un poco.{p}Y Danny, quiero decir que puedes pasar por {i}cualquier{/i} razón{/p}..."
+msgstr "[_kate_s_towards_s_rage_s_talk_happy_s_blush_] Maravilloso. Ahora, por favor, vete a casa temprano hoy y descansa un poco.{p}Y Danny, quiero decir que puedes pasar por {i}cualquier{/i} razón ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1168 #-#-# translate crowdin intro_dinner_519df999:
 msgid "[_danny_s_at_player_s_sad_s_talk_consternation_] Man, what a day and a half I've had... I'm looking forward to just laying down on my bed and avoiding anything else particularly exciting for the rest of the day!"
@@ -646,7 +646,7 @@ msgstr "[_newscaster_s_9_] ¡Noticia de última hora! Canal 4 ha recibido múlti
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1185 #-#-# translate crowdin intro_dinner_0dd34039:
 msgid "[_jazz_] No.{p}Freaking.{p}Way."
-msgstr "[_jazz_] No. {p}Otra {/p} estafa."
+msgstr "[_jazz_] No. {p}Otra   estafa."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1190 #-#-# translate crowdin intro_dinner_7749f032:
 msgid "[_maddie_] Jack! Oh my gosh, Jack!! This is it! The validation of our {u}entire{/u} life's work!"
@@ -682,11 +682,11 @@ msgstr "[_jack_] {i}¡¡SÍ!! {/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1220 #-#-# translate crowdin intro_dinner_6f305843:
 msgid "[_newscaster_s_9_] ...billionaire, philanthropist, and Fortunate Magazine's \"Man of the Year\" ten years running...{p}{u}Vlad Masters{/u}!"
-msgstr "[_newscaster_s_9_] ...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{/u}{/p}!"
+msgstr "[_newscaster_s_9_] ...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{/u} !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1224 #-#-# translate crowdin intro_dinner_ccd74309:
 msgid "[_jack_] Alright! I'm gonna be the Mayor's adviso... wait!{p}{u}Vladdie{/u}?!"
-msgstr "[_jack_] ¡Muy bien! Voy a ser el consejero del alcalde... ¡espera! {p}{u}¡¿Vladdie{/u}{/p}?!"
+msgstr "[_jack_] ¡Muy bien! Voy a ser el consejero del alcalde... ¡espera! {p}{u}¡¿Vladdie{/u} ?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1238 #-#-# translate crowdin intro_dinner_b6934019:
 msgid "[_maddie_s_flip_s_closed_s_neutral_s_talk_happy_] Oh, look Jack! Now Vlad's coming to town to help out! Goodness, today has just been a {i}really{/i} eventful day!!"
@@ -830,7 +830,7 @@ msgstr "[_star_s_towards_s_rise_s_talk_displeased_] Ciencia...¡{i}Schmience{/i}
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1447 #-#-# translate crowdin redux_valerie_intro_36057785:
 msgid "[_valerie_] {b}Axion Labs{/b}, thank you.{p}His work there's what's going to help put me through college!"
-msgstr "[_valerie_] {b}Axion Labs{/b}, gracias.{p}¡Su trabajo allí es lo que me va a ayudar a pagar la universidad{/p}!"
+msgstr "[_valerie_] {b}Axion Labs{/b}, gracias.{p}¡Su trabajo allí es lo que me va a ayudar a pagar la universidad !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1451 #-#-# translate crowdin redux_valerie_intro_d8b4c66e:
 msgid "[_star_s_down_s_idle_s_talk_displeased_] Oh, right, you and your big plans for college... give me a break."
@@ -886,7 +886,7 @@ msgstr "[_star_s_towards_s_angry_s_talk_displeased_] Bueno, encuentra otro pasil
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1519 #-#-# translate crowdin redux_valerie_intro_98ea09d2:
 msgid "[_star_s_down_s_sad_s_talk_happy_] ...I mean... we're having playful popular girl banter!{p}{i}Heh heh...{/i}"
-msgstr "[_star_s_down_s_sad_s_talk_happy_] ...quiero decir... ¡estamos teniendo bromas de chicas populares! {p}{i}Heh heh...{/i}{/p}"
+msgstr "[_star_s_down_s_sad_s_talk_happy_] ...quiero decir... ¡estamos teniendo bromas de chicas populares! {p}{i}Heh heh...{/i} "
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1525 #-#-# translate crowdin redux_valerie_intro_3136ca5c:
 msgid "[_valerie_] {i}Subtle's{/i} right..."
@@ -934,11 +934,11 @@ msgstr "[_danny_s_down_s_unhappy_s_talk_displeased_] {i}*Gulp*{/i} Vaya, gracias
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1582 #-#-# translate crowdin redux_valerie_intro_730415d5:
 msgid "[_star_s_towards_s_angry_s_talk_happy_] Well shoot, if that's all it takes to get rid of this loser!{p}Kwan, take this creep and-"
-msgstr "[_star_s_towards_s_angry_s_talk_happy_] Bien dicho, ¡eso és todo lo que se necesita para deshacerse de este perdedor! {p}Kwan, coge a este repelente y{/p}-"
+msgstr "[_star_s_towards_s_angry_s_talk_happy_] Bien dicho, ¡eso és todo lo que se necesita para deshacerse de este perdedor! {p}Kwan, coge a este repelente y -"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1588 #-#-# translate crowdin redux_valerie_intro_45f689ac:
 msgid "[_school_intercom_] {i}*Prriiiiiiing*{/i}{p}{i}Attention students, attention! This is Principal Ishiyama!{/i}"
-msgstr "[_school_intercom_] {i}*Priiiiiiing*{/i}{p}{i}¡Atención estudiantes, atención! ¡Soy el director Ishiyama!{/i}{/p}"
+msgstr "[_school_intercom_] {i}*Priiiiiiing*{/i}{p}{i}¡Atención estudiantes, atención! ¡Soy el director Ishiyama!{/i} "
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1594 #-#-# translate crowdin redux_valerie_intro_f69d145d:
 msgid "[_school_intercom_] {i}First period classes are suspended today, in place of a mandatory school assembly meeting in the {b}auditorium{/b}!{/i}"
@@ -958,11 +958,11 @@ msgstr "[_danny_s_towards_s_idle_s_displeased_] . . ."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1616 #-#-# translate crowdin redux_valerie_intro_2b1afde5:
 msgid "[_kwan_s_towards_s_rise_s_talk_happy_] C'mon guys, we don't wanna be late!{p}It's important that we do our best stay abreast of our school's current affairs!"
-msgstr "[_kwan_s_towards_s_rise_s_talk_happy_] Vamos chicos, ¡no queremos llegar tarde! {p} ¡Es importante que hagamos todo lo posible por estar al tanto de la actualidad de nuestra escuela {/p}!"
+msgstr "[_kwan_s_towards_s_rise_s_talk_happy_] Vamos chicos, ¡no queremos llegar tarde! {p} ¡Es importante que hagamos todo lo posible por estar al tanto de la actualidad de nuestra escuela  !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1628 #-#-# translate crowdin redux_valerie_intro_1ebe6d1c:
 msgid "[_star_s_towards_s_rise_s_talk_displeased_] Kwan, wait, hold on!{p}At least save me a seat!"
-msgstr "[_star_s_towards_s_rise_s_talk_displeased_] ¡Kwan!, ¡espera, espera! {p}¡Guárdame un asiento{/p}!"
+msgstr "[_star_s_towards_s_rise_s_talk_displeased_] ¡Kwan!, ¡espera, espera! {p}¡Guárdame un asiento !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1639 #-#-# translate crowdin redux_valerie_intro_20890889:
 msgid "[_valerie_] . . ."
@@ -974,7 +974,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Oh, después de ti, por favor. N
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1646 #-#-# translate crowdin redux_valerie_intro_605646db:
 msgid "[_valerie_] Oh believe me Fenton, I'll remember that little joke.{p}We'll see just who has the last laugh soon enough..."
-msgstr "[_valerie_] Oh, créeme Fenton, recordaré esa broma.{p}Pronto veremos quién ríe la última{/p}..."
+msgstr "[_valerie_] Oh, créeme Fenton, recordaré esa broma.{p}Pronto veremos quién ríe la última ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1655 #-#-# translate crowdin redux_valerie_intro_af417d8c:
 msgid "[_danny_s_closed_s_sad_s_displeased_] . . ."
@@ -1038,11 +1038,11 @@ msgstr "[_classcrowd_] {i}*Risas* *chillidos* *tonteando*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1724 #-#-# translate crowdin redux_ishiyama_intro_3995ec9f:
 msgid "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}AS I LAY DYING!!{/i}{p}WOULD IT POSSIBLY KILL YOU NASTY, SQUABBLING CHILDREN TO LISTEN TO YOUR PRINCIPAL FOR JUST ONE MOMENT?!?"
-msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}¡NO ME ESTOY MURIENDO!{/i}{p}¿¡¿PODRÍAIS PANDILLA DE FOLLONEROS ESCUCHAR A VUESTRO DIRECTOR UN MOMENTO Y ACABAR CON ESTE TEMA{/p}?!?"
+msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}¡NO ME ESTOY MURIENDO!{/i}{p}¿¡¿PODRÍAIS PANDILLA DE FOLLONEROS ESCUCHAR A VUESTRO DIRECTOR UN MOMENTO Y ACABAR CON ESTE TEMA ?!?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1727 #-#-# translate crowdin redux_ishiyama_intro_d7b5ba34:
 msgid "[_classcrowd_] . . .{p}{i}*Cough*{/i}"
-msgstr "[_classcrowd_] ...{p}{i}*tos* {/i}{/p}"
+msgstr "[_classcrowd_] ...{p}{i}*tos* {/i} "
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1729 #-#-# translate crowdin redux_ishiyama_intro_4afdc321:
 msgid "[_ishiyama_s_speech_s_face_right_s_up_s_neutral_s_talk_happy_s_microphone_] {i}Ehrrrm{/i}, yes, thank you, Vice-Principal Lancer."
@@ -1106,7 +1106,7 @@ msgstr "[_jazz_s_offscreen_s_towards_s_idle_s_talk_happy_] {i}*Susurro*{/i} Ahor
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1766 #-#-# translate crowdin redux_ishiyama_intro_2c997049:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_displeased_] {i}*Whispering*{/i} Hey, what happened to being quiet?{p}Also, better question, who is that hotline possibly set up for...? What sucker would spend their time-"
-msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_displeased_] {i}*Susurro*{/i} Hei, ¿Qué pasó con el silencio? {p}Además, una pregunta mejor, ¿para quién es esa línea directa? ¿Qué idiota gastaría su tiempo{/p}-"
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_displeased_] {i}*Susurro*{/i} Hei, ¿Qué pasó con el silencio? {p}Además, una pregunta mejor, ¿para quién es esa línea directa? ¿Qué idiota gastaría su tiempo -"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1769 #-#-# translate crowdin redux_ishiyama_intro_646aeb38:
 msgid "[_jazz_s_offscreen_s_towards_s_rise_s_talk_displeased_] {i}*Whispering*{/i} Who do you {i}think{/i} is running a \"Ghost Tip Hotline\" in this town, Danny?"
@@ -1114,7 +1114,7 @@ msgstr "[_jazz_s_offscreen_s_towards_s_rise_s_talk_displeased_] {i}*Susurro*{/i}
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1772 #-#-# translate crowdin redux_ishiyama_intro_9a4db4ec:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_talk_displeased_] {i}*Sighs*{/i} Stupid question, you're right...{p}Gonna be a lot of late nights hearing the phone go off... great."
-msgstr "[_danny_s_f_s_offscreen_s_closed_s_idle_s_talk_displeased_] {i}*Suspiro*{/i} Pregunta estúpida, tienes razón...{p}Van a ser muchas noches escuchando el teléfono sonar{/p}... genial."
+msgstr "[_danny_s_f_s_offscreen_s_closed_s_idle_s_talk_displeased_] {i}*Suspiro*{/i} Pregunta estúpida, tienes razón...{p}Van a ser muchas noches escuchando el teléfono sonar ... genial."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1774 #-#-# translate crowdin redux_ishiyama_intro_e6b77374:
 msgid "[_ishiyama_s_speech_s_face_right_s_at_right_s_rise_s_talk_displeased_s_microphone_s_point_] Thirdly: \"A designated buddy system will be implemented to help students walking to and from their homes!\""
@@ -1162,7 +1162,7 @@ msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}MR. ¡¡¡
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1802 #-#-# translate crowdin redux_ishiyama_intro_27c4e25d:
 msgid "[_student4_] Totally worth it, if she shows those big, fat, Mommy mil-{p}OWWW!! My ear!!"
-msgstr "[_student4_] Vale la pena si ella muestra sus grandes, gordas, maduras {p}¡¡OWWW!! ¡¡Mi oreja{/p}!!"
+msgstr "[_student4_] Vale la pena si ella muestra sus grandes, gordas, maduras {p}¡¡OWWW!! ¡¡Mi oreja !!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1805 #-#-# translate crowdin redux_ishiyama_intro_6030bf1c:
 msgid "[_lancer_s_offscreen_s_towards_s_angry_s_talk_distraught_] MY OFFICE YOUNG MAN!!"
@@ -1182,7 +1182,7 @@ msgstr "[_classcrowd_] . . ."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1815 #-#-# translate crowdin redux_ishiyama_intro_b4d1d49f:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_displeased_s_microphone_] {i}*Ahem*{/i}{p}...yes, well...{p}...I suppose that adjourns things, barring any sort of meaningful way I might have wanted the meeting to end..."
-msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_displeased_s_microphone_] {i}*Ahem*{/i}{p}...sí{/p}, bueno...{p}...supongo que esto finaliza la reunión{/p}, salvo que haya alguna causa significativa para seguir..."
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_displeased_s_microphone_] {i}*Ahem*{/i}{p}...sí , bueno...{p}...supongo que esto finaliza la reunión , salvo que haya alguna causa significativa para seguir..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1817 #-#-# translate crowdin redux_ishiyama_intro_f48a6eff:
 msgid "[_ishiyama_s_speech_s_face_right_s_at_right_s_unhappy_s_talk_displeased_s_microphone_] ...students are dismissed..."
@@ -1202,11 +1202,11 @@ msgstr "[_jazz_s_towards_s_angry_s_talk_consternation_] ¡Pues deberían hacerlo
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1841 #-#-# translate crowdin redux_ishiyama_intro_9640e6d0:
 msgid "[_ishiyama_s_offscreen_s_towards_s_idle_s_talk_happy_] Oh, Jasmine! There you are!{p}Have you got a moment? I was hoping to catch you before everyone filed into the halls!"
-msgstr "[_ishiyama_s_offscreen_s_towards_s_idle_s_talk_happy_] ¡Oh, Jasmine! ¡Ahí estás!{p}¿Tienes un momento?{/p} ¡Esperaba encontrarte antes de que todos salieran a los pasillos!"
+msgstr "[_ishiyama_s_offscreen_s_towards_s_idle_s_talk_happy_] ¡Oh, Jasmine! ¡Ahí estás!{p}¿Tienes un momento?  ¡Esperaba encontrarte antes de que todos salieran a los pasillos!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1855 #-#-# translate crowdin redux_ishiyama_intro_59b5e3d1:
 msgid "[_jazz_s_towards_s_idle_s_talk_happy_] Oh, Principal Ishiyama, hello!{p}That was an excellent public address to the students, I really enjoyed it!"
-msgstr "[_jazz_s_towards_s_idle_s_talk_happy_] ¡Oh, director Ishiyama, hola!{p}Fue un excelente discurso público a los estudiantes{/p}, ¡realmente lo disfruté!"
+msgstr "[_jazz_s_towards_s_idle_s_talk_happy_] ¡Oh, director Ishiyama, hola!{p}Fue un excelente discurso público a los estudiantes , ¡realmente lo disfruté!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1859 #-#-# translate crowdin redux_ishiyama_intro_61fb3604:
 msgid "[_ishiyama_s_arm_front_s_towards_s_wondering_s_talk_happy_] Hello dear, and thank you! I thought it went rather well, all things considered!"
@@ -1238,7 +1238,7 @@ msgstr "[_ishiyama_s_arm_behind_s_away_s_unhappy_s_talk_displeased_] La comunica
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1887 #-#-# translate crowdin redux_ishiyama_intro_d5713e61:
 msgid "[_ishiyama_s_arm_front_s_towards_s_unhappy_s_talk_displeased_] Not my best skill, frankly.{p}I just can't seem to get across to them when it comes to rather important matters like this!"
-msgstr "[_ishiyama_s_arm_front_s_towards_s_unhappy_s_talk_displeased_] No es mi mejor habilidad, francamente.{p} ¡Parece que no consigo convencerlos cuando se trata de asuntos tan importantes como éste{/p}!"
+msgstr "[_ishiyama_s_arm_front_s_towards_s_unhappy_s_talk_displeased_] No es mi mejor habilidad, francamente.{p} ¡Parece que no consigo convencerlos cuando se trata de asuntos tan importantes como éste !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1891 #-#-# translate crowdin redux_ishiyama_intro_2d851a73:
 msgid "[_jazz_s_towards_s_sad_s_talk_happy_] No, Principal Ishiyama, I completely understand. You've got a lot riding on your shoulders at the moment."
@@ -1338,7 +1338,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] ¿Pasa algo?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1990 #-#-# translate crowdin redux_ishiyama_intro_b5993fb4:
 msgid "[_ishiyama_s_arm_behind_s_towards_s_sad_s_talk_displeased_] No, I just forgot I have an important faculty meeting to attend to right now. It was scheduled for right after the assembly meeting.{p}I really shouldn't hold them all up..."
-msgstr "[_ishiyama_s_arm_behind_s_towards_s_sad_s_talk_displeased_] No, olvidé que tengo una importante reunión de la facultad a la que asistir ahora mismo. Estaba programada para justo después de la reunión. {p}No debería retrasarme{/p}..."
+msgstr "[_ishiyama_s_arm_behind_s_towards_s_sad_s_talk_displeased_] No, olvidé que tengo una importante reunión de la facultad a la que asistir ahora mismo. Estaba programada para justo después de la reunión. {p}No debería retrasarme ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1993 #-#-# translate crowdin redux_ishiyama_intro_cb07aca3:
 msgid "[_ishiyama_s_arm_front_s_towards_s_sad_s_talk_happy_] I'll contact you when I have something concrete for you to help me out with..."
@@ -1374,7 +1374,7 @@ msgstr "[_danny_s_at_player_s_rise_s_consternation_] (¿Qué puedo hacer para ay
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2017 #-#-# translate crowdin redux_ishiyama_intro_87b1eebb:
 msgid "[_ishiyama_s_arm_front_s_towards_s_idle_s_talk_happy_] Wonderful, thank you!{p}Now, if you'll excuse me!"
-msgstr "[_ishiyama_s_arm_front_s_towards_s_idle_s_talk_happy_] ¡Maravilloso!, ¡gracias! {p}¡Ahora, si me disculpan{/p}!"
+msgstr "[_ishiyama_s_arm_front_s_towards_s_idle_s_talk_happy_] ¡Maravilloso!, ¡gracias! {p}¡Ahora, si me disculpan !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2028 #-#-# translate crowdin redux_ishiyama_intro_7fe0fb42:
 msgid "[_danny_s_at_player_s_rise_s_talk_displeased_] {i}*Sigh*{/i} Things sure are getting tossed onto my plate lately..."
@@ -1382,7 +1382,7 @@ msgstr "[_danny_s_at_player_s_rise_s_talk_displeased_] {i}*Suspiro*{/i} Últimam
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2030 #-#-# translate crowdin redux_ishiyama_intro_45d2a5ae:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Oh well. Ishiyama seems nice enough, if not a bit distracted at times...{p}Let's just hope I'm actually of any use to her."
-msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ah, bueno. Ishiyama parece bastante agradable, un poco distraída a veces...{p}Esperemos que sea realmente útil para ella{/p}."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ah, bueno. Ishiyama parece bastante agradable, un poco distraída a veces...{p}Esperemos que sea realmente útil para ella ."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2064 #-#-# translate crowdin invisobill_introduction_7a68e671:
 msgid "[_danny_s_at_player_s_sad_s_talk_consternation_] This week keeps getting crazier and {i}crazier{/i}... I'll be happy if I never have to hear about ghosts ever again."
