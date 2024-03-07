@@ -70,7 +70,7 @@ translate spanish strings:
 
     # game/code/base/screens.rpy:298
     old "Back"
-    new "Retroceder"
+    new "Atras"
 
     # game/code/base/screens.rpy:299
     old "History"

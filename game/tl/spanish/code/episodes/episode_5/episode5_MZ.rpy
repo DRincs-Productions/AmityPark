@@ -112,7 +112,7 @@ translate spanish A_Stroke_After_Midnight_scene_2_schoolmainhall_30b95425:
 translate spanish A_Stroke_After_Midnight_scene_2_schoolmainhall_6191ec2e:
 
     # sam closed talk_happy sad "\"Indubitably, Master Foley!!\""
-    sam closed talk_happy sad "\"¡Indubitablemente, Maestro Foley!!\""
+    sam closed talk_happy sad "\"¡Indubitablemente, maestro Foley!!\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:84
 translate spanish A_Stroke_After_Midnight_scene_2_schoolmainhall_bf4cde1b:
@@ -850,7 +850,7 @@ translate spanish A_Stroke_After_Midnight_scene_4_abYss_c3a8c828:
 translate spanish A_Stroke_After_Midnight_scene_4_abYss_c96d7395:
 
     # danny grin_happy at_danny neutral "(Just need to position here in a good spot to pull out the Fenton Thermos...)"
-    danny grin_happy at_danny neutral "(Sólo necesito posicionarme aquí en un buen lugar para sacar el termo Fenton...)"
+    danny grin_happy at_danny neutral "(Sólo necesito posicionarme aquí en un buen lugar para sacar el thermo Fenton...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:553
 translate spanish A_Stroke_After_Midnight_scene_4_abYss_c63de172:
@@ -1102,7 +1102,7 @@ translate spanish A_Stroke_After_Midnight_postfight_f27f9005:
 translate spanish A_Stroke_After_Midnight_postfight_6e8b74ba:
 
     # danny blank_stare sad_2 frown_grin_2 "(Oh crap! I forgot the {b}Fenton Thermos{/b}! I need to actually remember to bring it with me from now on!)"
-    danny blank_stare sad_2 frown_grin_2 "(¡Mierda! ¡He olvidado el {b}Termo Fenton{/b}! Tengo que acordarme de llevarlo conmigo a partir de ahora)"
+    danny blank_stare sad_2 frown_grin_2 "(¡Mierda! ¡He olvidado el {b}thermo Fenton{/b}! Tengo que acordarme de llevarlo conmigo a partir de ahora)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:731
 translate spanish A_Stroke_After_Midnight_postfight_da80f1ba:
@@ -1138,7 +1138,7 @@ translate spanish A_Stroke_After_Midnight_postfight_566e07bb:
 translate spanish A_Stroke_After_Midnight_postfight_218558f3:
 
     # danny sad_2 frown_grin_2 blank_stare "(Oh crap! I forgot the {b}Fenton Thermos{/b}! I need to actually remember to bring it with me from now on!)"
-    danny sad_2 frown_grin_2 blank_stare "(¡Mierda! ¡He olvidado el {b}Termo Fenton{/b}! Tengo que acordarme de llevarlo conmigo a partir de ahora)"
+    danny sad_2 frown_grin_2 blank_stare "(¡Mierda! ¡He olvidado el {b}thermo Fenton{/b}! Tengo que acordarme de llevarlo conmigo a partir de ahora)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:752
 translate spanish A_Stroke_After_Midnight_postfight_52978438:
@@ -1588,7 +1588,7 @@ translate spanish pick_your_date_5fbf05b6:
 translate spanish pick_your_date_413096ac:
 
     # danny down talk_happy_2 sad "Ehhh, regardless, Desiree deserves an outlet outside of being cooped up in the Thermos. I promised to try to make life good for her while she's with me!"
-    danny down talk_happy_2 sad "Ehhh, a pesar de todo, Desiree se merece una salida fuera del termo. ¡Prometí intentar darle una buena vida mientras esté conmigo!"
+    danny down talk_happy_2 sad "Ehhh, a pesar de todo, Desiree se merece una salida fuera del thermo. ¡Prometí intentar darle una buena vida mientras esté conmigo!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:956
 translate spanish pick_your_date_51344195:
@@ -3658,7 +3658,7 @@ translate spanish A_Stroke_After_Midnight_scene_10a_schoolhallright_7e27e470:
 translate spanish A_Stroke_After_Midnight_scene_10a_schoolhallright_45791019:
 
     # sam confused thinking talk_frown_2 "...and as tall azza' coffee pot?"
-    "¿[_sam_s_confused_s_thinking_s_talk_frown_2_] ...y como taaaaza de café grande?"
+    sam confused thinking talk_frown_2 "¿...y como taaaaza de café grande?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2159
 translate spanish A_Stroke_After_Midnight_scene_10a_schoolhallright_d3dafc93:
@@ -4342,7 +4342,7 @@ translate spanish A_Stroke_After_Midnight_scene_11a_stoop_88c56aa1:
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_3a687e8b:
 
     # danny rise_one talk_frown "Yeah? What's up?"
-    "¿[_danny_s_rise_one_s_talk_frown_] Sí? ¿Qué pasa?"
+    danny rise_one talk_frown "¿Sí? ¿Qué pasa?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2454
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_17c19cbd:
@@ -4366,7 +4366,7 @@ translate spanish A_Stroke_After_Midnight_scene_11a_stoop_710f4421:
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_05518b31:
 
     # danny sad talk_frown "Huh? What's up?"
-    "¿[_danny_s_sad_s_talk_frown_] Huh? ¿Qué pasa?"
+    danny sad talk_frown "¿Huh? ¿Qué pasa?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2462
 translate spanish A_Stroke_After_Midnight_scene_11a_stoop_bf06c86e:
@@ -4798,7 +4798,7 @@ translate spanish A_Stroke_After_Midnight_scene_6b_bedroom_d6480777:
 translate spanish A_Stroke_After_Midnight_scene_6b_bedroom_7746a813:
 
     # danny rise_one talk_frown_2 towards "No, I was thinking if you'd like to get out of the thermos and hang out, you know?"
-    danny rise_one talk_frown_2 towards "No, estaba pensando si te gustaría salir de los termos y pasear, ¿sabes?"
+    danny rise_one talk_frown_2 towards "No, estaba pensando si te gustaría salir de los thermos y pasear, ¿sabes?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2711
 translate spanish A_Stroke_After_Midnight_scene_6b_bedroom_41080faa:
@@ -4894,7 +4894,7 @@ translate spanish A_Stroke_After_Midnight_scene_6b_bedroom_2651e568:
 translate spanish A_Stroke_After_Midnight_scene_6b_bedroom_e8f35e71:
 
     # desiree closed talk_frown neutral_2 "As you wish, Master [player_name]. (Damn, I could have taken some hostages to bargain for my release...)"
-    desiree closed talk_frown neutral_2 "Como usted desee, Maestro [player_name]. (Maldita sea, podría haber tomado algunos rehenes para negociar por mi liberación...)"
+    desiree closed talk_frown neutral_2 "Como usted desee, amo [player_name]. (Maldita sea, podría haber tomado algunos rehenes para negociar por mi liberación...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2746
 translate spanish A_Stroke_After_Midnight_scene_6b_bedroom_ddbd5c1c:
@@ -5806,13 +5806,13 @@ translate spanish ask_desiree_02_05c75afa:
 translate spanish ask_desiree_02_5242d0da:
 
     # danny talk_happy_2 closed sad "Anyway, let's head behind that kiosk and get you back in the Thermos, huh?"
-    danny talk_happy_2 closed sad "De todos modos, vamos detrás de ese kiosco y te devolveré al Termos, ¿eh?"
+    danny talk_happy_2 closed sad "De todos modos, vamos detrás de ese kiosco y te devolveré al thermos, ¿eh?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3329
 translate spanish ask_desiree_02_fb30944e:
 
     # desiree talk_frown closed sad "As you wish... Master [player_name]..."
-    desiree talk_frown closed sad "Como quieras... Maestro [player_name]..."
+    desiree talk_frown closed sad "Como quieras... amo [player_name]..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3338
 translate spanish ask_desiree_02_eb83c5ef:
@@ -5854,7 +5854,7 @@ translate spanish A_Stroke_After_Midnight_scene_7b_school_front_510d65b0:
 translate spanish A_Stroke_After_Midnight_scene_7b_school_front_7220f457:
 
     # desiree "Are you sure of this, Master [player_name]?"
-    desiree "¿Estás seguro de esto, Maestro [player_name]?"
+    desiree "¿Estás seguro de esto, amo [player_name]?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3403
 translate spanish A_Stroke_After_Midnight_scene_7b_school_front_39f662bb:
@@ -5896,7 +5896,7 @@ translate spanish A_Stroke_After_Midnight_scene_7b_school_front_6199fc8c:
 translate spanish A_Stroke_After_Midnight_scene_7b_school_front_4b3a0df5:
 
     # desiree talk_frown_2 neutral_2 towards "This was supposed to be a learning venture for me, Master... and so far I've only learned what I already knew."
-    desiree talk_frown_2 neutral_2 towards "Se suponía que esto era una aventura de aprendizaje para mí, Maestro... y hasta ahora solo he aprendido lo que ya sabía."
+    desiree talk_frown_2 neutral_2 towards "Se suponía que esto era una aventura de aprendizaje para mí, amo... y hasta ahora solo he aprendido lo que ya sabía."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3422
 translate spanish A_Stroke_After_Midnight_scene_7b_school_front_fa60d5d0:
@@ -6022,7 +6022,7 @@ translate spanish A_Stroke_After_Midnight_scene_8b_schoolmainhall_2a88dc40:
 translate spanish A_Stroke_After_Midnight_scene_8b_schoolmainhall_a68a4c02:
 
     # lancer towards rise_one talk_happy "{i}Desiree{/i}? Well now, Mr. Fenton... you didn't tell me you'd have such a charming young lady as your date tonight..."
-    "¿[_lancer_s_towards_s_rise_one_s_talk_happy_] {i}Desiree{/i}? Bueno, señor Fenton... no me dijiste que tenías una joven dama tan encantadora como tu cita esta noche..."
+    lancer towards rise_one talk_happy "¿{i}Desiree{/i}? Bueno, señor Fenton... no me dijiste que tenías una joven dama tan encantadora como tu cita esta noche..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3504
 translate spanish A_Stroke_After_Midnight_scene_8b_schoolmainhall_2a2dd4c3:
@@ -6052,7 +6052,7 @@ translate spanish A_Stroke_After_Midnight_scene_8b_schoolmainhall_3e4b113f:
 translate spanish A_Stroke_After_Midnight_scene_8b_schoolmainhall_e1be32c8:
 
     # lancer rise_one towards talk_frown "\"{b}Depicted{/b}\"? That's a strange way of phrasing it, but okay..."
-    "¿[_lancer_s_rise_one_s_towards_s_talk_frown_] \"{b}descriví{/b}\"? Es una extraña manera de frasearlo, pero bien..."
+    lancer rise_one towards talk_frown "¿\"{b}descriví{/b}\"? Es una extraña manera de frasearlo, pero bien..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3516
 translate spanish A_Stroke_After_Midnight_scene_8b_schoolmainhall_2d1f5348:
@@ -6154,7 +6154,7 @@ translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_839aae3e:
 translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_535984c8:
 
     # desiree sad talk_frown closed "Trust me, it doesn't take much to gather information about a person's true nature when you've become as cynical and calculated as I have, Master [player_name]."
-    desiree sad talk_frown closed "Confía en mí, o hace falta mucho para recopilar información sobre la verdadera naturaleza de una persona cuando te vuelves tan cínica y calculada como yo, Maestro [player_name]."
+    desiree sad talk_frown closed "Confía en mí, o hace falta mucho para recopilar información sobre la verdadera naturaleza de una persona cuando te vuelves tan cínica y calculada como yo, amo [player_name]."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3594
 translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_3523c1f2:
@@ -6286,7 +6286,7 @@ translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_144e72e9:
 translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_6b7872dc:
 
     # star rise_one talk_frown "Huh? Listen, I don't care if you're like, kinda a bombshell, your dork of a cousin is-"
-    "¿[_star_s_rise_one_s_talk_frown_] Huh? Escucha, no me importa si pareces, un bombonazo, el cerdo de tu primo és-"
+    star rise_one talk_frown "¿Huh? Escucha, no me importa si pareces, un bombonazo, el cerdo de tu primo és-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3676
 translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_3bb682af:
@@ -6298,7 +6298,7 @@ translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_3bb682af:
 translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_bdb23d5a:
 
     # danny angry blank_stare talk_frown_2 "Malfunctions?? Hey wait-"
-    "¿¿[_danny_s_angry_s_blank_stare_s_talk_frown_2_] ¿¿mal función?? Hey espera-"
+    danny angry blank_stare talk_frown_2 "¿¿mal función?? Hey espera-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3680
 translate spanish A_Stroke_After_Midnight_scene_9b_schoolhallright_01f84983:
@@ -7042,7 +7042,7 @@ translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_709bb6a3:
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_51934850:
 
     # danny suit rise_one talk_frown "Haven't what?"
-    "¿[_danny_s_suit_s_rise_one_s_talk_frown_] ¿no ha sido qué?"
+    danny suit rise_one talk_frown "¿no ha sido qué?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4118
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_c3b50491:
@@ -7096,7 +7096,7 @@ translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_c8ca4fe5:
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_19207bfb:
 
     # desiree towards talk_happy_2 neutral "Thank you, Master [player_name]... that was like a shining light..."
-    desiree towards talk_happy_2 neutral "Gracias, Maestro [player_name]... fue como una luz brillante..."
+    desiree towards talk_happy_2 neutral "Gracias, amo [player_name]... fue como una luz brillante..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4135
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_db046f89:
@@ -7138,7 +7138,7 @@ translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_2a63e40f:
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_d3bfbb7e:
 
     # desiree talk_happy neutral_2 "Very well then Master [player_name]... I'll have you just lay back down on the bed... close your eyes..."
-    desiree talk_happy neutral_2 "Muy bien entonces Maestro [player_name]... te pondré en la cama... cierra tus ojos..."
+    desiree talk_happy neutral_2 "Muy bien entonces amo [player_name]... te pondré en la cama... cierra tus ojos..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4154
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_a111cb04:
@@ -7180,7 +7180,7 @@ translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_fd68108c:
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_7a6c3f6a:
 
     # desiree "Just breathe in deeply, and breathe out gently, Master [player_name]."
-    desiree "Solo respira profundamente, y respira suavemente, Maestro [player_name]."
+    desiree "Solo respira profundamente, y respira suavemente, amo [player_name]."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4171
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_803a2145:
@@ -7234,7 +7234,7 @@ translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_c067a610:
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_74eb48d2:
 
     # desiree "Get those damn things off and just give me that big fat cock already, Master [player_name]!!"
-    desiree "¡¡Aprovecha esta malditas situación y dame esa gran polla gorda ya, Maestro [player_name]!!"
+    desiree "¡¡Aprovecha esta malditas situación y dame esa gran polla gorda ya, amo [player_name]!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4182
 translate spanish A_Stroke_After_Midnight_scene_10b_bedroom_b2384147:
@@ -7258,7 +7258,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_1d6fe6d8:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_14ae3d36:
 
     # desiree towards talk_bite neutral_2 "Incredible? Unbelievable? You often say that sort've thing, and I find it rather curious about you."
-    "¿[_desiree_s_towards_s_talk_bite_s_neutral_2_] ¿Increíble? ¿Incomprensible? A menudo dices algo así y me parece bastante curioso."
+    desiree towards talk_bite neutral_2 "¿Increíble? ¿Incomprensible? A menudo dices algo así y me parece bastante curioso."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4207
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_8bebe276:
@@ -7270,7 +7270,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_8bebe276:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_c2c6e514:
 
     # desiree talk_frown neutral "Sometimes I worry you feel you {b}need{/b} to say something after an event like that, Master [player_name]."
-    desiree talk_frown neutral "A veces me preocupa que sientas la {b}necesidad{/b} de decir algo después de un evento como ese, Maestro [player_name]."
+    desiree talk_frown neutral "A veces me preocupa que sientas la {b}necesidad{/b} de decir algo después de un evento como ese, amo [player_name]."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4211
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_f968116a:
@@ -7294,7 +7294,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_b2f97bf1:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_d39e7110:
 
     # desiree talk_happy neutral_3 "I'm glad you agree... you're developing into a rather alluring fellow, Master [player_name]."
-    desiree talk_happy neutral_3 "Me alegro de que esté de acuerdo... se está convirtiendo en un compañero bastante atractivo, Maestro [player_name]."
+    desiree talk_happy neutral_3 "Me alegro de que esté de acuerdo... se está convirtiendo en un compañero bastante atractivo, amo [player_name]."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4218
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_e6ef3399:
@@ -7324,7 +7324,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_36549943:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_7519a38d:
 
     # desiree talk_happy sad "Will that be all for you this evening, Master [player_name]? Shall I retire for the night?"
-    desiree talk_happy sad "¿Es todo por esta tarde, Maestro [player_name]? ¿Debo retirarme durante la noche?"
+    desiree talk_happy sad "¿Es todo por esta tarde, amo [player_name]? ¿Debo retirarme durante la noche?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4229
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_57574aaa:
@@ -7336,7 +7336,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_57574aaa:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_229fae89:
 
     # desiree closed talk_happy neutral_3 "Of course Master, it was my pleasure. I am your humble servant."
-    desiree closed talk_happy neutral_3 "Por supuesto Maestro, fue mi placer. Soy tu humilde sirvienta."
+    desiree closed talk_happy neutral_3 "Por supuesto amo, fue mi placer. Soy tu humilde sirvienta."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4233
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_9e6940b8:
@@ -7348,7 +7348,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_9e6940b8:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_8a6436bf:
 
     # desiree towards_wide neutral talk_frown "Uhm... pardon, Master?"
-    desiree towards_wide neutral talk_frown "Uhm... ¿perdon Maestro?"
+    desiree towards_wide neutral talk_frown "Uhm... ¿perdon amo?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4237
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_fbe19fa6:
@@ -7390,7 +7390,7 @@ translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_eb345439:
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_56979fc3:
 
     # desiree talk_frown neutral_2 "...goodnight, my Master."
-    desiree talk_frown neutral_2 "...buenas noches, mi Maestro."
+    desiree talk_frown neutral_2 "...buenas noches, mi amo."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4253
 translate spanish A_Stroke_After_Midnight_scene_11b_bedroom_e2cfde08:
@@ -9736,7 +9736,7 @@ translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_24447de2:
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_cda49d3b:
 
     # dash suit towards neutral talk_happy "You saved Paulina from that ghost in the park! And I saw you show up at that Masters' speech to fight that shadow guy!"
-    dash suit towards neutral talk_happy "¡Has salvado a Paulina de ese fantasma en el parque! ¡Y vi que aparecías en el discurso de esos Maestros para luchar contra ese tipo de sombra!"
+    dash suit towards neutral talk_happy "¡Has salvado a Paulina de ese fantasma en el parque! ¡Y vi que aparecías en el discurso de esos maestros para luchar contra ese tipo de sombra!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5455
 translate spanish A_Stroke_After_Midnight_scene_10c_schoolmainhall_e39a24fa:
@@ -10894,7 +10894,7 @@ translate spanish A_Stroke_After_Midnight_scene_6d_starphone_cc7ea7a0:
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_cff4d14e:
 
     # billspook "Germs?"
-    "¿[_billspook_] ¿gérmenes?"
+    billspook "¿gérmenes?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5977
 translate spanish A_Stroke_After_Midnight_scene_6d_starphone_3389d623:
@@ -12256,7 +12256,7 @@ translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_40af9c35:
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_fcb49aaa:
 
     # danny phantom_suit towards_wide wondering talk_frown_2 "Mom?!?"
-    "¿[_danny_s_phantom_suit_s_towards_wide_s_wondering_s_talk_frown_2_] ¿¡¿madre?!?"
+    danny phantom_suit towards_wide wondering talk_frown_2 "¿¡¿madre?!?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6606
 translate spanish A_Stroke_After_Midnight_scene_10d_schoolhallright_2e03e196:
