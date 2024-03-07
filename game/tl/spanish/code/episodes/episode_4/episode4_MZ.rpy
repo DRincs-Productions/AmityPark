@@ -988,7 +988,7 @@ translate spanish Wish_you_the_Best_scene_3_stadium_33f4f657:
 translate spanish Wish_you_the_Best_scene_3_stadium_dc7a53a4:
 
     # tucker talk_happy sad "{i}Hah{/i}! A billionaire with ghost powers? Yeah right! That's total make believe dude, only in comics and kids shows. Can you imagine someone like Vlad Masters floating through walls?"
-    tucker talk_happy sad "{i}¡Ja!{/i} ¿Un multimillonario con poderes fantasmales? ¡Si, claro! Eso es pura fantasía, sólo en cómics y programas infantiles. ¿Te imaginas a alguien como el maestro Vlad flotando a través de las paredes?"
+    tucker talk_happy sad "{i}¡Ja!{/i} ¿Un multimillonario con poderes fantasmales? ¡Si, claro! Eso es pura fantasía, sólo en cómics y programas infantiles. ¿Te imaginas a alguien como el doctor Vlad flotando a través de las paredes?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:641
 translate spanish Wish_you_the_Best_scene_3_stadium_dcd21432:
@@ -1714,7 +1714,7 @@ translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_aea5a19f:
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_d79cc4d8:
 
     # desiree closed neutral_3 talk_happy "Why thank {i}you{/i}, Master, for freeing me of that accursed lamp. You may also call me... {b}Desiree{/b}."
-    desiree closed neutral_3 talk_happy "Gracias a {i}usted{/i} Maestro, por liberarme de esa lámpara maldita. También puede llamarme... {b}Desiree{/b}."
+    desiree closed neutral_3 talk_happy "Gracias a {i}usted{/i} amo, por liberarme de esa lámpara maldita. También puede llamarme... {b}Desiree{/b}."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1135
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_d824e4cf:
@@ -1858,7 +1858,7 @@ translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_ee438d48:
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_7e541fc5:
 
     # desiree talk_happy angry "Oh, do wait for me, my Master! (Oh, he's {b}perfect{/b}!! A prime candidate to manipulate and goad into making further wishes...)"
-    desiree talk_happy angry "¡Oh, espérame, mi Maestro! (¡Oh, és {b}perfecto{/b}!! Un candidato ideal para manipular e incitar a pedir más deseos...)"
+    desiree talk_happy angry "¡Oh, espérame, mi amo! (¡Oh, és {b}perfecto{/b}!! Un candidato ideal para manipular e incitar a pedir más deseos...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1219
 translate spanish Wish_you_the_Best_give_the_lamp_to_tucker_196b0cc1:
@@ -1936,7 +1936,7 @@ translate spanish Wish_you_the_Best_scene_4_boys_bathroom_90727c9a:
 translate spanish Wish_you_the_Best_scene_4_boys_bathroom_797eb45b:
 
     # desiree closed talk_happy sad_3 "Master Tucker wanted to obtain as much \"dirt\" upon those he deemed his enemies. A wise tactic indeed."
-    desiree closed talk_happy sad_3 "Maestro Tucker quiso obtener la mayor cantidad de \"suciedad\" sobre los que consideraba sus enemigos. Una táctica muy sabia."
+    desiree closed talk_happy sad_3 "amo Tucker quiso obtener la mayor cantidad de \"suciedad\" sobre los que consideraba sus enemigos. Una táctica muy sabia."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1291
 translate spanish Wish_you_the_Best_scene_4_boys_bathroom_26a4282c:
@@ -2230,7 +2230,7 @@ translate spanish Wish_you_the_Best_scene_4_boys_bathroom_2dad0173:
 translate spanish Wish_you_the_Best_scene_4_boys_bathroom_932b9845:
 
     # desiree closed talk_frown_2 "You're just jealous of my Master's awesome power! He grows stronger every minute he uses his gifts!"
-    desiree closed talk_frown_2 "¡Estás envidioso del asombroso poder de mi Maestro! ¡Se hace más fuerte cada minuto que usa sus dones!"
+    desiree closed talk_frown_2 "¡Estás envidioso del asombroso poder de mi amo! ¡Se hace más fuerte cada minuto que usa sus dones!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1442
 translate spanish Wish_you_the_Best_scene_4_boys_bathroom_4edd3db4:
@@ -2704,7 +2704,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_7435382a:
 translate spanish Wish_you_the_Best_scene_5_bedroom_871173a2:
 
     # danny down talk_frown_2 sad "I'll have to find some more Orgone to make myself stronger to take him on."
-    danny down talk_frown_2 sad "Tendré que encontrar más Orgón para hacerme más fuerte y enfrentarme a él."
+    danny down talk_frown_2 sad "Tendré que encontrar más Orgone para hacerme más fuerte y enfrentarme a él."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1742
 translate spanish Wish_you_the_Best_scene_5_bedroom_b9f71a63:
@@ -2716,7 +2716,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_b9f71a63:
 translate spanish Wish_you_the_Best_scene_5_bedroom_c9a0729a:
 
     # danny down talk_frown sad "Plus, I don't know how much {b}more{/b} she'd be willing to even do with me... and performing the same act twice might not produce any new amount of Orgone I'll need."
-    danny down talk_frown sad "Además, no sé cuánto {b}más{/b} estaría dispuesta a hacer conmigo... hacer lo mismo dos veces podría no producir la cantidad de Orgón que necesito."
+    danny down talk_frown sad "Además, no sé cuánto {b}más{/b} estaría dispuesta a hacer conmigo... hacer lo mismo dos veces podría no producir la cantidad de Orgone que necesito."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1744
 translate spanish Wish_you_the_Best_scene_5_bedroom_308443f5:
@@ -2728,7 +2728,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_308443f5:
 translate spanish Wish_you_the_Best_scene_5_bedroom_8d36af7c:
 
     # danny talk_happy_2 sad "Man, of all the ways I could have discovered to make my ghost half stronger, extracting Orgone has got to be one of the best!"
-    danny talk_happy_2 sad "Tío, ¡de todas formas que podría haber descubierto para hacer mi mitad fantasma más fuerte, ha tenido que ser extraer Orgón la mejor!"
+    danny talk_happy_2 sad "Tío, ¡de todas formas que podría haber descubierto para hacer mi mitad fantasma más fuerte, ha tenido que ser extraer Orgone la mejor!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1746
 translate spanish Wish_you_the_Best_scene_5_bedroom_49eef1af:
@@ -2740,7 +2740,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_49eef1af:
 translate spanish Wish_you_the_Best_scene_5_bedroom_bf6bff26:
 
     # danny down talk_frown rise_one "Even still... getting Orgone might not be enough to take on these type of stronger ghosts anymore like Desiree or Johnny and Shadow...."
-    danny down talk_frown rise_one "Aún así... conseguir Orgón podría no ser suficiente para enfrentarme a fantasmas tan fuertes como Desiree o Johnny y Shadow...."
+    danny down talk_frown rise_one "Aún así... conseguir Orgone podría no ser suficiente para enfrentarme a fantasmas tan fuertes como Desiree o Johnny y Shadow...."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1752
 translate spanish Wish_you_the_Best_scene_5_bedroom_f4996cf8:
@@ -2758,7 +2758,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_9d2aef52:
 translate spanish Wish_you_the_Best_scene_5_bedroom_bc131204:
 
     # danny at_player talk_frown_2 sad "Mom said that the Fenton Thermos would be good for catching ghosts, right?"
-    danny at_player talk_frown_2 sad "Mamá dijo que el termo Fenton sería bueno para atrapar fantasmas, ¿no?"
+    danny at_player talk_frown_2 sad "Mamá dijo que el thermo Fenton sería bueno para atrapar fantasmas, ¿no?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1764
 translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364:
@@ -2770,7 +2770,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364:
 translate spanish Wish_you_the_Best_scene_5_bedroom_bc131204_1:
 
     # danny at_player talk_frown_2 sad "Mom said that the Fenton Thermos would be good for catching ghosts, right?"
-    danny at_player talk_frown_2 sad "Mamá dijo que el termo Fenton sería bueno para atrapar fantasmas, ¿no?"
+    danny at_player talk_frown_2 sad "Mamá dijo que el thermo Fenton sería bueno para atrapar fantasmas, ¿no?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1772
 translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364_1:
@@ -2782,7 +2782,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364_1:
 translate spanish Wish_you_the_Best_scene_5_bedroom_bc131204_2:
 
     # danny at_player talk_frown_2 sad "Mom said that the Fenton Thermos would be good for catching ghosts, right?"
-    danny at_player talk_frown_2 sad "Mamá dijo que el termo Fenton sería bueno para atrapar fantasmas, ¿no?"
+    danny at_player talk_frown_2 sad "Mamá dijo que el thermo Fenton sería bueno para atrapar fantasmas, ¿no?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1780
 translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364_2:
@@ -2794,7 +2794,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364_2:
 translate spanish Wish_you_the_Best_scene_5_bedroom_bc131204_3:
 
     # danny at_player talk_frown_2 sad "Mom said that the Fenton Thermos would be good for catching ghosts, right?"
-    danny at_player talk_frown_2 sad "Mamá dijo que el termo Fenton sería bueno para atrapar fantasmas, ¿no?"
+    danny at_player talk_frown_2 sad "Mamá dijo que el thermo Fenton sería bueno para atrapar fantasmas, ¿no?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1788
 translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364_3:
@@ -2806,7 +2806,7 @@ translate spanish Wish_you_the_Best_scene_5_bedroom_0f4cf364_3:
 translate spanish Wish_you_the_Best_scene_5_bedroom_d4572b08:
 
     # danny at_player sad_2 talk_happy "But now that I have the Fenton Thermos working, I'll be far more prepared to take on Desiree!"
-    danny at_player sad_2 talk_happy "y cuando tenga el termo Fenton funcionando, ¡estaré mucho más preparad para enfrentarme a Desiree!"
+    danny at_player sad_2 talk_happy "y cuando tenga el thermo Fenton funcionando, ¡estaré mucho más preparad para enfrentarme a Desiree!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1797
 translate spanish Wish_you_the_Best_scene_5_bedroom_0c107558:
@@ -3232,7 +3232,7 @@ translate spanish Wish_you_the_Best_after_titjob_kate_cd73d786:
 translate spanish Wish_you_the_Best_after_titjob_kate_d0062da0:
 
     # danny at_player talk_happy_2 wondering "Okay then that should do it... plenty of Orgone soaked up from that experience to take on Tucker Phantom {i}and{/i} Desiree."
-    danny at_player talk_happy_2 wondering "Bueno, entonces debería hacer eso... empaparme de un montón de Orgón con esa experiencia para tumbar a Tucker Phantom {i}y{/i} Desiree."
+    danny at_player talk_happy_2 wondering "Bueno, entonces debería hacer eso... empaparme de un montón de Orgone con esa experiencia para tumbar a Tucker Phantom {i}y{/i} Desiree."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2018
 translate spanish Wish_you_the_Best_after_titjob_kate_f3229cfc:
@@ -3358,7 +3358,7 @@ translate spanish Wish_you_the_Best_scene_7_mall_cb9eeff8:
 translate spanish Wish_you_the_Best_scene_7_mall_fcd27b6b:
 
     # desiree talk_bite "How may I serve you, Master?"
-    desiree talk_bite "¿En qué puedo servirle, Maestro?"
+    desiree talk_bite "¿En qué puedo servirle, amo?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2106
 translate spanish Wish_you_the_Best_scene_7_mall_a1fb4417:
@@ -3502,7 +3502,7 @@ translate spanish Wish_you_the_Best_scene_7_mall_b68f0207:
 translate spanish Wish_you_the_Best_scene_7_mall_e4b43cbb:
 
     # "(Orgone Boost Available!)"
-    "(¡Incremento de Orgón disponible!)"
+    "(¡Incremento de Orgone disponible!)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2225
 translate spanish Wish_you_the_Best_postfight_3_f365f9d5:
@@ -3706,7 +3706,7 @@ translate spanish Wish_you_the_Best_postfight_4_cf77192f:
 translate spanish Wish_you_the_Best_postfight_4_f54ff06b:
 
     # danny closed_happy angry talk_happy "I {b}wish{/b} you'd make my thermos your {u}new home{/u}!!"
-    danny closed_happy angry talk_happy "¡¡Yo {b}deseo{/b} que hagas de mi termo tu {u}nuevo hogar{/u}!!"
+    danny closed_happy angry talk_happy "¡¡Yo {b}deseo{/b} que hagas de mi thermo tu {u}nuevo hogar{/u}!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2377
 translate spanish Wish_you_the_Best_postfight_4_ec741223:
@@ -3976,7 +3976,7 @@ translate spanish Wish_you_the_Best_postfight_4_bc25226e:
 translate spanish Wish_you_the_Best_postfight_4_01ef475f:
 
     # danny down wondering talk_happy_2 "In the meantime, I'll just have to keep her trapped inside the thermos. It shouldn't have a problem holding her, it's built Fenton tough."
-    danny down wondering talk_happy_2 "Mientras tanto, tendré que mantenerla atrapada dentro del termo. No debería tener problemas para retenerla, está hecho a la medida de Fenton."
+    danny down wondering talk_happy_2 "Mientras tanto, tendré que mantenerla atrapada dentro del thermo. No debería tener problemas para retenerla, está hecho a la medida de Fenton."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2501
 translate spanish Wish_you_the_Best_postfight_4_e29af275:
@@ -4066,7 +4066,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_5d723b97:
 translate spanish Wish_you_the_Best_scene_8_bedroom_9e55127c:
 
     # danny talk_happy at_danny sad "But, I think I'm actually starting to get the hang of it little by little! Practice makes perfect, I suppose."
-    danny talk_happy at_danny sad "Pero, ¡creo que estoy empezando a cogerle el truco poco a poco! La práctica hace al maestro."
+    danny talk_happy at_danny sad "Pero, ¡creo que estoy empezando a cogerle el truco poco a poco! La práctica hace al doctor."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2563
 translate spanish Wish_you_the_Best_scene_8_bedroom_4fb973d3:
@@ -4114,7 +4114,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_8076e6a8:
 translate spanish Wish_you_the_Best_scene_8_bedroom_e6264aa1:
 
     # thermos "{b}Thermos now set to: {i}Track-N-Release{/i} mode.{/b}"
-    thermos "{b}Poner termo en: modo {i}contención de fantasma{/i} {/b}"
+    thermos "{b}Poner thermo en: modo {i}contención de fantasma{/i} {/b}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2576
 translate spanish Wish_you_the_Best_scene_8_bedroom_8908f64b:
@@ -4270,7 +4270,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_9bcc488f:
 translate spanish Wish_you_the_Best_scene_8_bedroom_9bb74922:
 
     # danny angry talk_frown "Because if you {b}don't{/b}, you're not going to be able to keep my thermos as your little hidey hole."
-    danny angry talk_frown "Porque si {b}no{/b}, no vas a poder conservar mi termo como tu pequeño escondite."
+    danny angry talk_frown "Porque si {b}no{/b}, no vas a poder conservar mi thermo como tu pequeño escondite."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2650
 translate spanish Wish_you_the_Best_scene_8_bedroom_4ae7aac2:
@@ -4288,7 +4288,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_0e9e3908:
 translate spanish Wish_you_the_Best_scene_8_bedroom_bff1fb5a:
 
     # danny rise_one talk_happy "My parents have a Ghost Portal in the basement, Desiree. They're ghost hunters, {b}professionally{/b}. How do you think my thermos was able to hold you? How do you think I gained ghost powers in the first place??"
-    danny rise_one talk_happy "Mis padres tienen un Portal Fantasma en el sótano, Desiree. Son cazadores de fantasmas, {b}profesionales{/b}. ¿Cómo crees que mi termo pudo retenerte? ¿Cómo crees que obtuve poderes fantasmales??"
+    danny rise_one talk_happy "Mis padres tienen un Portal Fantasma en el sótano, Desiree. Son cazadores de fantasmas, {b}profesionales{/b}. ¿Cómo crees que mi thermo pudo retenerte? ¿Cómo crees que obtuve poderes fantasmales??"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2656
 translate spanish Wish_you_the_Best_scene_8_bedroom_8dd5f06d:
@@ -4300,7 +4300,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_8dd5f06d:
 translate spanish Wish_you_the_Best_scene_8_bedroom_7c03f2e2:
 
     # danny grin_happy wondering towards_wide "(Man, I hope she buys this bluff. With the portal not even working, holding her in the thermos is my only option right now.)"
-    danny grin_happy wondering towards_wide "(Tío, espero que se trague este farol. Como el portal ni siquiera funciona, retenerla en el termo es mi única opción ahora mismo)"
+    danny grin_happy wondering towards_wide "(Tío, espero que se trague este farol. Como el portal ni siquiera funciona, retenerla en el thermo es mi única opción ahora mismo)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2660
 translate spanish Wish_you_the_Best_scene_8_bedroom_c0d16d84:
@@ -4390,7 +4390,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_9c7b2898:
 translate spanish Wish_you_the_Best_scene_8_bedroom_0a48eb1f:
 
     # danny angry talk_frown_2 "You're not going anywhere, Desiree! The Fenton Thermos won't let you move anywhere thirty feet out of range! It's got a firm lock onto your ectoplasmic energy signature. You're only allowed to roam within the bounds of your new home, sorry to break it to you."
-    danny angry talk_frown_2 "¡No irás a ninguna parte, Desiree! ¡El Termo Fenton no te dejará moverte ni 2 metros fuera de su alcance! Le he fijado tu firma de energía ectoplasmática. Siento decírtelo pero sólo puedes vagar dentro de los límites de tu nuevo hogar."
+    danny angry talk_frown_2 "¡No irás a ninguna parte, Desiree! ¡El thermo Fenton no te dejará moverte ni 2 metros fuera de su alcance! Le he fijado tu firma de energía ectoplasmática. Siento decírtelo pero sólo puedes vagar dentro de los límites de tu nuevo hogar."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2701
 translate spanish Wish_you_the_Best_scene_8_bedroom_379a36e0:
@@ -4468,7 +4468,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_77c8fd22:
 translate spanish Wish_you_the_Best_scene_8_bedroom_7e9e1a8a:
 
     # desiree towards_2 talk_frown "...Master... (Oh, how I {u}loathe{/u} this boy's ability to think quick on his feet...)"
-    desiree towards_2 talk_frown "...Maestro... (cómo detesto la {u}habilidad{/u} de este chico para pensar rápido...)"
+    desiree towards_2 talk_frown "...amo... (cómo detesto la {u}habilidad{/u} de este chico para pensar rápido...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2740
 translate spanish Wish_you_the_Best_scene_8_bedroom_5a75870f:
@@ -4492,7 +4492,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_6fa0555d:
 translate spanish Wish_you_the_Best_scene_8_bedroom_09388f91:
 
     # danny wondering talk_frown "Rule number 2: Don't ever expose yourself. Unless I'm in the room, alone, you have to stay inside the thermos, and you need to go back in if anybody's ever coming inside the room."
-    danny wondering talk_frown "Regla número 2: No te expongas nunca. A menos que yo esté en la habitación, solo, tienes que quedarte dentro del termo, y tienes que volver a entrar si alguien va a entrar en la habitación."
+    danny wondering talk_frown "Regla número 2: No te expongas nunca. A menos que yo esté en la habitación, solo, tienes que quedarte dentro del thermo, y tienes que volver a entrar si alguien va a entrar en la habitación."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2748
 translate spanish Wish_you_the_Best_scene_8_bedroom_138a7c13:
@@ -4516,7 +4516,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_da35a746:
 translate spanish Wish_you_the_Best_scene_8_bedroom_26a61b0d:
 
     # desiree closed talk_frown "Yes, completely... Master."
-    desiree closed talk_frown "Sí, completamente... Maestro."
+    desiree closed talk_frown "Sí, completamente... amo."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2755
 translate spanish Wish_you_the_Best_scene_8_bedroom_023535c7:
@@ -4528,7 +4528,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_023535c7:
 translate spanish Wish_you_the_Best_scene_8_bedroom_52b25547:
 
     # desiree talk_frown "Of course, Master Danny."
-    desiree talk_frown "Por supuesto, el Maestro Danny."
+    desiree talk_frown "Por supuesto, el amo Danny."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2759
 translate spanish Wish_you_the_Best_scene_8_bedroom_6cb07c98:
@@ -4612,7 +4612,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_3a4f689f:
 translate spanish Wish_you_the_Best_scene_8_bedroom_88d1ce7f:
 
     # desiree talk_frown neutral "Master Danny, you should try to remember that the Ghost Zone is not in any proper sense a true \"afterlife\" as you might picture it to be."
-    desiree talk_frown neutral "Maestro Danny, debería recordar que la Zona Fantasma no és en ningún sentido una verdadera \"vida después de la muerte\" tal y como usted se la imagina."
+    desiree talk_frown neutral "amo Danny, debería recordar que la Zona Fantasma no és en ningún sentido una verdadera \"vida después de la muerte\" tal y como usted se la imagina."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2787
 translate spanish Wish_you_the_Best_scene_8_bedroom_66e76225:
@@ -4654,7 +4654,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_0a36397d:
 translate spanish Wish_you_the_Best_scene_8_bedroom_f1e3a775:
 
     # desiree neutral_3 talk_bite_2 "Box Ghost. Well, you certainly catch on quick, Master Danny."
-    desiree neutral_3 talk_bite_2 "Box Ghost. Bueno, ciertamente aprendes rápido, Maestro Danny."
+    desiree neutral_3 talk_bite_2 "Box Ghost. Bueno, ciertamente aprendes rápido, amo Danny."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2801
 translate spanish Wish_you_the_Best_scene_8_bedroom_f47f8631:
@@ -4672,7 +4672,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_360066db:
 translate spanish Wish_you_the_Best_scene_8_bedroom_a92bf7e3:
 
     # desiree towards neutral_2 talk_frown_2 "It would be within your best interests to avoid crossing his path, Master. He is a {b}truly{/b} powerful being, not one to be trifled with."
-    desiree towards neutral_2 talk_frown_2 "Te convendría evitar saltar este límite, Maestro. Es un ser {b}verdaderamente{/b} poderoso con el que no se juega."
+    desiree towards neutral_2 talk_frown_2 "Te convendría evitar saltar este límite, amo. Es un ser {b}verdaderamente{/b} poderoso con el que no se juega."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2807
 translate spanish Wish_you_the_Best_scene_8_bedroom_ca2b9b3f:
@@ -4726,7 +4726,7 @@ translate spanish Wish_you_the_Best_scene_8_bedroom_859bbfde:
 translate spanish Wish_you_the_Best_scene_8_bedroom_c251e47d:
 
     # desiree "Of course, I've only had a millenia and then some to practice, Master. You should try it yourself, if you wish to improve your own hand at manipulating your ectoplasmic form."
-    desiree "Por supuesto, sólo he tenido un milenio y algo más para practicar, Maestro. Deberías intentarlo tú mismo, si deseas mejorar tu propia mano en la manipulación de tu forma ectoplásmica."
+    desiree "Por supuesto, sólo he tenido un milenio y algo más para practicar, amo. Deberías intentarlo tú mismo, si deseas mejorar tu propia mano en la manipulación de tu forma ectoplásmica."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2847
 translate spanish Wish_you_the_Best_scene_8_bedroom_5dce6ff5:
@@ -4984,7 +4984,7 @@ translate spanish Wish_you_the_Best_after_blowjob_a919db84:
 translate spanish Wish_you_the_Best_after_blowjob_795ef871:
 
     # desiree "Master, here, allow me to help you dress up..."
-    desiree "Maestro, permítame que le ayude a vestirse..."
+    desiree "amo, permítame que le ayude a vestirse..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3027
 translate spanish Wish_you_the_Best_after_titjob_eaa7e0fa:
@@ -5014,7 +5014,7 @@ translate spanish Wish_you_the_Best_after_titjob_605dd219:
 translate spanish Wish_you_the_Best_after_titjob_aba307a6:
 
     # desiree sad_3 talk_bite_2 "...I'm, uhm... I'm going to put my brassiere and collar back on... clean myself up a bit as well... if you don't mind, Master?"
-    desiree sad_3 talk_bite_2 "...yo esto, uhm ... Me voy a poner mi ropa y collar de nuevo... a limpiarme un poco también... si no le importa Maestro"
+    desiree sad_3 talk_bite_2 "...yo esto, uhm ... Me voy a poner mi ropa y collar de nuevo... a limpiarme un poco también... si no le importa amo"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3036
 translate spanish Wish_you_the_Best_after_titjob_c6c43556:
@@ -5068,7 +5068,7 @@ translate spanish Wish_you_the_Best_after_titjob_dea567bc:
 translate spanish Wish_you_the_Best_after_titjob_dae2e157:
 
     # desiree sad_2 towards talk_bite_2 "Yes, I suppose it has been, for the both of us, Master... (My enslavement in a java flask notwithstanding...)"
-    desiree sad_2 towards talk_bite_2 "Sí, supongo que ha sido para los dos, Maestro... ( no obstante mi esclavitud en un frasco de java...)"
+    desiree sad_2 towards talk_bite_2 "Sí, supongo que ha sido para los dos, amo... ( no obstante mi esclavitud en un frasco de java...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3061
 translate spanish Wish_you_the_Best_after_titjob_b707728f:
@@ -5080,7 +5080,7 @@ translate spanish Wish_you_the_Best_after_titjob_b707728f:
 translate spanish Wish_you_the_Best_after_titjob_0acb3f66:
 
     # desiree towards_2 talk_frown_2 "Of course, Master. (Please, let's just let this humiliating endeavor be over for the night...)"
-    desiree towards_2 talk_frown_2 "Por supuesto, Maestro. (Por favor, que este esfuerzo humillante acabe esta noche...)"
+    desiree towards_2 talk_frown_2 "Por supuesto, amo. (Por favor, que este esfuerzo humillante acabe esta noche...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3065
 translate spanish Wish_you_the_Best_after_titjob_894e6caa:
@@ -5092,7 +5092,7 @@ translate spanish Wish_you_the_Best_after_titjob_894e6caa:
 translate spanish Wish_you_the_Best_after_titjob_eaf0fab4:
 
     # desiree talk_frown neutral "That is, uhm... most {i}appreciative{/i}, Master, thank you... (Dragging this out a little longer than necessary...)"
-    desiree talk_frown neutral "Esto és, uhm... lo más {i}apreciado {/i} Maestro, gracias... (Alargando esto un poco más de lo necesario...)"
+    desiree talk_frown neutral "Esto és, uhm... lo más {i}apreciado {/i} amo, gracias... (Alargando esto un poco más de lo necesario...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3069
 translate spanish Wish_you_the_Best_after_titjob_aad35fdc:
@@ -5104,7 +5104,7 @@ translate spanish Wish_you_the_Best_after_titjob_aad35fdc:
 translate spanish Wish_you_the_Best_after_titjob_6f43ec86:
 
     # desiree angry towards talk_frown_2 "Your concern is {b}noted{/b}, Master, {i}thank you{/i}. (Wrap it up, for heaven's sake!)"
-    desiree angry towards talk_frown_2 "Su preocupación es {b}recordada{/b}, Maestro, {i}gracias {/i}. (¡acaba esto por el amor del cielo!)"
+    desiree angry towards talk_frown_2 "Su preocupación es {b}recordada{/b}, amo, {i}gracias {/i}. (¡acaba esto por el amor del cielo!)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3073
 translate spanish Wish_you_the_Best_after_titjob_a598c67c:
@@ -5122,7 +5122,7 @@ translate spanish Wish_you_the_Best_after_titjob_41f95251:
 translate spanish Wish_you_the_Best_after_titjob_54493f7d:
 
     # desiree towards_2 talk_frown_2 "{i}*Sigh*{/i} Yes Master, my body is fully yours to command as well."
-    desiree towards_2 talk_frown_2 "{i}*Suspiro* {/i} Sí Maestro, mi cuerpo es completamente suyo también."
+    desiree towards_2 talk_frown_2 "{i}*Suspiro* {/i} Sí amo, mi cuerpo es completamente suyo también."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3079
 translate spanish Wish_you_the_Best_after_titjob_fe6fd816:
@@ -5134,7 +5134,7 @@ translate spanish Wish_you_the_Best_after_titjob_fe6fd816:
 translate spanish Wish_you_the_Best_after_titjob_1748e58d:
 
     # desiree closed talk_frown neutral_3 "There's no need to attempt being modest, Master Danny. My service and my body are yours, bound by magic. I don't really have a say in the matter..."
-    desiree closed talk_frown neutral_3 "No hay necesidad de intentar ser modesto Maestro Danny. Mi servicio y mi cuerpo son tuyos, atados por la magia. No tengo voz sobre lo material..."
+    desiree closed talk_frown neutral_3 "No hay necesidad de intentar ser modesto amo Danny. Mi servicio y mi cuerpo son tuyos, atados por la magia. No tengo voz sobre lo material..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3083
 translate spanish Wish_you_the_Best_after_titjob_848e0b47:
@@ -5152,7 +5152,7 @@ translate spanish Wish_you_the_Best_after_titjob_a4f41bbc:
 translate spanish Wish_you_the_Best_after_titjob_0e595349:
 
     # desiree neutral towards_2 talk_frown "Hmmm... well then for the time being, you {i}might{/i} not want to ask me too much of my personal opinions, Master."
-    desiree neutral towards_2 talk_frown "Hmmm... bueno entonces por el momento, no {i}debería{/i} de querer saber mis opiniones personales Maestro."
+    desiree neutral towards_2 talk_frown "Hmmm... bueno entonces por el momento, no {i}debería{/i} de querer saber mis opiniones personales amo."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3089
 translate spanish Wish_you_the_Best_after_titjob_dfb00e1a:
@@ -5182,7 +5182,7 @@ translate spanish Wish_you_the_Best_after_titjob_e0c79e5d:
 translate spanish Wish_you_the_Best_after_titjob_a3775625:
 
     # desiree closed talk_frown "...goodnight, my Master. I'll be in the Thermos."
-    desiree closed talk_frown "... buenas noches, mi Maestro. Estaré en el Thermo."
+    desiree closed talk_frown "... buenas noches, mi amo. Estaré en el Thermo."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3099
 translate spanish Wish_you_the_Best_after_titjob_1fd8a813:
@@ -5206,7 +5206,7 @@ translate spanish Wish_you_the_Best_after_titjob_6cc68e52:
 translate spanish Wish_you_the_Best_after_titjob_ad9b6fe7:
 
     # desiree closed neutral talk_frown_2 "{i}*Sigh*{/i} Yes Master, do you require an additional round of service before slumber?"
-    desiree closed neutral talk_frown_2 "{i}*Suspiro* {/i} Sí Maestro, ¿necesita una ronda adicional antes de dormir?"
+    desiree closed neutral talk_frown_2 "{i}*Suspiro* {/i} Sí amo, ¿necesita una ronda adicional antes de dormir?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3107
 translate spanish Wish_you_the_Best_after_titjob_1ceb1e5d:
@@ -5224,7 +5224,7 @@ translate spanish Wish_you_the_Best_after_titjob_6529ecdb:
 translate spanish Wish_you_the_Best_after_titjob_3385b7ba:
 
     # desiree neutral_2 talk_frown "A wish? Master I... you didn't have to..."
-    desiree neutral_2 talk_frown "¿Un deseo? Maestro yo... no has tenido que..."
+    desiree neutral_2 talk_frown "¿Un deseo? amo yo... no has tenido que..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3119
 translate spanish Wish_you_the_Best_after_titjob_f941f89f:
@@ -5260,13 +5260,13 @@ translate spanish Wish_you_the_Best_after_titjob_b186d765:
 translate spanish Wish_you_the_Best_after_titjob_ad7b3863:
 
     # desiree talk_bite "Uhmm... yes, well... {i}*Ahem*{/i} ...thank you, Master. I appreciate your blessing to help accomodate me."
-    desiree talk_bite "Uhmm ... sí, bien ... {i}*Ahem * {/i} ... gracias, Maestro. Agradezco su deseo para ayudar a acomodarme."
+    desiree talk_bite "Uhmm ... sí, bien ... {i}*Ahem * {/i} ... gracias, amo. Agradezco su deseo para ayudar a acomodarme."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3136
 translate spanish Wish_you_the_Best_after_titjob_39beffc0:
 
     # desiree cute at_player neutral_3 "(What {i}is{/i} it about this boy? He's still a naive and insolent child of course... but he's actually rather... {u}considerate{/u} for a slave Master, surprisingly.)"
-    desiree cute at_player neutral_3 "(¿Qué {i}pasa{/i} con este muchacho? Todavía es un inmaduro ingenuo e insolente por supuesto... pero és más bien... sorprendentemente {u}considerado {/u} para ser un maestro esclavo.)"
+    desiree cute at_player neutral_3 "(¿Qué {i}pasa{/i} con este muchacho? Todavía es un inmaduro ingenuo e insolente por supuesto... pero és más bien... sorprendentemente {u}considerado {/u} para ser un amo de esclavas.)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:3138
 translate spanish Wish_you_the_Best_after_titjob_440da11e:

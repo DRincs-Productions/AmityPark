@@ -592,7 +592,7 @@ translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_a595b
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_de0e1bae:
 
     # danny towards neutral talk_displeased "Jazz? What are you doing here?"
-    "¿[_danny_s_towards_s_neutral_s_talk_displeased_] ¿Jazz? ¿Qué estás haciendo aquí?"
+    danny towards neutral talk_displeased "¿Jazz? ¿Qué estás haciendo aquí?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:543
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_a8b2342b:
@@ -646,7 +646,7 @@ translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_f12c8
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_3c28f5d3:
 
     # danny towards rise talk_distraught "Bertrand? Who's Ber-?"
-    "¿[_danny_s_towards_s_rise_s_talk_distraught_] ¿Bertrand? ¿Quién es Ber-?"
+    danny towards rise talk_distraught "¿Bertrand? ¿Quién es Ber-?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:598
 translate spanish Episode_8_stage_40_school_outside_office_spectra_therapy_da7ac5bd:
@@ -1552,7 +1552,7 @@ translate spanish Episode_8_stage_60_mall_movies_turn_spicy_5e191f07:
 translate spanish Episode_8_stage_60_mall_movies_turn_spicy_b9e3fa5f:
 
     # "\"Jazz On Screen\"" "Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
-    "\"Jazz on Screen\" [special_delimiter]Entonces, por favor... ven {i}a jugar{/i} conmigo Danny... Necesito que juegues conmigo... juega con cada pulgada de mi-"
+    "\"Jazz on Screen\"" "Entonces por favor... ven a {i}jugar{/i} conmigo Danny... Necesito que juegues conmigo... juega con cada centímetro de mi-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1412
 translate spanish Episode_8_stage_60_mall_movies_turn_spicy_5dc4c70e:
@@ -1846,7 +1846,7 @@ translate spanish Episode_8_stage_70_mall_after_movie_mysteries_6435537a:
 translate spanish Episode_8_stage_80_mall_after_movie_7f7b07dd:
 
     # danny towards rise talk_displeased "Well? Did anybody know what was up?"
-    "¿[_danny_s_towards_s_rise_s_talk_displeased_] bien? ¿Alguien sabía lo que había terminado?"
+    danny towards rise talk_displeased "¿bien? ¿Alguien sabía lo que había terminado?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1704
 translate spanish Episode_8_stage_80_mall_after_movie_27650a84:
@@ -2626,7 +2626,7 @@ translate spanish Episode_8_stage_110_home_livingroom_night_yoga_d6421572:
 translate spanish Episode_8_stage_110_home_livingroom_night_yoga_53e7765a:
 
     # desiree "Of course, Master."
-    desiree "Por supuesto, Maestro."
+    desiree "Por supuesto, amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2364
 translate spanish Episode_8_stage_110_home_livingroom_night_yoga_90204276:
@@ -2788,7 +2788,7 @@ translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_5a1
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_cf797231:
 
     # desiree "{i}Hmm{/i}, I am afraid I do not understand what the dilemma quite is for you, Master."
-    desiree "{i}Hmm{/i}, me temo que no entiendo cuál es el dilema para ti, Maestro."
+    desiree "{i}Hmm{/i}, me temo que no entiendo cuál es el dilema para ti, amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2485
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_43e14ddb:
@@ -2812,7 +2812,7 @@ translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_bfc
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_6670ea2e:
 
     # desiree "Miss Ember! Wait! We must warn Master of the impending \"presence\" we both felt!"
-    desiree "¡Ember! ¡Espera! ¡Debemos advertir al Maestro de la \"presencia\" inminente que ambas sentimos!"
+    desiree "¡Ember! ¡Espera! ¡Debemos advertir al amo de la \"presencia\" inminente que ambas sentimos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2502
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_ac327a7b:
@@ -2938,7 +2938,7 @@ translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_007
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_7f96f809:
 
     # desiree "I do believe that our successful docile correction was made due in part to how Master was able to somehow conquer and impose his rule over us prior."
-    desiree "Creo que nuestra exitosa corrección dócil se hizo debido en parte a cómo el Maestro pudo conquistar e imponer su gobierno sobre nosotras."
+    desiree "Creo que nuestra exitosa corrección dócil se hizo debido en parte a cómo el amo pudo conquistar e imponer su gobierno sobre nosotras."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2596
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_d0a446b0:
@@ -2980,7 +2980,7 @@ translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_b35
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_8670a79f:
 
     # desiree "But of course, Master."
-    desiree "Por supuesto, Maestro."
+    desiree "Por supuesto, amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2627
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_80c8d860:
@@ -3028,7 +3028,7 @@ translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_fc7
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_f437f8d9:
 
     # desiree "Goodbye, Master."
-    desiree "Adiós, Maestro."
+    desiree "Adiós, amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2669
 translate spanish Episode_8_stage_120_home_bedroom_night_suspicious_activity_29612b06:
@@ -3334,7 +3334,7 @@ translate spanish Episode_8_stage_130_school_mainhall_strange_morning_aeeaaac2:
 translate spanish Episode_8_stage_130_school_mainhall_strange_morning_80f3b9eb:
 
     # danny towards_wide unhappy talk_distraught "Tucker?! TUCKER!!"
-    "¡¿[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] Tucker?! ¡TUCKER!!"
+    danny towards_wide unhappy talk_distraught "¡¿Tucker?! ¡TUCKER!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2902
 translate spanish Episode_8_stage_130_school_mainhall_strange_morning_b9f458b0:
@@ -4834,7 +4834,7 @@ translate spanish Episode_8_stage_200_school_classroom_morning_classroom_chaos_1
 translate spanish Episode_8_stage_200_school_classroom_morning_classroom_chaos_192d7612:
 
     # lancer at_player angry talk_consternation "M-Miss Spectra? {i}She{/i} put you all up to this?? Well I think it's time I had a word with our dear counselor then!"
-    "¿[_lancer_s_at_player_s_angry_s_talk_consternation_] ¿M-Mis Espectra? ¿ {i}Ella{/i} hizo todo esto? ¡Bueno, creo que es hora de que tenga una charla con nuestra querida consejera entonces!"
+    lancer at_player angry talk_consternation "¿M-Mis Espectra? ¿ {i}Ella{/i} hizo todo esto? ¡Bueno, creo que es hora de que tenga una charla con nuestra querida consejera entonces!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4089
 translate spanish Episode_8_stage_200_school_classroom_morning_classroom_chaos_9ca7a5bb:
@@ -6310,7 +6310,7 @@ translate spanish Episode_8_stage_235_bedroom_jazz_faints_58feb051:
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_f57e06c6:
 
     # desiree "I believe we have to find this ghost perpetrator tonight Master. If we don't, I fear Miss Jasmine may never awaken from her slumber."
-    desiree "Creo que tenemos que encontrar a este fantasma esta noche Maestro. Si no lo hacemos, temo mr Jazmín nunca despertará de su sueño."
+    desiree "Creo que tenemos que encontrar a este fantasma esta noche amo. Si no lo hacemos, temo mr Jazmín nunca despertará de su sueño."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5649
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_7f3231f0:
@@ -6400,7 +6400,7 @@ translate spanish Episode_8_stage_235_bedroom_jazz_faints_5177821e:
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_dfee4e30:
 
     # desiree "I believe her to be correct, Master. You must think, what is a rather large link between everything going on at the moment?"
-    desiree "Yo creo que ella dice lo correcto, Maestro. Debe pensar, ¿cuál és vínculo más grande con todo lo que está pasando en este momento?"
+    desiree "Yo creo que ella dice lo correcto, amo. Debe pensar, ¿cuál és vínculo más grande con todo lo que está pasando en este momento?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5712
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_dbb5106a:
@@ -6490,7 +6490,7 @@ translate spanish Episode_8_stage_235_bedroom_jazz_faints_83d4aabc:
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_f1e5174f:
 
     # desiree "It is too dangerous for you to try to fight her alone, master."
-    desiree "Es demasiado peligroso para ti intentar combatirla solo, maestro."
+    desiree "Es demasiado peligroso para ti intentar combatirla solo, amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5834
 translate spanish Episode_8_stage_235_bedroom_jazz_faints_66db0d82:
@@ -6898,7 +6898,7 @@ translate spanish Episode_8_stage_245_school_entrance_locked_9163926c:
 translate spanish Episode_8_stage_245_school_entrance_locked_fbc23a02:
 
     # desiree talk_frown upset "Master, now is not the time to debate! You must save them!"
-    desiree talk_frown upset "Maestro, ¡ahora no es el momento de debatir! ¡Usted debe salvarlas!"
+    desiree talk_frown upset "amo, ¡ahora no es el momento de debatir! ¡Usted debe salvarlas!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6232
 translate spanish Episode_8_stage_245_school_entrance_locked_1a698533:
@@ -7360,7 +7360,7 @@ translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_c3e34
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_fc126ba6:
 
     # extend "...general teenage angst bubbling under the surface?"
-    extend "...la angustia adolescente general que burbujea bajo la superficie?"
+    extend "¿...la angustia adolescente general que burbujea bajo la superficie?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6783
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_a19f7a29:
@@ -7396,7 +7396,7 @@ translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_d6785
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_4fbf2367:
 
     # desiree "Now master! While she's weakened!"
-    desiree "ahora maestro! ¡Mientras se debilita!"
+    desiree "ahora amo! ¡Mientras se debilita!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6835
 translate spanish Episode_8_stage_255_school_second_floor_hallway_battle_2_ae076275:
@@ -7702,7 +7702,7 @@ translate spanish Episode_8_stage_260_school_entrance_afterwards_1bc9504f:
 translate spanish Episode_8_stage_260_school_entrance_afterwards_f60b35d2:
 
     # desiree "Master, you're now going to have to decide what to do with Miss Spectra, you realize."
-    desiree "Maestro, te das cuenta de que ahora vas a tener que decidir qué hacer con Mr Spectra."
+    desiree "amo, te das cuenta de que ahora vas a tener que decidir qué hacer con Mr Spectra."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7177
 translate spanish Episode_8_stage_260_school_entrance_afterwards_59e91895:
@@ -7792,7 +7792,7 @@ translate spanish Episode_8_stage_260_school_entrance_afterwards_4f4b21c0:
 translate spanish Episode_8_stage_260_school_entrance_afterwards_7fb4d0e5:
 
     # desiree "Y-yes, of course master. I'm sorry. Your judgement in this matter... it's yours to make."
-    desiree "Y Sí, por supuesto maestro. Lo siento. Su juicio en este asunto... es suyo."
+    desiree "Y Sí, por supuesto amo. Lo siento. Su juicio en este asunto... es suyo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7243
 translate spanish Episode_8_stage_260_school_entrance_afterwards_7e481621:
@@ -7960,7 +7960,7 @@ translate spanish Episode_8_stage_270_bedroom_morning_back_home_8b842779:
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_6a67bf7d:
 
     # danny "H-huh?"
-    "¿[_danny_]¿ H-huh?"
+    danny "¿H-huh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7382
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_c6558da5:
@@ -8050,7 +8050,7 @@ translate spanish Episode_8_stage_270_bedroom_morning_back_home_69f1164d:
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_01b6206c:
 
     # desiree "I'm most sorry, master, but this is your crusade to rectify her behavior, not ours..."
-    desiree "Lo siento mucho, maestro, pero esta es tu cruzada para corregir su comportamiento, no la nuestra..."
+    desiree "Lo siento mucho, amo, pero esta es tu cruzada para corregir su comportamiento, no la nuestra..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7483
 translate spanish Episode_8_stage_270_bedroom_morning_back_home_fc949bc9:
@@ -9040,7 +9040,7 @@ translate spanish Episode_8_stage_300_bedroom_night_afterwards_dd34f27d:
 translate spanish Episode_8_stage_300_bedroom_night_afterwards_71db776b:
 
     # desiree "Master, we had asked that she not be made to stay with us."
-    desiree "Maestro, le habíamos pedido que no la obligara a quedarse con nosotras."
+    desiree "amo, le habíamos pedido que no la obligara a quedarse con nosotras."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8388
 translate spanish Episode_8_stage_300_bedroom_night_afterwards_2b94d207:
@@ -9412,7 +9412,7 @@ translate spanish Episode_8_stage_320_bedroom_night_couch_conversation_3d3bbf21:
 translate spanish Episode_8_stage_320_bedroom_night_couch_conversation_f65c2044:
 
     # penelope "Oh please. I just wanted to see what the undead sex slaves get up to when their master lets them off their leash!"
-    penelope "Oh, por favor. ¡Solo quería ver a que hacen las esclavas sexuales cuando su maestro les deja salir de sus garras!"
+    penelope "Oh, por favor. ¡Solo quería ver a que hacen las esclavas sexuales cuando su amo les deja salir de sus garras!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8741
 translate spanish Episode_8_stage_320_bedroom_night_couch_conversation_5dfe8ae8:
@@ -9640,7 +9640,7 @@ translate spanish Episode_8_stage_330_bedroom_morning_freedom_offered_287bdaef:
 translate spanish Episode_8_stage_330_bedroom_morning_freedom_offered_667605e6:
 
     # desiree "...M-M-Master!!"
-    desiree "¡¡...M-M-Maestro!!"
+    desiree "¡¡...M-M-amo!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8999
 translate spanish Episode_8_stage_330_bedroom_morning_freedom_offered_f277af5f:
@@ -9706,7 +9706,7 @@ translate spanish Episode_8_stage_330_bedroom_morning_freedom_offered_60fb8184:
 translate spanish Episode_8_stage_330_bedroom_morning_freedom_offered_69757cd1:
 
     # desiree "We {i}are{/i} doing what it is we want. It just happens to involve being at Master's side as well."
-    desiree "Nosotras {i}estamos haciendo{/i} lo que queremos. Simplemente sucede que estamos a gusto del lado del Maestro."
+    desiree "Nosotras {i}estamos haciendo{/i} lo que queremos. Simplemente sucede que estamos a gusto del lado del amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9075
 translate spanish Episode_8_stage_330_bedroom_morning_freedom_offered_326b6205:
@@ -11566,7 +11566,7 @@ translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_b5af2425
 translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_c307eb2c:
 
     # desiree "Have you perhaps noticed anything that would indicate she wished to remain imprisoned and in solitary confinement for eternity, Master?"
-    desiree "¿ha notado algo que indicase que desea permanecer encarcelada y en confinación solitaria para la eternidad Maestro?"
+    desiree "¿ha notado algo que indicase que desea permanecer encarcelada y en confinación solitaria para la eternidad amo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10687
 translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_d7763fa8:
@@ -11590,7 +11590,7 @@ translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_a4e88f0e
 translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_d3befdea:
 
     # desiree "Will do, Master."
-    desiree "lo haré, Maestro."
+    desiree "lo haré, amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10707
 translate spanish Episode_8_stage_375_bedroom_morning_penelope_isolated_5e3041db:
@@ -13072,7 +13072,7 @@ translate spanish Episode_8_stage_425_caught_in_the_act_755a1c70:
 translate spanish Episode_8_stage_425_caught_in_the_act_b1145ab7:
 
     # desiree "Master why were you tied up for your... consummation with Miss Spectra?"
-    desiree "Maestro ¿por qué estabas atado en tu... consumación con Mr Spectra?"
+    desiree "amo ¿por qué estabas atado en tu... consumación con Mr Spectra?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12223
 translate spanish Episode_8_stage_425_caught_in_the_act_bb876167:
@@ -13246,7 +13246,7 @@ translate spanish Episode_8_stage_430_present_prep_c6db86e7:
 translate spanish Episode_8_stage_430_present_prep_78d958a2:
 
     # ember "{color=9DF600}{font=font/libel-suit-rg.ttf}{b}Sorry, can't like, hear you, the {i}uh{/i}, stupid thermos signal, breaking up!{/b}{/font}{/color}"
-    ember "{color=9DF600}{font=font/libel-suit-rg.ttf}{b}Lo siento, no puedo escucharte bien, la señal {i}uh{/i}, ¡estúpida señal de thermo, corto!{/b}{/font}{/color}"
+    ember "{color=9DF600}{font=font/libel-suit-rg.ttf}{b}Lo siento, no puedo escucharte bien, la señal {i}uh{/i}, ¡estúpida señal de thermo¡,!corto!{/b}{/font}{/color}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12375
 translate spanish Episode_8_stage_430_present_prep_68fb811e:
@@ -13282,7 +13282,7 @@ translate spanish Episode_8_stage_430_present_prep_c56ad1ce:
 translate spanish Episode_8_stage_435_presented_64e4f559:
 
     # desiree "Oh dearest Master, are you... available?~"
-    desiree "Oh querido Maestro, ¿estás... disponible?~"
+    desiree "Oh querido amo, ¿estás... disponible?~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12416
 translate spanish Episode_8_stage_435_presented_52c73efc:
@@ -13354,7 +13354,7 @@ translate spanish Episode_8_stage_435_presented_7588889e:
 translate spanish Episode_8_stage_435_presented_5fea9634:
 
     # desiree "We've felt it was time we {i}all{/i} joined in on the fun, Master!~"
-    desiree "¡Hemos sentido que ha llegado el momento de que {i}todos{/i} nos unamos a la diversión, Maestro!~"
+    desiree "¡Hemos sentido que ha llegado el momento de que {i}todos{/i} nos unamos a la diversión, amo!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12456
 translate spanish Episode_8_stage_435_presented_cbb4c46b:
@@ -13408,7 +13408,7 @@ translate spanish Episode_8_stage_440_spectra_blowjob_2e9026f6:
 translate spanish Episode_8_stage_440_spectra_blowjob_520843b9:
 
     # desiree "Now, now, let's not just stand around! Get into position for this sweet little gift we wrapped up for you Master!"
-    desiree "¡Ahora, no nos limitemos a mirarnos! ¡Ponte en posición por este dulce pequeño regalo que te envolvimos Maestro!"
+    desiree "¡Ahora, no nos limitemos a mirarnos! ¡Ponte en posición por este dulce pequeño regalo que te envolvimos amo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12505
 translate spanish Episode_8_stage_440_spectra_blowjob_ddab8188:
@@ -13576,7 +13576,7 @@ translate spanish Episode_8_stage_440_spectra_blowjob_a6ee4563:
 translate spanish Episode_8_stage_440_spectra_blowjob_8d3369f7:
 
     # desiree "Here, let me show you how to {i}properly{/i} attend a mouthful of Master's manhood..."
-    desiree "déjame mostrarte cómo se da {i}correctamente{/i} una mamada al macho del Maestro..."
+    desiree "déjame mostrarte cómo se da {i}correctamente{/i} una mamada al macho del amo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12603
 translate spanish Episode_8_stage_440_spectra_blowjob_5edb4821_1:
@@ -13612,7 +13612,7 @@ translate spanish Episode_8_stage_440_spectra_blowjob_eced44fe:
 translate spanish Episode_8_stage_440_spectra_blowjob_f5697e1a:
 
     # desiree "Up and down, up and down... yes, bobbing on Master's member with that exact pace..."
-    desiree "Arriba y abajo, arriba y abajo... sí, lamiendo el miembro del Maestro con ese ritmo..."
+    desiree "Arriba y abajo, arriba y abajo... sí, lamiendo el miembro del amo con ese ritmo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12617
 translate spanish Episode_8_stage_440_spectra_blowjob_371722e3:
@@ -13630,7 +13630,7 @@ translate spanish Episode_8_stage_440_spectra_blowjob_abdb8a8b:
 translate spanish Episode_8_stage_440_spectra_blowjob_ff4d0311:
 
     # desiree "Did you hear that? Master is about to deliver his delicious cum for you, girl."
-    desiree "¿Has oído eso? El maestro está a punto de entregar su delicioso esperma para ti, chica."
+    desiree "¿Has oído eso? El amo está a punto de entregar su delicioso esperma para ti, chica."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12625
 translate spanish Episode_8_stage_440_spectra_blowjob_82f1be22:
@@ -13720,7 +13720,7 @@ translate spanish Episode_8_stage_440_spectra_blowjob_12d37da5:
 translate spanish Episode_8_stage_440_spectra_blowjob_57cf8e67:
 
     # desiree "I would say her behavior merits a fitting reward, wouldn't you agree, Master?"
-    desiree "Yo diría que su comportamiento merece una recompensa justa, ¿no estás de acuerdo, Maestro?"
+    desiree "Yo diría que su comportamiento merece una recompensa justa, ¿no estás de acuerdo, amo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12667
 translate spanish Episode_8_stage_440_spectra_blowjob_4f757539:
@@ -13978,7 +13978,7 @@ translate spanish Episode_8_stage_445_spectra_anal_chair_f016dd84:
 translate spanish Episode_8_stage_445_spectra_anal_chair_ff1615ca:
 
     # desiree "How does her ass feel, Master?"
-    desiree "¿Cómo se siente su culo, Maestro?"
+    desiree "¿Cómo se siente su culo, amo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12851
 translate spanish Episode_8_stage_445_spectra_anal_chair_ba4c6117:
@@ -13990,7 +13990,7 @@ translate spanish Episode_8_stage_445_spectra_anal_chair_ba4c6117:
 translate spanish Episode_8_stage_445_spectra_anal_chair_2cec6f09:
 
     # desiree "Yes!! Ravage her Master! Make her your rightful property!!"
-    desiree "¡Sí! ¡petalo Maestro! Hazlo tu legítima propiedad!!"
+    desiree "¡Sí! ¡petalo amo! Hazlo tu legítima propiedad!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12859
 translate spanish Episode_8_stage_445_spectra_anal_chair_3430c4a2:
@@ -14182,7 +14182,7 @@ translate spanish Episode_8_stage_445_desiree_and_ember_temptation_0626a86e:
 translate spanish Episode_8_stage_450_desiree_indulgence_eee3b470:
 
     # desiree "{i}Ahh!{/i} Yes! That's it, my Master! Fuck me! Fuck your eager servant!"
-    desiree "{i}¡Ahh!{/i} ¡Sí! ¡Eso es, mi Maestro! ¡folllame! ¡folla tu ansiosa sierva!"
+    desiree "{i}¡Ahh!{/i} ¡Sí! ¡Eso es, mi amo! ¡folllame! ¡folla tu ansiosa sierva!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13002
 translate spanish Episode_8_stage_450_desiree_indulgence_8ae8c97d:
@@ -14260,7 +14260,7 @@ translate spanish Episode_8_stage_450_desiree_indulgence_d4cd6298:
 translate spanish Episode_8_stage_450_desiree_indulgence_bfac0160:
 
     # desiree "{i}Oh my...{/i}~ Master... {i}*Giggles*{/i} I think our dear Ember's feeling a little left out... why don't you..."
-    desiree "{i}Oh mi...{/i}~ Maestro... {i}*risas*{/i} Creo que nuestra querida Ember se siente un poco apartada... ¿por qué no le..."
+    desiree "{i}Oh mi...{/i}~ amo... {i}*risas*{/i} Creo que nuestra querida Ember se siente un poco apartada... ¿por qué no le..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13060
 translate spanish Episode_8_stage_450_desiree_indulgence_ccee87ff:
@@ -14386,7 +14386,7 @@ translate spanish Episode_8_stage_455_ember_indulgence_731f379e:
 translate spanish Episode_8_stage_455_ember_indulgence_6f386e21:
 
     # desiree "Master! Cum in her! Shoot it deep inside her tight little body!"
-    desiree "Maestro! ¡Córrete en ella! ¡Dispáralo en el interior de su pequeño cuerpo!"
+    desiree "amo! ¡Córrete en ella! ¡Dispáralo en el interior de su pequeño cuerpo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13181
 translate spanish Episode_8_stage_455_ember_indulgence_036f8c1d:
@@ -14416,7 +14416,7 @@ translate spanish Episode_8_stage_465_threesome_finish_desiree_73b4ca46:
 translate spanish Episode_8_stage_465_threesome_finish_desiree_80a29229:
 
     # desiree "{i}*Giggles*{/i} But of course, as you wish Master...~"
-    desiree "{i}*risas*{/i} Por supuesto, como quieras Maestro...~"
+    desiree "{i}*risas*{/i} Por supuesto, como quieras amo...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13229
 translate spanish Episode_8_stage_465_threesome_finish_desiree_0fdf5b76:
@@ -14470,7 +14470,7 @@ translate spanish Episode_8_stage_465_threesome_finish_desiree_22467f25:
 translate spanish Episode_8_stage_465_threesome_finish_desiree_a1db1783:
 
     # desiree "Oh, I do deserve it Master, I do! Please! Give it me! More!"
-    desiree "Oh, me lo merezco Maestro, ¡lo hago! ¡Por favor! ¡Dame! ¡Más!"
+    desiree "Oh, me lo merezco amo, ¡lo hago! ¡Por favor! ¡Dame! ¡Más!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13265
 translate spanish Episode_8_stage_465_threesome_finish_desiree_a66c9622:
@@ -14482,7 +14482,7 @@ translate spanish Episode_8_stage_465_threesome_finish_desiree_a66c9622:
 translate spanish Episode_8_stage_465_threesome_finish_desiree_1a561aaa:
 
     # desiree "Yes, yes!! Please, Master! Give me your beloved seed!"
-    desiree "Sí, sí!! Por favor, ¡Maestro! ¡Dame tu amada semilla!"
+    desiree "Sí, sí!! Por favor, ¡amo! ¡Dame tu amada semilla!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13273
 translate spanish Episode_8_stage_465_threesome_finish_desiree_4ee63982:
@@ -14512,7 +14512,7 @@ translate spanish Episode_8_stage_465_threesome_finish_desiree_b4efe4bb:
 translate spanish Episode_8_stage_465_threesome_finish_desiree_50350a0b:
 
     # extend "How marvelous... thank you, my Master...~"
-    extend "Qué maravilloso... gracias, mi Maestro...~"
+    extend "Qué maravilloso... gracias, mi amo...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13294
 translate spanish Episode_8_stage_465_threesome_finish_desiree_6e9dc0d2:
@@ -14572,7 +14572,7 @@ translate spanish Episode_8_stage_470_threesome_finish_ember_e3c984a2:
 translate spanish Episode_8_stage_470_threesome_finish_ember_f0ed29c0:
 
     # desiree "(This is more than I could have asked for! Nothing better than a true haram developing between Master and his women of choice!!)"
-    desiree "(¡Esto es más de lo que podría haber pedido! Nada mejor que una verdadera orgía entre Maestro y sus mujeres!!)"
+    desiree "(¡Esto es más de lo que podría haber pedido! Nada mejor que una verdadera orgía entre amo y sus mujeres!!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13350
 translate spanish Episode_8_stage_470_threesome_finish_ember_76b2099e:
@@ -14722,7 +14722,7 @@ translate spanish Episode_8_stage_480_after_threesome_181c1887:
 translate spanish Episode_8_stage_480_after_threesome_6ecdd0d1:
 
     # desiree "Yes... since our dear Penelope has joined the... group... it has certainly become a tad crowded in the \"Fenton Thermos\" Master."
-    desiree "Sí... desde que nuestro querida Penélope se ha unido al grupo... sin duda se ha reducido el espacio en el \"thermo\" Maestro."
+    desiree "Sí... desde que nuestro querida Penélope se ha unido al grupo... sin duda se ha reducido el espacio en el \"thermo\" amo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13479
 translate spanish Episode_8_stage_480_after_threesome_d42a80a9:
@@ -14788,7 +14788,7 @@ translate spanish Episode_8_stage_480_after_threesome_36ef7edf:
 translate spanish Episode_8_stage_480_after_threesome_0fe94a51:
 
     # desiree "Master, I do not think I need to point out to you of all people that... the three of us on our own already, well..."
-    desiree "Maestro, no creo que necesite decir que... las tres estamos en acuerdo, bien..."
+    desiree "amo, no creo que necesite decir que... las tres estamos en acuerdo, bien..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13544
 translate spanish Episode_8_stage_480_after_threesome_90a8aaa1:
@@ -14872,7 +14872,7 @@ translate spanish Episode_8_stage_480_after_threesome_b7415324:
 translate spanish Episode_8_stage_480_after_threesome_79d90afc:
 
     # desiree "The Thermos will suffice us for now, Master, as you wish..."
-    desiree "El Thermo nos contendrá por ahora, Maestro, como quiera..."
+    desiree "El Thermo nos contendrá por ahora, amo, como quiera..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13627
 translate spanish Episode_8_stage_480_after_threesome_34c91026:

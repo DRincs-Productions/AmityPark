@@ -250,7 +250,7 @@ translate spanish tucker_convo_tuckerPDA_start_d9b3be46:
 translate spanish tucker_convo_tuckerPDA_start_84c751c7:
 
     # tucker arms_straps away sad talk_happy "Oh sweet, {i}naïve{/i} Daniel... you can't just believe {i}everything{/i} the fake news media tells you, man. Mass hysteria is something I try to avoid, and getting your facts from {i}Tiffany Snow{/i} of all people?{p}{i}*Tsk* *Tsk*{/i}"
-    tucker arms_straps away sad talk_happy "Oh cariñoso, {i}ingenuo {/i} Daniel... no puedes creer {i}todo{/i} lo que dicen las falsas noticias, tio. La histeria masiva es algo que trato de evitar, ¿y creer tus explicaciones {i}\"blanca nieves\"{/i} de otras personas?{p}{i}*Tsk * *Tsk * {/i}{/p}"
+    tucker arms_straps away sad talk_happy "Oh cariñoso, {i}ingenuo {/i} Daniel... no puedes creer {i}todo{/i} lo que dicen las falsas noticias, tio. La histeria masiva es algo que trato de evitar, ¿y creer tus explicaciones {i}\"blanca nieves\"{/i} de otras personas?{p}{i}*Tsk * *Tsk * {/i} "
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:240
 translate spanish tucker_convo_tuckerPDA_start_d8b57d89:
@@ -304,7 +304,7 @@ translate spanish tucker_convo_tuckerPDA_start_d593fab5:
 translate spanish tucker_convo_tuckerPDA_start_08828822:
 
     # danny towards unhappy talk_consternation "{i}*Sigh*{/i} Alright, I'll see what I can do.{p}"
-    danny towards unhappy talk_consternation "{i}*Suspiro * {/i} {p} Muy bien, veré que puedo hacer.{/p}"
+    danny towards unhappy talk_consternation "{i}*Suspiro * {/i} Muy bien, veré que puedo hacer.{p}  "
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:261
 translate spanish tucker_convo_tuckerPDA_start_eb59364a:
@@ -346,7 +346,7 @@ translate spanish tucker_convo_tuckerPDA_middle_e9347b34:
 translate spanish tucker_convo_tuckerPDA_middle_beb1ed19:
 
     # danny down wondering talk_consternation "Alright, alright, I'm moving as fast as I can here!{p}"
-    danny down wondering talk_consternation "vale, vale, {p}¡lo estoy haciendo todo lo rápido que puedo!{/p}"
+    danny down wondering talk_consternation "vale, vale, {p}¡lo estoy haciendo todo lo rápido que puedo! "
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:301
 translate spanish tucker_convo_tuckerPDA_middle_84ed6d00:
@@ -358,7 +358,7 @@ translate spanish tucker_convo_tuckerPDA_middle_84ed6d00:
 translate spanish tucker_convo_tuckerPDA_end_9fb1971f:
 
     # danny talk_happy "Here it is Tuck, your oh-so valuable PDA, back in safe hands once again!{p}Man, you really wouldn't believe what I had to go through to get it back."
-    danny talk_happy "Aquí está Tuck, ¡tu valiosa PDA sin daños!{p} Tío, no creerás lo que he tenido que hacer para recuperarla{/p}."
+    danny talk_happy "Aquí está Tuck, ¡tu valiosa PDA sin daños!{p} Tío, no creerás lo que he tenido que hacer para recuperarla ."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:330
 translate spanish tucker_convo_tuckerPDA_end_4361b93e:
@@ -388,7 +388,7 @@ translate spanish tucker_convo_tuckerPDA_end_aa31e21f:
 translate spanish tucker_convo_tuckerPDA_end_966d1caf:
 
     # danny towards_wide sad_2 talk_frown_2 "{u}Another{/u} PDA?? But- if you... I just gave- h-how...??{p}Tucker, I-I dont understand!"
-    danny towards_wide sad_2 talk_frown_2 "¿¿{u}Otra{/u} PDA?? Pero-si te... Acabo de dar ¿¿c-como..??{p}Tucker{/p}, ¡N-No te entiendo!"
+    danny towards_wide sad_2 talk_frown_2 "¿¿{u}Otra{/u} PDA?? Pero-si te... Acabo de dar ¿¿c-como..??{p}Tucker , ¡N-No te entiendo!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:348
 translate spanish tucker_convo_tuckerPDA_end_ebd6ed4a:
@@ -406,7 +406,7 @@ translate spanish tucker_convo_tuckerPDA_end_8287f303:
 translate spanish tucker_convo_tuckerPDA_end_65e3ef2f:
 
     # tucker talk_frown closed "Come on, Danny! The newer models don't come with headphone jack connectors!{p}That is {u}peak{/u} innovation!"
-    tucker talk_frown closed "¡Vamos, Danny! Los modelos nuevos vienen con conectores jack de auriculares! ¡{p}Es tecnología {u}punta{/u} en innovación{/p}!"
+    tucker talk_frown closed "¡Vamos, Danny! Los modelos nuevos vienen con conectores jack de auriculares! ¡{p}Es tecnología {u}punta{/u} en innovación !"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:354
 translate spanish tucker_convo_tuckerPDA_end_ef428a3d:
@@ -586,7 +586,7 @@ translate spanish Star_x_Kwan_Locker_Room_6f42b0fe:
 translate spanish Star_x_Kwan_Locker_Room_34b14d14:
 
     # star "{i}Fuuhahh…{p}I…{p}K-Kwaan…{p}hyahhh…{/i}!"
-    star "{i}Fuuhahh…{p}yo… K-Kwaan… hyahhh…{/p}{/i}!"
+    star "{i}Fuuhahh…{p}yo… K-Kwaan… hyahhh… {/i}!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:575
 translate spanish Star_x_Kwan_Locker_Room_9d3cfa09:
@@ -640,7 +640,7 @@ translate spanish Star_x_Kwan_Locker_Room_a333f775:
 translate spanish Star_x_Kwan_Locker_Room_03c08fe4:
 
     # kwan "Yeah?{p}Then I'm gonna {u}give{/u} it to you faster!"
-    kwan "¿Sí?{p}Entonces te voy a {u}dar {/u} ¡aún más rápido{/p}!"
+    kwan "¿Sí?{p}Entonces te voy a {u}dar {/u} ¡aún más rápido !"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:631
 translate spanish Star_x_Kwan_Locker_Room_7940bb14:
@@ -718,7 +718,7 @@ translate spanish Star_x_Kwan_Locker_Room_d1cbc233:
 translate spanish Star_x_Kwan_Locker_Room_c5d3f561:
 
     # kwan "It's getting real close, Star!! I'm gonna finish strong!"
-    kwan "¡¡Estoy muy cerca, Star!! ¡Voy a terminar explotando!"
+    kwan "¡¡Estoy muy cerca, Star!! ¡Voy a explotar!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:682
 translate spanish Star_x_Kwan_Locker_Room_23f19cb7:
@@ -754,7 +754,7 @@ translate spanish Star_x_Kwan_Locker_Room_53a05f18:
 translate spanish Star_x_Kwan_Locker_Room_1c396fc4:
 
     # danny pi_114 "(Holy... his rhythm is crazy! He's going to totally destroy Star!!{p}...wait, why the heck am I still watching...?)"
-    danny pi_114 "(Dios... ¡su ritmo és una locura! Va a destruir a Star!!{p}... espera, ¿por qué narices sigo viendo esto...?{/p})"
+    danny pi_114 "(Dios... ¡su ritmo és una locura! Va a destruir a Star!!{p}... espera, ¿por qué narices sigo viendo esto...? )"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:738
 translate spanish Star_x_Kwan_Locker_Room_a2753a4c:
@@ -790,7 +790,7 @@ translate spanish Star_x_Kwan_Locker_Room_62e32520:
 translate spanish Star_x_Kwan_Locker_Room_af1b2005:
 
     # star "{i}*Huff* *Huff*{/i}{p}…oh… you... idiot, Kwan... you're lucky I'm on the pill... holy fuck..."
-    star "{i}*Huff * *Huff*{/i}{p}…oh… tú... idiota{/p}, Kwan... tienes suerte de que tomo la píldora... santas pollas..."
+    star "{i}*Huff * *Huff*{/i}{p}…oh… tú... idiota , Kwan... tienes suerte de que tomo la píldora... santas pollas..."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:799
 translate spanish Star_x_Kwan_Locker_Room_38fa1dc3:

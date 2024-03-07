@@ -4,13 +4,13 @@
 translate spanish intro_284eba74:
 
     # danny at_danny rise_one talk_frown "{i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
-    danny at_danny rise_one talk_frown "{i}Wuhh{/i}... ¿qué...?¿{p}Por qué estaba tirado en el suelo...{/p}...?"
+    danny at_danny rise_one talk_frown "{i}Wuhh{/i}... ¿qué...?¿{p}Por qué estaba tirado en el suelo...?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:41
 translate spanish intro_24cad70b:
 
     # danny down sad frown_3 "(What happened last night?){p}The last thing I remember..."
-    danny down sad frown_3 "(¿Qué pasó anoche?) {p}Lo último que recuerdo{/p}..."
+    danny down sad frown_3 "(¿Qué pasó anoche?) {p}Lo último que recuerdo ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:46
 translate spanish intro_4303aa3a:
@@ -28,7 +28,7 @@ translate spanish intro_4fbf4b08:
 translate spanish intro_cb112b07:
 
     # danny "(Suddenly, there was a {u}great big flash{/u}... everything just {i}changed{/i}...{p}man, I hope my molecules weren't all rearranged...)"
-    danny "(De repente, hubo un {u}gran flash{/u}... todo {i}cambió{/i}...{p}tio, espero que las moléculas de mi cuerpo no hayan sido reordenadas...{/p})"
+    danny "(De repente, hubo un {u}gran flash{/u}... todo {i}cambió{/i}...{p}tio, espero que las moléculas de mi cuerpo no hayan sido reordenadas... )"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:66
 translate spanish intro_d01af09e:
@@ -46,7 +46,7 @@ translate spanish intro_acf690bd:
 translate spanish intro_d636ae29:
 
     # danny "(...had I really been turned into a... a {b}ghost{/b}...?{p}How else could I have gotten back into my room...?)"
-    danny "(...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...?{/p})"
+    danny "(...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...? )"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:86
 translate spanish intro_565378f5:
@@ -58,7 +58,7 @@ translate spanish intro_565378f5:
 translate spanish intro_61804c48:
 
     # danny p7 "Oh crap! It really {u}did{/u} happen!{p}I'm actually {u}dead{/u}!!"
-    danny p7 "¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy {u}muerto{/u}{/p}!!"
+    danny p7 "¡Oh, mierda! ¡Realmente {u}sucedió{/u}! {p}¡¡Estoy {u}muerto{/u} !!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:102
 translate spanish intro_82c577de:
@@ -94,7 +94,7 @@ translate spanish intro_74e7129e:
 translate spanish intro_91069740:
 
     # jack stare angry talk_happy "Alright, ghost!! Get ready to meet your maker!!{p}For {i}sure{/i} this time!"
-    jack stare angry talk_happy "Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Esta vez por {i}seguro{/i} {/p}!"
+    jack stare angry talk_happy "Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Esta vez por {i}seguro{/i}  !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:150
 translate spanish intro_c5548982:
@@ -208,7 +208,7 @@ translate spanish intro_breakfast_52b794ed:
 translate spanish intro_breakfast_6c61c89f:
 
     # jazz towards wondering talk_frown "No doofus! The talk {i}about{/i} Mom and Dad!{p}You do realize that, eventually, one of us is going to get stuck here taking care of them, and frankly, I have {i}far{/i} too many plans after I graduate school for it to be {i}my{/i} responsibility."
-    jazz towards wondering talk_frown "¡No, tonto! La conversación {i}sobre{/i} ¡Mamá y papá! {p} Te das cuenta de que, en algún momento, uno de nosotros se va a quedar aquí cuidando de ellos{/p}, y francamente, tengo {i}demasiados{/i} planes después de graduarme para que sea {i}mi{/i} responsabilidad."
+    jazz towards wondering talk_frown "¡No, tonto! La conversación {i}sobre{/i} ¡Mamá y papá! {p} Te das cuenta de que, en algún momento, uno de nosotros se va a quedar aquí cuidando de ellos , y francamente, tengo {i}demasiados{/i} planes después de graduarme para que sea {i}mi{/i} responsabilidad."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:282
 translate spanish intro_breakfast_5c64f471:
@@ -226,7 +226,7 @@ translate spanish intro_breakfast_3b28b7de:
 translate spanish intro_breakfast_c47f7104:
 
     # danny towards_wide wondering talk_happy "Oh come on, Jazz, they aren't crazy, they're {b}scientists{/b}! They've been working on this kinda stuff since they went to college.{p}Of course they're going to seem a {i}little{/i} weird compared to other parents, but it's all in the pursuit of scientific research!"
-    danny towards_wide wondering talk_happy "Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {/i} en comparación con otros padres{/p}, pero és solo investigación científica!"
+    danny towards_wide wondering talk_happy "Oh, vamos, Jazz, no están locos, ¡son {b}científicos {/b}! Llevan trabajando en este tipo de cosas desde que fueron a la universidad.{p} Por supuesto que parecen un poco {i}raros {/i} en comparación con otros padres , pero és solo investigación científica!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:291
 translate spanish intro_breakfast_80181d42:
@@ -256,7 +256,7 @@ translate spanish intro_breakfast_604ae20a:
 translate spanish intro_breakfast_d4a1fe18:
 
     # jazz towards sad talk_frown "Exactly, it's {i}total{/i} nonsense. We need parental figures who can provide some actual life guidance, not made up stories about-{p}...crud, I think I hear them coming back up from the Lab."
-    jazz towards sad talk_frown "Exactamente, es un {i}total{/i} sinsentido. Necesitamos figuras paternas que nos orienten en la vida, no historias inventadas sobre...{p}...fantas{/p}... Creo que los oigo volver del laboratorio."
+    jazz towards sad talk_frown "Exactamente, es un {i}total{/i} sinsentido. Necesitamos figuras paternas que nos orienten en la vida, no historias inventadas sobre...{p}...fantas ... Creo que los oigo volver del laboratorio."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:306
 translate spanish intro_breakfast_a0033842:
@@ -286,13 +286,13 @@ translate spanish intro_breakfast_8fece1e9:
 translate spanish intro_breakfast_c6119f48:
 
     # danny towards sad talk_happy "Hey, don't beat yourself up too much, Dad. You'll catch a real gruesome ghost for sure one of these days!{p}And I bet you'll find out how to fix up your portal as well! You guys are brilliant inventors after all!"
-    danny towards sad talk_happy "Oye, no te castigues tanto papá. Seguro que un día de estos atrapas un fantasma realmente espantoso.¡{p}Y apuesto a que también harás funcionar bien tu portal{/p}! Al fin y al cabo, sois unos inventores brillantes!"
+    danny towards sad talk_happy "Oye, no te castigues tanto papá. Seguro que un día de estos atrapas un fantasma realmente espantoso.¡{p}Y apuesto a que también harás funcionar bien tu portal ! Al fin y al cabo, sois unos inventores brillantes!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:345
 translate spanish intro_breakfast_042e32f8:
 
     # jack towards sad talk_happy "{i}Ahh{/i}, Maddie, what a son I have... knows just how to make his old man feel like himself again!{p}Don't worry gang, Jack Fenton will {u}never{/u} give up on his ghost hunting dreams!"
-    jack towards sad talk_happy "{i}Ahh{/i}, Maddie, qué hijo tengo... ¡sabe cómo hacer que su viejo vuelva a sentirse lleno de fuerzas!{p} No os preocupéis, Jack Fenton {u}nunca{/u} abandonará su sueño de caza de fantasmas{/p}!"
+    jack towards sad talk_happy "{i}Ahh{/i}, Maddie, qué hijo tengo... ¡sabe cómo hacer que su viejo vuelva a sentirse lleno de fuerzas!{p} No os preocupéis, Jack Fenton {u}nunca{/u} abandonará su sueño de caza de fantasmas !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:349
 translate spanish intro_breakfast_089c02b0:
@@ -358,7 +358,7 @@ translate spanish intro_breakfast_f2840d99:
 translate spanish intro_breakfast_d3842111:
 
     # danny rise_one talk_happy "So then, gang...{p}...waffle time?"
-    danny rise_one talk_happy "Entonces, pandilla...{p}...¿tiempo de gofres{/p}?"
+    danny rise_one talk_happy "Entonces, pandilla...{p}...¿tiempo de gofres ?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:425
 translate spanish intro_breakfast_b5ff3d91:
@@ -388,13 +388,13 @@ translate spanish intro_schoolfront_9fa60a5e:
 translate spanish intro_schoolfront_55962778:
 
     # danny towards unhappy talk_consternation "Oh, could've been better. I sorta accidentally broke a machine my folks were working on last night.{p}I mean, it was already broken, but I definitely think I busted it good."
-    danny towards unhappy talk_consternation "Podría haber sido mejor. Anoche rompí accidentalmente una máquina en la que trabajaban mis padres.{p}Quiero decir que ya estaba algo rota{/p}, y definitivamente creo que la rompí del todo."
+    danny towards unhappy talk_consternation "Podría haber sido mejor. Anoche rompí accidentalmente una máquina en la que trabajaban mis padres.{p}Quiero decir que ya estaba algo rota , y definitivamente creo que la rompí del todo."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:509
 translate spanish intro_schoolfront_866f4140:
 
     # danny at_player talk_frown rise_one "Oh, and I almost died because of it!{p}(...or maybe I {u}did{/u}...?)"
-    danny at_player talk_frown rise_one "Ah, ¡y casi muero por ello! {p} (¿...o quizás lo {u}hice{/u}...?{/p})"
+    danny at_player talk_frown rise_one "Ah, ¡y casi muero por ello! {p} (¿...o quizás lo {u}hice{/u}...? )"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:513
 translate spanish intro_schoolfront_892fa977:
@@ -538,7 +538,7 @@ translate spanish intro_schoolhallmain_9edd3c44:
 translate spanish intro_schoolhallmain_977895e3:
 
     # dash knuckles towards angry talk_happy "{i}Ennnnhhh{/i}!{p}Time's up! Time for the ground pounding!"
-    dash knuckles towards angry talk_happy "{i}¡Ennnnhhh!{/i}{p}¡Se acabó el tiempo!{/p} ¡Tiempo de machacarte!"
+    dash knuckles towards angry talk_happy "{i}¡Ennnnhhh!{/i}{p}¡Se acabó el tiempo!  ¡Tiempo de machacarte!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:654
 translate spanish intro_schoolhallmain_2e474d8d:
@@ -622,7 +622,7 @@ translate spanish intro_schoolhallmain_ea22e630:
 translate spanish intro_schoolhallmain_4cdbdae9:
 
     # jazz towards rise talk_happy "An abundantly exhausting task, I'm sure.{p}Well look, I've got my first tutoring session coming up, so I'll see you guys around. Later!"
-    jazz towards rise talk_happy "Una tarea bastante agotadora, estoy segura.{p} Bueno mirad, tengo una sesión de tutoría en breve, así que nos vemos por aquí{/p}. ¡Hasta luego!"
+    jazz towards rise talk_happy "Una tarea bastante agotadora, estoy segura.{p} Bueno mirad, tengo una sesión de tutoría en breve, así que nos vemos por aquí . ¡Hasta luego!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:737
 translate spanish intro_schoolhallmain_dab9f4a6:
@@ -640,7 +640,7 @@ translate spanish intro_schoolhallmain_206933bd:
 translate spanish intro_schoolhallmain_d85daa85:
 
     # tucker towards angry talk_frown "Easy for {i}you{/i} to say! You weren't the one who was going to have their underwear lodged up into their pelvic bone!{p}Let's {i}try{/i} not to make the 250-pound walking gorilla mad, shall we?!"
-    tucker towards angry talk_frown "¡Es fácil decirlo para {i}ti{/i} en! ¡No eras tú el que iba a tener su ropa interior metida por el culo!{p} {i}Intentemos{/i} no hacer enfadar al gorila andante de 120 kg,{/p} {/i} ¡¿podremos?!"
+    tucker towards angry talk_frown "¡Es fácil decirlo para {i}ti{/i} en! ¡No eras tú el que iba a tener su ropa interior metida por el culo!{p} {i}Intentemos{/i} no hacer enfadar al gorila andante de 120 kg,  {/i} ¡¿podremos?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:754
 translate spanish intro_schoolhallmain_d498164e:
@@ -802,7 +802,7 @@ translate spanish intro_classroom_70145443:
 translate spanish intro_classroom_ff7a0a67:
 
     # tucker "{i}Uhhhm{/i}, no comment. No offense Danny.{p}Look, I for one am not gonna start believing in something nobody's ever seen before, just on principles alone. I'm a true man of science after all."
-    tucker "{i}Uhhhm{/i}, sin comentarios. No te ofendas, Danny.{p}Mira, yo por mi parte no voy a empezar a creer en algo que nadie ha visto antes, sólo por principios{/p}. Soy un verdadero hombre de ciencia después de todo."
+    tucker "{i}Uhhhm{/i}, sin comentarios. No te ofendas, Danny.{p}Mira, yo por mi parte no voy a empezar a creer en algo que nadie ha visto antes, sólo por principios . Soy un verdadero hombre de ciencia después de todo."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:965
 translate spanish intro_classroom_3c93e393:
@@ -820,7 +820,7 @@ translate spanish intro_classroom_00269548:
 translate spanish intro_classroom_b1b11617:
 
     # danny towards talk_frown_2 sad_2 "{i}Uhhhm{/i}... no, yeah, I'm fine Mr. Lancer, I just gotta...{p}...just gotta..."
-    danny towards talk_frown_2 sad_2 "{i}Uhhhm{/i}... no, sí, estoy bien Sr. Lancer, sólo tengo...{p}...sólo tengo{/p}..."
+    danny towards talk_frown_2 sad_2 "{i}Uhhhm{/i}... no, sí, estoy bien Sr. Lancer, sólo tengo...{p}...sólo tengo ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:991
 translate spanish intro_classroom_63127c2d:
@@ -928,7 +928,7 @@ translate spanish intro_nurseoffice_aa0dd79b:
 translate spanish intro_nurseoffice_4a45c87c:
 
     # kate towards rage talk_happy blush "Wonderful. Now please, go home early today and get some rest.{p}And Danny, I really do mean you can stop by for {i}any{/i} reason..."
-    kate towards rage talk_happy blush "Maravilloso. Ahora, por favor, vete a casa temprano hoy y descansa un poco.{p}Y Danny, quiero decir que puedes pasar por {i}cualquier{/i} razón{/p}..."
+    kate towards rage talk_happy blush "Maravilloso. Ahora, por favor, vete a casa temprano hoy y descansa un poco.{p}Y Danny, quiero decir que puedes pasar por {i}cualquier{/i} razón ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1168
 translate spanish intro_dinner_519df999:
@@ -952,7 +952,7 @@ translate spanish intro_dinner_8ae036b1:
 translate spanish intro_dinner_0dd34039:
 
     # jazz "No.{p}Freaking.{p}Way."
-    jazz "No. {p}Otra {/p} estafa."
+    jazz "No. {p}Otra   estafa."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1190
 translate spanish intro_dinner_7749f032:
@@ -1006,13 +1006,13 @@ translate spanish intro_dinner_53d4b3f3:
 translate spanish intro_dinner_6f305843:
 
     # newscaster 9 "...billionaire, philanthropist, and Fortunate Magazine's \"Man of the Year\" ten years running...{p}{u}Vlad Masters{/u}!"
-    newscaster 9 "...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{/u}{/p}!"
+    newscaster 9 "...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{/u} !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1224
 translate spanish intro_dinner_ccd74309:
 
     # jack "Alright! I'm gonna be the Mayor's adviso... wait!{p}{u}Vladdie{/u}?!"
-    jack "¡Muy bien! Voy a ser el consejero del alcalde... ¡espera! {p}{u}¡¿Vladdie{/u}{/p}?!"
+    jack "¡Muy bien! Voy a ser el consejero del alcalde... ¡espera! {p}{u}¡¿Vladdie{/u} ?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1238
 translate spanish intro_dinner_b6934019:
@@ -1228,7 +1228,7 @@ translate spanish redux_valerie_intro_f230a8a1:
 translate spanish redux_valerie_intro_36057785:
 
     # valerie "{b}Axion Labs{/b}, thank you.{p}His work there's what's going to help put me through college!"
-    valerie "{b}Axion Labs{/b}, gracias.{p}¡Su trabajo allí es lo que me va a ayudar a pagar la universidad{/p}!"
+    valerie "{b}Axion Labs{/b}, gracias.{p}¡Su trabajo allí es lo que me va a ayudar a pagar la universidad !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1451
 translate spanish redux_valerie_intro_d8b4c66e:
@@ -1312,7 +1312,7 @@ translate spanish redux_valerie_intro_b48aadca:
 translate spanish redux_valerie_intro_98ea09d2:
 
     # star down sad talk_happy "...I mean... we're having playful popular girl banter!{p}{i}Heh heh...{/i}"
-    star down sad talk_happy "...quiero decir... ¡estamos teniendo bromas de chicas populares! {p}{i}Heh heh...{/i}{/p}"
+    star down sad talk_happy "...quiero decir... ¡estamos teniendo bromas de chicas populares! {p}{i}Heh heh...{/i} "
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1525
 translate spanish redux_valerie_intro_3136ca5c:
@@ -1384,13 +1384,13 @@ translate spanish redux_valerie_intro_2370072a:
 translate spanish redux_valerie_intro_730415d5:
 
     # star towards angry talk_happy "Well shoot, if that's all it takes to get rid of this loser!{p}Kwan, take this creep and-"
-    star towards angry talk_happy "Bien dicho, ¡eso és todo lo que se necesita para deshacerse de este perdedor! {p}Kwan, coge a este repelente y{/p}-"
+    star towards angry talk_happy "Bien dicho, ¡eso és todo lo que se necesita para deshacerse de este perdedor! {p}Kwan, coge a este repelente y -"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1588
 translate spanish redux_valerie_intro_45f689ac:
 
     # school_intercom "{i}*Prriiiiiiing*{/i}{p}{i}Attention students, attention! This is Principal Ishiyama!{/i}"
-    school_intercom "{i}*Priiiiiiing*{/i}{p}{i}¡Atención estudiantes, atención! ¡Soy el director Ishiyama!{/i}{/p}"
+    school_intercom "{i}*Priiiiiiing*{/i}{p}{i}¡Atención estudiantes, atención! ¡Soy el director Ishiyama!{/i} "
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1594
 translate spanish redux_valerie_intro_f69d145d:
@@ -1420,13 +1420,13 @@ translate spanish redux_valerie_intro_29a0eee1:
 translate spanish redux_valerie_intro_2b1afde5:
 
     # kwan towards rise talk_happy "C'mon guys, we don't wanna be late!{p}It's important that we do our best stay abreast of our school's current affairs!"
-    kwan towards rise talk_happy "Vamos chicos, ¡no queremos llegar tarde! {p} ¡Es importante que hagamos todo lo posible por estar al tanto de la actualidad de nuestra escuela {/p}!"
+    kwan towards rise talk_happy "Vamos chicos, ¡no queremos llegar tarde! {p} ¡Es importante que hagamos todo lo posible por estar al tanto de la actualidad de nuestra escuela  !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1628
 translate spanish redux_valerie_intro_1ebe6d1c:
 
     # star towards rise talk_displeased "Kwan, wait, hold on!{p}At least save me a seat!"
-    star towards rise talk_displeased "¡Kwan!, ¡espera, espera! {p}¡Guárdame un asiento{/p}!"
+    star towards rise talk_displeased "¡Kwan!, ¡espera, espera! {p}¡Guárdame un asiento !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1639
 translate spanish redux_valerie_intro_20890889:
@@ -1444,7 +1444,7 @@ translate spanish redux_valerie_intro_f10e2410:
 translate spanish redux_valerie_intro_605646db:
 
     # valerie "Oh believe me Fenton, I'll remember that little joke.{p}We'll see just who has the last laugh soon enough..."
-    valerie "Oh, créeme Fenton, recordaré esa broma.{p}Pronto veremos quién ríe la última{/p}..."
+    valerie "Oh, créeme Fenton, recordaré esa broma.{p}Pronto veremos quién ríe la última ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1655
 translate spanish redux_valerie_intro_af417d8c:
@@ -1540,13 +1540,13 @@ translate spanish redux_ishiyama_intro_a6b4266f:
 translate spanish redux_ishiyama_intro_3995ec9f:
 
     # lancer offscreen towards angry talk_displeased "{i}AS I LAY DYING!!{/i}{p}WOULD IT POSSIBLY KILL YOU NASTY, SQUABBLING CHILDREN TO LISTEN TO YOUR PRINCIPAL FOR JUST ONE MOMENT?!?"
-    lancer offscreen towards angry talk_displeased "{i}¡NO ME ESTOY MURIENDO!{/i}{p}¿¡¿PODRÍAIS PANDILLA DE FOLLONEROS ESCUCHAR A VUESTRO DIRECTOR UN MOMENTO Y ACABAR CON ESTE TEMA{/p}?!?"
+    lancer offscreen towards angry talk_displeased "{i}¡NO ME ESTOY MURIENDO!{/i}{p}¿¡¿PODRÍAIS PANDILLA DE FOLLONEROS ESCUCHAR A VUESTRO DIRECTOR UN MOMENTO Y ACABAR CON ESTE TEMA ?!?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1727
 translate spanish redux_ishiyama_intro_d7b5ba34:
 
     # classcrowd ". . .{p}{i}*Cough*{/i}"
-    classcrowd "...{p}{i}*tos* {/i}{/p}"
+    classcrowd "...{p}{i}*tos* {/i} "
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1729
 translate spanish redux_ishiyama_intro_4afdc321:
@@ -1642,7 +1642,7 @@ translate spanish redux_ishiyama_intro_fb2c5a69:
 translate spanish redux_ishiyama_intro_2c997049:
 
     # danny f offscreen towards rise talk_displeased "{i}*Whispering*{/i} Hey, what happened to being quiet?{p}Also, better question, who is that hotline possibly set up for...? What sucker would spend their time-"
-    danny f offscreen towards rise talk_displeased "{i}*Susurro*{/i} Hei, ¿Qué pasó con el silencio? {p}Además, una pregunta mejor, ¿para quién es esa línea directa? ¿Qué idiota gastaría su tiempo{/p}-"
+    danny f offscreen towards rise talk_displeased "{i}*Susurro*{/i} Hei, ¿Qué pasó con el silencio? {p}Además, una pregunta mejor, ¿para quién es esa línea directa? ¿Qué idiota gastaría su tiempo -"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1769
 translate spanish redux_ishiyama_intro_646aeb38:
@@ -1654,7 +1654,7 @@ translate spanish redux_ishiyama_intro_646aeb38:
 translate spanish redux_ishiyama_intro_9a4db4ec:
 
     # danny f offscreen closed idle talk_displeased "{i}*Sighs*{/i} Stupid question, you're right...{p}Gonna be a lot of late nights hearing the phone go off... great."
-    danny f offscreen closed idle talk_displeased "{i}*Suspiro*{/i} Pregunta estúpida, tienes razón...{p}Van a ser muchas noches escuchando el teléfono sonar{/p}... genial."
+    danny f offscreen closed idle talk_displeased "{i}*Suspiro*{/i} Pregunta estúpida, tienes razón...{p}Van a ser muchas noches escuchando el teléfono sonar ... genial."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1774
 translate spanish redux_ishiyama_intro_e6b77374:
@@ -1726,7 +1726,7 @@ translate spanish redux_ishiyama_intro_87c84d48:
 translate spanish redux_ishiyama_intro_27c4e25d:
 
     # student4 "Totally worth it, if she shows those big, fat, Mommy mil-{p}OWWW!! My ear!!"
-    student4 "Vale la pena si ella muestra sus grandes, gordas, maduras {p}¡¡OWWW!! ¡¡Mi oreja{/p}!!"
+    student4 "Vale la pena si ella muestra sus grandes, gordas, maduras {p}¡¡OWWW!! ¡¡Mi oreja !!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1805
 translate spanish redux_ishiyama_intro_6030bf1c:
@@ -1756,7 +1756,7 @@ translate spanish redux_ishiyama_intro_e8938d09:
 translate spanish redux_ishiyama_intro_b4d1d49f:
 
     # ishiyama speech face_front at_left unhappy talk_displeased microphone "{i}*Ahem*{/i}{p}...yes, well...{p}...I suppose that adjourns things, barring any sort of meaningful way I might have wanted the meeting to end..."
-    ishiyama speech face_front at_left unhappy talk_displeased microphone "{i}*Ahem*{/i}{p}...sí{/p}, bueno...{p}...supongo que esto finaliza la reunión{/p}, salvo que haya alguna causa significativa para seguir..."
+    ishiyama speech face_front at_left unhappy talk_displeased microphone "{i}*Ahem*{/i}{p}...sí , bueno...{p}...supongo que esto finaliza la reunión , salvo que haya alguna causa significativa para seguir..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1817
 translate spanish redux_ishiyama_intro_f48a6eff:
@@ -1786,13 +1786,13 @@ translate spanish redux_ishiyama_intro_5856437c:
 translate spanish redux_ishiyama_intro_9640e6d0:
 
     # ishiyama offscreen towards idle talk_happy "Oh, Jasmine! There you are!{p}Have you got a moment? I was hoping to catch you before everyone filed into the halls!"
-    ishiyama offscreen towards idle talk_happy "¡Oh, Jasmine! ¡Ahí estás!{p}¿Tienes un momento?{/p} ¡Esperaba encontrarte antes de que todos salieran a los pasillos!"
+    ishiyama offscreen towards idle talk_happy "¡Oh, Jasmine! ¡Ahí estás!{p}¿Tienes un momento?  ¡Esperaba encontrarte antes de que todos salieran a los pasillos!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1855
 translate spanish redux_ishiyama_intro_59b5e3d1:
 
     # jazz towards idle talk_happy "Oh, Principal Ishiyama, hello!{p}That was an excellent public address to the students, I really enjoyed it!"
-    jazz towards idle talk_happy "¡Oh, director Ishiyama, hola!{p}Fue un excelente discurso público a los estudiantes{/p}, ¡realmente lo disfruté!"
+    jazz towards idle talk_happy "¡Oh, director Ishiyama, hola!{p}Fue un excelente discurso público a los estudiantes , ¡realmente lo disfruté!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1859
 translate spanish redux_ishiyama_intro_61fb3604:
@@ -1840,7 +1840,7 @@ translate spanish redux_ishiyama_intro_1b23fc01:
 translate spanish redux_ishiyama_intro_d5713e61:
 
     # ishiyama arm_front towards unhappy talk_displeased "Not my best skill, frankly.{p}I just can't seem to get across to them when it comes to rather important matters like this!"
-    ishiyama arm_front towards unhappy talk_displeased "No es mi mejor habilidad, francamente.{p} ¡Parece que no consigo convencerlos cuando se trata de asuntos tan importantes como éste{/p}!"
+    ishiyama arm_front towards unhappy talk_displeased "No es mi mejor habilidad, francamente.{p} ¡Parece que no consigo convencerlos cuando se trata de asuntos tan importantes como éste !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1891
 translate spanish redux_ishiyama_intro_2d851a73:
@@ -1990,7 +1990,7 @@ translate spanish redux_ishiyama_intro_ac87593b:
 translate spanish redux_ishiyama_intro_b5993fb4:
 
     # ishiyama arm_behind towards sad talk_displeased "No, I just forgot I have an important faculty meeting to attend to right now. It was scheduled for right after the assembly meeting.{p}I really shouldn't hold them all up..."
-    ishiyama arm_behind towards sad talk_displeased "No, olvidé que tengo una importante reunión de la facultad a la que asistir ahora mismo. Estaba programada para justo después de la reunión. {p}No debería retrasarme{/p}..."
+    ishiyama arm_behind towards sad talk_displeased "No, olvidé que tengo una importante reunión de la facultad a la que asistir ahora mismo. Estaba programada para justo después de la reunión. {p}No debería retrasarme ..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1993
 translate spanish redux_ishiyama_intro_cb07aca3:
@@ -2044,7 +2044,7 @@ translate spanish redux_ishiyama_intro_8af870d5:
 translate spanish redux_ishiyama_intro_87b1eebb:
 
     # ishiyama arm_front towards idle talk_happy "Wonderful, thank you!{p}Now, if you'll excuse me!"
-    ishiyama arm_front towards idle talk_happy "¡Maravilloso!, ¡gracias! {p}¡Ahora, si me disculpan{/p}!"
+    ishiyama arm_front towards idle talk_happy "¡Maravilloso!, ¡gracias! {p}¡Ahora, si me disculpan !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2028
 translate spanish redux_ishiyama_intro_7fe0fb42:
@@ -2056,7 +2056,7 @@ translate spanish redux_ishiyama_intro_7fe0fb42:
 translate spanish redux_ishiyama_intro_45d2a5ae:
 
     # danny towards sad talk_happy "Oh well. Ishiyama seems nice enough, if not a bit distracted at times...{p}Let's just hope I'm actually of any use to her."
-    danny towards sad talk_happy "Ah, bueno. Ishiyama parece bastante agradable, un poco distraída a veces...{p}Esperemos que sea realmente útil para ella{/p}."
+    danny towards sad talk_happy "Ah, bueno. Ishiyama parece bastante agradable, un poco distraída a veces...{p}Esperemos que sea realmente útil para ella ."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2064
 translate spanish invisobill_introduction_7a68e671:

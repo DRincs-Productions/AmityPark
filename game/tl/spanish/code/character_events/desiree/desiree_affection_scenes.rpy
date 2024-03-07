@@ -136,7 +136,7 @@ translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_b8a9f25d:
 translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_911edce9:
 
     # desiree "Your magic wish imbued upon your \"Thermos\" provided Ember a room tailored towards her interests and stylings."
-    desiree "Tu deseo mágico imbuido sobre tus \"Thermos\" proporcionó a Ember una habitación adaptada a sus intereses y estilo."
+    desiree "Tu deseo mágico imbuido sobre tu \"Thermo\" proporcionó a Ember una habitación adaptada a sus intereses y estilo."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:147
 translate spanish desiree_affection_1_bedroom_morning_intro_comtimue_07328a3b:
@@ -184,7 +184,7 @@ translate spanish desiree_affection_1_bedroom_night_0c025003:
 translate spanish desiree_affection_1_bedroom_night_29a45583:
 
     # desiree "Why good evening, my Master...~"
-    desiree "Buenas tardes, Maestro... ~"
+    desiree "Buenas tardes, amo... ~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:211
 translate spanish desiree_affection_1_bedroom_night_ba91ed57:
@@ -286,7 +286,7 @@ translate spanish desiree_affection_1_bedroom_night_cf9d921d:
 translate spanish desiree_affection_1_anal_cowgirl_after_c4ddb078:
 
     # desiree "{i}Mmm{/i}...{p}. . .{p}...I love you Master~"
-    desiree "{i}Mmm{/i}...{p}. . .{p}...Te amo Maestro~"
+    desiree "{i}Mmm{/i}...{p}. . .{p}...Te amo amo~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:294
 translate spanish desiree_affection_1_anal_cowgirl_after_7e1138c7:
@@ -304,7 +304,7 @@ translate spanish desiree_affection_1_anal_cowgirl_after_97cd948a:
 translate spanish desiree_affection_1_anal_cowgirl_after_a2764cbb:
 
     # desiree "Do you also feel at ease with my performance, Master...?"
-    desiree "¿Te sientes a gusto, Maestro...?"
+    desiree "¿Te sientes a gusto, amo...?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:304
 translate spanish desiree_affection_1_anal_cowgirl_after_c8bbce64:
@@ -370,7 +370,7 @@ translate spanish desiree_affection_nighttime_visit_start_3b09c798:
 translate spanish desiree_affection_nighttime_visit_start_d86e93a5:
 
     # desiree "{i}*Giggles*{/i} What will it be tonight then, Master?~"
-    desiree "{i}*risas * {/i} ¿Qué quieres esta noche Maestro?~"
+    desiree "{i}*risas * {/i} ¿Qué quieres esta noche amo?~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:522
 translate spanish desiree_affection_1_vaginal_cowgirl_4c35b251:
@@ -382,7 +382,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_4c35b251:
 translate spanish desiree_affection_1_vaginal_cowgirl_51b16101:
 
     # desiree "That's it Master, f-fuck me, {i}mmfgh{/i}..."
-    desiree "Eso es Maestro, f-fóllame, {i}mmfgh {/i}..."
+    desiree "Eso es amo, f-fóllame, {i}mmfgh {/i}..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:528
 translate spanish desiree_affection_1_vaginal_cowgirl_2224826c:
@@ -418,7 +418,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_e113c711:
 translate spanish desiree_affection_1_vaginal_cowgirl_dfe39346:
 
     # desiree "{i}*Huff*{/i} M-Master... I think I'm close to {i}*Huff*{/i} f-finishing!"
-    desiree "{i}*Huff * {/i} M-Maestro... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
+    desiree "{i}*Huff * {/i} M-amo... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:544
 translate spanish desiree_affection_1_vaginal_cowgirl_589612e0:
@@ -484,7 +484,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_4c35b251:
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_51b16101:
 
     # desiree "That's it Master, f-fuck me, {i}mmfgh{/i}..."
-    desiree "Eso es Maestro, f-fóllame, {i}mmfgh {/i}..."
+    desiree "Eso es amo, f-fóllame, {i}mmfgh {/i}..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:608
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_2224826c:
@@ -520,7 +520,7 @@ translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_e113c711:
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_dfe39346:
 
     # desiree "{i}*Huff*{/i} M-Master... I think I'm close to {i}*Huff*{/i} f-finishing!"
-    desiree "{i}*Huff * {/i} M-Maestro... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
+    desiree "{i}*Huff * {/i} M-amo... Creo que estoy cerca de {i}*Huff * {/i} ¡d-de correrme!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:624
 translate spanish desiree_affection_1_vaginal_cowgirl_Repeat_589612e0:
@@ -646,7 +646,7 @@ translate spanish desiree_affection_1_anal_cowgirl_cf4e0f16:
 translate spanish desiree_affection_1_anal_cowgirl_55e4c4ef:
 
     # desiree "Oh! How {u}vulgar{/u} master!~{p}"
-    desiree "¡Oh! {p}¡que{u}vulgar {/u} maestro! ~{/p}"
+    desiree "¡Oh! {p}¡que{u}vulgar {/u} maestro! ~ "
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:715
 translate spanish desiree_affection_1_anal_cowgirl_bd3d62ec:
@@ -658,7 +658,7 @@ translate spanish desiree_affection_1_anal_cowgirl_bd3d62ec:
 translate spanish desiree_affection_1_anal_cowgirl_d3bdfb4d:
 
     # desiree "F-fuck my tight ass Master!~"
-    desiree "¡F-folla mi estrecho culo Maestro!~"
+    desiree "¡F-folla mi estrecho culo amo!~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:721
 translate spanish desiree_affection_1_anal_cowgirl_8cf158e6:
@@ -694,7 +694,7 @@ translate spanish desiree_affection_1_anal_cowgirl_cc9fd2f5:
 translate spanish desiree_affection_1_anal_cowgirl_8be021f9:
 
     # desiree "Master!!~ You filled my little filthy hole to the brim with your hot seed!"
-    desiree "¡¡Maestro!!~ ¡Has llenado mi estrecho agujero con tus semillas calientes!"
+    desiree "¡¡amo!!~ ¡Has llenado mi estrecho agujero con tus semillas calientes!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:746
 translate spanish desiree_affection_1_anal_cowgirl_1f815e1e:
@@ -730,7 +730,7 @@ translate spanish desiree_affection_nighttime_visit_end_34cac41c:
 translate spanish desiree_affection_nighttime_visit_end_210dc62d:
 
     # desiree "Goodnight, my young Master...~"
-    desiree "Buenas noches, mi joven Maestro...~"
+    desiree "Buenas noches, mi joven amo...~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:797
 translate spanish desiree_affection_nighttime_visit_end_571f517e:
