@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-18 06:47\n"
+"PO-Revision-Date: 2024-04-08 23:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_Dash.rpy:71 #-#-# translate crowdin start_fight_Dash_ff2940fc:
 msgid "[_danny_] Time for some well deserved payback, Dash!"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/code/battle/fight_Dash.rpy:86 #-#-# translate crowdin fight_main_dash_868dc067:
 msgid "[_danny_] This has saved me {i}years{/i} of therapy, so thanks Ectopus! But now it's time to put the {b}real{/b} bully in his place!"
-msgstr ""
+msgstr "!"
 
 # game/code/battle/fight_Dash.rpy:127 #-#-# translate crowdin dash_turn_d58590d1:
 msgid "[_danny_] nothing happened."
