@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-07-22 11:07\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -234,7 +234,7 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:172 #-#-# translate crowdin newbattletutorial_3bd606c0:
 msgid "[_epa_] Well then, it's time to get you adapted to the new system!"
-msgstr ""
+msgstr "!"
 
 # game/code/battleoverhaul/newbattle.rpy:209 #-#-# translate crowdin test_LevelUP_2185d768:
 msgid "[_epa_] (Congrats you are now level 2!)"
