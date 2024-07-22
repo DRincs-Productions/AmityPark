@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-07-22 20:36\n"
+"PO-Revision-Date: 2024-07-22 22:03\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_ghost_bathroom.rpy:155 #-#-# translate crowdin start_fight_bathroom_79c20c76:
 msgid "[_danny_] Creepy ghost, you're going down!"
@@ -26,15 +26,15 @@ msgstr "[_danny_] Пора положить этому конец!"
 
 # game/code/battle/fight_ghost_bathroom.rpy:209 #-#-# translate crowdin t_ghost_turn_bath_d58590d1:
 msgid "[_danny_] nothing happened."
-msgstr ""
+msgstr "[_danny_] ничего не произошло."
 
 # game/code/battle/fight_ghost_bathroom.rpy:345 #-#-# translate crowdin player_invisible_bath_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] У меня недостаточно энергии для этого."
 
 # game/code/battle/fight_ghost_bathroom.rpy:405 #-#-# translate crowdin player_ghost_ray_bath_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] У меня недостаточно энергии для этого."
 
 # game/code/battle/fight_ghost_bathroom.rpy:541 #-#-# translate crowdin ghost_attack_bath_cedae1c8:
 msgid "[_danny_] I need to be more careful!"
