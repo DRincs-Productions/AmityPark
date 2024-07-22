@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2024-07-22 20:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_shadow.rpy:257 #-#-# translate crowdin fight_shadow_fight_main_7d2b96fa:
 msgid "[_danny_] Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/code/battle/fight_shadow.rpy:702 #-#-# translate crowdin fight_shadow_ghost_attack_cedae1c8:
 msgid "[_danny_] I need to be more careful!"
-msgstr ""
+msgstr "[_danny_] Мне нужно быть осторожнее!"
 
 # game/code/battle/fight_shadow.rpy:786 #-#-# translate crowdin fight_shadow_stop_Running_away_3e4f51de:
 msgid "Be a man and fight! Paulina needs your help!"
