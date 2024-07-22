@@ -10,63 +10,69 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-22 20:38\n"
+"PO-Revision-Date: 2024-07-22 22:03\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:69 #-#-# translate crowdin functionlabel_CalledBattle_d97cd968:
 msgid "You've earned [earnedEXP] experience points!"
-msgstr ""
+msgstr "Вы заработали [earnedEXP] очков опыта!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:82 #-#-# translate crowdin functionlabel_CalledBattle_3337726c:
 msgid "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] All that training paid off, but I didn't learn anything from that fight."
-msgstr ""
+msgstr "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] Все эти тренировки окупились, но я ничему не научился в этом бою."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:90 #-#-# translate crowdin functionlabel_CalledBattle_d97cd968_1:
 msgid "You've earned [earnedEXP] experience points!"
-msgstr ""
+msgstr "Вы заработали [earnedEXP] очков опыта!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:96 #-#-# translate crowdin functionlabel_CalledBattle_97b69e6c:
 msgid "Congratulations you are now level [dannyCombat[Level]]\n"
 " Gained 1 Skill Point!\n"
 "Gained 1 Passive Point!"
-msgstr ""
+msgstr "Поздравляем, вы достигли уровня [dannyCombat[Level]].\n"
+" Получено 1 очко умений!\n"
+"Получено 1 пассивное очко!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:182 #-#-# translate crowdin menu_LoseMenu_51aecfb7:
 msgid "Time to run..."
-msgstr ""
+msgstr "Пора бежать..."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:243 #-#-# translate crowdin functionlabel_TrainingBattle_d97cd968:
 msgid "You've earned [earnedEXP] experience points!"
-msgstr ""
+msgstr "Вы заработали [earnedEXP] очков опыта!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:256 #-#-# translate crowdin functionlabel_TrainingBattle_3337726c:
 msgid "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] All that training paid off, but I didn't learn anything from that fight."
-msgstr ""
+msgstr "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] Все эти тренировки окупились, но я ничему не научился в этом бою."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:263 #-#-# translate crowdin functionlabel_TrainingBattle_d97cd968_1:
 msgid "You've earned [earnedEXP] experience points!"
-msgstr ""
+msgstr "Вы заработали [earnedEXP] очков опыта!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:269 #-#-# translate crowdin functionlabel_TrainingBattle_97b69e6c:
 msgid "Congratulations you are now level [dannyCombat[Level]]\n"
 " Gained 1 Skill Point!\n"
 "Gained 1 Passive Point!"
-msgstr ""
+msgstr "Поздравляем, вы достигли уровня [dannyCombat[Level]].\n"
+" Получено 1 очко умений!\n"
+"Получено 1 пассивное очко!"
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:289 #-#-# translate crowdin functionlabel_TrainingBattle_3337726c_1:
 msgid "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] All that training paid off, but I didn't learn anything from that fight."
-msgstr ""
+msgstr "[_danny_s_p_s_offscreen_s_at_player_s_rise_s_talk_frown_] Все эти тренировки окупились, но я ничему не научился в этом бою."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:300 #-#-# translate crowdin functionlabel_TrainingMachineBroke_40607a69:
 msgid "[_simulatorAi_] Attention! The \"Fenton Battery\" level has reached a critical low! \n"
 "Further Simulation can not be initiated. \n"
 "Please, wait until the Fenton Battery has fully recharged."
-msgstr ""
+msgstr "[_simulatorAi_] Внимание! Уровень \"батареи Фентона\" критически низкий! \n"
+"Дальнейшая симуляция не может быть начата. \n"
+"Пожалуйста, подождите, пока батарея Фентона полностью перезарядится."
 
 # §translate crowdin strings: #|#|# # game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
 msgid "Turn on Super Danny for battle and retry."
-msgstr ""
+msgstr "Включите Супер Дэнни для битвы и повторите попытку."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
 msgid "Retry"
-msgstr ""
+msgstr "Повторить попытку"
 
