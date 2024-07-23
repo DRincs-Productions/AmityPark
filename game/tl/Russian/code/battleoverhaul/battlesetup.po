@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-07-23 06:38\n"
+"PO-Revision-Date: 2024-07-23 08:24\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
@@ -38,27 +38,27 @@ msgstr ""
 
 # game/code/battleoverhaul/battlesetup.rpy:56 #-#-# translate crowdin test_MaddieRoute_5d9dee6b:
 msgid "[_epa_] Oh no! The princess is raging again... prepare to face a big cranky dragon!"
-msgstr ""
+msgstr "[_epa_] О, нет! Принцесса снова в ярости... приготовьтесь к встрече с большим капризным драконом!"
 
 # game/code/battleoverhaul/battlesetup.rpy:62 #-#-# translate crowdin test_MaddieRoute_2e1a78ee:
 msgid "[_epa_] (Congrats you are now level 7!)"
-msgstr ""
+msgstr "[_epa_] (Поздравляем, вы достигли 7-го уровня!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:73 #-#-# translate crowdin test_StarRoute_dc68ccb5:
 msgid "[_epa_] Ectopus and his minions."
-msgstr ""
+msgstr "[_epa_] Эктопус и его миньоны."
 
 # game/code/battleoverhaul/battlesetup.rpy:79 #-#-# translate crowdin test_StarRoute_2e1a78ee:
 msgid "[_epa_] (Congrats you are now level 7!)"
-msgstr ""
+msgstr "[_epa_] (Поздравляем, вы достигли 7-го уровня!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:88 #-#-# translate crowdin test_PaulinaRoute_00abc948:
 msgid "[_epa_] The return of Vlad's monster."
-msgstr ""
+msgstr "[_epa_] Возвращение монстра Влада."
 
 # game/code/battleoverhaul/battlesetup.rpy:94 #-#-# translate crowdin test_PaulinaRoute_2e1a78ee:
 msgid "[_epa_] (Congrats you are now level 7!)"
-msgstr ""
+msgstr "[_epa_] (Поздравляем, вы достигли 7-го уровня!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:103 #-#-# translate crowdin test_KateRoute_500257c6:
 msgid "[_epa_] Kate did not have an extra battle."
@@ -66,15 +66,15 @@ msgstr ""
 
 # game/code/battleoverhaul/battlesetup.rpy:109 #-#-# translate crowdin test_DesireeRoute_877feb45:
 msgid "[_epa_] Lake Monster unavailable currently."
-msgstr ""
+msgstr "[_epa_] Озерный монстр сейчас недоступен."
 
 # §translate crowdin strings: #|#|# # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Choose which route you will take"
-msgstr ""
+msgstr "Выберите, по какому пути вы пойдете"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Maddie"
-msgstr ""
+msgstr "Мэдди"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Star"
@@ -82,9 +82,9 @@ msgstr ""
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Paulina"
-msgstr ""
+msgstr "Паулина"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Kate"
-msgstr ""
+msgstr "Кейт"
 
