@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-07-23 06:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
-msgstr ""
+msgstr "[_epa_] Итак, время тестирования битв 7-го эпизода. Первая битва - с Призрачной Коброй из пути Кейт."
 
 # game/code/battleoverhaul/battlesetup.rpy:3 #-#-# translate crowdin testbattles_4427ec62:
 msgid "[_epa_] Okay time to be crushed by Ember."
-msgstr ""
+msgstr "[_epa_] Пришло время быть раздавленным Эмбер."
 
 # game/code/battleoverhaul/battlesetup.rpy:5 #-#-# translate crowdin testbattles_aa043cb9:
 msgid "[_epa_] That smarts... well time to pick your route."
-msgstr ""
+msgstr "[_epa_] Это умно... что ж, пора выбирать путь."
 
 # game/code/battleoverhaul/battlesetup.rpy:7 #-#-# translate crowdin testbattles_f4c6574d:
 msgid "[_epa_] Okay back to the main quest."
-msgstr ""
+msgstr "[_epa_] Ладно, вернемся к основному квесту."
 
 # game/code/battleoverhaul/battlesetup.rpy:8 #-#-# translate crowdin testbattles_2e535c4e:
 msgid "[_epa_] Rescue Sam from this chump goon of Ember's."
