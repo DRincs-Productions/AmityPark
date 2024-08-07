@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 14:21\n"
+"PO-Revision-Date: 2024-08-07 10:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
-msgstr "ERROR DETECTADO: ¡CORRECCIÓN DE NIVEL FORZADA INICIADA!"
+msgstr "ERROR DETECTADO: ¡CORRECCIÓN DE NIVEL FORZADO INICIADO!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:58 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_88603d05:
 msgid "[_intercom_] {i}Good morning students. This is Vice Principal Lancer!{i}"
