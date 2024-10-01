@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-23 11:08\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -526,11 +526,11 @@ msgstr "[_tucker_] ¿Ah, sí? ¿Dónde has visto eso? ¿En {i}\"Casos sobre natu
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:913 #-#-# translate crowdin intro_classroom_f53b2978:
 msgid "[_sam_] No, Tucker! On my goth forum, \"Children of the Bite\", somebody posted a really interesting article about {b}Vlad Masters{/b} and his research over the years. You know him, right?"
-msgstr "[_sam_] ¡No, Tucker! En mi foro gótico, \"Picadura de araña\", alguien publicó un artículo muy interesante sobre el {b}maestro Vlad{/b} y su búsqueda durante años. Lo conoces, ¿verdad?"
+msgstr "[_sam_] ¡No, Tucker! En mi foro gótico, \"Picadura de araña\", alguien publicó un artículo muy interesante sobre el {b}doctor Vlad{/b} y su búsqueda durante años. Lo conoces, ¿verdad?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:918 #-#-# translate crowdin intro_classroom_0a3ea84f:
 msgid "[_tucker_] Come on Sam, we {i}all{/i} know about Vlad Masters. There's no need to patronize us."
-msgstr "[_tucker_] Vamos Sam, {i}todos{/i} nosotros conocemos al maestro Vlad. No hay necesidad de que le patrocines."
+msgstr "[_tucker_] Vamos Sam, {i}todos{/i} nosotros conocemos al doctor Vlad. No hay necesidad de que le patrocines."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:923 #-#-# translate crowdin intro_classroom_78207827:
 msgid "[_sam_] Yeah, yeah, I know, billionare, brilliant inventor, silver fox type, kinda hard to forget, I'm sorry. Well, what you might {i}not{/i} know is that he's invested millions in research towards the study of para-pscyhology and the paranormal."
@@ -682,7 +682,7 @@ msgstr "[_jack_] {i}¡¡SÍ!! {/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1220 #-#-# translate crowdin intro_dinner_6f305843:
 msgid "[_newscaster_s_9_] ...billionaire, philanthropist, and Fortunate Magazine's \"Man of the Year\" ten years running...{p}{u}Vlad Masters{/u}!"
-msgstr "[_newscaster_s_9_] ...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡maestro Vlad{/u} !"
+msgstr "[_newscaster_s_9_] ...multimillonario, filántropo y \"Hombre del Año\" de la revista Fortuna por diez años consecutivos...{p}{u}¡doctor Vlad{/u} !"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1224 #-#-# translate crowdin intro_dinner_ccd74309:
 msgid "[_jack_] Alright! I'm gonna be the Mayor's adviso... wait!{p}{u}Vladdie{/u}?!"
@@ -706,7 +706,7 @@ msgstr "[_jack_] Diablos, creo que ¡¡{i}hace{/i} una eternidad!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1251 #-#-# translate crowdin intro_dinner_5e1b3843:
 msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Wait, Mom, Dad... do you two {i}know{/i} Vlad Masters?"
-msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] Espera, mamá, papá... ¿{i}conocéis{/i} al maestro Vlad?"
+msgstr "[_jazz_s_towards_s_wondering_s_talk_frown_] Espera, mamá, papá... ¿{i}conocéis{/i} al doctor Vlad?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1259 #-#-# translate crowdin intro_dinner_6d4b3089:
 msgid "[_maddie_s_flip_s_towards_s_neutral_s_talk_happy_] Know him? Heck, the two of us actually used to {u}date{/u} for a good while back in college!"
@@ -1134,7 +1134,7 @@ msgstr "[_ishiyama_s_speech_s_face_right_s_at_right_s_sad_s_talk_happy_s_microph
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1783 #-#-# translate crowdin redux_ishiyama_intro_b3652319:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_happy_s_microphone_] So please, for your safety and the safety of others, follow these new mandated rules until things can be properly resolved by the mayor's new advisor, Vlad Masters!"
-msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_happy_s_microphone_] Así que, por favor, por su seguridad y la de los demás, sigan estas nuevas normas obligatorias hasta que las cosas puedan ser resueltas adecuadamente por el nuevo asesor del alcalde, ¡Maestro Vlad!"
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_happy_s_microphone_] Así que, por favor, por su seguridad y la de los demás, sigan estas nuevas normas obligatorias hasta que las cosas puedan ser resueltas adecuadamente por el nuevo asesor del alcalde, ¡doctor Vlad!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1786 #-#-# translate crowdin redux_ishiyama_intro_c06f162b:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_idle_s_talk_happy_] {i}*Whispering*{/i} So it's true, that Vlad guy is really coming to Amity Park to help out."
