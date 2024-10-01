@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-10 12:37\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/home/house_misc.rpy:8 #-#-# translate crowdin locked_34880f71:
 msgid "[_danny_] (Jazz keeps her door locked most of the time. She doesn't like me snooping in on her. Whatever, like I'd even care!)"
@@ -22,7 +22,7 @@ msgstr "[_danny_] (La habitación de mamá y papá. ¿Quién sabe qué cosas inc
 
 # game/code/locations/home/house_misc.rpy:40 #-#-# translate crowdin waffle_time_c79d9a42:
 msgid "[_danny_] No, I spent too much time eating breakfast, I {i}do{/i} actually need to head to school soon.{p}I should use my {b}map{/b} to get out of here."
-msgstr "[_danny_] No, pasé demasiado tiempo desayunando, {i}tengo{/i} que ir a la escuela pronto.{p}Debería{/p} usar mi {b}mapa{/b} para salir de aquí."
+msgstr "[_danny_] No, pasé demasiado tiempo desayunando, {i}tengo{/i} que ir a la escuela pronto.{p}Debería  usar mi {b}mapa{/b} para salir de aquí."
 
 # game/code/locations/home/house_misc.rpy:59 #-#-# translate crowdin not_tired_b1ef507f:
 msgid "[_danny_] Mom is waiting downstairs to watch a movie with me. Now isn't the time for sleeping."
@@ -38,11 +38,11 @@ msgstr "[_danny_] (El Portal Fantasma de Fenton. Es lo que me dio mis poderes, p
 
 # game/code/locations/home/house_misc.rpy:159 #-#-# translate crowdin optimal_temperature_f0696bec:
 msgid "[_danny_] Dad wouldn't want me messing with the thermostat in the lab. He says it keeps the vials of ectoplasm at an optimal temperature.{p}Honestly, I just think he doesn't like paying for heat down here."
-msgstr "[_danny_] A papá no le gustaría verme tocando el termostato del laboratorio. Dice que mantiene los viales de ectoplasma a una temperatura óptima.{p}Honestamente{/b} creo que en realidad no quiere pagar calefacción para aquí abajo."
+msgstr "[_danny_] A papá no le gustaría verme tocando el thermostato del laboratorio. Dice que mantiene los viales de ectoplasma a una temperatura óptima.{p}Honestamente{/b} creo que en realidad no quiere pagar calefacción para aquí abajo."
 
 # game/code/locations/home/house_misc.rpy:171 #-#-# translate crowdin optimal_temperature_f0696bec_1:
 msgid "[_danny_] Dad wouldn't want me messing with the thermostat in the lab. He says it keeps the vials of ectoplasm at an optimal temperature.{p}Honestly, I just think he doesn't like paying for heat down here."
-msgstr "[_danny_] A papá no le gustaría verme tocando el termostato del laboratorio. Dice que mantiene los viales de ectoplasma a una temperatura óptima.{p}Honestamente{/b} creo que en realidad no quiere pagar calefacción para aquí abajo."
+msgstr "[_danny_] A papá no le gustaría verme tocando el thermostato del laboratorio. Dice que mantiene los viales de ectoplasma a una temperatura óptima.{p}Honestamente{/b} creo que en realidad no quiere pagar calefacción para aquí abajo."
 
 # game/code/locations/home/house_misc.rpy:185 #-#-# translate crowdin optimal_temperature_0a646ea7:
 msgid "[_danny_] (I should better wait until no one is around later at night.)"
