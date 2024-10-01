@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-19 14:16\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
@@ -430,7 +430,7 @@ msgstr "[_danny_s_rise_one_s_talk_happy_2_] Claro, ¿me paso por tu casa?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:284 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_ca020cf7:
 msgid "[_sam_s_away_s_angry_s_blush_2_s_talk_frown_3_] What, for more Orgone?."
-msgstr "[_sam_s_away_s_angry_s_blush_2_s_talk_frown_3_] ¿Qué?, ¿a por más Orgón?."
+msgstr "[_sam_s_away_s_angry_s_blush_2_s_talk_frown_3_] ¿Qué?, ¿a por más Orgone?."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:286 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_75ecc197:
 msgid "[_danny_s_sad_s_talk_frown_] Sam, I didn't mean-"
@@ -694,7 +694,7 @@ msgstr "[_danny_s_at_danny_s_angry_] (Tengo que evitar enfadarme... tranquilo, D
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:496 #-#-# translate crowdin twinkle_twinkle_little_star_scene_2_hallway_596efc4d:
 msgid "[_star_s_confused_s_talk_happy_2_] So my plan is, you take this, and use your powers to like, put it in her locker during a school day. Then I tell my teacher that I saw her put something like a weapon in there!"
-msgstr "[_star_s_confused_s_talk_happy_2_] Así que mi plan és, coje esto y uses tus poderes para ponerlo en su taquilla de la escuela durante el día. ¡Luego le digo a mi maestro que la vi poner algo como un arma ahí!"
+msgstr "[_star_s_confused_s_talk_happy_2_] Así que mi plan és, coje esto y uses tus poderes para ponerlo en su taquilla de la escuela durante el día. ¡Luego le digo a mi doctor que la vi poner algo como un arma ahí!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:498 #-#-# translate crowdin twinkle_twinkle_little_star_scene_2_hallway_4b8765a3:
 msgid "[_star_s_talk_happy_s_sad_] When he opens up her locker, I'll have gathered a whole crowd around for everybody to see when he pulls it out! It'll be totally hilarious!!"
@@ -786,7 +786,7 @@ msgstr "[_danny_s_towards_s_sad_2_s_frown_2_] (Bueno, tengo algún tiempo para t
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:551 #-#-# translate crowdin twinkle_twinkle_little_star_scene_2_hallway_a729477f:
 msgid "[_danny_s_towards_wide_s_frown_grin_2_] (Also, I should get out of here before a teacher or some janitor sees the ghost pervert just haunting the halls...)"
-msgstr "[_danny_s_towards_wide_s_frown_grin_2_] (También, debo salir de aquí antes de que un maestro o algún conserje vea un fantasma pervertido rondando las salas...)"
+msgstr "[_danny_s_towards_wide_s_frown_grin_2_] (También, debo salir de aquí antes de que un doctor o algún conserje vea un fantasma pervertido rondando las salas...)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:571 #-#-# translate crowdin twinkle_twinkle_little_star_scene_2_hallway_e8850757:
 msgid "[_danny_s_rise_one_s_talk_happy_2_] Hey Star."
