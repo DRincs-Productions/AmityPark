@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/dasirees_service.rpy:79 #-#-# translate crowdin Dasiree_Blowjob_01_cc8fc4ae:
 msgid "[_danny_] Whoa! How'd you already-"
@@ -18,7 +18,7 @@ msgstr "[_danny_] ¡Vaya! ¿Cómo podrías otra vez-"
 
 # game/code/misc/dasirees_service.rpy:88 #-#-# translate crowdin Dasiree_Blowjob_01_1b8cb743:
 msgid "[_desiree_] You were simply erect, master, and a good slave must work hard to keep her master's member well taken care of..."
-msgstr "[_desiree_] Estas simplemente erecto, maestro, y una buena esclava debe trabajar duro para mantener el miembro de su amo bien cuidado de..."
+msgstr "[_desiree_] Estas simplemente erecto, amo, y una buena esclava debe trabajar duro para mantener el miembro de su amo bien cuidado de..."
 
 # game/code/misc/dasirees_service.rpy:94 #-#-# translate crowdin Dasiree_Blowjob_01_c613a51b:
 msgid "[_danny_] (Man, she must've really taken her whole harem girl position seriously... this kinda dedication to simply jerking guys off is a whole new level of commitme-)"
@@ -58,7 +58,7 @@ msgstr "[_desiree_] Puedo decir que tu gran amigo también está disfrutando nue
 
 # game/code/misc/dasirees_service.rpy:165 #-#-# translate crowdin Dasiree_Blowjob_01_68f1550e:
 msgid "[_desiree_] Now tell me... who makes you feel this good, master?"
-msgstr "[_desiree_] Ahora dime... ¿quién te hace sentir tanto placer maestro?"
+msgstr "[_desiree_] Ahora dime... ¿quién te hace sentir tanto placer amo?"
 
 # game/code/misc/dasirees_service.rpy:179 #-#-# translate crowdin Dasiree_Blowjob_01_99593964:
 msgid "[_danny_] You-you do, Desiree... you're so sexy... you make me this rock hard... just with your hands alone..."
@@ -74,7 +74,7 @@ msgstr "[_desiree_] ¿Solo con mis manos? Oh, no lo creo... qué tipo de sirvien
 
 # game/code/misc/dasirees_service.rpy:225 #-#-# translate crowdin Dasiree_Blowjob_01_06fd36dc:
 msgid "[_desiree_] ...if I kept you in suspense with just my fingertips? That wouldn't be fair to you, master..."
-msgstr "[_desiree_] ...¿ si te pongo en las nubes solo con mis dedos? Eso no sería justo para ti, maestro ..."
+msgstr "[_desiree_] ...¿ si te pongo en las nubes solo con mis dedos? Eso no sería justo para ti, amo ..."
 
 # game/code/misc/dasirees_service.rpy:240 #-#-# translate crowdin Dasiree_Blowjob_01_3c6ddbeb:
 msgid "[_danny_] Wh-what do you mean...?"
@@ -82,7 +82,7 @@ msgstr "[_danny_] ¿Qu-qué quieres decir...?"
 
 # game/code/misc/dasirees_service.rpy:255 #-#-# translate crowdin Dasiree_Blowjob_01_1ebf5659:
 msgid "[_desiree_] Well of course, Master... my sweet little mouth is yours to {u}fuck{/u} as you please."
-msgstr "[_desiree_] Bueno, por supuesto, Maestro... mi pequeña y dulce boca es tuya para {u}follarla{/u} como te plazca."
+msgstr "[_desiree_] Bueno, por supuesto, amo... mi pequeña y dulce boca es tuya para {u}follarla{/u} como te plazca."
 
 # game/code/misc/dasirees_service.rpy:270 #-#-# translate crowdin Dasiree_Blowjob_01_fae643a1:
 msgid "[_desiree_] (I hope you're ready for this part, Ghost Boy... I rarely hold back with this part...)"
@@ -94,7 +94,7 @@ msgstr "[_desiree_] Ahora mira mi boca... mira el lugar en el que tu gorda polla
 
 # game/code/misc/dasirees_service.rpy:301 #-#-# translate crowdin Dasiree_Blowjob_01_b72ea4ad:
 msgid "[_desiree_] Let me lick you, master... I want to taste your wad of dribble..."
-msgstr "[_desiree_] Deja que te lama, maestro... Quiero probar tu depósito de semen..."
+msgstr "[_desiree_] Deja que te lama, amo... Quiero probar tu depósito de semen..."
 
 # game/code/misc/dasirees_service.rpy:302 #-#-# translate crowdin Dasiree_Blowjob_01_0e14f0fc:
 msgid "[_danny_] God damn... you really talk like such a dirty slave girl... it's so fucking hot... he-here you go, Des... taste it a bit..."
@@ -118,7 +118,7 @@ msgstr "[_desiree_] (Maldita sea, no debería estar lamiendo su gotero únicamen
 
 # game/code/misc/dasirees_service.rpy:363 #-#-# translate crowdin Dasiree_Blowjob_01_d157f54a:
 msgid "[_desiree_] Master Danny, please... bless your cock down my throat. My hot mouth is practically drooling over it already... please, give me a proper taste..."
-msgstr "[_desiree_] Maestro Danny, por favor... bendice tu polla en mi garganta. Mi boca caliente está prácticamente babeando por ella otra vez... por favor, dame el gusto adecuado..."
+msgstr "[_desiree_] amo Danny, por favor... bendice tu polla en mi garganta. Mi boca caliente está prácticamente babeando por ella otra vez... por favor, dame el gusto adecuado..."
 
 # game/code/misc/dasirees_service.rpy:380 #-#-# translate crowdin Dasiree_Blowjob_01_5794127b:
 msgid "[_danny_] Yes! Thank you God... I'm gonna stick it in your dirty little mouth, slave!! Urgghh… well, I mean, a-as you wish, Desiree!"
@@ -210,7 +210,7 @@ msgstr "[_danny_] qué- ¿qué está pasando?, ¿por qué te detienes? - Quiero 
 
 # game/code/misc/dasirees_service.rpy:562 #-#-# translate crowdin Dasiree_Blowjob_01_775ec7ed:
 msgid "[_desiree_] {i}Mmhmmm{/i}... no, of course not, master, all is well... but a proper slave doesn't deny her master the {u}true{/u} desire he seeks, does she...?"
-msgstr "[_desiree_] {i}Mmhmmm {/i}... no, por supuesto que no, maestro, todo está bien... pero una esclava apropiada no niega a su amo el {u}verdadero {/u} deseo que quiere, ¿haría ella...?"
+msgstr "[_desiree_] {i}Mmhmmm {/i}... no, por supuesto que no, amo, todo está bien... pero una esclava apropiada no niega a su amo el {u}verdadero {/u} deseo que quiere, ¿haría ella...?"
 
 # game/code/misc/dasirees_service.rpy:576 #-#-# translate crowdin Dasiree_Blowjob_01_37539a05:
 msgid "[_danny_] Wha-what?! Oh, y-you don't mean we're gonna actually have se-"
@@ -218,11 +218,11 @@ msgstr "[_danny_] ¿Qu qué?! Oh, t-tú ¿quieres decir que vamos a -"
 
 # game/code/misc/dasirees_service.rpy:589 #-#-# translate crowdin Dasiree_Blowjob_01_0a86fd8d:
 msgid "[_desiree_] Oh, no, master don't be nervous! It's not that... I'm afraid you might not be quite {i}ready{/i} for that sort of delight just yet..."
-msgstr "[_desiree_] ¡Oh, no, ¡maestro no se ponga nervioso! No és eso... Me temo que estés del todo {i}preparado{/i} para ese tipo de delicia..."
+msgstr "[_desiree_] ¡Oh, no, ¡amo no se ponga nervioso! No és eso... Me temo que estés del todo {i}preparado{/i} para ese tipo de delicia..."
 
 # game/code/misc/dasirees_service.rpy:602 #-#-# translate crowdin Dasiree_Blowjob_01_4d6ff9a7:
 msgid "[_desiree_] I'd like for you to return to your human form and to take off your clothes, master... then lay back over the side of the bed... I'll make sure you're properly taken care of..."
-msgstr "[_desiree_] Me gustaría que regresaras a tu forma humana y que te quites la ropa, maestro... luego túmbate de lado en la cama... Me aseguraré de que te cuidarte..."
+msgstr "[_desiree_] Me gustaría que regresaras a tu forma humana y que te quites la ropa, amo... luego túmbate de lado en la cama... Me aseguraré de que te cuidarte..."
 
 # game/code/misc/dasirees_service.rpy:627 #-#-# translate crowdin Dasiree_Blowjob_01_99e24cac:
 msgid "[_danny_] Huh...? Oh, okay... I mean, tr-true, that's fair... then what do you mean exact-"
@@ -242,11 +242,11 @@ msgstr "[_desiree_] \" Cualquiera que sea la situación, su esperma és súper. 
 
 # game/code/misc/dasirees_service.rpy:693 #-#-# translate crowdin Dasiree_Blowjob_01_a4cab0c4:
 msgid "[_danny_] Well, I’ve gotta return you to the thermos, as I need to sleep. But thanks for all you did tonight Desiree."
-msgstr "[_danny_] Bueno, tengo que devolverte al termo porque necesito dormir. Gracias por todo lo que has hecho esta noche Desiree."
+msgstr "[_danny_] Bueno, tengo que devolverte al thermo porque necesito dormir. Gracias por todo lo que has hecho esta noche Desiree."
 
 # game/code/misc/dasirees_service.rpy:707 #-#-# translate crowdin Dasiree_Blowjob_01_89cb7484:
 msgid "[_desiree_] No problem master. Just release me from the thermos whenever you want me to drink your cum during the night."
-msgstr "[_desiree_] No hay problema maestro. Libérame por la noche cuando quieras que me beba tu semen."
+msgstr "[_desiree_] No hay problema amo. Libérame por la noche cuando quieras que me beba tu semen."
 
 # game/code/misc/dasirees_service.rpy:721 #-#-# translate crowdin Dasiree_Blowjob_01_f8c19354:
 msgid "[_danny_] I will."
