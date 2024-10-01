@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-19 14:08\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -858,7 +858,7 @@ msgstr "[_maddie_s_away_wide_s_talk_happy_2_] Ahora, quién sabe si todo cambiar
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:646 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_25f0a67e:
 msgid "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] Heck, at your age, I practically thought Vlad Masters was the one I was going to marry. But then your father wooed me off my feet. So you never know where life will take you."
-msgstr "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] Heck, a tu edad, pensé que el Maestro Vlad era con quien iba a casarme. Pero entonces tu padre me enamoró, así que nunca sabes a dónde te llevará la vida."
+msgstr "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] Heck, a tu edad, pensé que el amo Vlad era con quien iba a casarme. Pero entonces tu padre me enamoró, así que nunca sabes a dónde te llevará la vida."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:648 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e0bfc3ce:
 msgid "[_maddie_s_towards_2_s_rise_one_s_talk_happy_2_] But, what do you think? Who do you think is right for you?"
