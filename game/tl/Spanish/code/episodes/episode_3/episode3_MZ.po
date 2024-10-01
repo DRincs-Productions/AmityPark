@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-19 14:08\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -42,7 +42,7 @@ msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] ¡pero saludos, Daniel! Te des
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:38 #-#-# translate crowdin a_masterful_speech_intro_ce1c9e30:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Oh, umm, hey Mr. Masters, sure just... let yourself in, why not?"
-msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Oh, umm, hey Mr. Maestro, seguro... lo dejaré en, ¿por qué no?"
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Oh, umm, hey Mr. doctor, seguro... lo dejaré en, ¿por qué no?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:40 #-#-# translate crowdin a_masterful_speech_intro_ca440b96:
 msgid "[_vlad_s_closed_s_unhappy_s_talk_happy_] Oh please, Daniel, call me Uncle Vlad!"
@@ -54,7 +54,7 @@ msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] {i}Uhm {/i}, ¿podría
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:44 #-#-# translate crowdin a_masterful_speech_intro_e9a71706:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Chuckles* Well{/i}, I suppose that works too. Suppose it's only right that I try to {i}earn{/i} your trust first, aye?{p}So then, how did we sleep last night, {i}hmmm?{/i}"
-msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Risas* {/i}, Bueno supongo que también funcionará. Solo trato de {i}ganarme {/i} tu confianza, ¿ok? {p}Bien, entonces ¿cómo has dormido esta noche{i}hmmm? {/i}{/p}"
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Risas* {/i}, Bueno supongo que también funcionará. Solo trato de {i}ganarme {/i} tu confianza, ¿ok? {p}Bien, entonces ¿cómo has dormido esta noche{i}hmmm? {/i} "
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:46 #-#-# translate crowdin a_masterful_speech_intro_89086bdb:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Alright I guess. Uhm, if you happen to know at all, could you tell me about what those noises last night were in the lab? I sorta snuck away after a certain point into your little get together..."
@@ -211,7 +211,7 @@ msgstr "[_johnny_s_talk_frown_s_confused_] Uhm, ¿qué discurso?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:199 #-#-# translate crowdin a_masterful_speech_school_f8353710:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Not sure what it is exactly, but this guy Vlad Masters is delivering it in the afternoon at the mall. Something to do with an announcement or something? He wanted me to go, so I just figured I'd let someone else know about it too."
-msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] No estoy seguro de que és exactamente, pero este tipo Maestro Vlad está preparando algo para esta tarde en el centro comercial. ¿Algo que ver con un anuncio o algo parecido? Él quería que yo fuera así que pensé en que alguien más lo supiera también."
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] No estoy seguro de que és exactamente, pero este tipo doctor Vlad está preparando algo para esta tarde en el centro comercial. ¿Algo que ver con un anuncio o algo parecido? Él quería que yo fuera así que pensé en que alguien más lo supiera también."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:201 #-#-# translate crowdin a_masterful_speech_school_e19409f0:
 msgid "[_johnny_s_talk_happy_2_s_angry_s_towards_2_] Oh yeah, me and Kitty know Vlad {i}quite{/i} well... cause he's {b}also{/b} from Wisconsin, I mean! So yeah, we might swing by, who knows? I definitely wanted to check out some of the gorgeous {i}sights{/i} at the mall anyway..."
@@ -307,7 +307,7 @@ msgstr "[_danny_s_talk_happy_] Hey, Sam! Me alegra verte."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:347 #-#-# translate crowdin a_masterful_speech_speech_4ba261fd:
 msgid "[_sam_s_talk_happy_] Hey, dude. Man, a {b}lot{/b} of people showed up for this! Vlad Masters probably has a lot to say about his investigation into the recen-"
-msgstr "[_sam_s_talk_happy_] Hey, colega. tio, ¡han venido un {b}mogollón{/b} de personas para esto! El maestro Vlad probablemente tiene mucho que decir acerca de su investigación sobre el recien-"
+msgstr "[_sam_s_talk_happy_] Hey, colega. tio, ¡han venido un {b}mogollón{/b} de personas para esto! El doctor Vlad probablemente tiene mucho que decir acerca de su investigación sobre el recien-"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:354 #-#-# translate crowdin a_masterful_speech_speech_816012e5:
 msgid "[_star_s_talk_happy_2_s_confused_] Well, well, if it isn't Casper High's favorite loser couple!"
@@ -331,7 +331,7 @@ msgstr "[_star_s_talk_happy_s_rise_one_s_closed_] Sí, seguro, y yo soy la reina
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:372 #-#-# translate crowdin a_masterful_speech_speech_1c80f673:
 msgid "[_sam_s_towards_s_confused_s_talk_frown_] Could you please quit annoying us and just leave us alone? I'm sure Mr. Masters doesn't want some bossy bitches blathering during his speech."
-msgstr "[_sam_s_towards_s_confused_s_talk_frown_] ¿Podrías por favor dejar de molestarnos y dejarnos solos? Estoy segura de que el señor Maestro no quiere que alguna perra dictadora le moleste durante su discurso."
+msgstr "[_sam_s_towards_s_confused_s_talk_frown_] ¿Podrías por favor dejar de molestarnos y dejarnos solos? Estoy segura de que el señor doctor no quiere que alguna perra dictadora le moleste durante su discurso."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:380 #-#-# translate crowdin a_masterful_speech_speech_eb97edb2:
 msgid "[_dash_s_towards_s_rise_s_talk_displeased_] Come on Star, I got a reserved place for us in the front row. I heard this Vlad guy gives out free cars to people who wave and shout enough!"
@@ -419,7 +419,7 @@ msgstr "[_vlad_] Estoy bastante seguro de que todos ya me conocéis muy bien."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:477 #-#-# translate crowdin a_masterful_speech_speech_96cb56f6:
 msgid "[_vlad_] I, {b}Vlad Masters{/b}, am simply the everyday common billionaire, eccentric philanthropist, and part-time ghost expert that you'll no doubt run across in your day to day life."
-msgstr "[_vlad_] Yo, {b}Maestro Vlad{/b}, soy un simple y común billonario, filántropo excéntrico, y experto en fantasmas a tiempo parcial del día a día."
+msgstr "[_vlad_] Yo, {b}doctor Vlad{/b}, soy un simple y común billonario, filántropo excéntrico, y experto en fantasmas a tiempo parcial del día a día."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:479 #-#-# translate crowdin a_masterful_speech_speech_f983ea62:
 msgid "[_vlad_] But quite frankly, from this day forth, I'd very much like to add a {b}new{/b} and far more {b}important{/b} title to that current list."
@@ -451,7 +451,7 @@ msgstr "[_vlad_] Ahora ustedes seguramente estén pensando, '¿Dónde podría es
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:495 #-#-# translate crowdin a_masterful_speech_speech_b4bed88f:
 msgid "[_vlad_] Well fear no more good people! For I, {b}Vlad Masters{/b}, have already handled that evil creature and captured him within {b}this{/b} portable device."
-msgstr "[_vlad_] ¡Pues no temáis más buena gente! Porque yo, {b}Maestro Vlad {/b}, ya he dominado esa criatura maligna y la he capturado dentro del {b}este {/b} dispositivo portátil."
+msgstr "[_vlad_] ¡Pues no temáis más buena gente! Porque yo, {b}doctor Vlad {/b}, ya he dominado esa criatura maligna y la he capturado dentro del {b}este {/b} dispositivo portátil."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:497 #-#-# translate crowdin a_masterful_speech_speech_417b9cff:
 msgid "[_crowd_] {i}*Multitudes of Applause*{/i}"
@@ -491,7 +491,7 @@ msgstr "[_vlad_] Desafortunadamente, Ectopus parece que no será el {i} último 
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:518 #-#-# translate crowdin a_masterful_speech_speech_45f953a8:
 msgid "[_vlad_] Therefore, when you vote for Vlad Masters to be your new mayor, you are voting for a better, safer, ghost {i}free{/i} future!"
-msgstr "[_vlad_] Por lo tanto, cuando voten al Maestro Vlad Masters para su nuevo alcalde, ¡ustedes estarán votando por un mejor y más seguro futuro {i}libre {/i} de fantasmas!"
+msgstr "[_vlad_] Por lo tanto, cuando voten al doctor Vlad Masters para su nuevo alcalde, ¡ustedes estarán votando por un mejor y más seguro futuro {i}libre {/i} de fantasmas!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:520 #-#-# translate crowdin a_masterful_speech_speech_16f5cb9b:
 msgid "[_crowd_] {i}*Multitudes of Applause* *Cheers*{/i}"
@@ -547,7 +547,7 @@ msgstr "[_shadow_s_3_] {i}*Gruñido * *Gruñido* *Silvido* {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:582 #-#-# translate crowdin a_masterful_speech_speech_da14d22d:
 msgid "[_vlad_s_talk_frown_s_neutral_s_towards_] Well I guess it doesn't quite matter just {i}who{/i} you are, because {b}Vlad Masters{/b} is going to catch you for good, evil spirit!"
-msgstr "[_vlad_s_talk_frown_s_neutral_s_towards_] Bueno, no importa {i}quien {/i} seas, porque {b}Maestro Vlad{/b} te va a atrapar por el bien, ¡espíritu maligno!"
+msgstr "[_vlad_s_talk_frown_s_neutral_s_towards_] Bueno, no importa {i}quien {/i} seas, porque {b}doctor Vlad{/b} te va a atrapar por el bien, ¡espíritu maligno!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:586 #-#-# translate crowdin a_masterful_speech_speech_983e8a1a:
 msgid "[_v_thermos_] {i}*Plep* *Plep* *Kapooie*{/i}"
@@ -631,7 +631,7 @@ msgstr "[_sam_s_talk_frown_s_angry_] ¡Entonces vamos a necesitar encontrar una 
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:689 #-#-# translate crowdin a_masterful_speech_postfight_cd3631ca:
 msgid "[_sam_s_sad_s_talk_bite_] Besides the gadgets Vlad Masters is working on, you might be the only one who has any chance against fighting off these ghost jerks."
-msgstr "[_sam_s_sad_s_talk_bite_] Además de los aparatos en los que el Maestro está trabajando en, tú podrías ser el único que tiene alguna posibilidad de luchar contra estos asquerosos fantasmas."
+msgstr "[_sam_s_sad_s_talk_bite_] Además de los aparatos en los que el doctor está trabajando en, tú podrías ser el único que tiene alguna posibilidad de luchar contra estos asquerosos fantasmas."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:691 #-#-# translate crowdin a_masterful_speech_postfight_68bc4fac:
 msgid "[_danny_s_towards_wide_s_talk_frown_2_s_wondering_] Well actually, there does seem to be {i}one{/i} way to help me out, but it'd be kind of difficult to explain right now."
@@ -659,7 +659,7 @@ msgstr "[_newscaster_s_3_] Buenas noches, soy Tiffany Snow para Canal 4 Noticias
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:745 #-#-# translate crowdin a_masterful_speech_postfight_87012e07:
 msgid "[_newscaster_s_5_] Billionaire and renown ghost expert, Vlad Masters, announced earlier today his candidacy for Mayor of Amity Park during a speech he presented at Amity Park Mall."
-msgstr "[_newscaster_s_5_] El multimillonario y reconocido experto en fantasmas, Maestro Vlad, anunció hoy su candidatura para alcalde de Amity Park durante un discurso que presentó en centro comercial de Amity Park."
+msgstr "[_newscaster_s_5_] El multimillonario y reconocido experto en fantasmas, doctor Vlad, anunció hoy su candidatura para alcalde de Amity Park durante un discurso que presentó en centro comercial de Amity Park."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:747 #-#-# translate crowdin a_masterful_speech_postfight_b96eaa60:
 msgid "[_jack_] Wow, ol' Vladdie is going to be mayor? Fantastic! Maybe he could do something about the amount of parking tickets on the Fenton Family Ghost Assault Vehicle..."
@@ -679,7 +679,7 @@ msgstr "[_newscaster_s_7_] Por suerte, nadie resultó herido ni perjudicado por 
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:760 #-#-# translate crowdin a_masterful_speech_postfight_2631aa0d:
 msgid "[_newscaster_s_9_] Thankfully, it was due to the courageous efforts of Amity Park's newest hero, {b}Vlad Masters{/9}, that the ghosts were thwarted. Mr. Masters fought the ghosts head-on using his state of the art ghost-tech, forcing them to flee the event."
-msgstr "[_newscaster_s_9_] Afortunadamente, debido a los valientes esfuerzos del héroe más reciente de Amity Park, {b}Maestro Vlad{/b}, los intentos fantasmales fueron frustrados. El Sr. Maestro luchó contra los fantasmas de frente usando su tecnología, obligándolos a huir del evento."
+msgstr "[_newscaster_s_9_] Afortunadamente, debido a los valientes esfuerzos del héroe más reciente de Amity Park, {b}doctor Vlad{/b}, los intentos fantasmales fueron frustrados. El Sr. doctor luchó contra los fantasmas de frente usando su tecnología, obligándolos a huir del evento."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:763 #-#-# translate crowdin a_masterful_speech_postfight_ee1a6ab6:
 msgid "[_danny_] Oh come on! What a load of croc!!"
@@ -2631,7 +2631,7 @@ msgstr "[_johnny_s_angry_s_talk_frown_s_towards_wide_2_] Como quieras, perdedor.
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3372 #-#-# translate crowdin kittys_revange_cheer_interview_e4b43cbb:
 msgid "(Orgone Boost Available!)"
-msgstr "(¡Incremento de Orgón disponible!)"
+msgstr "(¡Incremento de Orgone disponible!)"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3407 #-#-# translate crowdin kittys_revange_postfight_b0e1a37a:
 msgid "[_johnny_s_talk_frown_s_towards_s_confused_2_] What?! How's this possible? How'd you get so strong so quickly?"
