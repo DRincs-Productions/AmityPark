@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-19 14:22\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
 msgid "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
@@ -46,7 +46,7 @@ msgstr "[_maddie_] ¡Verle usarlo contra ese desagradable Ectopus me inspiró a 
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:41 #-#-# translate crowdin cylindrical_container_scene_1_lab_4e24ee5b:
 msgid "[_maddie_] I had even created something that might've fixed the issue of the thermos's low power suppy once and for all."
-msgstr "[_maddie_] Incluso había creado algo que podría haber arreglado el tema la baja potencia de los termos de una vez por todas."
+msgstr "[_maddie_] Incluso había creado algo que podría haber arreglado el tema la baja potencia de los thermos de una vez por todas."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:43 #-#-# translate crowdin cylindrical_container_scene_1_lab_3c80fad6:
 msgid "[_danny_s_rise_one_s_talk_happy_] Really? That sounds great! How were you gonna do that?"
@@ -1178,7 +1178,7 @@ msgstr "[_maddie_s_closed_s_talk_frown_] La... lamento que hayas tenido que ver 
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:936 #-#-# translate crowdin cylindrical_container_scene_5_lab_90e39913:
 msgid "[_maddie_] Damn that stupid thermos!!"
-msgstr "[_maddie_] ¡¡Maldito sea ese estúpido termo!!"
+msgstr "[_maddie_] ¡¡Maldito sea ese estúpido thermo!!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:937 #-#-# translate crowdin cylindrical_container_scene_5_lab_b0774408:
 msgid "[_danny_s_at_player_s_sad_2_s_frown_] (...good lord.)"
@@ -1394,7 +1394,7 @@ msgstr "[_danny_s_talk_happy_2_] Sí... yo también lo espero..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1062 #-#-# translate crowdin cylindrical_container_scene_5_lab_189db33f:
 msgid "[_jack_] Welp, while the Fenton Thermos might've been a bust, that doesn't mean the invention {i}I'm{/i} working on now will be!"
-msgstr "[_jack_] Bueno, aunque el termo Fenton haya sido un fracaso, ¡eso no significa que el invento {i}en el que estoy{/i} trabajando lo vaya a ser!"
+msgstr "[_jack_] Bueno, aunque el thermo Fenton haya sido un fracaso, ¡eso no significa que el invento {i}en el que estoy{/i} trabajando lo vaya a ser!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1065 #-#-# translate crowdin cylindrical_container_scene_5_lab_1272e12a:
 msgid "[_jack_] I call it, the \"Fenton Feline Phantasm Eliminator\"!!"
@@ -1414,7 +1414,7 @@ msgstr "[_jack_] Cierto, pero si alguna vez {i}tenemos{/i} uno, ¿quieres ser {i
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1082 #-#-# translate crowdin cylindrical_container_scene_5_lab_42dd9a56:
 msgid "[_danny_s_talk_frown_2_s_towards_wide_s_rise_one_] Hey dad? Since it doesn't work, do you mind if I have the Fenton Thermos?"
-msgstr "[_danny_s_talk_frown_2_s_towards_wide_s_rise_one_] ¿Papá? Ya que no funciona, ¿te importa si me quedo con el termo de Fenton?"
+msgstr "[_danny_s_talk_frown_2_s_towards_wide_s_rise_one_] ¿Papá? Ya que no funciona, ¿te importa si me quedo con el thermo de Fenton?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1084 #-#-# translate crowdin cylindrical_container_scene_5_lab_4c5dacf9:
 msgid "[_danny_s_talk_happy_s_sad_] I think it'd be cool to start drinking coffee, now that I'm a junior ghost hunter!"
@@ -1446,7 +1446,7 @@ msgstr "[_danny_s_frown_2_s_at_player_s_rise_one_] (Sabes, a veces és difícil 
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1110 #-#-# translate crowdin cylindrical_container_scene_5_lab_50a63c50:
 msgid "[_danny_s_towards_wide_s_grin_happy_s_sad_2_s_thermos_] (Guess I get to keep the Thermos now though! This should help with ghost catching.)"
-msgstr "[_danny_s_towards_wide_s_grin_happy_s_sad_2_s_thermos_] (¡Aunque supongo que ahora puedo quedarme con el termo! Esto debería ayudarme a atrapar fantasmas)"
+msgstr "[_danny_s_towards_wide_s_grin_happy_s_sad_2_s_thermos_] (¡Aunque supongo que ahora puedo quedarme con el thermo! Esto debería ayudarme a atrapar fantasmas)"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1122 #-#-# translate crowdin cylindrical_container_scene_5_lab_15ee94cc:
 msgid "[_danny_s_rise_one_s_frown_s_at_player_] (But then again, will it even work? I don't want it destroying {b}my{/b} clothes in the middle of a battle!)"
@@ -1510,7 +1510,7 @@ msgstr "[_thermos_] {i}*Boop * {/i} {i}*Boop * {/i} {i}*Boop * {/i} {i}*Bing * {
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1148 #-#-# translate crowdin cylindrical_container_scene_5_lab_9f6dc85e:
 msgid "[_danny_s_grin_happy_s_sad_] (I think that did it! Alright, working Thermos! Heh he, it's {i}all{/i} in the wrist!)"
-msgstr "[_danny_s_grin_happy_s_sad_] (¡Creo que ya está! ¡Muy bien, termo funcionando! Je je, ¡estaba {i}todo{/i} en mis manos!)"
+msgstr "[_danny_s_grin_happy_s_sad_] (¡Creo que ya está! ¡Muy bien, thermo funcionando! Je je, ¡estaba {i}todo{/i} en mis manos!)"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1152 #-#-# translate crowdin cylindrical_container_scene_5_lab_6c520ca5:
 msgid "[_danny_s_at_player_s_angry_] (Watch out ghosts and spectres, there's a brand new, fully fledged ghost hunter in town, and his name is...)"
