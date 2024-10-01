@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-22 20:43\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin maddie_convo_6e093421:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Sorry Danny, I'm a little busy right now. I'll talk to you later, 'kay?"
@@ -90,7 +90,7 @@ msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] ¡Oh, estoy tan contenta de 
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:86 #-#-# translate crowdin maddie_convo_ectoplasm_640788f3:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Wait, but I thought that the recent Ectopus sightings were the first time the world has had real confirmable ghost reports, right?{p}How could you and Dad study any of this stuff properly before now?"
-msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Espera, pero pensé que los recientes avistamientos del Ectopus son la primera vez que el mundo ha tenido verdaderos informes confirmados de fantasmas, ¿verdad?{p}¿Cómo podéis tú y papá haber estudiado estas cosas antes?{/p}?"
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Espera, pero pensé que los recientes avistamientos del Ectopus son la primera vez que el mundo ha tenido verdaderos informes confirmados de fantasmas, ¿verdad?{p}¿Cómo podéis tú y papá haber estudiado estas cosas antes? ?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:88 #-#-# translate crowdin maddie_convo_ectoplasm_6799a75d:
 msgid "[_maddie_s_suspicious_towards_s_aghast_s_talk_distraught_] Well, maybe the first \"confirmed\" reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The scientific community at large just refuses to accept parapsychology as a genuine field of research."
