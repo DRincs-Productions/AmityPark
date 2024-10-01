@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-07 11:49\n"
+"PO-Revision-Date: 2024-10-01 00:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -122,7 +122,7 @@ msgstr "[_epa_] ¡De verdad!"
 
 # game/code/battleoverhaul/newbattle.rpy:97 #-#-# translate crowdin newbattletutorial_f9aa21b2:
 msgid "[_epa_] Now every time you gain enough experience to increase your current {b}Level{/b} you will automatically become stronger, increasing your Maximum Health, Maximum Ecto-Power, Maximum Strength, and Maximum Orgone Capacity."
-msgstr "[_epa_] Ahora, cada vez que ganes suficiente experiencia para aumentar tu {b}nivel{/b} te harás automáticamente más fuerte, aumentando tu salud máxima, tu ecopoder máximo, tu fuerza máxima y tu capacidad de orgón máximo."
+msgstr "[_epa_] Ahora, cada vez que ganes suficiente experiencia para aumentar tu {b}nivel{/b} te harás automáticamente más fuerte, aumentando tu salud máxima, tu ecopoder máximo, tu fuerza máxima y tu capacidad de Orgone máximo."
 
 # game/code/battleoverhaul/newbattle.rpy:99 #-#-# translate crowdin newbattletutorial_b6fefe5d:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] \"Orgone Capacity?\""
@@ -266,7 +266,7 @@ msgstr "[_epa_] Le pedí a una odiada enemiga tuya, ahora tolerable, que nos ayu
 
 # game/code/battleoverhaul/newbattle.rpy:265 #-#-# translate crowdin test_StartFights_e4b43cbb:
 msgid "(Orgone Boost Available!)"
-msgstr "(¡Incremento de Orgón disponible!)"
+msgstr "(¡Incremento de Orgone disponible!)"
 
 # game/code/battleoverhaul/newbattle.rpy:279 #-#-# translate crowdin test_BattlesEnd_892585e2:
 msgid "[_epa_] So, do you want to try again from the start? [nointeract]"
