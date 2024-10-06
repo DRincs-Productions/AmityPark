@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2024-10-06 18:55\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/pda_screen.rpy:184 #-#-# translate crowdin add_new_contact_126980cc:
 msgid "[_danny_] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
@@ -46,7 +46,7 @@ msgstr "[_danny_] (Ich sollte versuchen, sie in der {b}Nachmittag {/b} zu versuc
 
 # game/code/base/pda_screen.rpy:248 #-#-# translate crowdin star_is_offline_6daf65dd:
 msgid "[_danny_] (Hmmm... Star is probably a litle upset about the whole prank thing.)"
-msgstr "[_danny_] (Hmmm ... Star ist wohl eine Lüftel über das ganze Streich-Ding verärgert.)"
+msgstr "[_danny_] (Hmmm... Star is probably a litle upset about the whole prank thing.)"
 
 # game/code/base/pda_screen.rpy:249 #-#-# translate crowdin star_is_offline_acb5d779:
 msgid "[_danny_] (I should come up with some sorta believeable story as to what happened with that whole situation...)"
