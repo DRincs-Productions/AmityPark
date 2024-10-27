@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2024-10-27 18:26\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -26,7 +26,7 @@ msgstr "[_danny_s_towards_s_sad_] (Oh ja… gab es ... irgendeine Art Unfall im 
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:51 #-#-# translate crowdin intro_4fbf4b08:
 msgid "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}\"Ghost Portal\"{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
-msgstr "[_danny_s_rise_one_s_down_] ({i}Hmmm {/i} ... Ich war ... Ich habe versucht, einen Blick in meine Eltern zu werfen ' {b}\"Ghost Portal\" {/b} sie gebaut, nachdem es didn' t ziemlich Arbeit. Ich glaube, ich habe versehentlich einen Knopf an der Seite der Wand gedrückt oder etwas ...)"
+msgstr "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... Ich habe... Ich habe versucht, einen Blick in das {b}\"Geisterportal\"{/b} meiner Eltern zu werfen, das sie gebaut haben, nachdem es nicht ganz funktioniert hat. Ich glaube, ich habe aus Versehen einen Knopf an der Seite der Wand gedrückt oder so...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:64 #-#-# translate crowdin intro_cb112b07:
 msgid "[_danny_] (Suddenly, there was a {u}great big flash{/u}... everything just {i}changed{/i}...{p}man, I hope my molecules weren't all rearranged...)"
