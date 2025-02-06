@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-07-23 08:24\n"
+"PO-Revision-Date: 2025-02-06 20:45\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/code/battleoverhaul/battlesetup.rpy:14 #-#-# translate crowdin testbattles_9cce09b2:
 msgid "[_epa_] Here's Ember after you have your second charge."
-msgstr ""
+msgstr "[_epa_] Вот Эмбер после второго заряда."
 
 # game/code/battleoverhaul/battlesetup.rpy:56 #-#-# translate crowdin test_MaddieRoute_5d9dee6b:
 msgid "[_epa_] Oh no! The princess is raging again... prepare to face a big cranky dragon!"
