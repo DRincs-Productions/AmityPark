@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2025-02-06 21:58\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:30 #-#-# translate crowdin newbattletutorial_e69fb817:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] Jeez, what's with all the loud noise I've been hearing down here lately? Dad? You in the Lab?"
-msgstr ""
+msgstr "[_Данни_с_игроком_с_недовольным_с_разговором_] Боже, что за громкий шум я слышу здесь в последнее время? Пап? Ты в лаборатории?"
 
 # game/code/battleoverhaul/newbattle.rpy:33 #-#-# translate crowdin newbattletutorial_7190dfb6:
 msgid "[_epa_] Oh, great, you're finally here Danny! Perfect!{p}Welcome, to the new combat training simulation!"
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:40 #-#-# translate crowdin newbattletutorial_8fbd33fc:
 msgid "[_danny_s_down_s_angry_s_talk_displeased_] {i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
-msgstr ""
+msgstr "[_Данни_с_низ_с_злобой__говорит_недовольно_] {i}*Ворча*{/i} Ну и ну, а я-то думал, что и сам неплохо справляюсь. {i}*Ворча*{/i}"
 
 # game/code/battleoverhaul/newbattle.rpy:43 #-#-# translate crowdin newbattletutorial_f8d29441:
 msgid "[_epa_] Nonsense Danny, you can do way better! And I'm here to show you how!"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:51 #-#-# translate crowdin newbattletutorial_7ab24936:
 msgid "[_epa_] We're changing a few things around! Trust me, I've seen you go perving around your house by peaking your head and hands through walls... so just do that in combat too!{p}It costs {u}nothing{/u} at all to use now!"
-msgstr ""
+msgstr "[_epa_] Мы кое-что меняем! Поверьте мне, я видел, как ты подглядывал за своим домом, просовывая голову и руки сквозь стены... так что просто делайте это и в бою!{p}Теперь использование {u}ничего не стоит!"
 
 # game/code/battleoverhaul/newbattle.rpy:53 #-#-# translate crowdin newbattletutorial_7e6c2730:
 msgid "[_danny_s_down_s_neutral_s_talk_displeased_] Okay, I guess I could try that..."
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:56 #-#-# translate crowdin newbattletutorial_d3509034:
 msgid "[_epa_] So, the previous move known as {u}Guard{/u} will now be replaced with {u}Intangibility.{/u}{p}So going forward, you should just use that whenever there's an attack you need to avoid."
-msgstr ""
+msgstr "[_epa_] Итак, предыдущее движение, известное как {u}Защита{/u}, теперь будет заменено на {u}Неосязаемость.{/u}{p}Так что в дальнейшем тебе следует просто использовать его всякий раз, когда тебе нужно избежать атаки."
 
 # game/code/battleoverhaul/newbattle.rpy:59 #-#-# translate crowdin newbattletutorial_eb98a81c:
 msgid "[_epa_] Also, now that we're on the subject... shouldn't you know how to tap into the Ghost Zone's energy to heal and protect you?"
