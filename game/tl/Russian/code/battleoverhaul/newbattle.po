@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-02-06 21:58\n"
+"PO-Revision-Date: 2025-05-31 08:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
-msgstr ""
+msgstr "[_epa_] (В этом обновлении представлена {b}совершенно новая боевая система{/b}. Хотите узнать, что нового и протестировать ее?) [nointeract]"
 
 # game/code/battleoverhaul/newbattle.rpy:30 #-#-# translate crowdin newbattletutorial_e69fb817:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] Jeez, what's with all the loud noise I've been hearing down here lately? Dad? You in the Lab?"
@@ -22,15 +22,15 @@ msgstr "[_Данни_с_игроком_с_недовольным_с_разгов
 
 # game/code/battleoverhaul/newbattle.rpy:33 #-#-# translate crowdin newbattletutorial_7190dfb6:
 msgid "[_epa_] Oh, great, you're finally here Danny! Perfect!{p}Welcome, to the new combat training simulation!"
-msgstr ""
+msgstr "[_epa_] О, отлично, ты наконец-то здесь, Дэнни! Идеально!{p}Добро пожаловать в новый симулятор боевой подготовки!"
 
 # game/code/battleoverhaul/newbattle.rpy:35 #-#-# translate crowdin newbattletutorial_cadfb817:
 msgid "[_danny_s_at_player_s_rise_s_talk_distraught_] The... the what? What are you talking about, and who are you?"
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] Что... что? О чем ты говоришь и кто ты?"
 
 # game/code/battleoverhaul/newbattle.rpy:38 #-#-# translate crowdin newbattletutorial_5e74f432:
 msgid "[_epa_] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
-msgstr ""
+msgstr "[_epa_] Кто я - не так важно, Дэнни, {i}важно{/i} то, что я слышу крики о том, что твои боевые приемы \"слишком глючные\" и \"слишком трудные\".{p}Надеюсь, с сегодняшнего дня все изменится!"
 
 # game/code/battleoverhaul/newbattle.rpy:40 #-#-# translate crowdin newbattletutorial_8fbd33fc:
 msgid "[_danny_s_down_s_angry_s_talk_displeased_] {i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
@@ -38,15 +38,15 @@ msgstr "[_Данни_с_низ_с_злобой__говорит_недоволь�
 
 # game/code/battleoverhaul/newbattle.rpy:43 #-#-# translate crowdin newbattletutorial_f8d29441:
 msgid "[_epa_] Nonsense Danny, you can do way better! And I'm here to show you how!"
-msgstr ""
+msgstr "[_epa_] Глупости, Дэнни, ты можешь гораздо лучше! И я здесь, чтобы показать тебе, как!"
 
 # game/code/battleoverhaul/newbattle.rpy:46 #-#-# translate crowdin newbattletutorial_c1834891:
 msgid "[_epa_] Danny, you need to learn to stop blocking attacks and just learn to use {b}Intangibility{/b} like any other ghost!"
-msgstr ""
+msgstr "[_epa_] Дэнни, тебе нужно научиться перестать блокировать атаки и просто научиться использовать {b}Неосязаемость{/b}, как любой другой призрак!"
 
 # game/code/battleoverhaul/newbattle.rpy:48 #-#-# translate crowdin newbattletutorial_d3c72019:
 msgid "[_danny_s_at_player_s_rise_s_talk_displeased_] What? \"Intangible\"? But doesn't that cost ecto-power to do? Also, wasn't it called \"Invisibility\" before?"
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_displeased_] Что? \"Нематериальное\"? Но разве это не требует экто-силы? Кроме того, разве раньше это не называлось \"Невидимость\"?"
 
 # game/code/battleoverhaul/newbattle.rpy:51 #-#-# translate crowdin newbattletutorial_7ab24936:
 msgid "[_epa_] We're changing a few things around! Trust me, I've seen you go perving around your house by peaking your head and hands through walls... so just do that in combat too!{p}It costs {u}nothing{/u} at all to use now!"
@@ -54,7 +54,7 @@ msgstr "[_epa_] Мы кое-что меняем! Поверьте мне, я в�
 
 # game/code/battleoverhaul/newbattle.rpy:53 #-#-# translate crowdin newbattletutorial_7e6c2730:
 msgid "[_danny_s_down_s_neutral_s_talk_displeased_] Okay, I guess I could try that..."
-msgstr ""
+msgstr "[_danny_s_down_s_neutral_s_talk_displeased_] Ладно, думаю, я могу попробовать..."
 
 # game/code/battleoverhaul/newbattle.rpy:56 #-#-# translate crowdin newbattletutorial_d3509034:
 msgid "[_epa_] So, the previous move known as {u}Guard{/u} will now be replaced with {u}Intangibility.{/u}{p}So going forward, you should just use that whenever there's an attack you need to avoid."
@@ -62,55 +62,55 @@ msgstr "[_epa_] Итак, предыдущее движение, известн�
 
 # game/code/battleoverhaul/newbattle.rpy:59 #-#-# translate crowdin newbattletutorial_eb98a81c:
 msgid "[_epa_] Also, now that we're on the subject... shouldn't you know how to tap into the Ghost Zone's energy to heal and protect you?"
-msgstr ""
+msgstr "[_epa_] Кроме того, раз уж мы заговорили об этом... разве ты не должен знать, как использовать энергию Призрачной Зоны для лечения и твоей защиты?"
 
 # game/code/battleoverhaul/newbattle.rpy:61 #-#-# translate crowdin newbattletutorial_560ad041:
 msgid "[_danny_s_at_player_s_angry_s_talk_displeased_] Look, it's not like these powers came with instructions! Nobody exactly taught me how to do any of this stuff!"
-msgstr ""
+msgstr "[_danny_s_at_player_s_angry_s_talk_displeased_] Слушай, к этим способностям не прилагается инструкция! Никто не учил меня, как делать все эти вещи!"
 
 # game/code/battleoverhaul/newbattle.rpy:64 #-#-# translate crowdin newbattletutorial_982d959b:
 msgid "[_epa_] Okay, okay, my mistake... look, just focus hard enough on your natural ghostly energy, and you should be able to {b}Zone Out{/b}."
-msgstr ""
+msgstr "[_epa_] Хорошо, хорошо, моя вина... Слушай, просто сосредоточься на своей природной призрачной энергии, и ты сможешь использовать {b}Исчезновение{/b}."
 
 # game/code/battleoverhaul/newbattle.rpy:66 #-#-# translate crowdin newbattletutorial_f1b17a38:
 msgid "[_epa_] This ability allows you to draw power from the Ghost Zone to both heal and protect you for a short time."
-msgstr ""
+msgstr "[_epa_] Эта способность позволяет тебе черпать энергию из Призрачной Зоны, чтобы исцелять и защищать тебя в течение короткого времени."
 
 # game/code/battleoverhaul/newbattle.rpy:68 #-#-# translate crowdin newbattletutorial_9c3e9bec:
 msgid "[_danny_s_at_player_s_wondering_s_talk_displeased_] That does sound pretty good, but will it take a lot of ecto power to use?"
-msgstr ""
+msgstr "[_danny_s_at_player_s_wondering_s_talk_displeased_] Звучит неплохо, но много ли потребуется экто-силы для его использования?"
 
 # game/code/battleoverhaul/newbattle.rpy:71 #-#-# translate crowdin newbattletutorial_a78c25de:
 msgid "[_epa_] Only about as much as it took to go \"Invisible\" before!"
-msgstr ""
+msgstr "[_epa_] Только примерно столько же, сколько требовалось, чтобы стать \"Невидимкой\" раньше!"
 
 # game/code/battleoverhaul/newbattle.rpy:73 #-#-# translate crowdin newbattletutorial_8bbdfb85:
 msgid "[_danny_s_closed_s_wondering_s_talk_happy_] Alright! Now you're talking!"
-msgstr ""
+msgstr "[_danny_s_closed_s_wondering_s_talk_happy_] Хорошо! Теперь ты говоришь!"
 
 # game/code/battleoverhaul/newbattle.rpy:76 #-#-# translate crowdin newbattletutorial_c0fbf315:
 msgid "[_epa_] So with \"Zone Out\", Danny can recover {u}25%%{/u} of his health and reduce incoming damage by {u}50%%{/u} for 2 turns."
-msgstr ""
+msgstr "[_epa_] Таким образом, используя \"Исчезновение\", Дэнни может восстановить {u}25%{/u} своего здоровья и снизить входящий урон на {u}50%{/u} на 2 хода."
 
 # game/code/battleoverhaul/newbattle.rpy:79 #-#-# translate crowdin newbattletutorial_b4d3f717:
 msgid "[_epa_] Beware though, as other ghosts know how to use this tactic as well and gain an additional benefit of increasing their power to briefly deliver some devastating damage."
-msgstr ""
+msgstr "[_epa_] Остерегайтесь, ведь другие призраки тоже умеют использовать эту тактику и получают дополнительное преимущество посредством увеличения своей силы, чтобы на короткое время нанести сокрушительный урон."
 
 # game/code/battleoverhaul/newbattle.rpy:81 #-#-# translate crowdin newbattletutorial_28127088:
 msgid "[_danny_s_at_player_s_rise_s_talk_distraught_] What should I do if I notice a ghost heal itself?"
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] Что мне делать, если я заметил, что призрак исцеляет себя?"
 
 # game/code/battleoverhaul/newbattle.rpy:84 #-#-# translate crowdin newbattletutorial_82d80d27:
 msgid "[_epa_] My advice would just be to go Intangible and avoid the next attack. Remember, it's now free to dodge an upcoming attack!"
-msgstr ""
+msgstr "[_epa_] На мой взгляд тебе нужно просто стать Неосязаемым и избежать следующей атаки. Помни, что теперь можно уклониться от предстоящей атаки!"
 
 # game/code/battleoverhaul/newbattle.rpy:86 #-#-# translate crowdin newbattletutorial_1289180c:
 msgid "[_danny_s_closed_s_wondering_s_talk_happy_] Awesome! Well, thanks mysterious voice! That all sounds pretty good to me."
-msgstr ""
+msgstr "[_danny_s_closed_s_wondering_s_talk_happy_] Потрясающе! Спасибо, таинственный голос! По-моему, все это звучит неплохо для меня."
 
 # game/code/battleoverhaul/newbattle.rpy:89 #-#-# translate crowdin newbattletutorial_664eda23:
 msgid "[_epa_] Oh, that's not all I've done Danny, that's just the tip of the iceberg!"
-msgstr ""
+msgstr "[_epa_] О, это еще не все, что я сделал, Дэнни, это только верхушка айсберга!"
 
 # game/code/battleoverhaul/newbattle.rpy:91 #-#-# translate crowdin newbattletutorial_28da2033:
 msgid "[_danny_s_stare_s_rise_s_talk_happy_] Really?"
@@ -118,23 +118,23 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:94 #-#-# translate crowdin newbattletutorial_d64ddac7:
 msgid "[_epa_] Really!"
-msgstr ""
+msgstr "[_epa_] Правда!"
 
 # game/code/battleoverhaul/newbattle.rpy:97 #-#-# translate crowdin newbattletutorial_f9aa21b2:
 msgid "[_epa_] Now every time you gain enough experience to increase your current {b}Level{/b} you will automatically become stronger, increasing your Maximum Health, Maximum Ecto-Power, Maximum Strength, and Maximum Orgone Capacity."
-msgstr ""
+msgstr "[_epa_] Теперь каждый раз, когда вы будете получать достаточно опыта, чтобы повысить свой текущий {b}уровень{/b}, вы будете автоматически становиться сильнее, увеличивая свое максимальное здоровье, максимальную экто-силу, максимальную силу и максимальное количество духовной энергии."
 
 # game/code/battleoverhaul/newbattle.rpy:99 #-#-# translate crowdin newbattletutorial_b6fefe5d:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] \"Orgone Capacity?\""
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] \"Духовная энергия?\""
 
 # game/code/battleoverhaul/newbattle.rpy:102 #-#-# translate crowdin newbattletutorial_2f243495:
 msgid "[_epa_] I'll come back to that in a minute Danny, just be patient."
-msgstr ""
+msgstr "[_epa_] Я вернусь к этому через минуту, Дэнни, наберись терпения."
 
 # game/code/battleoverhaul/newbattle.rpy:104 #-#-# translate crowdin newbattletutorial_8c1e2c68:
 msgid "[_epa_] Along with increasing your basic stats, you will now have the opportunity at every new level to invest in some passive benefits that will further increase your survivability or power."
-msgstr ""
+msgstr "[_epa_] Наряду с увеличением базовых характеристик, на каждом новом уровне у вас будет возможность вложить средства в пассивные преимущества, которые еще больше повысят вашу живучесть или силу."
 
 # game/code/battleoverhaul/newbattle.rpy:107 #-#-# translate crowdin newbattletutorial_b8ec9969:
 msgid "[_epa_] Now for the truly interesting stuff!"
