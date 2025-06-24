@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-22 20:38\n"
+"PO-Revision-Date: 2025-06-24 17:58\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
@@ -34,7 +34,7 @@ msgstr "[_desiree_] Il mio vecchio padrone adorava svegliarsi con queste delizie
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:60 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_37c60448:
 msgid "[_desiree_] Of course, breakfast was usually skipped over and {i}I{/i} ended up as the treat myself...~"
-msgstr "[_desiree_] Naturalmente, la colazione di solito veniva saltata e {i}finivo per fare io stesso il regalo...~"
+msgstr "[_desiree_] Naturalmente, la colazione di solito veniva saltata e {i}finivo per fare io stessa il regalo...~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:63 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_6c16bbbf:
 msgid "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] Desiree, thank you, that's really nice... but, you know you really didn't have to do this right?"
@@ -114,7 +114,7 @@ msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] Sembra bello, divertitev
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:154 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_39ffdcb1:
 msgid "[_desiree_] I shall endeavor to conquer this childish game of Ember's and become the top score player! Of this, I have no doubts!"
-msgstr "[_desiree_] Mi impegnerò a conquistare questo gioco infantile di Ember e a diventare il miglior giocatore! Su questo non ho dubbi!"
+msgstr "[_desiree_] Mi impegnerò a conquistare questo gioco infantile di Ember e a diventare la migliore giocatrice! Su questo non ho dubbi!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:164 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_81a0414a:
 msgid "[_danny_s_boxers_s_at_player_s_rise_s_grin_] (Yeah, best of luck with that. If Ember really grew up during that time, she's gotta have some skills behind a controller.)"
