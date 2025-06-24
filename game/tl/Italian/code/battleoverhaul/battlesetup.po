@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-22 20:37\n"
+"PO-Revision-Date: 2025-06-24 18:58\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
@@ -18,7 +18,7 @@ msgstr "[_epa_] Ok, è il momento dei test per le battaglie dell'episodio 7. La 
 
 # game/code/battleoverhaul/battlesetup.rpy:3 #-#-# translate crowdin testbattles_4427ec62:
 msgid "[_epa_] Okay time to be crushed by Ember."
-msgstr "[_epa_] È ora di farsi schiacciare da Ember."
+msgstr "[_epa_] È ora di farsi schiacciare da Ambra."
 
 # game/code/battleoverhaul/battlesetup.rpy:5 #-#-# translate crowdin testbattles_aa043cb9:
 msgid "[_epa_] That smarts... well time to pick your route."
@@ -30,11 +30,11 @@ msgstr "[_epa_] Torniamo alla missione principale."
 
 # game/code/battleoverhaul/battlesetup.rpy:8 #-#-# translate crowdin testbattles_2e535c4e:
 msgid "[_epa_] Rescue Sam from this chump goon of Ember's."
-msgstr "[_epa_] Salvate Sam da questo idiota di Ember."
+msgstr "[_epa_] Salvate Sam da questa idiota di Ambra."
 
 # game/code/battleoverhaul/battlesetup.rpy:14 #-#-# translate crowdin testbattles_9cce09b2:
 msgid "[_epa_] Here's Ember after you have your second charge."
-msgstr "[_epa_] Ecco Ember dopo la seconda carica."
+msgstr "[_epa_] Ecco Ambra dopo la seconda carica."
 
 # game/code/battleoverhaul/battlesetup.rpy:56 #-#-# translate crowdin test_MaddieRoute_5d9dee6b:
 msgid "[_epa_] Oh no! The princess is raging again... prepare to face a big cranky dragon!"
