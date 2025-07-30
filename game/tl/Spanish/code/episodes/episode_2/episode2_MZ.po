@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-10-01 00:28\n"
+"PO-Revision-Date: 2025-07-30 17:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -1210,7 +1210,7 @@ msgstr "[_danny_] (tío, honestamente esto se está volviendo bastante aburrido.
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1426 #-#-# translate crowdin master_plan_tired_135e0000:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] No, no, you're quite right, madeline, it's just a simple press of the button. Yes, just press down on {b}that{/b} button there..."
-msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] No, no, tienes toda la razón, Madeline, es sólo simplemente apretar un botón. Sí, simplemente pulsa {b}ese{/b} botón allí..."
+msgstr "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] No, no, tienes razón, Madeline, es sólo simplemente apretar un botón. Sí, simplemente pulsa {b}ese{/b} botón allí..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1429 #-#-# translate crowdin master_plan_tired_bf98df50:
 msgid "[_v_thermos_] {i}*Click*{/i}"
@@ -1338,7 +1338,7 @@ msgstr "[_maddie_] Ve-vete al infierno... verde... bastardo verde... {i}mmmphhh 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1558 #-#-# translate crowdin master_plan_maddie_x_ecto_a5a4b9d2:
 msgid "[_ectopuss_] Now, now, that's no way to ask for something you {u}want{/u}, is it...?"
-msgstr "[_ectopuss_] No, no, esa no es manera de pedir algo que tú {u}quieres {/u}, ¿es...?"
+msgstr "[_ectopuss_] No, no, esa no és manera de pedir algo que tú {u}quieres {/u}, ¿es...?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1559 #-#-# translate crowdin master_plan_maddie_x_ecto_254dd6aa:
 msgid "[_maddie_] ..."
