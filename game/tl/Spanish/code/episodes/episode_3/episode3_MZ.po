@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-10-01 00:28\n"
+"PO-Revision-Date: 2025-07-30 17:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -38,7 +38,7 @@ msgstr "[_doorsound_] {i}*Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:36 #-#-# translate crowdin a_masterful_speech_intro_b39fa35e:
 msgid "[_vlad_s_towards_s_unhappy_s_talk_happy_] Why hello, Daniel! A fine \"good morning\" to you!"
-msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] ¡pero saludos, Daniel! Te deseo una \"buena mañana\"!"
+msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] ¡pero bueno, Daniel! Te deseo una \"buena mañana\"!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:38 #-#-# translate crowdin a_masterful_speech_intro_ce1c9e30:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Oh, umm, hey Mr. Masters, sure just... let yourself in, why not?"
