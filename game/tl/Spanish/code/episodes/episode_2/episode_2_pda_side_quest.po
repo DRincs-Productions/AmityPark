@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-23 11:08\n"
+"PO-Revision-Date: 2025-07-30 17:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
@@ -70,7 +70,7 @@ msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Bueno, ¡¿cómo
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:91 #-#-# translate crowdin dash_convo_tuckerPDA_dash_pantyask_ec55364a:
 msgid "[_dash_s_towards_s_upset_s_talk_happy_] Hey, that's your problem, Fenton, not mine. I'm just the guy who receives the panties, you're the dork who snatches them, capisce?"
-msgstr "[_dash_s_towards_s_upset_s_talk_happy_] Oye, ese es tu problema, Fenton, no el mío. Soy solamente el tipo que recibe las bragas, tú el tonto que las roba, ¿capisce?"
+msgstr "[_dash_s_towards_s_upset_s_talk_happy_] Oye, ese és tu problema, Fenton, no el mío. Soy solamente el tipo que recibe las bragas, tú el tonto que las roba, ¿capisce?"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:100 #-#-# translate crowdin dash_convo_tuckerPDA_serious_6967ece8:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] You weren't really serious about wanting those panties, were you?"
@@ -434,7 +434,7 @@ msgstr "[_kwan_] Tu coño apreta de forma sobre natural… santa mierda…!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:609 #-#-# translate crowdin Star_x_Kwan_Locker_Room_a333f775:
 msgid "[_star_] Give it to me faster!! {i}Ahhh!!{/i} I want it!! Faster!!"
-msgstr "[_star_] ¡¡Dame más rápido!! ¡¡{i}Ahhh!! {/i} ¡¡La quiero!! ¡Más rápida!!"
+msgstr "[_star_] ¡¡Dame más rápido!! ¡¡{i}Ahhh!! {/i} ¡¡quiero!! ¡Más rápido!!"
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:628 #-#-# translate crowdin Star_x_Kwan_Locker_Room_03c08fe4:
 msgid "[_kwan_] Yeah?{p}Then I'm gonna {u}give{/u} it to you faster!"
