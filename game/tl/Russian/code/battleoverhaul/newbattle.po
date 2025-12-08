@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-31 08:42\n"
+"PO-Revision-Date: 2025-12-08 23:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -114,7 +114,7 @@ msgstr "[_epa_] О, это еще не все, что я сделал, Дэнн�
 
 # game/code/battleoverhaul/newbattle.rpy:91 #-#-# translate crowdin newbattletutorial_28da2033:
 msgid "[_danny_s_stare_s_rise_s_talk_happy_] Really?"
-msgstr ""
+msgstr "[_danny_s_stare_s_rise_s_talk_happy_] Правда?"
 
 # game/code/battleoverhaul/newbattle.rpy:94 #-#-# translate crowdin newbattletutorial_d64ddac7:
 msgid "[_epa_] Really!"
@@ -138,27 +138,27 @@ msgstr "[_epa_] Наряду с увеличением базовых харак
 
 # game/code/battleoverhaul/newbattle.rpy:107 #-#-# translate crowdin newbattletutorial_b8ec9969:
 msgid "[_epa_] Now for the truly interesting stuff!"
-msgstr ""
+msgstr "[_epa_] Теперь о самом интересном!"
 
 # game/code/battleoverhaul/newbattle.rpy:109 #-#-# translate crowdin newbattletutorial_2d6b7937:
 msgid "[_epa_] Every so often, you'll gain the ability to evolve your powers into focusing on a specific combat role!"
-msgstr ""
+msgstr "[_epa_] Время от времени вы будете получать возможность развивать свои способности, фокусируясь на определенной боевой роли!"
 
 # game/code/battleoverhaul/newbattle.rpy:111 #-#-# translate crowdin newbattletutorial_28da2033_1:
 msgid "[_danny_s_stare_s_rise_s_talk_happy_] Really?"
-msgstr ""
+msgstr "[_danny_s_stare_s_rise_s_talk_happy_] Правда?"
 
 # game/code/battleoverhaul/newbattle.rpy:114 #-#-# translate crowdin newbattletutorial_4bd8f9bf:
 msgid "[_epa_] Really! Again!"
-msgstr ""
+msgstr "[_epa_] Я на полном серьезе! Повторюсь!"
 
 # game/code/battleoverhaul/newbattle.rpy:116 #-#-# translate crowdin newbattletutorial_fa93f20c:
 msgid "[_epa_] This includes evolving even your regular attacks into something a bit more interesting than just a normal punch."
-msgstr ""
+msgstr "[_epa_] Это включает в себя превращение даже ваших обычных атак в нечто более интересное, чем просто обычный удар."
 
 # game/code/battleoverhaul/newbattle.rpy:118 #-#-# translate crowdin newbattletutorial_131ff797:
 msgid "[_danny_s_at_player_s_wondering_s_talk_happy_] Cool!"
-msgstr ""
+msgstr "[_danny_s_at_player_s_wondering_s_talk_happy_] Круто!"
 
 # game/code/battleoverhaul/newbattle.rpy:121 #-#-# translate crowdin newbattletutorial_65891f7e:
 msgid "[_epa_] When you evolve your powers, you'll have a choice between two different paths to take your powers down. Then there'll be another split depending upon your original choice, and then finally you'll gain access to a totally new power."
