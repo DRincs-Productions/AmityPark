@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-12-08 23:09\n"
+"PO-Revision-Date: 2025-12-09 00:23\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -162,7 +162,7 @@ msgstr "[_danny_s_at_player_s_wondering_s_talk_happy_] Круто!"
 
 # game/code/battleoverhaul/newbattle.rpy:121 #-#-# translate crowdin newbattletutorial_65891f7e:
 msgid "[_epa_] When you evolve your powers, you'll have a choice between two different paths to take your powers down. Then there'll be another split depending upon your original choice, and then finally you'll gain access to a totally new power."
-msgstr ""
+msgstr "[_epa_] Когда вы разовьете свои способности, у вас будет выбор между двумя различными путями развития. Затем будет еще одно разделение в зависимости от вашего первоначального выбора, и, наконец, вы получите доступ к совершенно новой силе."
 
 # game/code/battleoverhaul/newbattle.rpy:123 #-#-# translate crowdin newbattletutorial_2422e7dc:
 msgid "[_epa_] That'll come down the line in future updates and you shouldn't be concerned with it for now. After all, we still need to reincorporate this new system into the previous episodes. For the moment, starting episode 7 will just automatically make you level 6!"
